@@ -16,7 +16,7 @@
           <div class="col-md-4 wp4">
             <div class="overlay-effect effects clearfix">
               <div class="img">
-                <img class="img-responsive" src="../static/images/MOU_UTB_NCL.jpg" th:src="@{~/images/MOU_UTB_NCL.jpg}" width="720" height="400" alt="ITE_MOU_1"/>
+                <img class="img-responsive" src="images/MOU_UTB_NCL.jpg" width="720" height="400" alt="ITE_MOU_1"/>
               </div>
             </div>
             <h3 class="news-header">MoU Signing - NCL and Universiti Teknologi Brunei (UTB)</h3>
@@ -27,7 +27,7 @@
        <div class="col-md-4 wp4">
           <div class="overlay-effect effects clearfix">
             <div class="img">
-              <img class="img-responsive" src="../static/images/ncl_ctf2.jpg" th:src="@{~/images/ncl_ctf2.jpg}" width="720" height="350" alt="ITE_MOU_1"/>
+              <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" height="350" alt="ITE_MOU_1"/>
             </div>
           </div>
           <h3 class="news-header">DSO CTF</h3>
@@ -38,7 +38,7 @@
      <div class="col-md-4 wp4">
              <div class="overlay-effect effects clearfix">
                <div class="img">
-                 <img class="img-responsive" src="../static/images/GrantCall_workshop_poster.PNG" th:src="@{~/images/GrantCall_workshop_poster.PNG}" width="720" height="400" alt="ITE_MOU_1"/>
+                 <img class="img-responsive" src="images/GrantCall_workshop_poster.PNG" width="720" height="400" alt="ITE_MOU_1"/>
                </div>
              </div>
           <h3 class="news-header">NCL Grant Call Workshop</h3>

@@ -1,4 +1,4 @@
-<div layout:fragment="content" id="body" onload="loadPage()">
+<div layout:fragment="content" id="body">
     <section>
         <div class="container" >
             <div class="row">

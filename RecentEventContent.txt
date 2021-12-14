@@ -51,7 +51,7 @@
                  <img class="img-responsive" src="images/lightbulb.png" width="720" height="400" alt="ITE_MOU_1"/>
                </div>
              </div>
-          <h3 class="news-header">New Event</h3>
+          <h3 class="news-header">This is a new Event</h3>
          <p align="justify">Adding new Event</p>
 </div>
         </li>

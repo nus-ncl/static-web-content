@@ -1,4 +1,4 @@
-<div layout:fragment="content" id="body">
+<div layout:fragment="content" id="PeopleBody">
     <section>
         <div class="container" >
             <div class="row">

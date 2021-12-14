@@ -44,6 +44,16 @@
           <h3 class="news-header">NCL Grant Call Workshop</h3>
          <p align="justify">National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity workshop in Dec 2020</p>
 </div>
+
+	<div class="col-md-4 wp4">
+             <div class="overlay-effect effects clearfix">
+               <div class="img">
+                 <img class="img-responsive" src="images/picture2.jpg" width="720" height="400" alt="ITE_MOU_1"/>
+               </div>
+             </div>
+          <h3 class="news-header">New Event</h3>
+         <p align="justify">Adding new Event</p>
+</div>
         </li>
         <!-- 2020 and 2021 events section closed-->
       </ul>

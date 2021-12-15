@@ -48,7 +48,7 @@
 	<div class="col-md-4 wp4">
              <div class="overlay-effect effects clearfix">
                <div class="img">
-                 <img class="img-responsive" src="" width="720" id="img1" height="400" alt="ITE_MOU_1" onload="loadImage('picture.jpg','img1')"/>
+                 <img class="img-responsive" onload="loadImage('picture.jpg','img1')" src="" width="720" id="img1" height="400" alt="ITE_MOU_1"/>
                </div>
              </div>
           <h3 class="news-header">This is a new Event</h3>

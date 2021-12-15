@@ -1,3 +1,4 @@
+<body onload="loadPeoplePage()">
 <div layout:fragment="content" id="PeopleBody">
     <section>
         <div class="container" >
@@ -157,3 +158,20 @@
 
     </section>
 </div>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="../static/js/html5shiv.js"></script>
+<script type="text/javascript" src="../static/js/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="../static/js/jquery.min.js"></script>
+<script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../static/js/jquery.inview.min.js"></script>
+<script type="text/javascript" src="../static/js/wow.min.js"></script>
+<script type="text/javascript" src="../static/js/mousescroll.js"></script>
+<script type="text/javascript" src="../static/js/jquery.countTo.js"></script>
+<script type="text/javascript" src="../static/js/lightbox.min.js"></script>
+<script type="text/javascript" src="../static/js/main.js"></script>
+<script type="text/javascript" src="../static/js/waypoints.min.js"></script>
+<script type="text/javascript" src="../static/js/minimal.lightbox.js"></script>
+<script type="text/javascript" src="../static/js/jquery.flexslider.js"></script>
+</body>

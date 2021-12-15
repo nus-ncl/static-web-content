@@ -13,7 +13,7 @@
                 <h2 class="team-heading team-heading-current-team1"><b>Principal Investigators</b></h2>
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Chang Ee-Chien hiiiii</b></h8>
+                        <h8><b>Chang Ee-Chien</b></h8>
                         <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)</font></b> </p>
                         <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
                         <p><a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;

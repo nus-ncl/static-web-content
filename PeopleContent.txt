@@ -1,5 +1,4 @@
-<body onload="loadPeoplePage()">
-<div layout:fragment="content" id="PeopleBody">
+<div layout:fragment="content">
     <section>
         <div class="container" >
             <div class="row">
@@ -14,7 +13,7 @@
                 <h2 class="team-heading team-heading-current-team1"><b>Principal Investigators</b></h2>
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Chang Ee-Chien</b></h8>
+                        <h8><b>Chang Ee-Chien hiiiii</b></h8>
                         <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)</font></b> </p>
                         <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
                         <p><a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;
@@ -158,20 +157,3 @@
 
     </section>
 </div>
-<!--[if lt IE 9]>
-<script type="text/javascript" src="../static/js/html5shiv.js"></script>
-<script type="text/javascript" src="../static/js/respond.min.js"></script>
-<![endif]-->
-
-<script type="text/javascript" src="../static/js/jquery.min.js"></script>
-<script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../static/js/jquery.inview.min.js"></script>
-<script type="text/javascript" src="../static/js/wow.min.js"></script>
-<script type="text/javascript" src="../static/js/mousescroll.js"></script>
-<script type="text/javascript" src="../static/js/jquery.countTo.js"></script>
-<script type="text/javascript" src="../static/js/lightbox.min.js"></script>
-<script type="text/javascript" src="../static/js/main.js"></script>
-<script type="text/javascript" src="../static/js/waypoints.min.js"></script>
-<script type="text/javascript" src="../static/js/minimal.lightbox.js"></script>
-<script type="text/javascript" src="../static/js/jquery.flexslider.js"></script>
-</body>

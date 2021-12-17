@@ -1,4 +1,111 @@
-<div layout:fragment="content">
+<body onload="loadRecentEventPage()">
+<div class="main-nav navbar-fixed-top" style="background-color: #B4B4B4">
+    <div class="container">
+
+        <div class="navbar-header">
+<!--            <a href="index.html" th:href="@{/}"><img src="/images/ncl_logo_image9.jpg" alt="logo" width="180" height="90"
+                                                     class="logo1"/></a>-->
+            <a href="/"><img src="/images/ncl_logo_image9.jpg" alt="logo" width="170" height="90" class="logo1" /></a>
+            <!-- <a href="index.html" th:href="@{/}"><img src="/images/ncl_logo1.jpg" alt="logo" width="180" height="90"
+                                                      class="logo1"/></a>
+ -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="background-color: #333333">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div> <!-- navbar-header -->
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-left login-navbar-left">
+                <!-- <li class="scroll"><a href="../plan.html" th:href="@{~/plan}">Features</a></li>-->
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Home
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu ">
+                        <li><a href="/about">About NCL</a></li>
+                        <li><a href="/people">Team</a></li>
+                        <li><a href="/features">NCL Testbed Features</a></li>
+                       <!-- <li><a href="../services_and_tools.html" th:href="@{~/services_tools}">Environments and Services</a></li>-->
+                        <li><a href="/services_tools">Environments and Services</a></li>
+                        <li><a href="/data_resources">Data</a></li>
+                        <li><a href="/collaborators">Collaborators</a></li>
+
+
+                    </ul>
+                </li>
+
+                <!--<li class="scroll"><a href="../tools.html" th:href="@{~/tools}">Tools</a></li>-->
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Research
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu ">
+                        <!--<li><a href="../research.html" th:href="@{~/research}">Research Areas</a></li>-->
+                        <li><a href="/nclpublications">Paper,Talks and News Articles</a></li>
+                        <li><a href="/otherPublication">Publications from projects that used NCL testbed</a></li>
+                    </ul>
+                </li>
+
+                <li class="scroll"><a href="/grantCall">Grant Call</a></li>
+                <li class="scroll"><a href="/pricing">Pricing</a></li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Testbed
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu ">
+                        <!--<li><a href="updates.html" th:href="@{~/updates}">Updates</a></li>-->
+                        <li><a href="/testbedInformation">General Info</a></li>
+                        <li><a href="/testbedNodesStatus">Node Status</a></li>
+                        <li><a href="/NCL_Testbed_Documentation.pdf">Documentation</a></li>
+                        <li><a href="/tutorials"><span>Tutorials</span></a></li>
+                        <li><a href="/resources">External Links</a></li>
+                        <!-- <li><a href="calendar.html" th:href="@{~/calendar}">Usage Calendar</a></li>-->
+                    </ul>
+                </li>
+                <!--<li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Support
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu ">
+                        <li><a href="/NCL_Testbed_Documentation.pdf">Documentation</a></li>
+                        <li><a href="/tutorials.html" th:href="@{/tutorials}"><span
+                                th:text="#{nav.tutorial}">Tutorials</span></a></li>
+                        <li><a href="resources.html" th:href="@{~/resources}">External Links</a></li>
+                        <li><a href="contactus.html" th:href="@{~/contactus}">Contact Us</a></li>
+                    </ul>
+                </li>-->
+
+               <!-- <li class="scroll"><a href="../event.html" th:href="@{~/event}">Events</a></li>-->
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Events<span class="caret"></span></a>
+                    <ul class="dropdown-menu ">
+                        <li><a href="/recent_events">Recent Events</a></li>
+                        <li><a href="/event">Past Events</a></li>
+
+                    </ul>
+                </li>
+
+                <li class="scroll"><a href="/contactus">Contact Us</a></li>
+
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right login-navbar-right">
+                <li><a href="/signup2">Create account</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right login-navbar-right1">
+                <!-- <ul class="nav navbar-nav navbar-right login-navbar-right">-->
+                <li><a href="/login">Log In</a></li>
+            </ul>
+
+
+        </div> <!-- navigation links -->
+
+
+    </div> <!-- container -->
+    <div class="container-fluid">
+        <div class="row maintenance-navbar">NOTICE: There will be a scheduled maintenance on 24 Jan 2017 (Tuesday), 8.00am-6.00pm (GMT+08:00). Sorry for the inconvenience.</div>
+    </div>
+</div>
+<div id="RecentEventBody">
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
@@ -16,7 +123,7 @@
           <div class="col-md-4 wp4">
             <div class="overlay-effect effects clearfix">
               <div class="img">
-                <img class="img-responsive" src="images/MOU_UTB_NCL.jpg" width="720" height="400" alt="ITE_MOU_1"/>
+                <img class="img-responsive" src="/images/MOU_UTB_NCL.jpg" width="720" height="400" alt="ITE_MOU_1" />
               </div>
             </div>
             <h3 class="news-header">MoU Signing - NCL and Universiti Teknologi Brunei (UTB)</h3>
@@ -27,7 +134,7 @@
        <div class="col-md-4 wp4">
           <div class="overlay-effect effects clearfix">
             <div class="img">
-              <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" height="350" alt="ITE_MOU_1"/>
+              <img class="img-responsive" src="/images/ncl_ctf2.jpg" width="720" height="350" alt="ITE_MOU_1" />
             </div>
           </div>
           <h3 class="news-header">DSO CTF</h3>
@@ -38,13 +145,12 @@
      <div class="col-md-4 wp4">
              <div class="overlay-effect effects clearfix">
                <div class="img">
-                 <img class="img-responsive" src="images/GrantCall_workshop_poster.PNG" width="720" height="400" alt="ITE_MOU_1"/>
+                 <img class="img-responsive" src="/images/GrantCall_workshop_poster.PNG" width="720" height="400" alt="ITE_MOU_1" />
                </div>
              </div>
           <h3 class="news-header">NCL Grant Call Workshop</h3>
          <p align="justify">National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity workshop in Dec 2020</p>
 </div>
-
         </li>
         <!-- 2020 and 2021 events section closed-->
       </ul>
@@ -52,3 +158,54 @@
     <p>&nbsp;</p>
   </div>
 </div>
+<div>
+				<footer id="footer">
+					<div class="footer-bgcolor">
+						<div class="container">
+							<p>&nbsp;</p>
+							<div class="row">
+								<div class="col-sm-3 col-sm-offset-1">
+									<ul class="address">
+										<li><i class="fa fa-phone"></i> <span> Phone: </span>+65 6601 1056</li>
+										<li><i class="fa fa-map-marker"></i> <span> Address: </span><a href="https://www.google.com.sg/maps/place/Innovation+4.0/@1.2947287,103.7407406,13z/data=!4m5!3m4!1s0x31da1b3be9c6fabd:0xa50c38c2456942de!8m2!3d1.2946431!4d103.7757601?hl=en">Innovation 4.0,3 Research Link,NUS,Singapore-117602</a></li>
+									</ul>
+									<div class="social-icons2">
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<a href="/terms_and_conditions">Terms &amp; Conditions</a> | <a href="/orderform/download">Reservation</a> <!--| <a th:href="@{/public_teams}">Public&nbsp;Teams</a>--> | <a href="/data/public">Public Datasets</a>
+								</div>
+								<div class="col-sm-2">
+									<ul>
+										<a class="envelope" href="mailto:support@ncl.sg"><i class="fa fa-envelope fa-3x"></i></a>
+										<a href="">&nbsp;</a>
+										<!--<a class="github" href="https://github.com/nus-ncl"><i class="fa fa-github fa-3x"></i></a>-->
+									</ul>
+								</div>
+
+							</div> <!-- row -->
+						</div> <!-- container -->
+					</div>
+				</footer>
+   		</div>
+
+        <!--[if lt IE 9]>
+        <script type="text/javascript" src="static/js/html5shiv.js" th:src="@{~/js/html5shiv.js}"></script>
+        <script type="text/javascript" src="static/js/respond.min.js" th:src="@{~/js/respond.min.js}"></script>
+        <![endif]-->
+
+        <script type="text/javascript" src="/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+        <!--<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>-->
+        <script type="text/javascript" src="/js/jquery.inview.min.js"></script>
+        <script type="text/javascript" src="/js/wow.min.js"></script>
+        <script type="text/javascript" src="/js/mousescroll.js"></script>
+        <script type="text/javascript" src="/js/jquery.countTo.js"></script>
+        <script type="text/javascript" src="/js/lightbox.min.js"></script>
+        <script type="text/javascript" src="/js/main.js"></script>
+        <script type="text/javascript" src="/js/waypoints.min.js"></script>
+        <script type="text/javascript" src="/js/minimal.lightbox.js"></script>
+        <script type="text/javascript" src="/js/jquery.flexslider.js"></script>
+        <script type="text/javascript" src="/js/resumable.js"></script>
+    
+</body>

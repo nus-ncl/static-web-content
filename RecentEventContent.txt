@@ -49,7 +49,7 @@
              <div class="overlay-effect effects clearfix">
                <div class="img">
 		 <!--<img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('picture.jpg','img1','jpg')"/>-->
-                 <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" id="img1" height="400" alt="ITE_MOU_1"/>
+                 <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" id="img1" height="400" alt="ITE_MOU_1" onload="loadImage('picture.jpg','img1','jpg')"/>
                </div>
              </div>
           <h3 class="news-header">This is a new Event</h3>

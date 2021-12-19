@@ -1,18 +1,4 @@
-<div layout:fragment="content">
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
-    <div class="row">
-      <div class="heading text-center col-sm-8 col-sm-offset-2">
-        <p align="Center"><b><font size="30px" color="#0d6dba">Recent Events</font></b></p>
-        <!--<p>&nbsp;</p>-->
-      </div>
-    </div> <!-- row -->
-    <div id="portfolioSlider">
-      <ul class="slides">
-        <!-- Added section for 2020 and 2021 events -->
-        <li>
+<div id="RecentEventBody">
           <div class="col-md-4 wp4">
             <div class="overlay-effect effects clearfix">
               <div class="img">
@@ -44,22 +30,4 @@
           <h3 class="news-header">NCL Grant Call Workshop</h3>
          <p align="justify">National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity workshop in Dec 2020</p>
 </div>
-
-<div class="col-md-4 wp4">
-             <div class="overlay-effect effects clearfix">
-               <div class="img">
-		 <!--<img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('picture.jpg','img1','jpg')"/>-->
-                 <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" id="img1" height="400" alt="ITE_MOU_1" onload="loadImage('picture.jpg','img1','jpg')"/>
-               </div>
-             </div>
-          <h3 class="news-header">This is a new Event</h3>
-         <p align="justify">Adding new Event</p>
-</div>
-
-        </li>
-        <!-- 2020 and 2021 events section closed-->
-      </ul>
-    </div>
-    <p>&nbsp;</p>
-  </div>
 </div>

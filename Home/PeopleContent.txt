@@ -64,7 +64,7 @@
 
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Deepshikha</b></h8>
+                        <h8><b>Deepshikha Testing</b></h8>
                         <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
                 </div>

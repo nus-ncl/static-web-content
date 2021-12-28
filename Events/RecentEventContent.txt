@@ -46,11 +46,13 @@
 	<div class="col-md-4 wp4">
              <div class="overlay-effect effects clearfix">
                <div class="img">
-		 <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
+		 <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CTF_2021.JPG','img2','JPG')"/>
                  <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" id="img1" height="400" alt="ITE_MOU_1"/>
                </div>
              </div>
           <h3 class="news-header">ITE CTF 2021</h3>
-         <p align="justify">The annual NCL-ITE Capture The Flag (CTF) competition was held this year on 19 Nov 2021. A total of 23 students participated actively throughout the 3.5 hour session. Participants ranged from various ITE Colleges (East, Central and West) as well as ITE's Global Educational Network (GEN) Partners, Boxhill Institute (BHI) and Southern Alberta Institute of Technology (SAIT).</p>
+         <p align="justify">The annual NCL-ITE Capture The Flag (CTF) competition was held this year on 19 Nov 2021.
+         A total of 23 students participated actively throughout the 3.5 hour session.
+         Participants ranged from various ITE Colleges (East, Central and West) as well as ITE's Global Educational Network (GEN) Partners, Boxhill Institute (BHI) and Southern Alberta Institute of Technology (SAIT).</p>
 </div>
 </div>

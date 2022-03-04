@@ -40,7 +40,7 @@
 		<div class="col-sm-6">
                     <div class="row">
                         <h8><b>Seah Choon Meng</b></h8>
-                        <p><b><font color="585656">NCL Program Director</font></b> </p>
+                        <p><b><font color="585656">Program Director</font></b> </p>
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -50,6 +50,7 @@
                         <p>Programme Management | Business Analysis</p>
                     </div>
                 </div>
+		
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
@@ -59,14 +60,6 @@
             </div>
 
             <div class="row">
-
-                <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Armanadurni Binte Abdul Rahman</b></h8>
-                        <p><b><font color="585656">Senior Executive (Business Operations)</font></b> </p>
-			<p> </p>
-                    </div>
-                </div>
 
                 <div class="col-sm-6">
                     <div class="row">

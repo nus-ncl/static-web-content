@@ -1,0 +1,116 @@
+<div layout:fragment="content" id="NclPublications">
+    <!--   <div layout:fragment="content">-->
+    <section id="team">
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <br></br>
+
+        <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+            <!--  <div class="news-header">
+                  <h2>Research Articles &amp; News</h2>
+              </div>-->
+            <div class="col-sm-12">
+                <div class="col-sm-6">
+                    <!-- Section for mention in news articles,media and other publication -->
+                    <div class="row" >
+                        <h7><b>NCL in News</b></h7>
+
+                        <h3 class="news-header1"><a href="https://easishare.com/blog/enterprise-file-sync-share/securing-easishare-with-national-cybersecurity-rd-laboratories-ncl-singapore/"><font color="#313030">Securing EasiShare with NCL Singapore</font> </a></h3>
+
+                        <h3 class="news-header1"><a href="https://2020.apricot.net/program/schedule/#/day/9/first-tc-1"><font color="#313030">Building Environment for Cybersecurity Awareness: CDX Use Case</font></a></h3>
+
+                        <h3 class="news-header1"><a href="https://adsc.illinois.edu/news/smart-grid-honeypots-offer-effective-way-study-attacks-industrial-control-systems"><font color="#313030">Smart grid honeypots offer effective way to study attacks on industrial control systems</font></a></h3>
+
+                        <h3 class="news-header1"><a href="https://www.illinois.adsc.com.sg/spotify/index.html"><font color="#313030">Smart Grid Honeypot for National Cybersecurity R&amp;D Lab (NCL) Testbed</font></a></h3>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                   <img src="images/research12.jpg" alt="" width="550"  height="200" border="0" align="left" />
+                </div>
+            </div>  <!-- part 1 ends-->
+
+            <br></br>
+            <br></br>
+
+            <div class="col-sm-12">
+                <div class="col-sm-11">
+                    <!-- Section for mention in news articles,media and other publication -->
+                    <div class="row">
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h7><b>NCL Publications</b></h7>
+
+                        <!-- 2021 publication -->
+                        <h3 class="news-header1" >
+                            <a href="https://ieeexplore.ieee.org/abstract/document/9484537"><font color="#216694">OctoBot: An Open-Source Orchestration System for a Wide Range Network Activity Generation</font></a></h3>
+                        <p><font size="2px" color="#000000">• Aris Cahyadi Risdianto, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS),IEEE INFOCOM, 2021.</font></p>
+
+
+                        <h3 class="news-header1" >
+                            <a href="https://dl.acm.org/doi/10.1145/3445968.3452091"><font color="#216694">TEE-based Privacy-Preserve in Collaborative Traffic Policy Compilation for Programmable Devices</font></a></h3>
+                        <p><font size="2px" color="#000000">• Jan Vykopal, Valdemar Svabensky, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• ACM ConferencesSDN-NFV Sec'21, 2021.</font></p>
+
+
+                        <!-- 2020 publication -->
+                        <h3 class="news-header1" >
+                            <a href="https://ieeexplore.ieee.org/abstract/document/9302951"><font color="#216694">False Data Injection Cyber Range of Modernized Substation System</font></a></h3>
+                        <p><font size="2px" color="#000000">• Muhammad M. Roomi, Partha P. Biswas, Daisuke Mashima, Yuting Fan, Ee-Chien Chang&nbsp;• IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020.</font></p>
+
+                        <h3 class="news-header1" >
+                            <a href="https://ieeexplore.ieee.org/document/9458202"><font color="#216694">OctoBot: Human Activity Orchestration System for Cybersecurity Experiment and Exercise</font></a></h3>
+                        <p><font size="2px" color="#000000">• Aris Cahyadi Risdianto, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• International Conference on Computational Science and Computational Intelligence (CSCI), 2020.</font></p>
+
+
+                        <h3 class="news-header1" >
+                            <a href="https://whova.com/embedded/session/sigcs_202003/834600/"><font color="#216694">Benefits and Pitfalls of Using Capture The Flag Games in University Courses</font></a></h3>
+                        <p><font size="2px" color="#000000">• Jan Vykopal, Valdemar Svabensky, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• ACM Technical Symposium on Computer Science Education (SIGCSE), 2020.</font></p>
+
+
+                        <!-- 2018 publication -->
+                        <h3 class="news-header1"><a href="https://www.researchgate.net/publication/327967683_Automated_identification_of_sensitive_data_from_implicit_user_specification"><font color="#216694">Automated Identification of Sensitive Data via Flexible User Requirements</font></a></h3>
+                        <p><font size="2px" color="#000000">• Ziqi Yang and Zhenkai Liang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ResearchGate,Dec 2020</font></p>
+
+                        <h3 class="news-header1"><a href="https://dl.acm.org/doi/abs/10.5555/3307412.3307418"><font color="#216694">BNV: enabling scalable network experimentation through bare-metal network virtualization</font></a></h3>
+                        <p><font size="2px" color="#000000">• P.G. Kannan, A. Soltani, M.C. Chan and E.C. Chang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• CSET'18: Proceedings of the 11th USENIX Conference on Cyber Security Experimentation and Test</font></p>
+
+
+                        <!-- 2017 publication -->
+                        <h3 class="news-header1"><a href="https://ieeexplore.ieee.org/document/8247807"><font color="#216694">A Conceptual Framework to Federate Testbeds for Cybersecurity</font></a></h3>
+                        <p><font size="2px" color="#000000">• L. Ramapantulu, Y.M. Teo and E.C. Chang&nbsp;&nbsp;&nbsp;&nbsp;• Winter Simulation Conference 2017</font></p>
+
+                        <h3 class="news-header1"><a href="https://dl.acm.org/doi/pdf/10.5555/3242181.3242564"><font color="#216694">Modeling the Effects of Insider Threats on Cybersecurity of Complex Systems</font></a></h3>
+                        <p><font size="2px" color="#000000">• T. Baluta, L. Ramapantulu, Y.M. Teo and E.C. Chang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Winter Simulation Conference 2017</font></p>
+
+                        <h3 class="news-header1"><a href=""><font color="#216694">Enabling Practical Experimentation in Cyber-Security Training</font></a></h3>
+                        <p><font size="2px" color="#000000">• J. Mao, Z.L. Chua, Z. Liang&nbsp;&nbsp;&nbsp;&nbsp;• (DSC’17, IEEE Conference, presented)</font></p>
+
+                        <h3 class="news-header1"><a href="https://www.comp.nus.edu.sg/~hungdang/papers/STC.pdf"><font color="#216694">Privacy-preserving computation with trusted computing via Scramble-then-Compute</font></a></h3>
+                        <p><font size="2px" color="#000000">• H. Dang, T.T.A. Dinh, E.C. Chang, B.C. Ooi&nbsp;&nbsp;&nbsp;&nbsp;• (PETS’17, Symposium/Conference, presented)</font></p>
+
+                        <h3 class="news-header1"><a href="https://ieeexplore.ieee.org/document/8264843"><font color="#216694">Raptor: Scalable Rule Placement over Multiple Path in Software Defined Networks</font></a></h3>
+                        <p><font size="2px" color="#000000">• P.G. Kannan, M.C. Chan, R.T.B. Ma, E.C. Chang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• (IFIP Networking 2017, Conference, presented)</font></p>
+
+                        <h3 class="news-header1"><a href="https://dl.acm.org/doi/pdf/10.1145/3052973.3052994"><font color="#216694">Android Database Attacks Revisited</font></a></h3>
+                        <p><font size="2px" color="#000000">• B. Hassanshahi, R.H.C. Yap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• (Asia CCS’17, ACM Conference, presented) </font></p>
+
+
+                        <!-- 2016 publication -->
+                        <h3 class="news-header1"><a href="https://dl.acm.org/doi/pdf/10.1145/2909827.2930795"><font color="#216694">Practical and Scalable Sharing of Encrypted Data in Cloud Storage with Key Aggregation</font></a></h3>
+                        <p><font size="2px" color="#000000">• H. Dang, Y. L. Chong, F. Brun, E.C Chang &nbsp;&nbsp;&nbsp;&nbsp;• ACM Workshop, IHMMSEC 2016 </font></p>
+
+                        <h3 class="news-header1"><a href="https://dl.acm.org/doi/pdf/10.1145/2857705.2857719"><font color="#216694">Inferring the Detection Logic and Evaluating the Effectiveness of Android Anti-Virus Apps, CODASPY 2016 (ACM Conference)</font></a></h3>
+                        <p><font size="2px" color="#000000">• Z. Cai, R.H.C. Yap &nbsp;&nbsp;&nbsp;• CODASPY '16: Proceedings of the Sixth ACM Conference on Data and Application Security and Privacy</font></p>
+
+                    </div>
+                </div>
+
+            </div>  <!-- part 2 ends-->
+
+            <br></br>
+            
+        </div>
+    </section>
+</div>

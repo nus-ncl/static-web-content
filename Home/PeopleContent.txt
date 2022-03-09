@@ -14,7 +14,7 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Chang Ee-Chien</b></h8>
-                        <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)<a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20" height="20" border="0" align="center"/></a>&nbsp;
+                        <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)&nbsp;<a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20" height="20" border="0" align="center"/></a>
                             <a href="http://www.comp.nus.edu.sg/~changec/"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a></font></b> </p>
                         <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
                         <!--<p><a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;
@@ -26,7 +26,7 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Liang Zhenkai</b></h8>
-                        <p><b><font color="585656">Associate Professor (NUS),Lead PI (NCL)<a href="https://sg.linkedin.com/in/liangzk"><img src="images/linkedin_icon2.png" 				alt="" width="20"  height="20" border="0" align="center"/></a>&nbsp;
+                        <p><b><font color="585656">Associate Professor (NUS),Lead PI (NCL)&nbsp;<a href="https://sg.linkedin.com/in/liangzk"><img src="images/linkedin_icon2.png" 				alt="" width="20"  height="20" border="0" align="center"/></a>
                             <a href="http://www.comp.nus.edu.sg/%7Eliangzk"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a>				</font></b> </p>
                         <p>System and Software Security | Web Security | Mobile Security </p>
                         <!--<p><a href="https://sg.linkedin.com/in/liangzk"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/>				</a>&nbsp;

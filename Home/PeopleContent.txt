@@ -152,7 +152,7 @@
 
             </div>
 
-            <div class="row">
+          <!--  <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Visitors</b></h2>
 		
 		<!-- <div class="col-sm-6">
@@ -184,7 +184,7 @@
                 </div>
             </div>
 
-        </div>
+        </div> -->
 
     </section>
 </div>

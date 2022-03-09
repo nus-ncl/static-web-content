@@ -15,7 +15,7 @@
                     <div class="row">
                         <h8><b>Chang Ee-Chien</b></h8>
                         <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)</font></b> </p>
-                        <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
+                        <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security&nbsp;<a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;<a href="http://www.comp.nus.edu.sg/~changec/"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a></p>
                         <p><a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;
                             <a href="http://www.comp.nus.edu.sg/~changec/"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a>
                         </p>

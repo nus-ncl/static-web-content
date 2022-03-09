@@ -158,7 +158,7 @@
 		 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>iTrust Labs</b></h8>
-                        <p><b><font color="585656">SUTD,Singapore</font></b> </p>
+                        <p><b><font color="585656">SUTD,Singapore <a href="https://itrust.sutd.edu.sg/"></font></b> </p>
 			<p><a href="https://itrust.sutd.edu.sg/"></a></p>
                         
                     </div>

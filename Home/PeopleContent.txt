@@ -155,14 +155,14 @@
             <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Visitors</b></h2>
 		
-		 <div class="col-sm-6">
+		<!-- <div class="col-sm-6">
                     <div class="row">
                         <h8><b>iTrust Labs</b></h8>
 			<p><b><a href="https://itrust.sutd.edu.sg/"><font color="#2B60DE">Center for Research in Cybersecurity</font></a></b></p>
 			<p><b><font color="585656">SUTD,Singapore</font></b></p>
           
                     </div>
-                </div>
+                </div> -->
 		
                 <div class="col-sm-6">
                     <div class="row">

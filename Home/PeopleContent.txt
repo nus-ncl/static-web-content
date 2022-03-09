@@ -158,8 +158,7 @@
 		 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>iTrust Labs</b></h8>
-			<!--<p><b><font color="#1589FF">Center for Research in Cybersecurity</font></b></p> -->
-			<p><b><a href="https://itrust.sutd.edu.sg/"><font color="#227F99 ">Center for Research in Cybersecurity</font></a></b></p>
+			<p><b><a href="https://itrust.sutd.edu.sg/"><font color="#1589FF">Center for Research in Cybersecurity</font></a></b></p>
 			<p><b><font color="585656">SUTD,Singapore</font></b></p>
           
                     </div>

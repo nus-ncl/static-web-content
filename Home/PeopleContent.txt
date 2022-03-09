@@ -158,9 +158,9 @@
 		 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>iTrust Labs</b></h8>
-                        <p><b><font color="585656">SUTD,Singapore</font></b></p>
-			<p><b><font color="585656"><a href="https://itrust.sutd.edu.sg/"></a></font></b></p>
-			<p><a href="https://itrust.sutd.edu.sg/"></a></p>
+			<p><b><font color="585656">SUTD,Singapore</font></b></p>
+                        <p><b><font color="585656">Center for Research in Cybersecurity</font></b></p> 
+			<p><a href="https://itrust.sutd.edu.sg/"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a></p>
                         
                     </div>
                 </div>

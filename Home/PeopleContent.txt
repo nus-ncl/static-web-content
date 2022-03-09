@@ -99,12 +99,12 @@
 
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Xu Jia</b></h8>
-                        <p><b><font color="585656">Senior Research Fellow</font></b> </p>
+                       <h8><b>Xu Jia</b></h8> 
+		       <p><b><font color="585656">Senior Research Fellow<a href="https://scholar.google.com/citations?user=n4vjKNoAAAAJ&hl=en"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a></font></b> </p>
 			 <p>Applied Cryptography | Secure Cloud Computing | Post-quantum Cryptography </p>
-			 <p>
+			 <!--<p>
                             <a href="https://scholar.google.com/citations?user=n4vjKNoAAAAJ&hl=en"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a>
-                        </p>
+                        </p>-->
                     </div>
                 </div>
 

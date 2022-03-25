@@ -14,28 +14,33 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Chang Ee-Chien</b></h8>
-                        <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)</font></b> </p>
+                        <p><b><font color="#585656">Associate Professor (NUS), Lead PI (NCL)&nbsp;<a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20" height="20" border="0" align="center"/></a>
+                            <a href="http://www.comp.nus.edu.sg/~changec/"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a></font></b> </p>
                         <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
-                        <p><a href="https://sg.linkedin.com/in/ee-chien-chang-2321b535"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;
-                            <a href="http://www.comp.nus.edu.sg/~changec/"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a>
-                        </p>
+                        
                     </div>
                 </div>
 
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Liang Zhenkai</b></h8>
-                        <p><b><font color="585656">Associate Professor (NUS),Lead PI (NCL)</font></b> </p>
+                        <p><b><font color="585656">Associate Professor (NUS),Lead PI (NCL)&nbsp;<a href="https://sg.linkedin.com/in/liangzk"><img src="images/linkedin_icon2.png" 				alt="" width="20"  height="20" border="0" align="center"/></a>
+                            <a href="http://www.comp.nus.edu.sg/%7Eliangzk"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a>				</font></b> </p>
                         <p>System and Software Security | Web Security | Mobile Security </p>
-                        <p><a href="https://sg.linkedin.com/in/liangzk"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a>&nbsp;
-                            <a href="http://www.comp.nus.edu.sg/%7Eliangzk"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="left"/></a>
-                        </p>
+                       
                     </div>
                 </div>
             </div>
 
             <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Development &amp; Operations</b></h2>
+
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Seah Choon Meng</b></h8>
+                        <p><b><font color="585656">Program Director</font></b> </p>
+                    </div>
+                </div>
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Nidhi Kushwah</b></h8>
@@ -43,28 +48,36 @@
                         <p>Programme Management | Business Analysis</p>
                     </div>
                 </div>
+		
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
                         <p><b><font color="585656">Assistant Manager (Business Operations)</font></b> </p>
                     </div>
                 </div>
+		
+		 <div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Liu Yuancheng</b></h8>
+                        <p><b><font color="585656"> Senior Software Engineer (Development) </font></b> </p>
+                        
+                    </div>
+                </div>
+		
             </div>
 
             <div class="row">
-                <p></p>
-                <p></p>
 
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Armanadurni Binte Abdul Rahman</b></h8>
-                        <p><b><font color="585656">Senior Executive (Business Operations)</font></b> </p>
+                        <h8><b>Deepshikha</b></h8>
+                        <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
                 </div>
 
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Deepshikha Testing</b></h8>
+                        <h8><b>Tha Zin Hlaing</b></h8>
                         <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
                 </div>
@@ -76,9 +89,18 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Aris Cahyadi Risdianto</b></h8>
-                        <p><b><font color="585656">Assistant Director (Technology)</font></b></p>
+                        <p><b><font color="585656">Assistant Program Director (Technology)&nbsp;<a href="https://sg.linkedin.com/in/ariscahyadirisdianto"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="center"/></a></font></b></p>
                         <p>Software Defined Networking | Internet Security </p>
-                        <p><a href="https://sg.linkedin.com/in/ariscahyadirisdianto"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a></p>
+                       <!-- <p><a href="https://sg.linkedin.com/in/ariscahyadirisdianto"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a></p> -->
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="row">
+                       <h8><b>Xu Jia</b></h8> 
+		       <p><b><font color="585656">Senior Research Fellow&nbsp;<a href="https://scholar.google.com/citations?user=n4vjKNoAAAAJ&hl=en"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a></font></b> </p>
+			 <p>Applied Cryptography | Secure Cloud Computing | Post-quantum Cryptography </p>
+			
                     </div>
                 </div>
 
@@ -86,7 +108,6 @@
                     <div class="row">
                         <h8><b>Huang Kang</b></h8>
                         <p><b><font color="585656">Research Affiliate</font></b> </p>
-
                     </div>
                 </div>
             </div>
@@ -131,9 +152,10 @@
 
             </div>
 
-            <div class="row">
+          <!--  <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Visitors</b></h2>
-                <div class="col-sm-6">
+		
+		  <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Prof. Hui Tian</b></h8>
                         <p><b><font color="585656">Ph. D, Associate Professor</font></b> </p>
@@ -151,7 +173,7 @@
                         <p>Keio University,Japan</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
 

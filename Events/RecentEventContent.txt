@@ -29,22 +29,7 @@
 
       <div class="col-sm-12">
         <div class="col-sm-4">
-          <img src="images/ncl_ctf2.jpg" alt="" width="300"  height="250" border="0" align="left" />
-        </div>
-        <div class="col-sm-8">
-          <h3 class="news-header">DSO CTF</h3>
-          <div class="row">
-            <ul>
-              <li><p>National Cybersecurity R&amp;D Laboratories (NCL) supported Capture-the-Flag event for DSO in Feb 2021</p></li>
-            </ul>
-          </div>
-        </div>
-
-      </div>  <!-- part 2 ends-->
-
-      <div class="col-sm-12">
-        <div class="col-sm-4">
-          <img src="images/GrantCall_workshop_poster.PNG" width="300" height="250" border="0" align="left" />
+         <img src="images/GrantCall_workshop_poster.PNG" width="300" height="250" border="0" align="left" />
         </div>
         <div class="col-sm-8">
           <h3 class="news-header">NCL Grant Call Workshop</h3>
@@ -54,12 +39,12 @@
             </ul>
           </div>
         </div>
-      </div>  <!-- part 3 ends-->
 
+      </div>  <!-- part 2 ends-->
 
       <div class="col-sm-12">
         <div class="col-sm-4">
-           <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
+          <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
            <img id="img1" width="300" height="250" border="0" align="left"/>
         </div>
         <div class="col-sm-8">
@@ -69,8 +54,10 @@
               <li><p>NCL jointly organized Cloud computing Competition 2021 (CCC2021) in collaboration with ITE College East and Amazon Web Services.</p></li>
               <li><p>The objective of the competetion  was to create an opportunity for students to appreciate the skillstes possessed by cloud engineers and simulate the day-to-day activities of cloud practitioners.</p></li>
             </ul>
+          </div>
         </div>
-      </div>  <!-- part 4 ends-->
+      </div>  <!-- part 3 ends-->
+
 
       <div class="col-sm-12">
         <div class="col-sm-4">
@@ -86,7 +73,8 @@
 	      <li><p>Participants ranged from various ITE Colleges (East, Central and West) as well as ITE's Global Educational Network (GEN) Partners, Boxhill Institute (BHI) and Southern Alberta Institute of Technology (SAIT).</p></li>
             </ul>
         </div>
-      </div>  <!-- part 5 ends-->
+      </div>  <!-- part 4 ends-->
+
     </div>
   </section>
 </div>

@@ -3,7 +3,7 @@
     <div class="container">
     <!--<p class="heading h15 text-center">Testbed Info</p>-->
 
-    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info hello1</font></b></p>
+    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
     <div class="col-sm-4">
         &nbsp;
         <div class="row">

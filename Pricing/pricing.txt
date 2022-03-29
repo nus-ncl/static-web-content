@@ -6,7 +6,7 @@
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
-                    <p align="Center"><b><font size="30px" color="#0d6dba">Pricing hello</font></b></p>
+                    <p align="Center"><b><font size="30px" color="#0d6dba">Pricing</font></b></p>
                     <h4>For nodes reservation/booking please write to us at support@ncl.sg</h4>
                     <div class="row">
                         <div class="col-sm-6">

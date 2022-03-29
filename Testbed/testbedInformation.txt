@@ -11,9 +11,9 @@
 
 <!--<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">-->
     <div class="container">
-    <!--<p class="heading h15 text-center">Testbed Info Hello</p>-->
+    <!--<p class="heading h15 text-center">Testbed Info</p>-->
 
-    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
+    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info Hello</font></b></p>
     <div class="col-sm-4">
         &nbsp;
         <div class="row">

@@ -1,42 +1,52 @@
-<div class="container" id="TestBedInformation">
-    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info Hello</font></b></p>
+<div id="TestBedInformation">
+<!--<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">-->
+    <div class="container">
+    <!--<p class="heading h15 text-center">Testbed Info</p>-->
+
+    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info hello1</font></b></p>
     <div class="col-sm-4">
+        &nbsp;
         <div class="row">
             <img src="images/datacenter_ pics.jpg" alt="" width="350"  height="380" border="0" align="right" />
         </div>
+        &nbsp;
         <div class="row">
             <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="420" border="0" align="right" />
         </div>
     </div>
     <div class="col-sm-8">
-         <div class="row">
-            <div class="panel panel-primary dashpanel">
-                <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
-                <p> Each node has the following specifications:</p>
-                <p><i class="fa fa-check"></i> Two (2) Intel Xeon Processor E5-2620 V3 (2.40GHz/6-core) or V4 (2.1Ghz/8-core)</p>
-                <p><i class="fa fa-check"></i> One (1) 64GB 2133MHz DDR4 ECC memory</p>
-                <p><i class="fa fa-check"></i> One (1) 2TB 7.2K RPM Enterprise SATA 3.5” Hot-Plug Hard Drive</p>
-                <p><i class="fa fa-check"></i> One (1) 1Gb Ethernet RJ45 LAN port</p>
-                <p><i class="fa fa-check"></i> Two (2) 10Gb Ethernet ports (Intel X540)</p>
-                <p><i class="fa fa-check"></i> One (1) power supply unit</p>
-            </div> <!-- panel -->
-        </div>
-
-        <div class="row">
-            <div class="panel panel-primary dashpanel">
-                <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">GPU Node Specification</h2>
-                <p> Each GPU node has the following specifications:</p>
-                <p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
-                <p><i class="fa fa-check"></i> Memory: (256) GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
-                <p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-                <p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-                <p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
-                <p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
-                <p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
-                <p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
-            </div> <!-- panel -->
-        </div>
+     <div class="row">
+        <div class="panel panel-primary dashpanel">
+            <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
+            <p> Each node has the following specifications:</p>
+            <p><i class="fa fa-check"></i> Two (2) Intel Xeon Processor E5-2620 V3 (2.40GHz/6-core) or V4 (2.1Ghz/8-core)</p>
+            <p><i class="fa fa-check"></i> One (1) 64GB 2133MHz DDR4 ECC memory</p>
+            <p><i class="fa fa-check"></i> One (1) 2TB 7.2K RPM Enterprise SATA 3.5” Hot-Plug Hard Drive</p>
+            <p><i class="fa fa-check"></i> One (1) 1Gb Ethernet RJ45 LAN port</p>
+            <p><i class="fa fa-check"></i> Two (2) 10Gb Ethernet ports (Intel X540)</p>
+            <p><i class="fa fa-check"></i> One (1) power supply unit</p>
+        </div> <!-- panel -->
     </div>
+
+    <div class="row">
+        <div class="panel panel-primary dashpanel">
+            <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">GPU Node Specification</h2>
+            <p> Each GPU node has the following specifications:</p>
+            <p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
+            <p><i class="fa fa-check"></i> Memory: (256) GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
+            <p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            <p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            <p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
+            <p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
+            <p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
+            <p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
+        </div> <!-- panel -->
+    </div>
+</div>
+
+</div> <!-- container -->
+
+<div class="container">
 
     <div class="row">
         <p>&nbsp;</p>
@@ -59,6 +69,7 @@
                         <td><div align="center">2048</div></td>
                         <td><div align="center">20</div></td>
                         <td><div align="center">1</div></td>
+                      <!--  <td><div align="center">Ubuntu-18.04...Ubuntu-20.04...Kali-Linux-2020...Fedora-35</div></td>-->
                     </tr>
                     <tr BGCOLOR="#fff">
                         <td><div align="center">m1.medium</div></td>
@@ -125,22 +136,4 @@
     </div>
 
 </div> <!--Container 2 closes-->
-
-<div class="cc-wraper">
-    <div class="cc-contactpop fixed">
-        <h1>Do you need Help? Get in touch. </h1>
-        <div class="renseignement">
-            <i class="fa fa-times"></i>
-            <p>We will get back to you as soon as possible. </p>
-        </div>
-        <form>
-            <ul>
-                <li><h4><span> Phone : </span>+65 6601 1056</h4></li>
-                <li><h4><span> Address: </span><a href="https://www.google.com.sg/maps/place/Innovation+4.0/@1.2947287,103.7407406,13z/data=!4m5!3m4!1s0x31da1b3be9c6fabd:0xa50c38c2456942de!8m2!3d1.2946431!4d103.7757601?hl=en" >Innovation 4.0,3 Research Link,NUS,Singapore-117602</a></h4></li>
-                <li><h4><span>Email:</span><a th:href="#{support.email.link}" th:text="#{support.email}"></a></h4></li>
-                <p>&nbsp;</p>
-            </ul>
-            <p>&nbsp;</p>
-        </form>
-    </div>
 </div>

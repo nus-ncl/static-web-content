@@ -16,7 +16,7 @@
         <div class="col-sm-4">
           <p></p>
           <p></p>
-          <img src="images/data-center4.jpg" width="300" height="250" border="0" align="left" />
+          <img src="images/MOU_UTB_NCL.jpg" width="300" height="250" border="0" align="left" />
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">MoU Signing - NCL and Universiti Teknologi Brunei (UTB)</h3>
@@ -34,7 +34,7 @@
           <p></p>
           <p></p>
           <p></p>
-          <img src="images/cloud-computing9.jpg" alt="" width="300"  height="250" border="0" align="left" />
+          <img src="images/ncl_ctf2.jpg" alt="" width="300"  height="250" border="0" align="left" />
         </div>
         <div class="col-sm-8">
           <h3 class="news-header">DSO CTF</h3>
@@ -50,7 +50,7 @@
       <div class="col-sm-12">
         <div class="col-sm-4">
           <p></p>
-          <img src="images/cybersecurity1.png" width="300" height="250" border="0" align="left" />
+          <img src="images/GrantCall_workshop_poster.PNG" width="300" height="250" border="0" align="left" />
         </div>
         <div class="col-sm-8">
           <h3 class="news-header">NCL Grant Call Workshop</h3>

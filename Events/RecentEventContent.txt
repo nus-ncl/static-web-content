@@ -14,6 +14,8 @@
 
       <div class="col-sm-12">
         <div class="col-sm-4">
+	  <p></p>
+	  <p></p>
           <img src="images/MOU_UTB_NCL.jpg" width="300" height="250" border="0" align="left" />
         </div>
       <div class="col-sm-8">
@@ -29,23 +31,10 @@
 
       <div class="col-sm-12">
         <div class="col-sm-4">
-         <img src="images/GrantCall_workshop_poster.PNG" width="300" height="250" border="0" align="left" />
-        </div>
-        <div class="col-sm-8">
-          <h3 class="news-header">NCL Grant Call Workshop</h3>
-          <div class="row">
-            <ul>
-              <li><p>National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity workshop in Dec 2020</p></li>
-            </ul>
-          </div>
-        </div>
-
-      </div>  <!-- part 2 ends-->
-
-      <div class="col-sm-12">
-        <div class="col-sm-4">
+	  <p></p>
+	  <p></p>
           <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
-           <img id="img1" width="300" height="250" border="0" align="left"/>
+          <img id="img1" width="300" height="250" border="0" align="left"/>
         </div>
         <div class="col-sm-8">
           <h3 class="news-header">ITE CCC 2021</h3>
@@ -56,13 +45,15 @@
             </ul>
           </div>
         </div>
-      </div>  <!-- part 3 ends-->
+      </div>  <!-- part 2 ends-->
 
 
       <div class="col-sm-12">
         <div class="col-sm-4">
-           <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CTF_2021.jpg','img2','jpg')"/>
-           <img src="images/ncl_ctf2.jpg" id="img2" width="300" height="250" border="0" align="left"/>
+	  <p></p>
+	  <p></p>
+          <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CTF_2021.jpg','img2','jpg')"/>
+          <img src="images/ncl_ctf2.jpg" id="img2" width="300" height="250" border="0" align="left"/>
         </div>
         <div class="col-sm-8">
           <h3 class="news-header">ITE CTF 2021</h3>
@@ -73,7 +64,7 @@
 	      <li><p>Participants ranged from various ITE Colleges (East, Central and West) as well as ITE's Global Educational Network (GEN) Partners, Boxhill Institute (BHI) and Southern Alberta Institute of Technology (SAIT).</p></li>
             </ul>
         </div>
-      </div>  <!-- part 4 ends-->
+      </div>  <!-- part 3 ends-->
 
     </div>
   </section>

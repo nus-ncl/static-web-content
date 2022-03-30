@@ -16,7 +16,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" width="300" height="250" border="0" align="left" />
+                    <img src="images/MOU_UTB_NCL.jpg" width="300" height="200" border="0" align="left" />
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">MoU Signing - NCL and Universiti Teknologi Brunei (UTB)</h3>
@@ -34,7 +34,7 @@
                     <p></p>
                     <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
-                    <img id="img1" width="300" height="250" border="0" align="left"/>
+                    <img id="img1" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">ITE CCC 2021</h3>
@@ -53,7 +53,7 @@
                     <p></p>
                     <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ITE_CTF_2021.jpg','img2','jpg')"/>
-                    <img id="img2" width="300" height="250" border="0" align="left"/>
+                    <img id="img2" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">ITE CTF 2021</h3>

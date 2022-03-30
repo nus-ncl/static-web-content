@@ -67,6 +67,7 @@
       </div>  <!-- part 3 ends-->
 
     </div>
+   </div>
   </section>
 </div>
 

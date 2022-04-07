@@ -67,14 +67,14 @@
                     <tr BGCOLOR="#fff">
                         <td><div align="center">m1.small</div></td>
                         <td><div align="center">2048</div></td>
-                        <td><div align="center">20</div></td>
+                        <td><div align="center">40</div></td>
                         <td><div align="center">1</div></td>
                       <!--  <td><div align="center">Ubuntu-18.04...Ubuntu-20.04...Kali-Linux-2020...Fedora-35</div></td>-->
                     </tr>
                     <tr BGCOLOR="#fff">
                         <td><div align="center">m1.medium</div></td>
                         <td><div align="center">4096</div></td>
-                        <td><div align="center">40</div></td>
+                        <td><div align="center">60</div></td>
                         <td><div align="center">2</div></td>
                     </tr>
                     <tr BGCOLOR="#fff">
@@ -86,7 +86,7 @@
                     <tr BGCOLOR="#fff">
                         <td><div align="center">m1.xlarge</div></td>
                         <td><div align="center">16384</div></td>
-                        <td><div align="center">160</div></td>
+                        <td><div align="center">120</div></td>
                         <td><div align="center">8</div></td>
                     </tr>
                 </table>

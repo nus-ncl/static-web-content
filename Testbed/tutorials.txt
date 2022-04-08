@@ -7,7 +7,7 @@
         <div class="row ">
             <div class="heading col-sm-12 tutorialbackground">
                 <div class="col-sm-6">
-                    <h2>How to Create an Account</h2>
+                    <h2>How to Create an Account testing</h2>
                     <p>To get started, just create an account with NCL, click on “Create account” button on the top right of the screen.</p>
                     <a th:href="@{/tutorials/createaccount}"> <h18>Learn More >>> </h18></a>
                 </div>

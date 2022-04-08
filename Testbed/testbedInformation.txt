@@ -99,15 +99,15 @@
                     <th width="70%"><p><h4><strong th:text="#{image.description}">Description</strong></h4></p></th>
                     </thead>
                     <tr BGCOLOR="#fff">
-                        <td><div align="center">Ubuntu-18.04</div></td>
+                        <td><div align="center">Ubuntu-1804-vmdk</div></td>
                         <td><div align="center">Ubuntu Server 18.04 LTS (Bionic Beaver) released builds</div></td>
                     </tr>
                     <tr BGCOLOR="#fff">
-                        <td><div align="center">Ubuntu-20.04</div></td>
+                        <td><div align="center">Ubuntu-2004-vmdk</div></td>
                         <td><div align="center">Ubuntu Server 20.04 LTS (Focal Fossa) released builds</div></td>
                     </tr>
                     <tr BGCOLOR="#fff">
-                        <td><div align="center">Kali-Linux-2020</div></td>
+                        <td><div align="center">Kali-vmdk</div></td>
                         <td><div align="center">The latest open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.</div></td>
                     </tr>
                     <tr BGCOLOR="#fff">

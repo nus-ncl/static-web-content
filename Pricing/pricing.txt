@@ -9,40 +9,75 @@
                     <p align="Center"><b><font size="30px" color="#0d6dba">Pricing</font></b></p>
                     <h4>For nodes reservation/booking please write to us at support@ncl.sg</h4>
                     <div class="row">
-                        <div class="col-sm-6">
-                            <div class='wrapper' th:align="center">
-                                <div class='package brilliant'>
-                                    <div class='name' align="center">SGD 0.12</div>
-                                    <div>per node per hour</div>
-                                    <h16>Ad-hoc use without reservation</h16>
-                                    <hr/>
-                                    <p align="left">- Usage subject to resource availability</p>
-                                    <p align="left">- 200 <a href="/testbedInformation">Nodes</a> available</p>
-                                    <p align="left">- Access to all <a href="plan.html" th:href="@{~/plan}">tools</a></p>
-                                    <p align="left">- Access to available datasets </p>
-                                    <p align="left">- Access to services</p>
-                                    <p align="left"><strong>Terms and Conditions apply</strong></p>
-                                </div>
+                            <div class="table-responsive">
+                                <table class="table1" style="width:100%">
+                                    <thead BGCOLOR="#E0E0E0">
+                                    <th> </th>
+                                    <th width="35%"><p><h5><strong>VCPU*</strong></h5></p></th>
+                                    <th width="25%"><p><h5><strong>RAM(GB)</strong></h5></p></th>
+                                    <th width="20%"><p><h5><strong>HDD(GB)</strong></h5></p></th>
+                                    <th width="20%"><p><h5><strong>SSD(GB)</strong></h5></p></th>
+                                    <th width="20%"><p><h5><strong>GPU</strong></h5></p></th>
+                                    <th width="20%"><p><h5><strong>Price*(S$/day)</strong></h5></p></th>
+                                    </thead>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.small)</strong></h5></th>
+                                        <td><div align="center">1</div></td>
+                                        <td><div align="center">2</div></td>
+                                        <td><div align="center">40</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0.3</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.medium)</strong></h5></th>
+                                        <td><div align="center">2</div></td>
+                                        <td><div align="center">4</div></td>
+                                        <td><div align="center">60</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0.58</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.large)</strong></h5></th>
+                                        <td><div align="center">4</div></td>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center">80</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">1.11</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.xlarge)</strong></h5></th>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center">12</div></td>
+                                        <td><div align="center">120</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">1.95</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>CPU Server</strong></h5></th>
+                                        <td><div align="center">32</div></td>
+                                        <td><div align="center">64</div></td>
+                                        <td><div align="center">2048</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">10.5</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>GPU Server</strong></h5></th>
+                                        <td><div align="center">32</div></td>
+                                        <td><div align="center">256</div></td>
+                                        <td><div align="center">9216</div></td>
+                                        <td><div align="center">480</div></td>
+                                        <td><div align="center">2(Nvidia v100)</div></td>
+                                        <td><div align="center">70</div></td>
+                                    </tr>
+                                </table>
                             </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class='wrapper' th:align="center">
-                                <div class='package brilliant'>
-                                    <div class='name' align="center">SGD 0.06</div>
-                                    <div>per node per hour</div>
-                                    <h16>Usage with reservation</h16>
-                                    <hr/>
-                                    <p align="left">- Guaranteed<sup>*</sup> resource availability</p>
-                                    <p align="left">- 200 <a href="/testbedInformation">Nodes</a> available</p>
-                                    <p align="left">- Access to all <a href="plan.html" th:href="@{~/plan}">tools</a></p>
-                                    <p align="left">- Access to available datasets </p>
-                                    <p align="left">- Access to services</p>
-                                    <p align="left"><strong>Terms and Conditions apply</strong></p>
-                                </div>
-                            </div>
-                        </div>
-                        <h3>As a not-for-profit organization, NCL offers competitive rates to all users</h3>
                     </div>
+                    <h3>*T&C applies. As a not-for-profit organization, NCL offers competitive rates to all users</h3>
                 </div>
             </div>
         </div>

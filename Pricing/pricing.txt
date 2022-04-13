@@ -27,7 +27,7 @@
                                         <td><div align="center">40</div></td>
                                         <td><div align="center">0</div></td>
                                         <td><div align="center">0</div></td>
-                                        <td><div align="center">0.3</div></td>
+                                        <td><div align="center"><h6>0.3</h6></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.medium)</strong></h5></th>

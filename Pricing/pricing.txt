@@ -27,7 +27,7 @@
                                         <td><div align="center">40</div></td>
                                         <td><div align="center">0</div></td>
                                         <td><div align="center">0</div></td>
-                                        <td><div align="center"><h5>0.3</h5></div></td>
+                                        <td><div align="center"><strong>0.3</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.medium)</strong></h5></th>
@@ -36,7 +36,7 @@
                                         <td><div align="center">60</div></td>
                                         <td><div align="center">0</div></td>
                                         <td><div align="center">0</div></td>
-                                        <td><div align="center"><h5>0.58</h5></div></td>
+                                        <td><div align="center"><strong>0.58</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.large)</strong></h5></th>
@@ -45,7 +45,7 @@
                                         <td><div align="center">80</div></td>
                                         <td><div align="center">0</div></td>
                                         <td><div align="center">0</div></td>
-                                        <td><div align="center"><h5>1.11</h5></div></td>
+                                        <td><div align="center"><strong>1.11</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>VM(m1.xlarge)</strong></h5></th>
@@ -54,7 +54,7 @@
                                         <td><div align="center">120</div></td>
                                         <td><div align="center">0</div></td>
                                         <td><div align="center">0</div></td>
-                                        <td><div align="center"><h5>1.95</h5></div></td>
+                                        <td><div align="center"><strong>1.95</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>CPU Server</strong></h5></th>
@@ -63,7 +63,7 @@
                                         <td><div align="center">2048</div></td>
                                         <td><div align="center">0</div></td>
                                         <td><div align="center">0</div></td>
-                                        <td><div align="center"><h5>10.5</h5></div></td>
+                                        <td><div align="center"><strong>10.5</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>GPU Server</strong></h5></th>
@@ -72,7 +72,7 @@
                                         <td><div align="center">9216</div></td>
                                         <td><div align="center">480</div></td>
                                         <td><div align="center">2(Nvidia v100)</div></td>
-                                        <td><div align="center"><h5>70</h5></div></td>
+                                        <td><div align="center"><strong>70</strong></div></td>
                                     </tr>
                                 </table>
                             </div>

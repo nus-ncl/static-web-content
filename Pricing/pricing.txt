@@ -9,45 +9,75 @@
                     <p align="Center"><b><font size="30px" color="#0d6dba">Pricing</font></b></p>
                     <h4>For nodes reservation/booking please write to us at support@ncl.sg</h4>
                     <div class="row">
-                        <div class="col-sm-6">
-			    <div class="table-responsive">
-                <table class="table1">
-                    <thead BGCOLOR="#E0E0E0">
-                    <th width="35%"><p><h4><strong th:text="#{image.flavour}">Name</strong></h4></p></th>
-                    <th width="25%"><p><h4><strong th:text="#{image.ram}">RAM</strong></h4></p></th>
-                    <th width="20%"><p><h4><strong th:text="#{image.disk}">Disk</strong></h4></p></th>
-                    <th width="20%"><p><h4><strong th:text="#{image.vcpu}">VCPUs</strong></h4></p></th>
-                    </thead>
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">m1.small</div></td>
-                        <td><div align="center">2048</div></td>
-                        <td><div align="center">40</div></td>
-                        <td><div align="center">1</div></td>
-                      <!--  <td><div align="center">Ubuntu-18.04...Ubuntu-20.04...Kali-Linux-2020...Fedora-35</div></td>-->
-                    </tr>
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">m1.medium</div></td>
-                        <td><div align="center">4096</div></td>
-                        <td><div align="center">60</div></td>
-                        <td><div align="center">2</div></td>
-                    </tr>
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">m1.large</div></td>
-                        <td><div align="center">8192</div></td>
-                        <td><div align="center">80</div></td>
-                        <td><div align="center">4</div></td>
-                    </tr>
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">m1.xlarge</div></td>
-                        <td><div align="center">16384</div></td>
-                        <td><div align="center">120</div></td>
-                        <td><div align="center">8</div></td>
-                    </tr>
-                </table>
-		    </div>
-                        </div>
-                        <h3>As a not-for-profit organization, NCL offers competitive rates to all users</h3>
+                            <div class="table-responsive">
+                                <table class="table1" style="width:100%">
+                                    <thead BGCOLOR="#E0E0E0">
+                                    <th> </th>
+                                    <th width="35%"><p><h4><strong>VCPU*</strong></h4></p></th>
+                                    <th width="25%"><p><h4><strong>RAM(GB)</strong></h4></p></th>
+                                    <th width="20%"><p><h4><strong>HDD(GB)</strong></h4></p></th>
+                                    <th width="20%"><p><h4><strong>SSD(GB)</strong></h4></p></th>
+                                    <th width="20%"><p><h4><strong>GPU</strong></h4></p></th>
+                                    <th width="20%"><p><h4><strong>Price*(S$/day)</strong></h4></p></th>
+                                    </thead>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h4><strong>VM(m1.small)</strong></h4></th>
+                                        <td><div align="center">1</div></td>
+                                        <td><div align="center">2</div></td>
+                                        <td><div align="center">40</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0.3</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h4><strong>VM(m1.medium)</strong></h4></th>
+                                        <td><div align="center">2</div></td>
+                                        <td><div align="center">4</div></td>
+                                        <td><div align="center">60</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0.58</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h4><strong>VM(m1.large)</strong></h4></th>
+                                        <td><div align="center">4</div></td>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center">80</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">1.11</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h4><strong>VM(m1.xlarge)</strong></h4></th>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center">12</div></td>
+                                        <td><div align="center">120</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">1.95</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h4><strong>CPU Server</strong></h4></th>
+                                        <td><div align="center">32</div></td>
+                                        <td><div align="center">64</div></td>
+                                        <td><div align="center">2048</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">0</div></td>
+                                        <td><div align="center">10.5</div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h4><strong>GPU Server</strong></h4></th>
+                                        <td><div align="center">32</div></td>
+                                        <td><div align="center">256</div></td>
+                                        <td><div align="center">9216</div></td>
+                                        <td><div align="center">480</div></td>
+                                        <td><div align="center">2(Nvidia v100)</div></td>
+                                        <td><div align="center">70</div></td>
+                                    </tr>
+                                </table>
+                            </div>
                     </div>
+                    <h3>*T&C applies. As a not-for-profit organization, NCL offers competitive rates to all users</h3>
                 </div>
             </div>
         </div>

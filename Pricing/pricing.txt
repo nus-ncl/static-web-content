@@ -17,7 +17,7 @@
                                     <th width="15%"><p><h5><strong>RAM(GB)</strong></h5></p></th>
                                     <th width="15%"><p><h5><strong>HDD(GB)</strong></h5></p></th>
                                     <th width="15%"><p><h5><strong>SSD(GB)</strong></h5></p></th>
-                                    <th width="15%"><p><h5><strong>GPU</strong></h5></p></th>
+                                    <th width="15%"><p><h5><strong>GPU(Nvidia v100)</strong></h5></p></th>
                                     <th width="25%"><p><h5><strong>Price*(S$/day)</strong></h5></p></th>
                                     </thead>
                                     <tr BGCOLOR="#fff">

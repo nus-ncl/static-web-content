@@ -77,8 +77,11 @@
                                 </table>
                             </div>
                     </div>
-                    <h3>*T&C applies. As a not-for-profit organization, NCL offers competitive rates to all users</h3>
-                </div>
+                    <h3>*T&C:</h3>
+		    <p>1. GST is NOT included in the listed price.</p>
+		    <p>2. 1 CPU core = 4 vCPU until further notice.</p>
+		    <p>3. NCL allows customised specs (vCPU, RAM, etc etc) and dedicated servers.  Kindly contact us for more details</p>
+		    <p>4. NCL deserves the right to interpret any ambiguities, if any. 
             </div>
         </div>
     </section>

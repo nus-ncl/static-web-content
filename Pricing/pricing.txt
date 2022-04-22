@@ -17,7 +17,7 @@
                                     <th width="15%"><p><h5><strong>RAM(GB)</strong></h5></p></th>
                                     <th width="15%"><p><h5><strong>HDD(GB)</strong></h5></p></th>
                                     <th width="15%"><p><h5><strong>SSD(GB)</strong></h5></p></th>
-                                    <th width="15%"><p><h5><strong>GPU</strong></h5></p></th>
+                                    <th width="15%"><p><h5><strong>GPU(Nvidia v100)</strong></h5></p></th>
                                     <th width="25%"><p><h5><strong>Price*(S$/day)</strong></h5></p></th>
                                     </thead>
                                     <tr BGCOLOR="#fff">
@@ -71,15 +71,20 @@
                                         <td><div align="center">256</div></td>
                                         <td><div align="center">9216</div></td>
                                         <td><div align="center">480</div></td>
-                                        <td><div align="center">2(Nvidia v100)</div></td>
+                                        <td><div align="center">2</div></td>
                                         <td><div align="center"><strong>70</strong></div></td>
                                     </tr>
                                 </table>
                             </div>
                     </div>
-                    <h3>*T&C applies. As a not-for-profit organization, NCL offers competitive rates to all users</h3>
-                </div>
-            </div>
-        </div>
+		 </div>
+             </div>
+                    <h3>*T&C:</h3>
+		    <ol>
+		    <li>GST is NOT included in the listed price.</li>
+		    <li>1CPU core = 4 vCPU until further notice.</li>
+		    <li>NCL allows customised specs (vCPU, RAM, etc etc) and dedicated servers. Kindly contact us for more details</li>
+		    <li>NCL deserves the right to interpret any ambiguities, if any.</li>
+		    </ol>
     </section>
 </div>

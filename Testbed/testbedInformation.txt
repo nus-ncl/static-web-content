@@ -111,7 +111,7 @@
                         <td><div align="center">The latest open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.</div></td>
                     </tr>
                     <tr BGCOLOR="#fff">
-                        <td><div align="center">Fedora-35</div></td>
+                        <td><div align="center">Fedora35_Cloud_qcow2</div></td>
                         <td><div align="center">Fedora 35 Cloud Base Images</div></td>
                     </tr>
                 </table>

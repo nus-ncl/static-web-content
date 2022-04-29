@@ -23,8 +23,7 @@
 
                         <h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/2022/01/log4shell-testbed-released.html"><font color="#313030">Log4Shell testbed released</font></a></h3>
                     </div>
-	    <br></br>
-            <br></br>
+	    	<br></br>
                     <div class="row" >
                         <h7><b>NCL in News</b></h7>
 

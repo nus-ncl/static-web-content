@@ -13,7 +13,9 @@
                 <div class="col-sm-6">
                     <!-- Section for mention in news articles,media and other publication -->
 		    <div class="row" >
-                        <h7><b><a href="https://ncl-sg.blogspot.com/">Tech Blog</b></h7>
+                        <h7><b>Tech Blog</b></h7>
+
+			<h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/"><font color="#313030">NCL Technology Updates</font> </a></h3>
 
                         <h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/2022/04/spring4shell-poc-in-ncl-testbed.html"><font color="#313030">Spring4Shell PoC in NCL Testbed</font> </a></h3>
                         
@@ -21,6 +23,8 @@
 
                         <h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/2022/01/log4shell-testbed-released.html"><font color="#313030">Log4Shell testbed released</font></a></h3>
                     </div>
+	    <br></br>
+            <br></br>
                     <div class="row" >
                         <h7><b>NCL in News</b></h7>
 

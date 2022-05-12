@@ -58,7 +58,7 @@
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>CPU Server</strong></h5></th>
-                                        <td><div align="center">32</div></td>
+                                        <td><div align="center">64</div></td>
                                         <td><div align="center">64</div></td>
                                         <td><div align="center">2048</div></td>
                                         <td><div align="center">0</div></td>
@@ -67,7 +67,7 @@
                                     </tr>
                                     <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>GPU Server</strong></h5></th>
-                                        <td><div align="center">32</div></td>
+                                        <td><div align="center">64</div></td>
                                         <td><div align="center">256</div></td>
                                         <td><div align="center">9216</div></td>
                                         <td><div align="center">480</div></td>

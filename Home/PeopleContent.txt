@@ -43,9 +43,8 @@
                 </div>
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Nidhi Kushwah</b></h8>
-                        <p><b><font color="585656"> Manager (Business Operations )</font></b> </p>
-                        <p>Programme Management | Business Analysis</p>
+                        <h8><b>Felix Wong</b></h8>
+                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
                     </div>
                 </div>
 		
@@ -53,6 +52,13 @@
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
                         <p><b><font color="585656">Assistant Manager (Business Operations)</font></b> </p>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Arundasse</b></h8>
+                        <p><b><font color="585656">Senior Executive (Business Operations)</font></b> </p>
                     </div>
                 </div>
 		
@@ -108,6 +114,17 @@
                     <div class="row">
                         <h8><b>Huang Kang</b></h8>
                         <p><b><font color="585656">Research Affiliate</font></b> </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <h2 class="team-heading team-heading-current-team1"><b>Visiting Researchers and Scientists</b></h2>
+                <div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Lee Chin Ann Ivan</b></h8>
+                        <p><b><font color="585656">Visiting Scientist</font></b> </p>
+                        <p>OT Networks | ICS | Pen Test</p>
                     </div>
                 </div>
             </div>

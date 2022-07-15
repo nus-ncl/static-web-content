@@ -41,6 +41,7 @@
                         <p><b><font color="585656">Program Director</font></b> </p>
                     </div>
                 </div>
+		
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Felix Wong</b></h8>
@@ -57,7 +58,7 @@
 
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Arundasse Aroquidasse</b></h8>
+                        <h8><b>Arundasse</b></h8>
                         <p><b><font color="585656">Senior Executive (Business Operations)</font></b> </p>
                     </div>
 		  </div>

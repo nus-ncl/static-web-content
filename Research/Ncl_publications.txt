@@ -11,9 +11,7 @@
               </div>-->
             <div class="col-sm-12">
                 <div class="col-sm-6">
-		   
-           	 <br></br>
-
+	
                     <!-- Section for mention in news articles,media and other publication -->
                     <div class="row" >
                         <h7><b>NCL in News</b></h7>

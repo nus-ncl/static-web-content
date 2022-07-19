@@ -11,18 +11,7 @@
               </div>-->
             <div class="col-sm-12">
                 <div class="col-sm-6">
-		    <div class="row" >
-                        <h7><b>Tech Blog</b></h7>
-
-			<h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/"><font color="#313030">NCL Technology Updates</font> </a></h3>
-
-                        <h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/2022/04/spring4shell-poc-in-ncl-testbed.html"><font color="#313030">Spring4Shell PoC in NCL Testbed</font> </a></h3>
-                        
-                        <h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/2022/02/ncl-automatically-generates-network.html"><font color="#313030">NCL automatically generates network traffics for web IT environment</font> </a></h3>
-
-                        <h3 class="news-header1"><a href="https://ncl-sg.blogspot.com/2022/01/log4shell-testbed-released.html"><font color="#313030">Log4Shell testbed released</font></a></h3>
-                    </div>
-
+		   
            	 <br></br>
 
                     <!-- Section for mention in news articles,media and other publication -->
@@ -75,7 +64,7 @@
 
                         <h3 class="news-header1" >
                             <a href="https://dl.acm.org/doi/10.1145/3445968.3452091"><font color="#216694">TEE-based Privacy-Preserve in Collaborative Traffic Policy Compilation for Programmable Devices</font></a></h3>
-                        <p><font size="2px" color="#000000">• Jan Vykopal, Valdemar Svabensky, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• ACM ConferencesSDN-NFV Sec'21, 2021.</font></p>
+                        <p><font size="2px" color="#000000">• Aris Cahyadi Risdianto, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• ACM ConferencesSDN-NFV Sec'21, 2021.</font></p>
 
 
                         <!-- 2020 publication -->

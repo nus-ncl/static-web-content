@@ -87,24 +87,6 @@
 		
             </div>
 
-<div class="row">
-
-                <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Deepshikha</b></h8>
-                        <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
-                    </div>
-                </div>
-
-                <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Tha Zin Hlaing</b></h8>
-                        <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
-                    </div>
-                </div>
-
-            </div>
-
             <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Research Team</b></h2>
                 <div class="col-sm-6">

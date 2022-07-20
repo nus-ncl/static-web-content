@@ -35,7 +35,7 @@
             <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Development &amp; Operations</b></h2>
 
-		<div class="col-sm-6">
+		<div class="col-sm-8">
                     <div class="row">
                         <h8><b>Seah Choon Meng</b></h8>
                         <p><b><font color="585656">Program Director</font></b> </p>
@@ -43,31 +43,45 @@
                     </div>
                 </div>
 		
-                <div class="col-sm-6">
+                <div class="col-sm-8">
                     <div class="row">
                         <h8><b>Felix Wong</b></h8>
                         <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
 	            </div>
                 </div>
 		
-                <div class="col-sm-6">
+                <div class="col-sm-8">
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
                         <p><b><font color="585656">Assistant Manager (Business Operations)</font></b> </p>
 		      </div>
                 </div>
 
-                <div class="col-sm-6">
+                <div class="col-sm-8">
                     <div class="row">
                         <h8><b>Arundasse</b></h8>
                         <p><b><font color="585656">Senior Executive (Business Operations)</font></b> </p>
                     </div>
 		  </div>
 		
-		 <div class="col-sm-6">
+		 <div class="col-sm-8">
                     <div class="row">
                         <h8><b>Liu Yuancheng</b></h8>
                         <p><b><font color="585656"> Senior Software Engineer (Development) </font></b> </p>
+                    </div>
+                </div>
+		
+		<div class="col-sm-8">
+                    <div class="row">
+                        <h8><b>Deepshikha</b></h8>
+                        <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
+                    </div>
+                </div>
+
+                <div class="col-sm-8">
+                    <div class="row">
+                        <h8><b>Tha Zin Hlaing</b></h8>
+                        <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
                 </div>
 		

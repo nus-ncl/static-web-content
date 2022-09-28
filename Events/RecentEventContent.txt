@@ -22,7 +22,7 @@
                     <h3 class="news-header">Working Visit by BG Edward Chen, Commander SAF C4 Command / Cybersecurity Taskforce</h3>
                     <div class="row">
                         <ul>
-                            <li><p>National Cybersecurity R&D Laboratory (NCL) is pleased to host BG Edward Chen, Commander SAF C4 Command / Cybersecurity Taskforce, who visited the School of Computing (SoC), as a part of preparation work for the Critical Infrastructure Defence Exercise (CIDeX) 2022. </p></li>
+                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) is pleased to host BG Edward Chen, Commander SAF C4 Command / Cybersecurity Taskforce, who visited the School of Computing (SoC), as a part of preparation work for the Critical Infrastructure Defence Exercise (CIDeX) 2022. </p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2022/09/working-visit-by-bg-edward-chen.html">Read More</a>.</p></li>
                         </ul>
                     </div>

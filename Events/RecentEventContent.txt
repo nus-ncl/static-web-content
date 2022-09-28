@@ -16,7 +16,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/CiDeX -1.jpg" width="300" height="200" border="0" align="left" />
+                    <img src="images/CiDeX.jpg" width="300" height="200" border="0" align="left" />
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">Working Visit by BG Edward Chen, Commander SAF C4 Command / Cybersecurity Taskforce</h3>

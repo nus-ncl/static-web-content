@@ -19,6 +19,23 @@
                     <img src="images/MOU_UTB_NCL.jpg" width="300" height="200" border="0" align="left" />
                 </div>
                 <div class="col-sm-8">
+                    <h3 class="news-header">Working Visit by BG Edward Chen, Commander SAF C4 Command / Cybersecurity Taskforce</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p>National Cybersecurity R&amp;D Laboratories (NCL) signed a memorandum of understanding (MoU) with the Universiti Teknologi Brunei (UTB) in May 2021 </p></li>
+                            <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2022/09/working-visit-by-bg-edward-chen.html">Read More</a>.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>  <!-- part 1 ends-->
+            
+            <div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/" width="300" height="200" border="0" align="left" />
+                </div>
+                <div class="col-sm-8">
                     <h3 class="news-header">MoU Signing - NCL and Universiti Teknologi Brunei (UTB)</h3>
                     <div class="row">
                         <ul>
@@ -27,7 +44,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>  <!-- part 1 ends-->
+            </div>  <!-- part 2 ends-->
 
             <div class="col-sm-12">
                 <div class="col-sm-4">
@@ -45,7 +62,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>  <!-- part 2 ends-->
+            </div>  <!-- part 3 ends-->
 
 
             <div class="col-sm-12">
@@ -64,7 +81,7 @@
                             <li><p>Participants ranged from various ITE Colleges (East, Central and West) as well as ITE's Global Educational Network (GEN) Partners, Boxhill Institute (BHI) and Southern Alberta Institute of Technology (SAIT).</p></li>
                         </ul>
                     </div>
-                </div>  <!-- part 3 ends-->
+                </div>  <!-- part 4 ends-->
 
             </div>
         </div>

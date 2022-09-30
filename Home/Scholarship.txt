@@ -2,9 +2,12 @@
         <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
             <div class="post-content">
 
-               <!-- <div class="col-sm-6">
-                    <img src="images/NUS-NCL collab.jpg" alt="" width="550"  height="150" border="0" align="center" />
-                </div> --!>
+                           <div class="row">
+
+                <p align="Center"><b><font size="30px" color="#0d6dba">Our Team</font></b></p>
+                <img src="images/teamwork12.jpg" style="width:1180px; height:200px; object-fit: cover; object-position: 50% 50%;"/><!--<img src="images/teamwork1.jpg" style="width:590px; height:200px; object-fit: cover; object-position: 50% 50%;"/>-->
+
+            </div>
 
                 <p>&nbsp;</p>
                 <p><strong>OVERVIEW</strong></p>

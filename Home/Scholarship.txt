@@ -2,9 +2,9 @@
         <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
             <div class="post-content">
 
-                <div class="col-sm-6">
+               <!-- <div class="col-sm-6">
                     <img src="images/NUS-NCL collab.jpg" alt="" width="550"  height="150" border="0" align="center" />
-                </div>
+                </div> --!>
 
                 <p>&nbsp;</p>
                 <p><strong>OVERVIEW</strong></p>

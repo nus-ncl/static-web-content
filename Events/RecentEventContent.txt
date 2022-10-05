@@ -16,7 +16,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/CiDeX.jpg" width="300" height="200" border="0" align="left" />
+                    <img src="images/" width="300" height="300" border="0" align="left" />
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">CSA-National Cybersecurity R&D Lab Scholarship (NCLS):</h3>

@@ -27,7 +27,7 @@
 Students who receive the scholarship will be able to do their project in NCL and will have access to the NCL resources throughout the period of their studies to aid them in their research.  
 </p></li>
                             <li><p>
-Scholarship details and eligibility criteria can be found <a target="_blank" href=""> <b>here.</b></a>.</p></li>
+Scholarship details and eligibility criteria can be found <a target="_blank" href=""> here.</a>.</p></li>
                         </ul>
                     </div>
                 </div>

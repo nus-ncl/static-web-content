@@ -59,7 +59,12 @@
                 <p>&nbsp;</p>
                 
                 <p><strong>TIMELINE [for Science and Engineering Aug 2023 intake]</strong></p>
-                <p>If any _____________________</p>
+                <table class="table1">
+                    <tr BGCOLOR="#fff">
+                        <td><div align="center">May 2023</div></td>
+                        <td><div align="center">Applicants who have already received admission offers indicate their interest by contacting us via email.</div></td>
+                    </tr>
+                </table>
                 <p>&nbsp;</p>
                 
                 <p><strong>TIMELINE (for current SOC students and SOC Jan 2023 intake)</strong></p>

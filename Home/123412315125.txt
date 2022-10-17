@@ -34,6 +34,16 @@
                     <li>Post-graduation, be employed at NCL for a period of at least 1 year, or embark on their PhD studies in a Singapore University, or be employed in Singapore’s cybersecurity industry for at least 1 year</li>
                 </ul>
                 <p>&nbsp;</p>
+                
+                <p><strong>ELIGIBLE NUS MASTER’S PROGRAMMES</strong></p>
+                <ul>
+                    <li>Master of Computing (General Track) and working on either a dissertation, or a 2-semester project related to cybersecurity</li>
+                    <li>Master of Computing (Computer Science Specialisation) and working on either a dissertation, or a 2-semester project related to cybersecurity</li>
+                    <li>Master of Computing (Infocomm Security Specialisation)</li>
+                    <li>Master programmes (by Research) from Faculty of Science with dissertation focused on cybersecurity</li>
+                    <li>Master programmes (by Research) from Faculty of Engineering with dissertation focused on cybersecurity</li>
+                </ul>
+                <p>&nbsp;</p>
 
                 <p><strong>TIMELINE</strong></p>
                 <p>If any _____________________</p>

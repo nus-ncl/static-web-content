@@ -46,7 +46,20 @@
                 <p>&nbsp;</p>
 
                 <p><strong>TIMELINE [for School of Computing (SOC) Aug 2023 intake]</strong></p>
-                <p>If any _____________________</p>
+                <table class="table1">
+                    <tr BGCOLOR="#fff">
+                        <td><div align="center">m1.small</div></td>
+                        <td><div align="center">2048</div></td>
+                        <td><div align="center">20</div></td>
+                        <td><div align="center">1</div></td>
+                    </tr>
+                    <tr BGCOLOR="#fff">
+                        <td><div align="center">m1.medium</div></td>
+                        <td><div align="center">4096</div></td>
+                        <td><div align="center">40</div></td>
+                        <td><div align="center">2</div></td>
+                    </tr>
+                </table>
                 <p>&nbsp;</p>
                 
                 <p><strong>TIMELINE [for Science and Engineering Aug 2023 intake]</strong></p>

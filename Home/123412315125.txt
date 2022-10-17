@@ -45,15 +45,24 @@
                 </ul>
                 <p>&nbsp;</p>
 
-                <p><strong>TIMELINE</strong></p>
+                <p><strong>TIMELINE [for School of Computing (SOC) Aug 2023 intake]</strong></p>
                 <p>If any _____________________</p>
+                <p>&nbsp;</p>
+                
+                <p><strong>TIMELINE [for Science and Engineering Aug 2023 intake]</strong></p>
+                <p>If any _____________________</p>
+                <p>&nbsp;</p>
+                
+                <p><strong>TIMELINE (for current SOC students and SOC Jan 2023 intake)</strong></p>
+                <p>Application for Jan 2023 intake is by invitation. Eligible students/applicants will receive an email invitation from us to apply.</p>
+                <p>&nbsp;</p>
+                
+                <p><strong>TIMELINE (for current non-SOC students and non-SOC Jan 2023 intake)</strong></p>
+                <p>The application is closed.</p>
+                <p>&nbsp;</p>
 
                 <p>&nbsp;</p>
-                <p><strong>APPLICATION&nbsp;</strong></p>
-                <p>____________________________</p>
-
-                <p>&nbsp;</p>
-                <p>For enquiries or assistance, contact us at <a href="">_______</a></p>
+                <p>For enquiries on the NCLS, please email <a href="gradenquiry@nus.edu.sg">gradenquiry@nus.edu.sg</a> [Subject: Enquiry on NCLS]</p>
 
             </div>
         </div>

@@ -7,8 +7,8 @@
 
             <div class="col-sm-4">
                     <div class="row">
-                        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CiDeX.jpg','imgCidex','JPG')"/>
-                    <img id="imgCidex" width="300" height="200" border="0" align="left"/>
+                        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('nus_logo.jpg','imgNUS','JPG')"/>
+                    <img id="imgNUS" width="300" height="200" border="0" align="left"/>
                     </div>
             </div
             

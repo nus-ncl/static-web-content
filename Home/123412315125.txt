@@ -8,13 +8,14 @@
             <div class="col-sm-2">
                     <div class="row">
                         <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('nus_logo.jpg','imgNUS','JPG')"/>
-                    <img id="imgNUS" width="200" height="150" border="0" align="left"/>
+                    <img id="imgNUS" width="200" height="200" border="0" align="left"/>
                     </div>
             </div
             
             <div class="col-sm-10">
                     <div class="row">
-                        <p align="Center"><b><font size="5px" color="#0d6dba">Launch of CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)</font>                               </b></p>
+                        <p>&nbsp;</p>
+                        <p align="Center"><b><font size="6px" color="#0d6dba">Launch of CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)</font>                               </b></p>
                     </div>
             </div>
 

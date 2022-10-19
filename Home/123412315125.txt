@@ -5,7 +5,6 @@
             <div class="row">
             
                 <p>&nbsp;</p>
-                <p>&nbsp;</p>
             
                 <p align="Center"><b><font size="5px" color="#0d6dba">Launch of CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)</font></b></p>
                 <!-- <img src="images/teamwork12.jpg" style="width:1180px; height:200px; object-fit: cover; object-position: 50% 50%;"/>

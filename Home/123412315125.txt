@@ -12,7 +12,6 @@
             </div -->
     
                     <div class="row">
-                        <p>&nbsp;</p>
                         <p align="Center"><b><font size="6px" color="#0d6dba">Launch of CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)</font>                               </b></p>
                     </div>
             

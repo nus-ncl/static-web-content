@@ -3,12 +3,18 @@
             <div class="post-content">
 
             <div class="row">
-                <img src="images/NUS-NCL collab.jpg" style="width:680px; height:100px; object-fit: cover; object-position: 50% 50%;"/>
+            
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+            
+                <p align="Center"><b><font size="20px" color="#0d6dba">Launch of CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)</font></b></p>
+                <!-- <img src="images/teamwork12.jpg" style="width:1180px; height:200px; object-fit: cover; object-position: 50% 50%;"/>
+                <img src="images/NUS-NCL collab.jpg" style="width:680px; height:100px; object-fit: cover; object-position: 50% 50%;"/> -->
             </div>
 
                 <p>&nbsp;</p>
                 <p><strong>OVERVIEW</strong></p>
-                <p>The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims to drive and support the development of professionals in Singapore’s cybersecurity sector and support the National Cybersecurity R&D Lab (NCL) initiative. This scholarship (funded by the <a href="https://www.csa.gov.sg/">Cyber Security Agency of Singapore (CSA)</a>) will be awarded to qualified students who are enrolled in NUS’s Master’s programmes focusing on cybersecurity.</p>
+                <p>The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims to drive and support the development of professionals in Singapore’s cybersecurity sector and support the National Cybersecurity R&amp;D Lab (NCL) initiative. This scholarship (funded by the <a href="https://www.csa.gov.sg/">Cyber Security Agency of Singapore (CSA)</a>) will be awarded to qualified students who are enrolled in NUS’s Master’s programmes focusing on cybersecurity.</p>
                 <p>&nbsp;</p>
 
                 <p><strong>ELIGIBILITY</strong></p>

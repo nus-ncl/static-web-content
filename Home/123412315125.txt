@@ -10,13 +10,12 @@
                         <a href="https://nus.edu.sg/"><img id="imgNUS" width="200" height="100" border="0" align="left"/></a>
                     </div>
             </div -->
-            
-            <div class="col-sm-10">
+    
                     <div class="row">
                         <p>&nbsp;</p>
                         <p align="Center"><b><font size="6px" color="#0d6dba">Launch of CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)</font>                               </b></p>
                     </div>
-            </div>
+            
 
                 <p>&nbsp;</p>
                 <p><strong>OVERVIEW</strong></p>

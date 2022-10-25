@@ -23,7 +23,7 @@
                     <h3 class="news-header">CSA-National Cybersecurity R&D Lab Scholarship (NCLS)</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">The Cyber Security Agency of Singapore (CSA) has launch a new CSA-National Cybersecurity R&D Lab Scholarship (NCLS) at the Singapore International Cyber Week (SICW) 2022. The scholarship will be awarded to qualified students who are enrolled in NUS Master’s programmes focusing on cybersecurity. Students who receive the scholarship will be able to do their project in NCL and will have access to the NCL resources throughout the period of their studies to aid them in their research. </p></li>
+                            <li><p align="justify">The Cyber Security Agency of Singapore (CSA) has launch a new CSA-National Cybersecurity R&D Lab Scholarship (NCLS) at the Singapore International Cyber Week (SICW) 2022. The scholarship will be awarded to qualified students who are enrolled in NUS Master’s programmes focusing on cybersecurity. Students who receive the scholarship will be able to do their project in NCL and will have access to the NCL resources throughout their studies to aid them in their research. </p></li>
                             <li><p><a target="_blank" href="https://ncl.sg/scholarship.html">Read More</a>.</p></li>
                         </ul>
                     </div>

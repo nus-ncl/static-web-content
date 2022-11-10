@@ -16,6 +16,9 @@
     <div class="table-responsive">
         <table class="table2">
             <tr>
+                <td> <p>&nbsp;</p>
+                        <a href="https://ncl.sg/scholarship" class="btn btn-default" >NCL Scholarship >></a>
+                </td>
                 <h22>Positions Available in NCL :</h22><p>&nbsp;</p>
                 <td> <p>&nbsp;</p>
                     <p onclick="myFunction('RA')"><h24>Programme Senior Executive/Manager</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
@@ -46,7 +49,6 @@
                         <a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Programme-ExecutiveSenior-Executive%2C-NCL-%28School-of-Computing%29-Kent/8659844/" class="btn btn-default" >Apply now >></a>
                   </div>
                 </td>
-
             </tr>
        </table>
     </div>

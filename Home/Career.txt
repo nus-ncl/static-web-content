@@ -17,8 +17,8 @@
         <table class="table2">
         <tr>
         <td> <p>&nbsp;</p>
-                    <p onclick="myFunction('RA')"><h24>NCL Scholarship</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
-                    <div id="RA" class="hide position">
+                    <p onclick="myFunction('NCLS')"><h24>NCL Scholarship</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
+                    <div id="NCLS" class="hide position">
                         <p>&nbsp;</p>
                         <strong>Overview</strong>
                         <p align="justify">The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims to drive and support the development of professionals in Singapore’s cybersecurity sector and support the National Cybersecurity R&amp;D Lab (NCL) initiative. This scholarship (funded by the <a href="https://www.csa.gov.sg/">Cyber Security Agency of Singapore (CSA)</a>) will be awarded to qualified students who are enrolled in NUS’s Master’s programmes focusing on cybersecurity. </p>

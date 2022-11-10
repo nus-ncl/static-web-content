@@ -20,9 +20,9 @@
                     <p onclick="myFunction('RA')"><h24>NCL Scholarship</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
                     <div id="RA" class="hide position">
                         <p>&nbsp;</p>
-                        <strong>Job Description</strong>
-                        <p align="justify">The National University of Singapore invites applications for the position of Program Executive (PD) for a cybersecurity research centre hosted in the School of Computing (SOC). The research centre supports cybersecurity community on research, development, and education, and aims to be a major hub in the community. </p>
-                        <a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Programme-ExecutiveSenior-Executive%2C-NCL-%28School-of-Computing%29-Kent/8659844/" class="btn btn-default" >Apply now >></a>
+                        <strong>Overview</strong>
+                        <p align="justify">The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims to drive and support the development of professionals in Singapore’s cybersecurity sector and support the National Cybersecurity R&amp;D Lab (NCL) initiative. This scholarship (funded by the <a href="https://www.csa.gov.sg/">Cyber Security Agency of Singapore (CSA)</a>) will be awarded to qualified students who are enrolled in NUS’s Master’s programmes focusing on cybersecurity. </p>
+                        <a href="https://ncl.sg/scholarship" class="btn btn-default" >Know more >></a>
                   </div>
                 </td>
                 </tr>

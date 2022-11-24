@@ -16,8 +16,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CiDeX-Banner.jpg','imgnCidex','JPG')"/>
-                    <img id="imgnCidex" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CiDeX-Banner.jpg','imgCidex1','JPG')"/>
+                    <img id="imgCidex1" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2022</h3>

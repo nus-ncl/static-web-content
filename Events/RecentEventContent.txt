@@ -59,6 +59,7 @@
                     <div class="row">
                         <ul>
                             <li><p align="justify">National Cybersecurity R&D Lab (NCL) has signed a Memorandum of Understanding (MoU) with CyberXCenter and Tegasus INTERNATIONAL on the 1st of September 2022. </p></li>
+                            
                             <li><p align="justify">The purpose of this MOU is to deepen and strengthen the strategic partnership between the Parties to provide effective capability-building, technical assistance, and support to developing the new cyber exercise capabilities, new tools to support cyber exercise activities and new research areas in deepening the understanding of OT cyber security.</p></li>
                         </ul>
                     </div>

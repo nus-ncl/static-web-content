@@ -20,7 +20,7 @@
                     <img id="imgncls" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
-                    <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2022 (NCLS)</h3>
+                    <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2022</h3>
                     <div class="row">
                         <ul>
                             <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) has supported and hosted the inaugural Critical Infrastructure Defence Exercise (CIDeX) from 15 to 16 November at the National University of Singapore (NUS) School of Computing. </p></li>

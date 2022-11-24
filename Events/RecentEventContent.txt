@@ -16,7 +16,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CiDeX Banner_2816X1539.jpg','imgnCidex','JPG')"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CiDeX-Banner.jpg','imgnCidex','JPG')"/>
                     <img id="imgnCidex" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">

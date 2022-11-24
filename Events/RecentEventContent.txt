@@ -16,7 +16,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="" style="display: none" onload="loadImage('ncls.jpg','imgncls','JPG')"/>
+                    <img src="" style="display: none" onload="loadImage('','','JPG')"/>
                     <img id="imgncls" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
@@ -27,7 +27,7 @@
                             
                             <li><p align="justify">The cyber defence exercise involved over 100 participants from the Digital and Intelligence Service (DIS) and 16 other national agencies across the Critical Information Infrastructure (CII) sectors.
                             
-CIDeX is the largest Operational Technology (OT) Critical Infrastructure defence exercise focused on training and strengthening Whole-Of-Government (WoG) cyber capabilities to detect and tackle cyber security threats to Information Technology (IT) and OT networks that control the operations of critical infrastructure.</p></li>
+The event focused on training and strengthening Whole-Of-Government (WoG) cyber capabilities to detect and tackle cyber security threats to Information Technology (IT) and OT networks that control the operations of critical infrastructure.</p></li>
                             
                             <li><p><a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/November/16nov22_nr">Read More</a>.</p></li>
                         </ul>

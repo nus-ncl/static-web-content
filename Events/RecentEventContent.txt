@@ -52,7 +52,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="" width="300" height="200" border="0" align="left" />
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MoU-ncl-CyX-Teg.jpg','imgMoU','JPG')"/>
+                    <img id="imgMoU" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">MoU - NCL and CyberXCenter Pte Ltd and Tegasus International Pte Ltd</h3>

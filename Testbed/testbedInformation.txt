@@ -15,7 +15,7 @@
         &nbsp;
         <div class="row">
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('datacenterpic4.jpg','imgDC4','JPG')"/>
-            <img id="imgDC4" alt="" width="350"  height="400" border="0" align="right"/>
+            <img id="imgDC4" alt="" width="350"  height="380" border="0" align="right"/>
         </div>
     </div>
     <div class="col-sm-8">

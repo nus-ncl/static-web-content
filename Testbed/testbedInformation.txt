@@ -120,6 +120,19 @@
         </div> <!-- panel -->
     </div>
 
+ <div class="row">
+        <p></p>
+        <div class="panel panel-primary dashpanel">
+            <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">NCL SGX Attestation Services</h2>
+            <p></p>
+            <p align="justify">We already know well how to protect sensitive data in storage and transit via encryption. However, the encrypted data often times needs to be decrypted when being computed in memory, which puts the protected data at the risk of being exposed. Confidential Computing (CC), such as Intel SGX, is one widely available to rescue, which is an up-and-coming security technology for protecting data in use.</p>
+            <p align="justify"> NCL provides Intel NCL SGX Attestation services to support this exciting technology. Although some public cloud providers like Microsoft Azure offers Intel SGX-enabled machines with Data Center Attestation Primitives (DCAP) based attestation service. But, NCL provides SGX-enabled machines with affordable pricing, and also with DCAP-based attestation service which provides faster remote attestation for NCL SGX machines than using Intel's Attestation Service for SGX (IAS). NCL customer/users can also use this DCAP-based attestation service independently for remote attestation of SGX machines outside NCL for free.</p>  
+            
+        </div> <!-- panel -->
+    </div>
+
+</div> <!--Container 2 closes-->
+</div>
 
     <div class="row">
         <p></p>

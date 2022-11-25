@@ -52,10 +52,8 @@
         <p>&nbsp;</p>
         <div class="panel panel-primary dashpanel">
             <h2 class="team-heading team-heading-current-team" th:text="#{image.openstack.system}">Openstack Provisioning System</h2>
-            <p>OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources </p>
-            <p>throughout a datacenter, all managed and provisioned through APIs with common authentication mechanisms</p>
-            <p>NCL uses openstack APIs and provide interface to launch server instances, create experiments and perform available actions.</p>
-            <p>List of Flavours supported by NCL</p>
+            <p align="justify">OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed and provisioned through APIs with common authentication mechanisms. NCL uses openstack APIs and provide interface to launch server instances, create experiments and perform available actions.</p>
+            <p><strong>List of Flavours supported by NCL:</strong></p>
             <div class="table-responsive">
                 <table class="table1">
                     <thead BGCOLOR="#E0E0E0">
@@ -139,12 +137,9 @@
         <div class="panel panel-primary dashpanel">
             <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">DeterLab Provisioning System</h2>
             <p></p>
-            <p>DeterLab is a state-of-the-art scientific computing facility for cyber-security researchers engaged in research, development, </p>
-            <p>discovery, experimentation, and testing of innovative cyber-security technology. To date, DeterLab-based projects have included </p>
-            <p>behavior analysis and defensive technologies including DDoS attacks, worm and botnet attacks, encryption, pattern detection, </p>
-            <p>and intrusion-tolerant storage protocols. The NCL web application is a customized, enhanced version of DeterLab, </p>
-            <p>with additional features like a ready-to-use vulnerability environment, data repository, accounting, etc. </p>
-            <a href="https://deter-project.org/about_deterlab" ><h18>Learn More >>> </h18></a>
+            <p align="justify">DeterLab is a state-of-the-art scientific computing facility for cyber-security researchers engaged in research, development, discovery, experimentation, and testing of innovative cyber-security technology. To date, DeterLab-based projects have included behavior analysis and defensive technologies including DDoS attacks, worm and botnet attacks, encryption, pattern detection, and intrusion-tolerant storage protocols.</p> 
+            <p align="justify">The NCL web application is a customized, enhanced version of DeterLab, with additional features like a ready-to-use vulnerability environment, data repository, accounting, etc.</p>
+            <a target="_blank" href="https://deter-project.org/about_deterlab" ><h18>Learn More >>> </h18></a>
         </div> <!-- panel -->
     </div>
 

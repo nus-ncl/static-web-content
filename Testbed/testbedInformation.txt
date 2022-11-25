@@ -42,7 +42,7 @@
             <p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
         </div> <!-- panel -->
     </div>
-
+</div>
 
 
     <div class="row">
@@ -57,6 +57,7 @@
             <p><i class="fa fa-check"></i> LAN: Dual Port 1GB Ethernet</p>
             </div> <!-- panel -->
     </div>
+</div>
 </div>
 
 </div> <!-- container -->

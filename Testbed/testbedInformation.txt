@@ -11,7 +11,7 @@
         </div>
         &nbsp;
         <div class="row">
-            <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="420" border="0" align="right" />
+            <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="440" border="0" align="right" />
         </div>
         &nbsp;
         <div class="row">

@@ -142,8 +142,6 @@
         </div> <!-- panel -->
     </div>
 
-</div> <!--Container 2 closes-->
-</div>
 
     <div class="row">
         <p></p>

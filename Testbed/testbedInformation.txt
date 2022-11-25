@@ -5,6 +5,7 @@
 
     <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
     <div class="col-sm-4">
+         &nbsp;
         <div class="row">
             <img src="images/datacenter_ pics.jpg" alt="" width="350"  height="380" border="0" align="right" />
         </div>

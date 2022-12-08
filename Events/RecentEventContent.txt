@@ -94,7 +94,7 @@ The event focused on training and strengthening Whole-Of-Government (WoG) cyber 
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/" style="display: none" onload="loadImage('GreyCtf.JPG','imgGreyCTF','JPG')"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('GreyCtf.JPG','imgGreyCTF','JPG')"/>
                     <img id="imgGreyCTF" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">

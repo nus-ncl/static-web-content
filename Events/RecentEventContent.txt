@@ -94,8 +94,8 @@ The event focused on training and strengthening Whole-Of-Government (WoG) cyber 
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/" style="display: none" onload="loadImage('MoU-ncl-CyX-Teg.jpg','imgMoU','JPG')"/>
-                    <img id="imgMoU" width="300" height="200" border="0" align="left"/>
+                    <img src="images/" style="display: none" onload="loadImage('GreyCtf.JPG','imgGreyCTF','JPG')"/>
+                    <img id="imgGreyCTF" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">GreyCTF 2022</h3>

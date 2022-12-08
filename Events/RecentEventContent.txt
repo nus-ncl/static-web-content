@@ -103,7 +103,7 @@ The event focused on training and strengthening Whole-Of-Government (WoG) cyber 
                         <ul>
                             <li><p align="justify">Early this year in June, NCL and NUS Greyhats had the pleasure of organizing GreyCTF 2022. The event was sponsored by CSA, Guardrails and Ensign Infosecurity. The online qualifiers ran from 6 June to 10 June, while the finals ran from 18 June to 19 June. Over 354 participants took part in the online qualifiers, while 10 local teams fought their way to the finals, held at NUS i4.</p></li>
                             
-                            <li><p align="justify">The event was kicked off with speeches by representatives from sponsors CSA, Guardrails. Participants were then ushered to their respective allocated meeting rooms and the competition commenced. Following an intensive competition which ended the following day, the winning teams were finalized. All teams gathered for the prize ceremony, where representatives from Ensign Infosecurity closed the event with a motivational speech to all participants. The winners were presented prizes and all participants enjoyed a buffet spread prepared for them.</p></li>
+                            <li><p align="justify">The event was kicked off with speeches by representatives from sponsors CSA, Guardrails. Participants were then ushered to their respective allocated meeting rooms and the competition commenced.</p></li>
                             
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2022/10/greyctf-2022-event-summary-catching-up.html">Read More</a>.</p></li>
                         </ul>

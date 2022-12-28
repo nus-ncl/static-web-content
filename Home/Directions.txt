@@ -1,1 +1,1 @@
-<a target="_blank" href=""><b>Directions to NCL</b></a>
+<a target="_blank" href="NCLDirections.pdf"><b>Directions to NCL</b></a>

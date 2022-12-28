@@ -114,11 +114,6 @@
             		<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
 	   	</div>
 	    
-	    		<p onclick="displayDellR750GPU()"><b></b></p>
-			<p onclick="displayDellR750GPU()"><b></b></p>
-			<p onclick="displayDellR750GPU()"><b></b></p>
-			<p onclick="displayDellR750GPU()"><b></b></p>
-			<p onclick="displayDellR750GPU()"><b></b></p>
 	    
 	    <script>
 	    function displayAsusGPU() {

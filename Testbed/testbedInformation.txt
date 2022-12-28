@@ -1,164 +1,384 @@
 <div id="TestBedInformation">
+
 <!--<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">-->
+
     <div class="container">
+
     <!--<p class="heading h15 text-center">Testbed Info</p>-->
 
+
+
+
     <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
+
     <div class="col-sm-4">
+
          &nbsp;
+
         <div class="row">
+
             <img src="images/datacenter_ pics.jpg" alt="" width="350"  height="360" border="0" align="right" />
+
         </div>
+
         &nbsp;
+
         <div class="row">
+
             <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="440" border="0" align="right" />
+
         </div>
+
         &nbsp;
+
         <div class="row">
+
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('datacenterpic4.jpg','imgDC4','JPG')"/>
+
             <img id="imgDC4" alt="" width="350"  height="375" border="0" align="right"/>
+
         </div>
+
     </div>
+
     <div class="col-sm-8">
+
      <div class="row">
+
         <div class="panel panel-primary dashpanel">
+
             <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
+
             <p> Each node has the following specifications:</p>
+
             <p><i class="fa fa-check"></i> Two (2) Intel Xeon Processor E5-2620 V3 (2.40GHz/6-core) or V4 (2.1Ghz/8-core)</p>
+
             <p><i class="fa fa-check"></i> One (1) 64GB 2133MHz DDR4 ECC memory</p>
+
             <p><i class="fa fa-check"></i> One (1) 2TB 7.2K RPM Enterprise SATA 3.5” Hot-Plug Hard Drive</p>
+
             <p><i class="fa fa-check"></i> One (1) 1Gb Ethernet RJ45 LAN port</p>
+
             <p><i class="fa fa-check"></i> Two (2) 10Gb Ethernet ports (Intel X540)</p>
+
             <p><i class="fa fa-check"></i> One (1) power supply unit</p>
+
         </div> <!-- panel -->
+
     </div>
 
+
+
+
     <div class="row">
+
         <div class="panel panel-primary dashpanel">
+
             <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">GPU Node Specification</h2>
-            <p> Each GPU node has the following specifications:</p>
-            <p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
-            <p><i class="fa fa-check"></i> Memory: (256) GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
-            <p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            <p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            <p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
-            <p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
-            <p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
-            <p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
+
+	    <p> NCL currently owns three type of GPU: </p>
+		<p onclick="displayAsusGPU()"><b>ASUS ESC4000</b></p>
+		<div id="displayAsusGPU" style="display:none">
+			<!-- <p><b> ASUS GPU node has the following specifications:</b></p> -->
+			<p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
+            		<p><i class="fa fa-check"></i> Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
+          		<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            		<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            		<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
+            		<p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
+            		<p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
+            		<p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
+	    	</div>
+		<p onclick="displayDellR650GPU()"><b>Dell PowerEdge R650</b></p>
+		<div id="displayDellR650GPU" style="display:none">
+			<!-- <p><b> Dell PowerEdge R650 GPU node has the following specifications:</b></p> -->
+			<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Gold 6338 Processor (32C, 40T, 48M, 2.30GHz)</p>
+            		<p><i class="fa fa-check"></i> Memory: (16) 64GB DDR4-3200 </p>
+            		<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            		<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            		<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise 2.5" SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
+            		<p><i class="fa fa-check"></i> HDD: (1) 16TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
+            		<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
+            		<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
+	    	</div>
+		<p onclick="displayDellR750GPU()"><b>Dell PowerEdge R750</b></p>
+		<div id="displayDellR750GPU" style="display:none">
+			<!-- <p><b> Dell PowerEdge R750 GPU node has the following specifications:</b></p> -->
+			<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Silver 4310 2.1G (12 Cores / 24 Threads | 10.4 GT/s | 18M Cache | Turbo | HT (120W) DDR4-2666</p>
+            		<p><i class="fa fa-check"></i> Memory: (8) 32GB RDIMM, Transfer Speed 3200MT/s, Dual Rank 16Gb BASE x16 </p>
+            		<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            		<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            		<p><i class="fa fa-check"></i> SSD: (1) 480GB SATA SSD Mix Use 6Gbps 512</p>
+            		<p><i class="fa fa-check"></i> HDD: (1) 2.4TB 10K RPM SAS ISE 12Gbps 512e</p>
+            		<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
+            		<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
+	   	</div>
+	    
+	    <script>
+	    function displayAsusGPU() {
+		var x = document.getElementById("displayAsusGPU");
+		if (x.style.display === "none") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none"; 
+			}	
+		}
+		function displayDellR650GPU() {
+		var x = document.getElementById("displayDellR650GPU");
+		if (x.style.display === "none") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none"; 
+			}	
+		}
+		function displayDellR750GPU() {
+		var x = document.getElementById("displayDellR750GPU");
+		if (x.style.display === "none") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none"; 
+			}	
+		}
+	    </script>
         </div> <!-- panel -->
+
     </div>
 
+
+
+
     <div class="row">
+
         <div class="panel panel-primary dashpanel">
+
             <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">SGX server node Specification</h2>
+
             <p> Each node has the following specifications:</p>
+
             <p><i class="fa fa-check"></i> CPU: 6-core Intel Xeon E-2356G 3.2GHZ/12M Cache/3200 MT/s</p>
+
             <p><i class="fa fa-check"></i> SGX: Firmware Version</p>
+
             <p><i class="fa fa-check"></i> TPM: Trusted Platform Module 2.0 V3</p>
+
             <p><i class="fa fa-check"></i> RAM: 16GB UDIMM, 3200MT/s, ECC</p>
+
             <p><i class="fa fa-check"></i> SSD: 480GB SATA Mix Use 6Gbps</p>
+
             <p><i class="fa fa-check"></i> LAN: Dual Port 1GB Ethernet</p>
+
             </div> <!-- panel -->
+
     </div>
+
 </div>
+
+
+
 
 </div> <!-- container -->
 
+
+
+
 <div class="container">
 
+
+
+
     <div class="row">
+
         <p>&nbsp;</p>
+
         <div class="panel panel-primary dashpanel">
+
             <h2 class="team-heading team-heading-current-team" th:text="#{image.openstack.system}">Openstack Provisioning System</h2>
+
             <p align="justify">OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed and provisioned through APIs with common authentication mechanisms. NCL uses openstack APIs and provide interface to launch server instances, create experiments and perform available actions.</p>
+
             <p><strong>List of Flavours supported by NCL:</strong></p>
+
             <div class="table-responsive">
+
                 <table class="table1">
+
                     <thead BGCOLOR="#E0E0E0">
+
                     <th width="35%"><p><h4><strong th:text="#{image.flavour}">Name</strong></h4></p></th>
+
                     <th width="25%"><p><h4><strong th:text="#{image.ram}">RAM (MB)</strong></h4></p></th>
+
                     <th width="20%"><p><h4><strong th:text="#{image.disk}">Disk (GB)</strong></h4></p></th>
+
                     <th width="20%"><p><h4><strong th:text="#{image.vcpu}">VCPUs</strong></h4></p></th>
+
                     </thead>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">m1.small</div></td>
+
                         <td><div align="center">2048</div></td>
+
                         <td><div align="center">40</div></td>
+
                         <td><div align="center">1</div></td>
+
                       <!--  <td><div align="center">Ubuntu-18.04...Ubuntu-20.04...Kali-Linux-2020...Fedora-35</div></td>-->
+
                     </tr>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">m1.medium</div></td>
+
                         <td><div align="center">4096</div></td>
+
                         <td><div align="center">60</div></td>
+
                         <td><div align="center">2</div></td>
+
                     </tr>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">m1.large</div></td>
+
                         <td><div align="center">8192</div></td>
+
                         <td><div align="center">80</div></td>
+
                         <td><div align="center">4</div></td>
+
                     </tr>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">m1.xlarge</div></td>
+
                         <td><div align="center">16384</div></td>
+
                         <td><div align="center">120</div></td>
+
                         <td><div align="center">8</div></td>
+
                     </tr>
+
                 </table>
+
                 <p> </p>
+
                 <p>List of Operating Systems supported by NCL</p>
 
+
+
+
                 <table class="table1">
+
                     <thead BGCOLOR="#E0E0E0">
+
                     <th width="30%"><p><h4><strong th:text="#{image.OS}">OS</strong></h4></p></th>
+
                     <th width="70%"><p><h4><strong th:text="#{image.description}">Description</strong></h4></p></th>
+
                     </thead>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">Ubuntu-1804-vmdk</div></td>
+
                         <td><div align="center">Ubuntu Server 18.04 LTS (Bionic Beaver) released builds</div></td>
+
                     </tr>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">Ubuntu-2004-vmdk</div></td>
+
                         <td><div align="center">Ubuntu Server 20.04 LTS (Focal Fossa) released builds</div></td>
+
                     </tr>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">Kali-vmdk</div></td>
+
                         <td><div align="center">The latest open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.</div></td>
+
                     </tr>
+
                     <tr BGCOLOR="#fff">
+
                         <td><div align="center">Fedora35_Cloud_qcow2</div></td>
+
                         <td><div align="center">Fedora 35 Cloud Base Images</div></td>
+
                     </tr>
+
                 </table>
+
             </div>
+
             <a href="https://www.openstack.org/software/" ><h18>Learn More >>> </h18></a>
+
         </div> <!-- panel -->
+
     </div>
 
+
+
+
  <div class="row">
+
         <p></p>
+
         <div class="panel panel-primary dashpanel">
+
             <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">NCL SGX Attestation Services</h2>
+
             <p></p>
+
             <p align="justify">We already know well how to protect sensitive data in storage and transit via encryption. However, the encrypted data often times needs to be decrypted when being computed in memory, which puts the protected data at the risk of being exposed. Confidential Computing (CC), such as Intel SGX, is one widely available to rescue, which is an up-and-coming security technology for protecting data in use.</p>
+
             <p align="justify"> NCL provides Intel NCL SGX Attestation services to support this exciting technology. Although some public cloud providers like Microsoft Azure offers Intel SGX-enabled machines with Data Center Attestation Primitives (DCAP) based attestation service. But, NCL provides SGX-enabled machines with affordable pricing, and also with DCAP-based attestation service which provides faster remote attestation for NCL SGX machines than using Intel's Attestation Service for SGX (IAS). NCL customer/users can also use this DCAP-based attestation service independently for remote attestation of SGX machines outside NCL for free.</p>  
+
             
+
         </div> <!-- panel -->
+
     </div>
+
+
+
+
+
 
 
     <div class="row">
+
         <p></p>
+
         <div class="panel panel-primary dashpanel">
+
             <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">DeterLab Provisioning System</h2>
+
             <p></p>
+
             <p align="justify">DeterLab is a state-of-the-art scientific computing facility for cyber-security researchers engaged in research, development, discovery, experimentation, and testing of innovative cyber-security technology. To date, DeterLab-based projects have included behavior analysis and defensive technologies including DDoS attacks, worm and botnet attacks, encryption, pattern detection, and intrusion-tolerant storage protocols.</p> 
+
             <p align="justify">The NCL web application is a customized, enhanced version of DeterLab, with additional features like a ready-to-use vulnerability environment, data repository, accounting, etc.</p>
+
             <a target="_blank" href="https://deter-project.org/about_deterlab" ><h18>Learn More >>> </h18></a>
+
         </div> <!-- panel -->
+
     </div>
 
+
+
+
 </div> <!--Container 2 closes-->
+
 </div>
+
 

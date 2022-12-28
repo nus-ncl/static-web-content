@@ -29,8 +29,8 @@
                
            <tr>
                 <h22>Positions Available in NCL :</h22><p>&nbsp;</p>
-                <td> <p>&nbsp;</p>
-                    #<p onclick="myFunction('RA')"><h24>Programme Senior Executive/Manager</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
+               <!-- <td> <p>&nbsp;</p>
+                    <p onclick="myFunction('RA')"><h24>Programme Senior Executive/Manager</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
                     <div id="RA" class="hide position">
                         <p>&nbsp;</p>
                         <strong>Job Description</strong>
@@ -55,7 +55,7 @@
                             <li>Good communication (written and oral) and presentation skills.</li>
                             <li>Good contact and experience in working with the Institutes of Higher Learning.</li>
                         </ul>
-                        <a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Programme-ExecutiveSenior-Executive%2C-NCL-%28School-of-Computing%29-Kent/8659844/" class="btn btn-default" >Apply now >></a>
+                        <a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Programme-ExecutiveSenior-Executive%2C-NCL-%28School-of-Computing%29-Kent/8659844/" class="btn btn-default" >Apply now >></a> -->
                   </div>
                 </td>
             </tr>

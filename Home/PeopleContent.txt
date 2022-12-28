@@ -45,13 +45,6 @@
 		
                 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Felix Wong</b></h8>
-                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
-	            </div>
-                </div>
-		
-                <div class="col-sm-6">
-                    <div class="row">
                         <h8><b>Hannah Oei</b></h8>
                         <p><b><font color="585656">Assistant Manager</font></b> </p>
 		      </div>
@@ -63,14 +56,21 @@
                         <p><b><font color="585656">Senior Programme Executive (Business Operations)</font></b> </p>
                     </div>
 		  </div>
-		
+
 		 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Liu Yuancheng</b></h8>
                         <p><b><font color="585656"> Senior Software Engineer (Development) </font></b> </p>
                     </div>
                 </div>
-		
+
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Felix Wong</b></h8>
+                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
+	            </div>
+                </div>
+
 		<div class="col-sm-6">
                     <div class="row">
                         <h8><b>Deepshikha</b></h8>
@@ -84,7 +84,21 @@
                         <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
                 </div>
+
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Niklaus Kang</b></h8>
+                        <p><b><font color="585656">Infrastructure Assistant Manager</font></b> </p>
+	            </div>
+                </div>
 		
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Mavis Ang</b></h8>
+                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
+	            </div>
+                </div>
+
             </div>
 
             <div class="row">
@@ -110,9 +124,17 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Huang Kang</b></h8>
-                        <p><b><font color="585656">Research Affiliate</font></b> </p>
+                        <p><b><font color="585656">Research Associate</font></b> </p>
                     </div>
                 </div>
+		
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Liu Ziyan</b></h8>
+                        <p><b><font color="585656">Research Assistant</font></b> </p>
+                    </div>
+                </div>
+		
             </div>
 
             <div class="row">

@@ -79,7 +79,7 @@
 	    <p> NCL currently owns three type of GPU: </p>
 		<details>
 			<ul>
-			<li><summary><b><u>ASUS ESC4000</b></u></summary></li>
+			<li><summary><b><u>ASUS ESC4000</b></u></summary></li></ul>
 				<p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
             			<p><i class="fa fa-check"></i> Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
           			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
@@ -89,8 +89,8 @@
             			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
             			<p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
 	    	</details>
-		<details>
-			<li><summary><b><u>Dell PowerEdge R650</b></u></summary></li>
+		<details><ul>
+			<li><summary><b><u>Dell PowerEdge R650</b></u></summary></li></ul>
 				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Gold 6338 Processor (32C, 40T, 48M, 2.30GHz)</p>
             			<p><i class="fa fa-check"></i> Memory: (16) 64GB DDR4-3200 </p>
             			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
@@ -100,8 +100,8 @@
             			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
             			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
 	    	</details>
-		<details>
-			<li><summary><b><u>Dell PowerEdge R750</b></u></summary></li>
+		<details><ul>
+			<li><summary><b><u>Dell PowerEdge R750</b></u></summary></li></ul>
 				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Silver 4310 2.1G (12 Cores / 24 Threads | 10.4 GT/s | 18M Cache | Turbo | HT (120W) DDR4-2666</p>
             			<p><i class="fa fa-check"></i> Memory: (8) 32GB RDIMM, Transfer Speed 3200MT/s, Dual Rank 16Gb BASE x16 </p>
             			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
@@ -110,7 +110,7 @@
             			<p><i class="fa fa-check"></i> HDD: (1) 2.4TB 10K RPM SAS ISE 12Gbps 512e</p>
             			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
             			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
-		</details></ul>
+		</details>
         </div> <!-- panel -->
 
     </div>

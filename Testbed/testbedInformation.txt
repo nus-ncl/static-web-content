@@ -89,7 +89,7 @@
             			<p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
 	    	</details>
 		<details>
-			<summary>Dell PowerEdge R650</summary>
+			<summary><b><u>Dell PowerEdge R650</b></u></summary>
 				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Gold 6338 Processor (32C, 40T, 48M, 2.30GHz)</p>
             			<p><i class="fa fa-check"></i> Memory: (16) 64GB DDR4-3200 </p>
             			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
@@ -100,7 +100,7 @@
             			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
 	    	</details>
 		<details>
-			<summary>Dell PowerEdge R750</summary>
+			<summary><b><u>Dell PowerEdge R750</b></u></summary>
 				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Silver 4310 2.1G (12 Cores / 24 Threads | 10.4 GT/s | 18M Cache | Turbo | HT (120W) DDR4-2666</p>
             			<p><i class="fa fa-check"></i> Memory: (8) 32GB RDIMM, Transfer Speed 3200MT/s, Dual Rank 16Gb BASE x16 </p>
             			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>

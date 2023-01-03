@@ -78,7 +78,7 @@
 
 	    <p> NCL currently owns three type of GPU: </p>
 		<details>
-			<summary>ASUS ESC4000</summary>
+			<summary><b><u>ASUS ESC4000</b></u></summary>
 				<p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
             			<p><i class="fa fa-check"></i> Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
           			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>

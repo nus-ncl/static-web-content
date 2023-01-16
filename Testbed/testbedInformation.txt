@@ -79,7 +79,6 @@
 	    <p> NCL currently owns three type of GPU: </p>
 		<details>
 			<summary>NVIDIA A100 Tensor Core</summary> 
-				Delivers unprecedented acceleration at every scale to power the world’s highest-performing elastic data centers for AI, data analytics, and HPC.
 				<p><i class="fa fa-check"></i> FP64: 9.7 teraFLOPS </p>
             			<p><i class="fa fa-check"></i> FP64 Tensor Core: 19.5 teraFLOPS</p>
           			<p><i class="fa fa-check"></i> FP32: 19.5 teraFLOPS </p>
@@ -97,7 +96,6 @@
 	    	</details>
 		<details>
 			<summary>NVIDIA Tesla V100</summary>
-				Most advanced data center GPU ever built to accelerate AI, high performance computing (HPC), data science and 	graphics. It’s powered by NVIDIA Volta architecture, comes in 16 and 32GB configurations, and offers the performance of up to 100 CPUs in a single GPU. Data scientists, researchers, and engineers can now spend less time optimising memory usage and more time designing the next AI breakthrough.
 				<p><i class="fa fa-check"></i> GPU Architecture: NVIDIA Volta </p>
             			<p><i class="fa fa-check"></i> NVIDIA Tensor Cores: 640 </p>
           			<p><i class="fa fa-check"></i> NVIDIA CUDA Cores: 5120 </p>
@@ -112,8 +110,6 @@
 	    	</details>
 		<details>
 			<summary>NVIDIA Tesla P100 12GB</summary>
-				The World’s First AI Supercomputing Data Center GPU
-Today's data centers rely on many interconnected commodity compute nodes, which limits high performance computing (HPC) and hyperscale workloads. NVIDIA® Tesla® P100 taps into NVIDIA Pascal™ GPU architecture to deliver a unified platform for accelerating both HPC and AI, dramatically increasing throughput while also reducing costs.
 				<p><i class="fa fa-check"></i> GPU Architecture: NVIDIA Pascal </p>
           			<p><i class="fa fa-check"></i> NVIDIA CUDA Cores: 3584 </p>
             			<p><i class="fa fa-check"></i> Double-Precision Performance: 4.7 teraFLOPS </p>

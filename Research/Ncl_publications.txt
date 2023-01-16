@@ -49,7 +49,7 @@
                         
                          <!-- 2022 publication -->
                          <h3 class="news-header1" >
-                            <a target=_blank href="https://informs-sim.org/wsc22papers/070.pdf"><font color="#216694">Design and Implementation of Human-Behave Bot for Realistic Web Browsing Activity generation</font></a></h3>
+                            <a target=_blank href="https://informs-sim.org/wsc22papers/by_area.html#cea148"><font color="#216694">Design and Implementation of Human-Behave Bot for Realistic Web Browsing Activity generation</font></a></h3>
  <p><font size="2px" color="#000000">• Akhil Vuputuri, Aris Cahyadi Risdianto, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• WSC 2022: Winter Simulation Conference 2022.</font></p>
  
  			<h3 class="news-header1" >

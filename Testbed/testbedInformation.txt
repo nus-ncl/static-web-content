@@ -78,38 +78,53 @@
 
 	    <p> NCL currently owns three type of GPU: </p>
 		<details>
-			<summary><b><u>ASUS ESC4000</b></u></summary>
-				<p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
-            			<p><i class="fa fa-check"></i> Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
-          			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            			<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            			<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
-            			<p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
-            			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
-            			<p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
+			<summary>NVIDIA A100 Tensor Core</summary> 
+				Delivers unprecedented acceleration at every scale to power the world’s highest-performing elastic data centers for AI, data analytics, and HPC.
+				<p><i class="fa fa-check"></i> FP64: 9.7 teraFLOPS </p>
+            			<p><i class="fa fa-check"></i> FP64 Tensor Core: 19.5 teraFLOPS</p>
+          			<p><i class="fa fa-check"></i> FP32: 19.5 teraFLOPS </p>
+            			<p><i class="fa fa-check"></i> Tensor Float 32 (TF32): 156 teraFLOPS | 312 teraFLOPS* </p>
+            			<p><i class="fa fa-check"></i> BFLOAT16 Tensor Core: 312 teraFLOPS | 624 teraFLOPS*</p>
+            			<p><i class="fa fa-check"></i> FP16 Tensor Core: 312 teraFLOPS | 624 teraFLOPS*</p>
+            			<p><i class="fa fa-check"></i> INT8 Tensor Core: 624 TOPS | 1248 TOPS* </p>
+				<p><i class="fa fa-check"></i> GPU Memory: 80GB HBM2e </p>
+            			<p><i class="fa fa-check"></i> GPU Memory Bandwidth: 1,935 GB/s </p>
+          			<p><i class="fa fa-check"></i> Max Thermal Design Power (TDP): 300W </p>
+            			<p><i class="fa fa-check"></i> Multi-Instance GPU: Up to 7 MIGs @ 10GB </p>
+            			<p><i class="fa fa-check"></i> Form Factor: PCIe | Dual-slot air-cooled or single-slot liquid-cooled </p>
+            			<p><i class="fa fa-check"></i> Interconnect: NVIDIA’ NVLink’ Bridge for 2 GPUs: 600 GB/s ** | PCIe Gen4: 64 GB/s </p>
+            			<p><i class="fa fa-check"></i> Server Options: Partner & NVIDIA-Certified Systems with 1-8 GPUs </p>
 	    	</details>
 		<details>
-			<summary><b><u>Dell PowerEdge R650</b></u></summary>
-				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Gold 6338 Processor (32C, 40T, 48M, 2.30GHz)</p>
-            			<p><i class="fa fa-check"></i> Memory: (16) 64GB DDR4-3200 </p>
-            			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            			<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            			<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise 2.5" SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
-            			<p><i class="fa fa-check"></i> HDD: (1) 16TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
-            			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
-            			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
+			<summary>NVIDIA Tesla V100</summary>
+				Most advanced data center GPU ever built to accelerate AI, high performance computing (HPC), data science and 	graphics. It’s powered by NVIDIA Volta architecture, comes in 16 and 32GB configurations, and offers the performance of up to 100 CPUs in a single GPU. Data scientists, researchers, and engineers can now spend less time optimising memory usage and more time designing the next AI breakthrough.
+				<p><i class="fa fa-check"></i> GPU Architecture: NVIDIA Volta </p>
+            			<p><i class="fa fa-check"></i> NVIDIA Tensor Cores: 640 </p>
+          			<p><i class="fa fa-check"></i> NVIDIA CUDA Cores: 5120 </p>
+            			<p><i class="fa fa-check"></i> Double-Precision Performance: 7.8 teraFLOPS </p>
+            			<p><i class="fa fa-check"></i> Single-Precision Performance: 15.7 teraFLOPS </p>
+				<p><i class="fa fa-check"></i> Tensor Performance: 125 teraFLOPS </p>
+            			<p><i class="fa fa-check"></i> Interconnect: Bi-directional 32 GB/s </p>
+				<p><i class="fa fa-check"></i> GPU Memory: 16GB HBM2 </p>
+            			<p><i class="fa fa-check"></i> GPU Memory Bandwidth: 900 GB/s </p>
+          			<p><i class="fa fa-check"></i> Max Thermal Design Power (TDP): 300W </p>
+            			<p><i class="fa fa-check"></i> System Interface: NVIDIA NVLink </p>
 	    	</details>
 		<details>
-			<summary><b><u>Dell PowerEdge R750</b></u></summary>
-				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Silver 4310 2.1G (12 Cores / 24 Threads | 10.4 GT/s | 18M Cache | Turbo | HT (120W) DDR4-2666</p>
-            			<p><i class="fa fa-check"></i> Memory: (8) 32GB RDIMM, Transfer Speed 3200MT/s, Dual Rank 16Gb BASE x16 </p>
-            			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            			<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            			<p><i class="fa fa-check"></i> SSD: (1) 480GB SATA SSD Mix Use 6Gbps 512</p>
-            			<p><i class="fa fa-check"></i> HDD: (1) 2.4TB 10K RPM SAS ISE 12Gbps 512e</p>
-            			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
-            			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
-		</details>
+			<summary>NVIDIA Tesla P100 12GB</summary>
+				The World’s First AI Supercomputing Data Center GPU
+Today's data centers rely on many interconnected commodity compute nodes, which limits high performance computing (HPC) and hyperscale workloads. NVIDIA® Tesla® P100 taps into NVIDIA Pascal™ GPU architecture to deliver a unified platform for accelerating both HPC and AI, dramatically increasing throughput while also reducing costs.
+				<p><i class="fa fa-check"></i> GPU Architecture: NVIDIA Pascal </p>
+          			<p><i class="fa fa-check"></i> NVIDIA CUDA Cores: 3584 </p>
+            			<p><i class="fa fa-check"></i> Double-Precision Performance: 4.7 teraFLOPS </p>
+            			<p><i class="fa fa-check"></i> Single-Precision Performance: 9.3 teraFLOPS </p>
+				<p><i class="fa fa-check"></i> Half-Precision Performance: 18.7 teraFLOPS </p>
+            			<p><i class="fa fa-check"></i> Interconnect: 32 GB/s </p>
+				<p><i class="fa fa-check"></i> GPU Memory: 12GB HBM2 </p>
+            			<p><i class="fa fa-check"></i> GPU Memory Bandwidth: 549 GB/s </p>
+          			<p><i class="fa fa-check"></i> Max Thermal Design Power (TDP): 250W </p>
+            			<p><i class="fa fa-check"></i> System Interface: PCIe Gen3 </p>
+	    	</details>
         </div> <!-- panel -->
 
     </div>

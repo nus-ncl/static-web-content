@@ -48,7 +48,7 @@
                         <h7><b>NCL Publications</b></h7>
                         
                          <!-- 2022 publication -->
-                          <h3 class="news-header1" >
+                         <h3 class="news-header1" >
                             <a target=_blank href="https://link.springer.com/chapter/10.1007/978-3-031-17140-6_29"><font color="#216694">AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports</font></a></h3>
  <p><font size="2px" color="#000000">• Zhenyuan Li, Jun Zeng, Yan Chen, Zhenkai Liang&nbsp;&nbsp;&nbsp;• ESORICS 2022: European Symposium on Research in Computer Security.</font></p>
  

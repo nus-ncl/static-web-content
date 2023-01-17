@@ -128,13 +128,6 @@
                     </div>
                 </div>
 		
-		<div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Liu Ziyan</b></h8>
-                        <p><b><font color="585656">Research Assistant</font></b> </p>
-                    </div>
-                </div>
-		
             </div>
 
             <div class="row">

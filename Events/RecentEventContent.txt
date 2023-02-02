@@ -11,7 +11,28 @@
                     <p></p>
                 </div>
             </div>
-                        
+                    
+             <div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('nclteamcidex.jpg','imgBanner','JPG')"/>
+                    <img id="imgBanner" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">Seminar on "Zero Trust in Zero Trust?"</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">Speaker: <a target="_blank" href="https://events.comp.nus.edu.sg/view/20279">Professor Virgil D. Gligor</a>, Carnegie Mellon University. </p></li>
+                            
+                            <li><p align="justify">Chaired by: Associate Professor LIANG Zhenkai, National Cybersecurity R&D Lab, School of Computing, NUS.</p></li>
+                            <li><p align="justify">We review the standard definitions of trust, zero trust, trusted service, and trust establishment, and show that zero trust is unachievable in any enterprise network; i.e., at least one security property is impossible to establish unconditionally with confidence for some devices and many others are impractical to establish for other devices. In fact, zero trust has meaning only as an unreachable limit of trust establishment.</p></li>
+                            <li><p><a target="_blank" href="https://events.comp.nus.edu.sg/view/20279">Read More</a>.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>  <!-- part 1 ends-->       
+                    
              <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>

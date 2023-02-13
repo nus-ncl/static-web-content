@@ -43,6 +43,13 @@
                     </div>
                 </div>
 		
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Liu Yuancheng</b></h8>
+                        <p><b><font color="585656"> Head of Technology </font></b> </p>
+                    </div>
+                </div>
+		
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
@@ -58,13 +65,6 @@
 		  </div>
 
 		 <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Liu Yuancheng</b></h8>
-                        <p><b><font color="585656"> Senior Software Engineer (Development) </font></b> </p>
-                    </div>
-                </div>
-
-		<div class="col-sm-6">
                     <div class="row">
                         <h8><b>Felix Wong</b></h8>
                         <p><b><font color="585656">Infrastructure Engineer</font></b> </p>

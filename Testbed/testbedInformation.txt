@@ -31,30 +31,6 @@
 
         </div>
 
-        &nbsp;
-
-        <div class="row">
-
-            <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="440" border="0" align="right" />
-
-        </div>
-	
-	&nbsp;
-
-        <div class="row">
-
-            <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="440" border="0" align="right" />
-
-        </div>
-	
-	&nbsp;
-
-        <div class="row">
-
-            <img src="images/datacenter_ pics3.jpg" alt="" width="350"  height="440" border="0" align="right" />
-
-        </div>
-
     </div>
 
     <div class="col-sm-8">
@@ -116,7 +92,7 @@
 
             <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">GPU Node Specification</h2>
 
-	    <p> NCL currently owns three type of GPU: </p>
+	    <p> NCL currently owns three types of GPU: </p>
 		<details>
 			<summary>NVIDIA A100 Tensor Core</summary> 
 				<p><i class="fa fa-check"></i> FP64: 9.7 teraFLOPS </p>

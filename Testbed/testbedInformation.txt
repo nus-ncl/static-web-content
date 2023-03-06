@@ -10,7 +10,7 @@
 
 
     <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
-
+	<h4>For reservation/booking of nodes or VM, please write to us at support@ncl.sg</h4>
     <div class="col-sm-4">
 
          &nbsp;

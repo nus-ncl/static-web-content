@@ -10,7 +10,7 @@
 
 
     <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
-	<h4>To access our Testbed services for research experimentation and testing, please contact us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
+	<h4>To access our testbed services for research experimentation and testing, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
     <div class="col-sm-4">
 
          &nbsp;

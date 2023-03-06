@@ -9,8 +9,8 @@
 
 
 
-    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b><br>
-	<h4>To access our testbed services for research experimentation and testing, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4></p>
+    <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
+	<h4 align="Center">To access our testbed services for research experimentation and testing, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
     <div class="col-sm-4">
 
          &nbsp;

@@ -11,6 +11,7 @@
 
     <p align="Center"><b><font size="30px" color="#0d6dba">Testbed Info</font></b></p>
 	<h4 align="Center">To access our testbed services for research experimentation and testing, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
+
     <div class="col-sm-4">
 
          &nbsp;
@@ -77,69 +78,39 @@
             <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">GPU Node Specification</h2>
 
 	    <p> NCL currently owns three type of GPU: </p>
-		<p onclick="displayAsusGPU()"><b>ASUS ESC4000</b></p>
-		<div id="displayAsusGPU" style="display:none">
-			<!-- <p><b> ASUS GPU node has the following specifications:</b></p> -->
-			<p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
-            		<p><i class="fa fa-check"></i> Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
-          		<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            		<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            		<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
-            		<p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
-            		<p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
-            		<p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
-	    	</div>
-		<p onclick="displayDellR650GPU()"><b>Dell PowerEdge R650</b></p>
-		<div id="displayDellR650GPU" style="display:none">
-			<!-- <p><b> Dell PowerEdge R650 GPU node has the following specifications:</b></p> -->
-			<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Gold 6338 Processor (32C, 40T, 48M, 2.30GHz)</p>
-            		<p><i class="fa fa-check"></i> Memory: (16) 64GB DDR4-3200 </p>
-            		<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            		<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            		<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise 2.5" SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
-            		<p><i class="fa fa-check"></i> HDD: (1) 16TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
-            		<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
-            		<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
-	    	</div>
-		<p onclick="displayDellR750GPU()"><b>Dell PowerEdge R750</b></p>
-		<div id="displayDellR750GPU" style="display:none">
-			<!-- <p><b> Dell PowerEdge R750 GPU node has the following specifications:</b></p> -->
-			<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Silver 4310 2.1G (12 Cores / 24 Threads | 10.4 GT/s | 18M Cache | Turbo | HT (120W) DDR4-2666</p>
-            		<p><i class="fa fa-check"></i> Memory: (8) 32GB RDIMM, Transfer Speed 3200MT/s, Dual Rank 16Gb BASE x16 </p>
-            		<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
-            		<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
-            		<p><i class="fa fa-check"></i> SSD: (1) 480GB SATA SSD Mix Use 6Gbps 512</p>
-            		<p><i class="fa fa-check"></i> HDD: (1) 2.4TB 10K RPM SAS ISE 12Gbps 512e</p>
-            		<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
-            		<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
-	   	</div>
-	    
-	    <script type="text/javascript">
-	    function displayAsusGPU() {
-		var x = document.getElementById("displayAsusGPU");
-		if (x.style.display === "none") {
-			x.style.display = "block";
-		} else {
-			x.style.display = "none"; 
-			}	
-		}
-		function displayDellR650GPU() {
-		var x = document.getElementById("displayDellR650GPU");
-		if (x.style.display === "none") {
-			x.style.display = "block";
-		} else {
-			x.style.display = "none"; 
-			}	
-		}
-		function displayDellR750GPU() {
-		var x = document.getElementById("displayDellR750GPU");
-		if (x.style.display === "none") {
-			x.style.display = "block";
-		} else {
-			x.style.display = "none"; 
-			}	
-		}
-	    </script>
+		<details>
+			<summary>ASUS ESC4000</summary>
+				<p><i class="fa fa-check"></i> CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</p>
+            			<p><i class="fa fa-check"></i> Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</p>
+          			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            			<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            			<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
+            			<p><i class="fa fa-check"></i> HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
+            			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 16.04 LTS, CUDA toolkit, cuDNN installation</p>
+            			<p><i class="fa fa-check"></i> GPU: (2) NVIDIA Tesla V100 16GB HBM2 / Tesla P100 12GB HBM2</p>
+	    	</details>
+		<details>
+			<summary>Dell PowerEdge R650</summary>
+				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Gold 6338 Processor (32C, 40T, 48M, 2.30GHz)</p>
+            			<p><i class="fa fa-check"></i> Memory: (16) 64GB DDR4-3200 </p>
+            			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            			<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            			<p><i class="fa fa-check"></i> SSD: (1) 480GB Enterprise 2.5" SATA SSD (Samsung PM863a), high endurance, 2M MTBF</p>
+            			<p><i class="fa fa-check"></i> HDD: (1) 16TB Enterprise SATA HDD, 7.2k RPM 256MB cache, 2.5M MTBF</p>
+            			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
+            			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
+	    	</details>
+		<details>
+			<summary>Dell PowerEdge R750</summary>
+				<p><i class="fa fa-check"></i> CPU: (1) Intel Xeon Silver 4310 2.1G (12 Cores / 24 Threads | 10.4 GT/s | 18M Cache | Turbo | HT (120W) DDR4-2666</p>
+            			<p><i class="fa fa-check"></i> Memory: (8) 32GB RDIMM, Transfer Speed 3200MT/s, Dual Rank 16Gb BASE x16 </p>
+            			<p><i class="fa fa-check"></i> 1GbE NIC: (1) Dual port 1GBASE-T Network Adapter (4 ports, together with 2 LOM)</p>
+            			<p><i class="fa fa-check"></i> 10GbE NIC: (1) Dual port 10GBASE-T Network Adapter</p>
+            			<p><i class="fa fa-check"></i> SSD: (1) 480GB SATA SSD Mix Use 6Gbps 512</p>
+            			<p><i class="fa fa-check"></i> HDD: (1) 2.4TB 10K RPM SAS ISE 12Gbps 512e</p>
+            			<p><i class="fa fa-check"></i> OS: (1) Ubuntu 20.04 LTS </p>
+            			<p><i class="fa fa-check"></i> GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</p>
+		</details>
         </div> <!-- panel -->
 
     </div>

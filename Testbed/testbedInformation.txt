@@ -13,7 +13,17 @@
 	<h4 align="Center">To access our testbed services for research experimentation and testing, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
     <div class="col-sm-4">
 
-         &nbsp;
+        &nbsp;
+
+        <div class="row">
+
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('datacenterpic4.jpg','imgDC4','JPG')"/>
+
+            <img id="imgDC4" alt="" width="350"  height="375" border="0" align="right"/>
+
+        </div>
+	 
+	 &nbsp;
 
         <div class="row">
 
@@ -42,6 +52,30 @@
     </div>
 
     <div class="col-sm-8">
+    
+    <div class="row">
+
+        <div class="panel panel-primary dashpanel">
+
+            <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">SGX server node Specification</h2>
+
+            <p> Each node has the following specifications:</p>
+
+            <p><i class="fa fa-check"></i> CPU: 6-core Intel Xeon E-2356G 3.2GHZ/12M Cache/3200 MT/s</p>
+
+            <p><i class="fa fa-check"></i> SGX: Firmware Version</p>
+
+            <p><i class="fa fa-check"></i> TPM: Trusted Platform Module 2.0 V3</p>
+
+            <p><i class="fa fa-check"></i> RAM: 16GB UDIMM, 3200MT/s, ECC</p>
+
+            <p><i class="fa fa-check"></i> SSD: 480GB SATA Mix Use 6Gbps</p>
+
+            <p><i class="fa fa-check"></i> LAN: Dual Port 1GB Ethernet</p>
+
+            </div> <!-- panel -->
+
+    </div>
 
      <div class="row">
 

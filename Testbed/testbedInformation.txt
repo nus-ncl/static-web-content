@@ -69,12 +69,6 @@
     </div>
 
 
-
-
- <div class="row">
-
-        <p></p>
-
         <div class="panel panel-primary dashpanel">
 
             <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">GPU Node Specification</h2>
@@ -139,8 +133,6 @@
 		     </table>
 		     
 		     </div>
-
-            </div>
 
         </div> <!-- panel -->
 

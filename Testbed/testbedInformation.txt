@@ -105,8 +105,6 @@
 
             <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">GPU Node Specification</h2>
 
-            <p></p>
-
             <p align="justify"NCL currently owns three types of GPU Servers:</p>  
 		
 		<div class="table-responsive">

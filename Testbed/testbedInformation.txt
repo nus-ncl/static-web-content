@@ -170,15 +170,11 @@
 
                 <table class="table1">
 
-                    <thead BGCOLOR="#E0E0E0">
-
-                    <th width="35%"><p><h4><strong th:text="#{image.flavour}">ASUS ESC4000:</strong></h4></p></th>
-            		  
-		    </thead>
-		    
+                    		    
 		     <tr BGCOLOR="#fff">
 
-                        <td><ul>
+                        <td><p><b>ASUS ESC4000</b></p>
+			<ul>
 			<li>CPU: (2) Intel Xeon E5-2620v4 ** 8 cores / 2.10 GHz / 20MB L3 / 85W / 2133Mhz</li>
 			<li>Memory: (1) 256GB DDR4-2400 ECC RDIMM - 32GB x 8pcs</li>
 			</td>

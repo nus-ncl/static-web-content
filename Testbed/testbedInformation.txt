@@ -304,7 +304,7 @@
 
             </div>
 
-            <a href="https://www.openstack.org/software/" ><h18>Learn More >>> </h18></a>
+            <a target="_blank" href="https://www.openstack.org/software/" ><h18>Learn More >>> </h18></a>
 
         </div> <!-- panel -->
 

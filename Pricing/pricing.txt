@@ -68,10 +68,11 @@
                                 </table>
                             </div>
                     </div>
-		   </div>
-	     
+	     <div>
 	     <p>&nbsp;</p>
               <p>&nbsp;</p>
+	      </div>
+	      
 	     <div class="row">
                             <div class="table-responsive">
                                 <table class="table1" style="width:100%">
@@ -129,4 +130,5 @@
 		    <li>NCL deserves the right to interpret any ambiguities, if any.</li>
 		    </ol>
     </section>
+</div>
 </div>

@@ -65,20 +65,61 @@
                                         <td><div align="center">0</div></td>
                                         <td><div align="center"><strong>10.5</strong></div></td>
                                     </tr>
+                                </table>
+                            </div>
+                    </div>
+		 </div>
+             </div>
+	     
+	     <div class="row">
+                            <div class="table-responsive">
+                                <table class="table1" style="width:100%">
+                                    <thead BGCOLOR="#E0E0E0">
+                                    <th> </th>
+                                    <th width="15%"><p><h5><strong>No of cards</strong></h5></p></th>
+                                    <th width="15%"><p><h5><strong>RAM (GB) on each GPU card</strong></h5></p></th>
+                                    <th width="15%"><p><h5><strong>SSD(GB)</strong></h5></p></th>
+                                    <th width="15%"><p><h5><strong>HDD(TB)</strong></h5></p></th>
+                                    <th width="25%"><p><h5><strong>Price*(S$/day)</strong></h5></p></th>
+                                    </thead>
                                     <tr BGCOLOR="#fff">
-                                        <th BGCOLOR="#E0E0E0"><h5><strong>GPU Server</strong></h5></th>
-                                        <td><div align="center">64</div></td>
-                                        <td><div align="center">256</div></td>
-                                        <td><div align="center">9216</div></td>
-                                        <td><div align="center">480</div></td>
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>P100</strong></h5></th>
                                         <td><div align="center">2</div></td>
+                                        <td><div align="center">12</div></td>
+                                        <td><div align="center">480</div></td>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center"><strong>45</strong></div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>V100</strong></h5></th>
+                                        <td><div align="center">2</div></td>
+                                        <td><div align="center">16</div></td>
+                                        <td><div align="center">480</div></td>
+                                        <td><div align="center">8</div></td>
                                         <td><div align="center"><strong>70</strong></div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>A100</strong></h5></th>
+                                        <td><div align="center">1</div></td>
+                                        <td><div align="center">80</div></td>
+                                        <td><div align="center">480</div></td>
+                                        <td><div align="center">2.4</div></td>
+                                        <td><div align="center"><strong>100</strong></div></td>
+                                    </tr>
+                                    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>A5000<font style="color:red;">(Coming Soon)</font></strong></h5></th>
+                                        <td><div align="center">4</div></td>
+                                        <td><div align="center">24</div></td>
+                                        <td><div align="center">960</div></td>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center"><strong>250</strong></div></td>
                                     </tr>
                                 </table>
                             </div>
                     </div>
 		 </div>
              </div>
+	     
                     <h3>*T&C:</h3>
 		    <ol>
 		    <li>GST is NOT included in the listed price.</li>

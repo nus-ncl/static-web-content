@@ -1,4 +1,4 @@
-<div layout:fragment="content" id="dataresources">
+<div layout:fragment="content" id="DataResourcesBody">
 	<section id="team">
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>

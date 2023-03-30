@@ -24,7 +24,18 @@
 
 			</div>  <!-- part 1 ends-->
 
+            <div class="col-sm-12">
+            				<div class="col-sm-3">
+            					<a href=""> <img src="images/dbimg.png" width="251" height="189" href=""/></a>
+            				</div>
+            				<h3 class="news-header"><a href="http://impactcybertrust.org">NCL Synthetic APT Dataset</a></h3><br/>
+            				<div class="col-sm-9">
+            					<div class="row">
+            						<p>The collected dataset are based on the generated environment and events for specific APT. Most of the dataset consists of network traffic capture, memory dump, and system or application logs. Please fill NCL APT Dataset Request Form (google.com) if you want to explore or download the dataset, or please contact support@ncl.sg for further inquiries..</p><p>  Visit the website to create an account and browse the datasets available. Contact <strong>support@ncl.sg</strong> for any help you require.</p>
+            					</div>
+            				</div>
 
-		</div>
+            			</div>  <!-- part 2 ends-->
+		    </div>
 	</section>
 </div>

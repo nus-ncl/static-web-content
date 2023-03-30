@@ -23,7 +23,7 @@
 				</div>
 
 			</div>  <!-- part 1 ends-->
-            <div></div>
+            <div><br/><br/></div>
             <div class="col-sm-12">
             				<div class="col-sm-3">
             				    <br/>

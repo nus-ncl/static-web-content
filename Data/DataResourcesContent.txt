@@ -23,7 +23,7 @@
 				</div>
 
 			</div>  <!-- part 1 ends-->
-            <div><br/><br/></div>
+            <br/><br/><br/>
             <div class="col-sm-12">
             				<div class="col-sm-3">
             				    <br/><br/>
@@ -32,7 +32,11 @@
             				<h3 class="news-header"><a href="">NCL Synthetic APT Dataset</a></h3><br/>
             				<div class="col-sm-9">
             					<div class="row">
-            						<p>The collected dataset are based on the generated environment and events for specific APT. Most of the dataset consists of network traffic capture, memory dump, and system or application logs. Please fill NCL APT Dataset Request Form (google.com) if you want to explore or download the dataset, or please contact support@ncl.sg for further inquiries..</p><p>  Visit the website to create an account and browse the datasets available. Contact <strong>support@ncl.sg</strong> for any help you require.</p>
+            						<p>The collected dataset are based on the generated environment and events for specific APT.
+            						Most of the dataset consists of network traffic capture, memory dump, and system or application logs.
+            						Please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">NCL APT Dataset Request Form (google.com)</a> if you want to explore or download the dataset,
+            						or please contact <strong>support@ncl.sg</<strong>> for further inquiries..</p>
+
             					</div>
             				</div>
 

@@ -23,10 +23,10 @@
 				</div>
 
 			</div>  <!-- part 1 ends-->
-
+            <div></div>
             <div class="col-sm-12">
             				<div class="col-sm-3">
-            					<a href=""> <img src="images/dbimg.png" width="251" height="189" href=""/></a>
+            					<a href=""> <img src="images/databaseimg.png" width="251" height="189" href=""/></a>
             				</div>
             				<h3 class="news-header"><a href="http://impactcybertrust.org">NCL Synthetic APT Dataset</a></h3><br/>
             				<div class="col-sm-9">

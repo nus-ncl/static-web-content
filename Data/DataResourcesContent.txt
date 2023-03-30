@@ -27,7 +27,7 @@
             <div class="col-sm-12">
             				<div class="col-sm-3">
             				    <br/><br/>
-            					<img src="images/storedata.png" href=""/>
+            					<img src="images/storedata.png" width="251" height="189" href=""/>
             				</div>
             				<h3 class="news-header"><a href="">NCL Synthetic APT Dataset</a></h3><br/>
             				<div class="col-sm-9">

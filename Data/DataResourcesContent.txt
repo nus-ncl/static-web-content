@@ -35,7 +35,7 @@
             						<p>The collected dataset are based on the generated environment and events for specific APT.
             						Most of the dataset consists of network traffic capture, memory dump, and system or application logs.
             						Please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">NCL APT Dataset Request Form (google.com)</a> if you want to explore or download the dataset,
-            						or please contact <strong>support@ncl.sg</<strong>> for further inquiries..</p>
+            						or please contact <strong>support@ncl.sg</<strong> for further inquiries..</p>
 
             					</div>
             				</div>

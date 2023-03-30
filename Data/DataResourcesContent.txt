@@ -27,14 +27,14 @@
             <div class="col-sm-12">
             				<div class="col-sm-3">
             				    <br/><br/>
-            					<a href=""> <img src="images/database.png" href=""/></a>
+            					<a href=""> <img src="images/storedata.png" href=""/></a>
             				</div>
             				<h3 class="news-header"><a href="">NCL Synthetic APT Dataset</a></h3><br/>
             				<div class="col-sm-9">
             					<div class="row">
             						<p>The collected dataset are based on the generated environment and events for specific APT.
             						Most of the dataset consists of network traffic capture, memory dump, and system or application logs.
-            						Please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">NCL APT Dataset Request Form (google.com)</a> if you want to explore or download the dataset,
+            						Please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">NCL APT Dataset Request Form</a> if you want to explore or download the dataset,
             						or please contact <strong>support@ncl.sg</strong> for further inquiries..</p>
 
             					</div>

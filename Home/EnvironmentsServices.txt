@@ -7,7 +7,7 @@
     <div class="container">
       <div class="row">
 
-        <h2 align="center"><b><font color="#0d6dba"  size="6.5px">Environments available on NCL Testbed</font></b></h2>
+        <h2 align="center"><b><font color="#0d6dba"  size="6.5px">Environments available on NCL Testbed Testing </font></b></h2>
         <!--<h1><b>Environments and Services</b></h1>-->
 
       </div>

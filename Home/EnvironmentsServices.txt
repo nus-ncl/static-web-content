@@ -210,8 +210,8 @@
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
       <div class="row">
 
-        <!--<h2><b><font color="#0d6dba">Fintech Environment - </font><font> color="#ff0000"> Coming Soon!</font?</b></h2>-->
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Fintech Environment</font></b></h2>
+        <!--<h2><b><font color="#0d6dba">Fintech Environment - </font></b></h2>-->
+        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Fintech Environment - </font><font> color="#ff0000">Coming Soon!</font></b></h2>
 
       </div>
 

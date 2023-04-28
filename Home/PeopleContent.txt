@@ -60,7 +60,7 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Arundasse</b></h8>
-                        <p><b><font color="585656">Senior Program Executive (Business Development & Operations)</font></b> </p>
+                        <p><b><font color="585656">Senior Executive (Program Development & Operations)</font></b> </p>
                     </div>
 		  </div>
 

@@ -50,6 +50,13 @@
                     </div>
                 </div>
 		
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Niklaus Kang</b></h8>
+                        <p><b><font color="585656">Deputy Head of Technology</font></b> </p>
+	            </div>
+                </div>
+		
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
@@ -60,7 +67,7 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Arundasse</b></h8>
-                        <p><b><font color="585656">Senior Executive (Program Development & Operations)</font></b> </p>
+                        <p><b><font color="585656">Senior Executive </font></b> </p>
                     </div>
 		  </div>
 
@@ -83,13 +90,6 @@
                         <h8><b>Tha Zin Hlaing</b></h8>
                         <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
-                </div>
-
-		<div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Niklaus Kang</b></h8>
-                        <p><b><font color="585656">Infrastructure Assistant Manager</font></b> </p>
-	            </div>
                 </div>
 		
 		<div class="col-sm-6">

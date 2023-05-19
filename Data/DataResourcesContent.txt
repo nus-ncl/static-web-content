@@ -14,16 +14,14 @@
             <div class="col-sm-12">
             				<div class="col-sm-3">
             				    <br/><br/>
-            					<a href=""> <img src="images/database.png" href=""/></a>
+            					<a href="https://vindex.ncl.sg:4443/"> <img src="images/database.png" href="https://vindex.ncl.sg:4443/"/></a>
 
             				</div>
-            				<h3 class="news-header"><a href="">NCL Synthetic Security Experimentation Dataset</a></h3><br/>
+            				<h3 class="news-header"><a href="https://vindex.ncl.sg:4443/">NCL Synthetic Security Experimentation Dataset</a></h3><br/>
             				<div class="col-sm-9">
             					<div class="row">
             						<p>The collected dataset are based on the simulated environment and events that are generated for specific APT campaign or security vulnerability. Most of the dataset consists of network traffic capture, memory dump, and system or application logs. </p>
 							<p> Please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">NCL Dataset Request Form</a> if you want to explore or download the dataset, or please contact <strong>support@ncl.sg</strong> for further inquiries.</p>
-							<p> Currently, it contains OceanLotus APT campaign dataset (with three different variations environment), Log4shell vulnerability, and many more in progress (e.g., Cobalt APT, Spring4shell, and others).</p>
-
             					</div>
             				</div>
 

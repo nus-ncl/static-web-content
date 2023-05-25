@@ -60,23 +60,16 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Hannah Oei</b></h8>
-                        <p><b><font color="585656">Assistant Manager</font></b> </p>
+                        <p><b><font color="585656">Senior Executive</font></b> </p>
 		      </div>
                 </div>
 
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Arundasse</b></h8>
-                        <p><b><font color="585656">Senior Executive </font></b> </p>
+                        <p><b><font color="585656">Senior Executive (Development and Operations)</font></b> </p>
                     </div>
 		  </div>
-
-		 <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Felix Wong</b></h8>
-                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
-	            </div>
-                </div>
 
 		<div class="col-sm-6">
                     <div class="row">
@@ -90,6 +83,13 @@
                         <h8><b>Tha Zin Hlaing</b></h8>
                         <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
                     </div>
+                </div>
+		
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Felix Wong</b></h8>
+                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
+	            </div>
                 </div>
 		
 		<div class="col-sm-6">

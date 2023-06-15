@@ -30,7 +30,7 @@
                              <li></li>
     						<li style="margin-top: 20px;"><h4><span>Email:</span><a th:href="#{support.email.link}" > support@ncl.sg</a></h4></li>
                             <br/> 
-                            <li style="color: black;"><a href="nclDirections.pdf" ><strong><i><u>For more detail directions and information to reach NCL. Please click here</u></i></strong> </a></li>	 
+                            <li ><a href="nclDirections.pdf" ><strong style="color: black;"><i><u>For more detail directions and information to reach NCL. Please click here</u></i></strong> </a></li>	 
     					</ul>
     				</div>
     			</div>

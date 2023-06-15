@@ -28,7 +28,7 @@
     						<li><h4><span> Phone : </span>+65 6601 1056</h4></li>
     						<li><h4><span> Address: </span><a href="nclDirections.pdf" target="_blank">NCL COM3-B1-09 Computing 3, 11 Research Link, Singapore 119391</a></h4></li>
                              <li></li>
-    						<li><h4><span>Email:</span><a th:href="#{support.email.link}" >support@ncl.sg</a></h4></li>
+    						<li style="margin-top: 20px;"><h4><span>Email:</span><a th:href="#{support.email.link}" >support@ncl.sg</a></h4></li>
                             <br/> 
                             <li><a href="nclDirections.pdf" ><strong><i><u>For more detail directions and information to reach NCL. Please click here</u></i></strong> </a></li>	 
     					</ul>

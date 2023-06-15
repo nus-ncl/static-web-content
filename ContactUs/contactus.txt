@@ -28,7 +28,7 @@
     						<li><h4><span> Address: </span><a href="nclDirections.pdf" target="_blank">NCL COM3-B1-09 Computing 3, 11 Research Link, Singapore 119391</a></h4></li>
     						<li><h4><span>Email:</span><a th:href="#{support.email.link}" >support@ncl.sg</a></h4></li>
     						
-                            <li><h3><a href="nclDirections.pdf" >For more details direction and information to reach NCL. Please click here </a></h3></li>
+                            <li><a href="nclDirections.pdf" >For more details direction and information to reach NCL. Please click here </a></li>
     					</ul>
     				</div>
     			</div>

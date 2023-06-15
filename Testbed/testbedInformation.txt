@@ -161,7 +161,7 @@
 		     
 		      <tr BGCOLOR="#fff">
 
-                        <td><p><b>NVIDIA RTX A5000 - ASUS ESC4000-E10 2U GPU Server <font style="color:red;">(Coming Soon)</font></b></p>
+                        <td><p><b>NVIDIA RTX A5000 - ASUS ESC4000-E10 2U GPU Server</p>
 			<ul>
 			<li>CPU: (2) Intel® Xeon® Silver 4310 Processor (12C, 24T, 18M Cache, 2.10GHz)</li>
 			<li>Memory: 256GB DDR4-3200 ECC RDIMM (64GB x 4pcs)</li>

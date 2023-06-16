@@ -19,7 +19,7 @@
     					<ul class="address">
     						<li><h4><i class="fa fa-phone" ></i></h4></li>
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
-              				<li style="margin-top: 20px;"><h4><i class="fa fa-envelope"></i></h4></li>
+              				<li style="margin-top: 15px;"><h4><i class="fa fa-envelope"></i></h4></li>
                             <li><h4><i class="fa fa-envelope"></i></h4></li>
     					</ul>
     				</div>

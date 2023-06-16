@@ -1,13 +1,9 @@
 <div layout:fragment="content" id="ContactUs">
 
+    
     <section id="team">
 
-    <div layout:fragment="content" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
-    	<p>&nbsp;</p>
-    	<p>&nbsp;</p>
-    	<p>&nbsp;</p>
-
-<script type="text/javascript">
+    <script type="text/javascript">
     function myFunction(id)
     {
         var obj = document.getElementById(id);
@@ -21,6 +17,12 @@
         }
     }
 </script>
+    <div layout:fragment="content" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+    	<p>&nbsp;</p>
+    	<p>&nbsp;</p>
+    	<p>&nbsp;</p>
+
+
 
     	<div class="container">
     		<div class="row">

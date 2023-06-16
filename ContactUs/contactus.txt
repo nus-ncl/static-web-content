@@ -1,9 +1,27 @@
 <div layout:fragment="content" id="ContactUs">
+
+    
     <section id="team">
+    <script type="text/javascript" src="../static/js/main.js"></script>
+    <script type="text/javascript">
+    function myFunction(id)
+    {
+        var obj = document.getElementById(id);
+        if(obj.className == 'show')
+        {
+            obj.className = 'hide';
+        }
+        else
+        {
+            obj.className = 'show';
+        }
+    }
+</script>
     <div layout:fragment="content" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
     	<p>&nbsp;</p>
     	<p>&nbsp;</p>
     	<p>&nbsp;</p>
+
 
 
     	<div class="container">
@@ -19,8 +37,8 @@
     					<ul class="address">
     						<li><h4><i class="fa fa-phone" ></i></h4></li>
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
-              				<li style="margin-top: 40px;"><h4><i class="fa fa-envelope"></i></h4></li>
-                        
+                            <li><p>&nbsp;</p></li>
+              				<li><h4><i class="fa fa-envelope"></i></h4></li>
     					</ul>
     				</div>
     				<div class="col-sm-9 text-left" >
@@ -30,12 +48,19 @@
                              <li></li>
     						<li style="margin-top: 20px;"><h4><span>Email:</span><a th:href="#{support.email.link}" > support@ncl.sg</a></h4></li>
                             <br/> 
-                            <li ><a href="nclDirections.pdf" > <font color="black"><strong><i><u>Click for details Directions and Information to reach NCL.</u></i></strong></font></a></li>	 
+                            <li ><a id="myLink" href="#" onclick="MyFunction('RA');return false;" > <font color="black"><strong><i><u>For more Directions and Information to reach NCL. Please click here! <h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25> </u></i></strong></font></a></li>	 
     					</ul>
     				</div>
     			</div>
     		</div>
     	</div>
+                <div id="RA" class="show">
+                        <p>&nbsp;</p>
+                        <strong>Job Description</strong>
+                        <p align="justify">The National University of Singapore invites applications for the position of Program Executive (PD) for                 a cybersecurity research centre hosted in the School of Computing (SOC). The research centre supports cybersecurity community on                         research, development, and education, and aims to be a major hub in the community. </p>
+                        <Strong>Job Responsibilities</Strong>
+                        <Strong>Qualifications</Strong>
+                  </div>
     </div>
     </section>
 </div>

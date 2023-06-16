@@ -1,4 +1,18 @@
 <div layout:fragment="content" id="ContactUs">
+<script type="text/javascript">
+    function myFunction(id)
+    {
+        var obj = document.getElementById(id);
+        if(obj.className == 'show')
+        {
+            obj.className = 'hide';
+        }
+        else
+        {
+            obj.className = 'show'
+        }
+    }
+</script>
     <section id="team">
     <div layout:fragment="content" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
     	<p>&nbsp;</p>
@@ -44,22 +58,7 @@
                         <Strong>Job Responsibilities</Strong>
                         <Strong>Qualifications</Strong>
                   </div>
-<script type="text/javascript">
-    function myFunction(id)
-    {
-        var obj = document.getElementById(id);
-        if(obj.className == 'show')
-        {
-            obj.className = 'hide';
-        }
-        else
-        {
-            obj.className = 'show'
-        }
-    }
-</script>
     </div>
- 
     </section>
 </div>
 

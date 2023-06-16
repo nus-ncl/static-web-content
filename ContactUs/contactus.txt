@@ -21,6 +21,7 @@
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
                             <li><p>&nbsp;</p></li>
               				<li><h4><i class="fa fa-envelope"></i></h4></li>
+              				<li><h4><i class="fa fa-direction"></i></h4></li>
     					</ul>
     				</div>
     				<div class="col-sm-9 text-left" >

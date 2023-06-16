@@ -46,14 +46,13 @@
                              <li></li>
     						<li style="margin-top: 20px;"><h4><span>Email:</span><a th:href="#{support.email.link}" > support@ncl.sg</a></h4></li>
                             <br/> 
-                            <li ><a href="nclDirections.pdf" > <font color="black"><strong><i><u>For more Directions and Information to reach NCL. Please click here!</u></i></strong></font></a></li>	 
+                            <li ><a id="myLink" href="#" onclick="MyFunction('RA');return false;" > <font color="black"><strong><i><u>For more Directions and Information to reach NCL. Please click here! <h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25> </u></i></strong></font></a></li>	 
     					</ul>
     				</div>
     			</div>
     		</div>
     	</div>
-        <p onclick="myFunction('RA')"><h24>Programme Senior Executive/Manager</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
-                    <div id="RA" class="show">
+                <div id="RA" class="show">
                         <p>&nbsp;</p>
                         <strong>Job Description</strong>
                         <p align="justify">The National University of Singapore invites applications for the position of Program Executive (PD) for                 a cybersecurity research centre hosted in the School of Computing (SOC). The research centre supports cybersecurity community on                         research, development, and education, and aims to be a major hub in the community. </p>

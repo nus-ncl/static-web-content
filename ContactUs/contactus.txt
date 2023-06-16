@@ -37,6 +37,20 @@
     		</div>
     	</div>
     </div>
+<script type="text/javascript">
+    function myFunction(id)
+    {
+        var obj = document.getElementById(id);
+        if(obj.className == 'show')
+        {
+            obj.className = 'hide';
+        }
+        else
+        {
+            obj.className = 'show'
+        }
+    }
+</script>
     </section>
 </div>
 

@@ -36,8 +36,7 @@
     			</div>
     		</div>
     	</div>
-    </div>
- <p onclick="myFunction('RA')"><h24>Programme Senior Executive/Manager</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
+<p onclick="myFunction('RA')"><h24>Programme Senior Executive/Manager</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
                     <div id="RA" class="hide position">
                         <p>&nbsp;</p>
                         <strong>Job Description</strong>
@@ -59,6 +58,8 @@
         }
     }
 </script>
+    </div>
+ 
     </section>
 </div>
 

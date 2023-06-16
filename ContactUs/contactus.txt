@@ -20,7 +20,7 @@
     						<li><h4><i class="fa fa-phone" ></i></h4></li>
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
               				<li style="margin-top: 40px;"><h4><i class="fa fa-envelope"></i></h4></li>
-                            <li><h4><i class="fa fa-envelope"></i></h4></li>
+                        
     					</ul>
     				</div>
     				<div class="col-sm-9 text-left" >

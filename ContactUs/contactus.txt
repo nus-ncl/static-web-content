@@ -18,7 +18,7 @@
     						<li><h4><i class="fa fa-phone" ></i></h4></li>
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
     						<li style="margin-top:30px"><h4><i class="fa fa-envelope"></i></h4></li>
-    						<li style="margin-top:30px"><img src="images/direction-sign.png" alt="" width="30"  height="30" border="0" /></li>
+    				
     					</ul>
     				</div>
     						<div class="col-sm-9 text-left" >
@@ -28,11 +28,7 @@
     						<li><h4><span>Email:</span><a th:href="#{support.email.link}" th:text="#{support.email}">&nbsp;support@ncl.sg</a></h4></li>
     					</ul>
     						<br/>
-    						<div onclick="myFunction('directionId')">
-    						<p style="margin-left:20px">
-    							<font color="black"><strong><i><u>Click for details Directions and Information to reach NCL</u></i></strong></font>
-    						</p>
-    					</div>
+    						
     						</div>
 
     			</div>

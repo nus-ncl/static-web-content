@@ -1,42 +1,203 @@
+
 <div layout:fragment="content" id="ContactUs">
     <section id="team">
-    <div layout:fragment="content" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
-    	<p>&nbsp;</p>
-    	<p>&nbsp;</p>
-    	<p>&nbsp;</p>
 
+    	<p>&nbsp;</p>
+    	<p>&nbsp;</p>
 
     	<div class="container">
-    		<div class="row">
+
+    		<div class="row" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
     			<div class="heading text-center col-sm-10 col-sm-offset-1">
-    				<div class="h15">
-    					<!--<p>Contact Us</p>-->
-    				</div>
-    				<p>&nbsp;</p>
-    				<h4>If you have questions or feedback about NCL, we'd love to hear from you!</h4>
-    				<p>&nbsp;</p>
-    				<div class="col-sm-1  col-sm-offset-1">
+
+    						<p>&nbsp;</p>
+    						<h4>If you have questions or feedback about NCL, we'd love to hear from you!</h4>
+    						<p>&nbsp;</p>
+    						<div class="col-sm-1  col-sm-offset-1">
     					<ul class="address">
     						<li><h4><i class="fa fa-phone" ></i></h4></li>
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
-              				<li style="margin-top: 40px;"><h4><i class="fa fa-envelope"></i></h4></li>
-                        
+    						<li style="margin-top:30px"><h4><i class="fa fa-envelope"></i></h4></li>
+    						<li style="margin-top:30px"><img src="images/direction-sign.png" alt="" width="30"  height="30" border="0" /></li>
     					</ul>
     				</div>
-    				<div class="col-sm-9 text-left" >
-    					<ul class="address">
-    						<li><h4><span> Phone : </span><a>+65 6601 1056</a></h4></li>
-    						<li><h4><span> Address: </span><a href="nclDirections.pdf" target="_blank">NCL COM3-B1-09 Computing 3, 11 Research Link, Singapore 119391</a></h4></li>
-                             <li></li>
-    						<li style="margin-top: 20px;"><h4><span>Email:</span><a th:href="#{support.email.link}" > support@ncl.sg</a></h4></li>
-                            <br/> 
-                            <li ><a href="nclDirections.pdf" > <font color="black"><strong><i><u>Click for details Directions and Information to reach NCL.</u></i></strong></font></a></li>	 
+    						<div class="col-sm-9 text-left" >
+    						<ul class="address">
+    						<li><h4><span> Phone : </span>+65 6601 1056</h4></li>
+    							<li><h4><span> Address: </span> <a onclick="myFunction('directionId')"> NCL COM3-B1-09 Computing 3, 11 Research Link, Singapore 119391</a></h4></li>
+    						<li><h4><span>Email:</span><a th:href="#{support.email.link}" th:text="#{support.email}">&nbsp;support@ncl.sg</a></h4></li>
     					</ul>
+    						<br/>
+    						<div onclick="myFunction('directionId')">
+    						<p style="margin-left:20px">
+    							<font color="black"><strong><i><u>Click for details Directions and Information to reach NCL</u></i></strong></font>
+    						</p>
+    					</div>
+    						</div>
+
+    			</div>
+    		</div>
+
+    		<br/>
+
+    		<div class ="row" style="object-fit: fill;object-position: 50% 50%;">
+    			<div class="col-sm-10 col-sm-offset-1 text-left">
+    				<div id="directionId" class="show position " >
+    					<br/>
+    					<p><font color="black"><strong><u>If you are driving</u></strong></font></p><br/>
+    					<p>Please access the google map link <a href="https://goo.gl/maps/iohdKCL3j6qyJg7a7">https://goo.gl/maps/iohdKCL3j6qyJg7a7</a> to reach Innovation4.0
+    						building if you are driving. <b>COM3 Building and Innovation4.0 building sharing the same carpark.</b></p>
+
+    					<br/>
+
+    					<p onclick="myFunction('drivingCityId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving from the city</u></strong></font></p><br/>
+    					<div id="drivingCityId" class="hide position " style="margin-left:30px">
+    						<ul>
+    							<li>Drive along the AYER RAJAH EXPRESSWAY (AYE) towards Jurong.</li>
+    							<li>Exit AYE (exit 8) and head towards SOUTH BUONA VISTA ROAD.</li>
+    							<li>After passing the National University Health System building on your right, turn RIGHT into
+    								KENT RIDGE ROAD at the traffic junction.</li>
+    							<li>Keep LEFT and turn LEFT into PRINCE GEORGE’S PARK road.</li>
+    							<li>Continue on PRINCE GEORGE’S PARK road (down slope).</li>
+    							<li>The Innovation 4.0 Building is at the end of slope on your RIGHT (right after the Temesak Life
+    								Sciences Lab).</li>
+    							<li>Park in any of the white carpark lots on the left of the building (Carpark 11B).</li>
+    							<li>Walk through the parking area for a minute and reach NUS Sea Building (COM3) where the
+    								NCL is located.</li>
+    						</ul>
+    					</div>
+
+    					<p onclick="myFunction('drivingPPId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving from Pasir Panjang Road</u></strong></font></p><br/>
+    					<div  id="drivingPPId" class="hide position " style="margin-left:30px">
+    						<ul>
+    							<li>From PASIR PANJANG ROAD, turn into NUS ENTRANCE C and into HENG MUI KENG TERRACE.</li>
+    							<li>Keep RIGHT at the fork in front of the NUS Business School.</li>
+    							<li>Immediately take the first LEFT towards PRINCE GEORGE’S PARK/RESEARCH LINK.</li>
+    							<li>After passing under the NUS Business School Biz 2 Building and its open-air carpark (Carpark
+    								11), turn left into Innovation 4.0 which the first building up the slope.</li>
+    							<li>Park in any of the white carpark lots on the left of the building (Carpark 11B).</li>
+    							<li>Walk through the parking area for a minute and reach NUS Sea Building (COM3) where the
+    								NCL is located.</li>
+    						</ul>
+    						<img src="images/dircar.png" alt="" width="600"  height="400" border="0" align="center" />
+    					</div>
+
+    					<p onclick="myFunction('drivingComId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving to COM1/COM2 </u></strong></font></p>
+    					<br/>
+    					<div id="drivingComId" class="hide position " style="margin-left:30px">
+    						<a href="https://www.comp.nus.edu.sg/maps/getting-here/" style="margin-left:30px">https://www.comp.nus.edu.sg/maps/getting-here/</a>
+    						<br/>
+    						<p style="margin-left:30px" onclick="myFunction('drivingCCId')"><font color="black"><i><u>From the city: </u></i></font></p>
+
+    						<div style="margin-left:30px" id="drivingCCId" class="hide position ">
+    							<ul>
+    								<li>Drive along the Ayer Rajah Expressway (AYE) towards Jurong.</li>
+    								<li>Exit at Clementi Road (AYE Exit 9).</li>
+    								<li>Travel southward along Clementi Road for another 500m.</li>
+    								<li>Turn left into Kent Ridge Crescent (after passing the School of Design and Environment on your left).</li>
+    								<li>After 100m, turn right into Kent Ridge Drive.</li>
+    								<li>Turn left into Computing Drive, and proceed along it to *Carpark 13 – opposite to COM2 building (for passengers to alight).</li>
+    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09.</li>
+    							</ul>
+
+    						</div>
+
+    						<p style="margin-left:30px" onclick="myFunction('drivingJRId')"><font color="black"><i><u>From Jurong:</u></i></font></p>
+    						<div style="margin-left:30px" id="drivingJRId" class="hide position ">
+    							<ul>
+    								<li>Drive along Clementi Road towards Pasir Panjang Road.</li>
+    								<li>Turn left into Kent Ridge Crescent (after passing the School of Design &amp; Environment on your
+    									left).</li>
+    								<li>After 100m, turn right into Kent Ridge Drive.</li>
+    								<li>Turn left into Computing Drive, and proceed along it to *Carpark 13 - opposite to COM2
+    									building (for passengers to alight).</li>
+    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09.</li>
+    							</ul>
+    						</div>
+    					</div>
+
+    					<p onclick="myFunction('busAllId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are taking the bus </u></strong></font></p><br/>
+
+    					<div id="busAllId" class="hide position " style="margin-left:30px">
+    						<p style="margin-left:30px" onclick="myFunction('busOPT1Id')"><font color="black"><i><u>Option 1:</u></i></font></p>
+    						<div style="margin-left:30px" id="busOPT1Id" class="hide position ">
+    							<ul>
+    								<li>Take bus services 95 or 151 towards the direction of Kent Ridge campus.</li>
+    								<li>Alight at the bus stop outside Central Library (Bus stop 16181).</li>
+    								<li>Take the internal shuttle bus A1 or B or D1 from the same bus stop.</li>
+    								<li>Alight at the third bus stop (COM2) after the one at Central Library, located at Carpark 13.</li>
+    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09 (refer the image below
+    									for directions).</li>
+    							</ul>
+    						</div>
+    						<p style="margin-left:30px" onclick="myFunction('busOPT2Id')"><font color="black"><i><u>Option 2:</u></i></font></p>
+    						<div  style="margin-left:30px" id="busOPT2Id" class="hide position ">
+    							<ul>
+    								<li>Alternatively, take bus service nos. 10, 33, 95, 151, 151e, 200 or 201 to the Kent
+    									Ridge Bus Terminal.</li>
+    								<li>Walk along the covered linkway from the interchange and cross the road to the bus
+    									stop outside LT13.</li>
+    								<li>Take internal shuttle bus service A1 or B or D1 and alight at the 2nd bus stop (COM2)
+    									located at Carpark 13.</li>
+    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09 (refer the image below for directions).</li>
+    							</ul>
+    						</div>
+    					</div>
+
+    					<p onclick="myFunction('mrtAllId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are taking the MRT </u></strong></font></p><br/>
+    					<div id="mrtAllId" class="hide position " style="margin-left:30px">
+
+    						<p style="margin-left:30px" onclick="myFunction('mrtOPT1Id')"><font color="black"><i><u>From Bouna Vista MRT Station (EW21/CC22):</u></i></font></p>
+    						<div style="margin-left:30px" id="mrtOPT1Id" class="hide position ">
+    							<ul>
+    								<li>Take Exit B from the station and cross North Buona Vista Road.</li>
+    								<li>Take bus service 95 from bus stop 11369 (Opposite Bouna Vista Station).</li>
+    								<li>Alight at the bus stop outside Central Library (Bus stop 16181).	</li>
+    								<li>Take the internal shuttle bus D1 and alight at fourth/last stop (COM3).</li>
+    								<li>Take lift and come to Level B1-09 where NCL is located.</li>
+    							</ul>
+    						</div>
+
+    						<p style="margin-left:30px" onclick="myFunction('mrtOPT2Id')"><font color="black"><i><u>From Clementi MRT Station (EW23):</u></i></font></p>
+    						<div style="margin-left:30px" id="mrtOPT2Id" class="hide position ">
+    							<ul>
+    								<li>Take Exit A from the station and walk to the bus interchange behind Clementi Mall.</li>
+    								<li>Take bus service 96.</li>
+    								<li>Alight at the bus stop outside Central Library (Bus stop 16181).</li>
+    								<li>Take the internal shuttle bus D1 and alight at fourth/last stop (COM3).</li>
+    								<li>Take lift and come to Level B1-09 where NCL is located.</li>
+    							</ul>
+    							<br/>
+    							<img style="margin-left:30px" src="images/dirbus.png" alt="" width="300"  height="260" border="0" />
+    						</div>
+
+    						<p style="margin-left:30px" onclick="myFunction('mrtOPT3Id')"><font color="black"><i><u>From Kent Ridge MRT Station (CC24):</u></i></font></p>
+    						<div style="margin-left:30px" id="mrtOPT3Id" class="hide position ">
+    							<ul>
+    								<li>Take Exit A from the station and walk to the bus stop opposite Kent Ridge MRT.</li>
+    								<li>Take internal shuttle bus service A2 from the bus stop opposite Kent Ridge MRT station.</li>
+    								<li>Alight at the fifth bus stop - COM2 (refer the image below for directions).</li>
+    							</ul>
+    						</div>
+
+    					</div>
+
+    					<div >
+    						<p onclick="myFunction('mrtOPT4Id')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>Directions from COM2 building to NCL</u></strong></font></p>
+    						<div id="mrtOPT4Id" class="hide position " style="margin-left:30px">
+    							<br/>
+    							<img src="images/dircom2.png" alt="" width="450"  height="360" border="0" style="margin-left:30px"/>
+    						</div>
+    					</div>
+    					<br/>
     				</div>
     			</div>
     		</div>
+
+    		<br/>
+
     	</div>
-    </div>
+
     </section>
 </div>
 

@@ -1,8 +1,7 @@
+
 <div layout:fragment="content" id="ContactUs">
 
-    
-    <section id="team">
-    <script type="text/javascript" src="../static/js/main.js"></script>
+     <script type="text/javascript" src="../static/js/main.js"></script>
     <script type="text/javascript">
     function myFunction(id)
     {
@@ -17,6 +16,8 @@
         }
     }
 </script>
+    <section id="team">
+   
     <div layout:fragment="content" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
     	<p>&nbsp;</p>
     	<p>&nbsp;</p>

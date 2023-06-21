@@ -44,7 +44,7 @@
     					<br/>
     					<p><font color="black"><strong><u>If you are driving</u></strong></font></p><br/>
     					<p>Please access the google map link <a href="https://goo.gl/maps/iohdKCL3j6qyJg7a7">https://goo.gl/maps/iohdKCL3j6qyJg7a7</a> to reach Innovation4.0
-    						building if you are driving. <b>COM3 Building and Innovation4.0 building sharing the same carpark.</b></p>
+    						building if you are driving. <b>COM3 Building and Innovation4.0 building share the same carpark.</b></p>
 
     					<br/>
 

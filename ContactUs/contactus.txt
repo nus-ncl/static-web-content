@@ -143,7 +143,7 @@
     					</div>
 
     					<p onclick="myFunction('mrtAllId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are taking the MRT </u></strong></font></p><br/>
-    					<div id="mrtAllId" class="hide position " style="margin-left:30px">
+    					<div id="mrtAllId" class="show position " style="margin-left:30px">
 
     						<p style="margin-left:30px" onclick="myFunction('mrtOPT1Id')"><font color="black"><i><u>From Bouna Vista MRT Station (EW21/CC22):</u></i></font></p>
     						<div style="margin-left:30px" id="mrtOPT1Id" class="show position ">

@@ -27,7 +27,7 @@
     						<br/>
     						<div onclick="myFunction('directionId')">
     						<p style="margin-left:20px">
-    							<font color="black"><strong><i><u>Click for details Directions and Information to reach NCL</u></i></strong></font>
+    							<font color="black"><strong><i><u>Click for detail Directions and Information to reach NCL</u></i></strong></font>
     						</p>
     					</div>
 

@@ -20,7 +20,7 @@
     				</div>
     						<div class="col-sm-9 text-left" >
     						<ul class="address">
-    						!-- <li><h4><span> Phone : </span>+65 6601 1056</h4></li> --!
+    						<li><h4><span> Phone : </span>+65 6601 1056</h4></li>
     							<li><h4><span> Address: </span> COM3-B1-09 Computing 3, 11 Research Link, S119391</h4></li>
     						<li><h4><span>Email:</span><a href="mailto: support@ncl.sg">&nbsp;support@ncl.sg</a></h4></li>
     					</ul>

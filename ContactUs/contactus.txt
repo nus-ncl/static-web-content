@@ -34,7 +34,7 @@
     				<div id="directionId" class="show position " >
     					<br/>
     					<p><font color="black"><strong><u>If you are driving</u></strong></font></p><br/>
-    					<p>Kindly access the google map <a target="_blank" href="https://goo.gl/maps/QmTvRRMeqkHt8wfv8"> <b><u>link</u></b></a> to reach National Cybersecurity R&D Lab, NUS @COM3 building if you are driving. <b>Please note that COM3 Building and Innovation4.0 building (next to COM3 bulding) share the same carpark.</b></p>
+    					<p>Kindly access the Google map <a target="_blank" href="https://goo.gl/maps/QmTvRRMeqkHt8wfv8"> <b><u>link</u></b></a> to reach National Cybersecurity R&D Lab, NUS @COM3 building if you are driving. <b>Please note that COM3 Building and Innovation4.0 building (next to COM3 bulding) share the same carpark.</b></p>
 
     					<br/>
 
@@ -85,7 +85,8 @@
     								<li>Turn left into Kent Ridge Crescent (after passing the School of Design and Environment on your left).</li>
     								<li>After 100m, turn right into Kent Ridge Drive.</li>
     								<li>Turn left into Computing Drive, and proceed along it to *Carpark 13 – opposite to COM2 building (for passengers to alight).</li>
-    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09.</li>
+    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09 (refer the image below
+    									for directions).</li>
     							</ul>
 
     						</div>
@@ -99,7 +100,8 @@
     								<li>After 100m, turn right into Kent Ridge Drive.</li>
     								<li>Turn left into Computing Drive, and proceed along it to *Carpark 13 - opposite to COM2
     									building (for passengers to alight).</li>
-    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09.</li>
+    								<li>From COM2, walk for a minute and reach NCL@COM3-B1-09 (refer the image below
+    									for directions).</li>
     							</ul>
     						</div>
     					</div>

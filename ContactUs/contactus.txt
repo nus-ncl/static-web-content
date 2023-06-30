@@ -11,12 +11,9 @@
     						<p>&nbsp;</p>
     						<div class="col-sm-1  col-sm-offset-1">
     					<ul class="address">
-    						<li><h4><i class="fa fa-phone" ></i></h4></li>
     						<li><h4><i class="fa fa-map-marker"></i></h4></li>
     						<li style="margin-top:30px"><h4><i class="fa fa-envelope"></i></h4></li>
-    						<li style="margin-top:30px"><img src="images/direction-sign.png" alt="" width="30"  height="30" border="0" /></li>
-
-    					</ul>
+    						</ul>
     				</div>
     						<div class="col-sm-9 text-left" >
     						<ul class="address">

@@ -33,7 +33,7 @@
     			<div class="col-sm-10 col-sm-offset-1 text-left">
     				<div id="directionId" class="show position " >
     					<br/>
-                        <p style="font-size:20px"><font color="darkblue"><b>Detailed instructions and direction guide to reach National Cybersecurity R&D Lab (NCL):</b></font></p><br/>            
+                        <p style="font-size:20px"><font color="darkblue"><b><u>Detailed instructions and direction guide to reach National Cybersecurity R&D Lab (NCL):</u></b></font></p><br/>            
     					<p><font color="black"><strong><u>If you are driving</u></strong></font></p><br/>
     					<p>Kindly access the Google map <a target="_blank" href="https://goo.gl/maps/QmTvRRMeqkHt8wfv8"> <b><u>link</u></b></a> to reach National Cybersecurity R&D Lab, NUS @COM3 building if you are driving. <b>Please note that COM3 Building and Innovation4.0 building (next to COM3 bulding) share the same carpark.</b></p>
 

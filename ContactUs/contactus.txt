@@ -18,8 +18,8 @@
     						<div class="col-sm-9 text-left" >
     						<ul class="address">
     						<li><h4><span> Address: </span> COM3-B1-09 Computing 3, 11 Research Link, S119391</h4></li>
-                            <li><br></li>
-    						<li><h4><span>Email:</span><u><a href="mailto: support@ncl.sg">&nbsp;support@ncl.sg</a></u></h4></li>
+                           <br>
+    						<li><h4><span>Email:</span><a href="mailto: support@ncl.sg">&nbsp;<u>support@ncl.sg</a></u></h4></li>
     					</ul>
     					</div>
 

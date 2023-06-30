@@ -176,7 +176,7 @@
     						<p onclick="myFunction('mrtOPT4Id')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>Directions from COM2 building to NCL</u></strong></font></p>
     						<div id="mrtOPT4Id" class="show position " style="margin-left:30px">
     							<br/>
-    							<img src="images/dircom2.png" alt="" width="450"  height="360" border="0" style="margin-left:30px"/>
+    							<img align="center" src="images/dircom2.png" alt="" width="450"  height="360" border="0" style="margin-left:30px"/>
     						</div>
     					</div>
     					<br/>

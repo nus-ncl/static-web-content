@@ -20,15 +20,9 @@
     				</div>
     						<div class="col-sm-9 text-left" >
     						<ul class="address">
-    						<li><h4><span> Phone : </span>+65 6601 1056</h4></li>
-    							<li><h4><span> Address: </span> COM3-B1-09 Computing 3, 11 Research Link, S119391</h4></li>
+    						<li><h4><span> Address: </span> COM3-B1-09 Computing 3, 11 Research Link, S119391</h4></li>
     						<li><h4><span>Email:</span><u><a href="mailto: support@ncl.sg">&nbsp;support@ncl.sg</a></u></h4></li>
     					</ul>
-    						<br/>
-    						<div onclick="myFunction('directionId')">
-    						<p style="margin-left:20px">
-    							<font color="black"><strong><i><u>Click for detail Directions and Information to reach NCL</u></i></strong></font>
-    						</p>
     					</div>
 
     						</div>

@@ -31,7 +31,7 @@
 
     		<div class ="row" style="object-fit: fill;object-position: 50% 50%;">
     			<div class="col-sm-10 col-sm-offset-1 text-left">
-    				<div id="directionId" class="show position " >
+    				<div id="directionId" class="show position" >
     					<br/>
                         <p style="font-size:20px"><font color="darkblue"><b><u>Detailed instructions and direction guide to reach National Cybersecurity R&D Lab (NCL):</u></b></font></p><br/>            
     					<p><font color="black"><strong><u>If you are driving</u></strong></font></p><br/>
@@ -40,7 +40,7 @@
     					<br/>
 
     					<p onclick="myFunction('drivingCityId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving from the city</u></strong></font></p><br/>
-    					<div id="drivingCityId" class="show position " style="margin-left:30px">
+    					<div id="drivingCityId" class="" style="margin-left:30px">
     						<ul>
     							<li>Drive along the AYER RAJAH EXPRESSWAY (AYE) towards Jurong.</li>
     							<li>Exit AYE (exit 8) and head towards SOUTH BUONA VISTA ROAD.</li>

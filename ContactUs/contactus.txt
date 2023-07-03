@@ -40,7 +40,7 @@
     					<br/>
 
     					<p onclick="myFunction('drivingCityId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving from the city</u></strong></font></p><br/>
-    					<div id="drivingCityId" class="" style="margin-left:30px">
+    					<div id="drivingCityId" class="show position" style="margin-left:30px">
     						<ul>
     							<li>Drive along the AYER RAJAH EXPRESSWAY (AYE) towards Jurong.</li>
     							<li>Exit AYE (exit 8) and head towards SOUTH BUONA VISTA ROAD.</li>
@@ -57,7 +57,7 @@
     					</div>
 
     					<p onclick="myFunction('drivingPPId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving from Pasir Panjang Road</u></strong></font></p><br/>
-    					<div  id="drivingPPId" class="show position " style="margin-left:30px">
+    					<div  id="drivingPPId" class="show position" style="margin-left:30px">
     						<ul>
     							<li>From PASIR PANJANG ROAD, turn into NUS ENTRANCE C and into HENG MUI KENG TERRACE.</li>
     							<li>Keep RIGHT at the fork in front of the NUS Business School.</li>
@@ -73,12 +73,12 @@
 
     					<p onclick="myFunction('drivingComId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving to COM1/COM2 </u></strong></font></p>
     					<br/>
-    					<div id="drivingComId" class="show position " style="margin-left:30px">
+    					<div id="drivingComId" class="show position" style="margin-left:30px">
     						<p><a target="_blank" href="https://www.comp.nus.edu.sg/maps/getting-here/" style="margin-left:30px">https://www.comp.nus.edu.sg/maps/getting-here/</a></p>
     						
     						<p style="margin-left:30px" onclick="myFunction('drivingCCId')"><font color="black"><i><u>From the city: </u></i></font></p>
 
-    						<div style="margin-left:30px" id="drivingCCId" class="show position ">
+    						<div style="margin-left:30px" id="drivingCCId" class="show position">
     							<ul>
     								<li>Drive along the Ayer Rajah Expressway (AYE) towards Jurong.</li>
     								<li>Exit at Clementi Road (AYE Exit 9).</li>
@@ -93,7 +93,7 @@
     						</div>
 
     						<p style="margin-left:30px" onclick="myFunction('drivingJRId')"><font color="black"><i><u>From Jurong:</u></i></font></p>
-    						<div style="margin-left:30px" id="drivingJRId" class="show position ">
+    						<div style="margin-left:30px" id="drivingJRId" class="show position">
     							<ul>
     								<li>Drive along Clementi Road towards Pasir Panjang Road.</li>
     								<li>Turn left into Kent Ridge Crescent (after passing the School of Design &amp; Environment on your
@@ -109,9 +109,9 @@
 
     					<p onclick="myFunction('busAllId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are taking the bus </u></strong></font></p><br/>
 
-    					<div id="busAllId" class="show position " style="margin-left:30px">
+    					<div id="busAllId" class="show position" style="margin-left:30px">
     						<p style="margin-left:30px" onclick="myFunction('busOPT1Id')"><font color="black"><i><u>Option 1:</u></i></font></p>
-    						<div style="margin-left:30px" id="busOPT1Id" class="show position ">
+    						<div style="margin-left:30px" id="busOPT1Id" class="show position">
     							<ul>
     								<li>Take bus services 95 or 151 towards the direction of Kent Ridge campus.</li>
     								<li>Alight at the bus stop outside Central Library (Bus stop 16181).</li>
@@ -122,7 +122,7 @@
     							</ul>
     						</div>
     						<p style="margin-left:30px" onclick="myFunction('busOPT2Id')"><font color="black"><i><u>Option 2:</u></i></font></p>
-    						<div  style="margin-left:30px" id="busOPT2Id" class="show position ">
+    						<div  style="margin-left:30px" id="busOPT2Id" class="show position">
     							<ul>
     								<li>Alternatively, take bus service nos. 10, 33, 95, 151, 151e, 200 or 201 to the Kent
     									Ridge Bus Terminal.</li>
@@ -136,10 +136,10 @@
     					</div>
 
     					<p onclick="myFunction('mrtAllId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are taking the MRT </u></strong></font></p><br/>
-    					<div id="mrtAllId" class="show position " style="margin-left:30px">
+    					<div id="mrtAllId" class="show position" style="margin-left:30px">
 
     						<p style="margin-left:30px" onclick="myFunction('mrtOPT1Id')"><font color="black"><i><u>From Bouna Vista MRT Station (EW21/CC22):</u></i></font></p>
-    						<div style="margin-left:30px" id="mrtOPT1Id" class="show position ">
+    						<div style="margin-left:30px" id="mrtOPT1Id" class="show position">
     							<ul>
     								<li>Take Exit B from the station and cross North Buona Vista Road.</li>
     								<li>Take bus service 95 from bus stop 11369 (Opposite Bouna Vista Station).</li>
@@ -163,7 +163,7 @@
     						</div>
 
     						<p style="margin-left:30px" onclick="myFunction('mrtOPT3Id')"><font color="black"><i><u>From Kent Ridge MRT Station (CC24):</u></i></font></p>
-    						<div style="margin-left:30px" id="mrtOPT3Id" class="show position ">
+    						<div style="margin-left:30px" id="mrtOPT3Id" class="show position">
     							<ul>
     								<li>Take Exit A from the station and walk to the bus stop opposite Kent Ridge MRT.</li>
     								<li>Take internal shuttle bus service A2 from the bus stop opposite Kent Ridge MRT station.</li>
@@ -175,7 +175,7 @@
 
     					<div >
     						<p onclick="myFunction('mrtOPT4Id')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>Directions from COM2 building to NCL</u></strong></font></p>
-    						<div id="mrtOPT4Id" class="show position " style="margin-left:30px">
+    						<div id="mrtOPT4Id" class="show position" style="margin-left:30px">
     							<br/>
     							<img align="center" src="images/dircom2.png" alt="" width="450"  height="360" border="0" style="margin-left:30px"/>
     						</div>

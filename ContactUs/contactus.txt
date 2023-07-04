@@ -21,13 +21,10 @@
                             <li><h4><span>Email:</span><a href="mailto: support@ncl.sg">&nbsp;<u><b>support@ncl.sg</a></b></u></h4></li>
     					</ul>
     					</div>
-
     						</div>
 
     			</div>
     		</div>
-
-    		<br/>
 
     		<div class ="row" style="object-fit: fill;object-position: 50% 50%;">
     			<div class="col-sm-10 col-sm-offset-1 text-left">

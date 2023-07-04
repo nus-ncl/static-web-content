@@ -78,7 +78,7 @@
     						
     						<p style="margin-left:30px" onclick="myFunction('drivingCCId')"><font color="black"><i><u>From the city: </u></i></font></p>
 
-    						<div style="margin-left:30px" id="drivingCCId" class="hide position">
+    						<div style="margin-left:30px" id="drivingCCId" class="show position">
     							<ul>
     								<li>Drive along the Ayer Rajah Expressway (AYE) towards Jurong.</li>
     								<li>Exit at Clementi Road (AYE Exit 9).</li>
@@ -93,7 +93,7 @@
     						</div>
 
     						<p style="margin-left:30px" onclick="myFunction('drivingJRId')"><font color="black"><i><u>From Jurong:</u></i></font></p>
-    						<div style="margin-left:30px" id="drivingJRId" class="hide position">
+    						<div style="margin-left:30px" id="drivingJRId" class="show position">
     							<ul>
     								<li>Drive along Clementi Road towards Pasir Panjang Road.</li>
     								<li>Turn left into Kent Ridge Crescent (after passing the School of Design &amp; Environment on your
@@ -122,7 +122,7 @@
     							</ul>
     						</div>
     						<p style="margin-left:30px" onclick="myFunction('busOPT2Id')"><font color="black"><i><u>Option 2:</u></i></font></p>
-    						<div  style="margin-left:30px" id="busOPT2Id" class="hide position">
+    						<div  style="margin-left:30px" id="busOPT2Id" class="show position">
     							<ul>
     								<li>Alternatively, take bus service nos. 10, 33, 95, 151, 151e, 200 or 201 to the Kent
     									Ridge Bus Terminal.</li>
@@ -150,7 +150,7 @@
     						</div>
 
     						<p style="margin-left:30px" onclick="myFunction('mrtOPT2Id')"><font color="black"><i><u>From Clementi MRT Station (EW23):</u></i></font></p>
-    						<div style="margin-left:30px" id="mrtOPT2Id" class="hide position ">
+    						<div style="margin-left:30px" id="mrtOPT2Id" class="show position ">
     							<ul>
     								<li>Take Exit A from the station and walk to the bus interchange behind Clementi Mall.</li>
     								<li>Take bus service 96.</li>
@@ -163,7 +163,7 @@
     						</div>
 
     						<p style="margin-left:30px" onclick="myFunction('mrtOPT3Id')"><font color="black"><i><u>From Kent Ridge MRT Station (CC24):</u></i></font></p>
-    						<div style="margin-left:30px" id="mrtOPT3Id" class="hide position">
+    						<div style="margin-left:30px" id="mrtOPT3Id" class="show position">
     							<ul>
     								<li>Take Exit A from the station and walk to the bus stop opposite Kent Ridge MRT.</li>
     								<li>Take internal shuttle bus service A2 from the bus stop opposite Kent Ridge MRT station.</li>

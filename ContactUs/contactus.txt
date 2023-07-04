@@ -54,6 +54,7 @@
     							<li>Walk through the parking area for a minute and reach NUS Sea Building (COM3) where the
     								NCL is located.</li>
     						</ul>
+                                <img src="images/dircar.png" alt="" width="600"  height="400" border="0" align="center" />
     					</div>
 
     					<p onclick="myFunction('drivingPPId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are driving from Pasir Panjang Road</u></strong></font></p><br/>

@@ -9,15 +9,14 @@
             <h3 class="news-header2">We are a National Cybersecurity R&amp;D Lab(NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</h3>
             <h3 class="news-header2">Our aim is to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing requirements.</h3>
         </div>
-<br></br>
-
+<br/>
         <div class="row">
             <h2 class="news-header"><font color="#0d6dba">Mission</font></h2>
             <!--<p><font color="#313030" size="4px">Develop NCL into a hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</font></p>-->
             <h3 class="news-header2">To develop NCL into a R&amp;D hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</h3>
         </div>
 
-<br></br>
+<br/>
         <div class="row">
           <h2 class="news-header"><font color="#0d6dba">Key Areas of Support</font></h2>
             <ul>
@@ -27,7 +26,7 @@
                 <li><h3 class="news-header2">Training and Skills Assessment</h3></li>
             </ul>
         </div>
-<br></br>
+<br/>
 <div class="row"> <!--/#about-us-->
                
                         <h2 class="news-header"><font color="#0d6dba">About us</font></h2>

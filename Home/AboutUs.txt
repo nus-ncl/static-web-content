@@ -1,5 +1,4 @@
 <div layout:fragment="content" id="AboutUs">
- <section id="team">
  <p></p><br></br>
     <p></p><br></br>
 
@@ -63,5 +62,5 @@
         </div>
     </section><!--/#about-us-->
     <p>&nbsp;</p>
- </section>
+
 </div>

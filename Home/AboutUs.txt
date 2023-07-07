@@ -9,6 +9,7 @@
             <h3 class="news-header2">We are a National Cybersecurity R&amp;D Lab(NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</h3>
             <h3 class="news-header2">Our aim is to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing requirements.</h3>
         </div>
+ <p>&nbsp;</p>
 
         <div class="row">
             <h2 class="news-header"><font color="#0d6dba">Mission</font></h2>
@@ -16,6 +17,7 @@
             <h3 class="news-header2">To develop NCL into a R&amp;D hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</h3>
         </div>
 
+ <p>&nbsp;</p>
         <div class="row">
           <h2 class="news-header"><font color="#0d6dba">Key Areas of Support</font></h2>
             <ul>
@@ -25,12 +27,13 @@
                 <li><h3 class="news-header2">Training and Skills Assessment</h3></li>
             </ul>
         </div>
+ <p>&nbsp;</p>
 <div class="row"> <!--/#about-us-->
                
                         <h2 class="news-header"><font color="#0d6dba">About us</font></h2>
-                        <p>NCL,  national cybersecurity lab, offers computing resources and controlled experimentation environments to facilitate collaborative research among academia, government bodies, and industry. The infrastructure comprises a cluster of 300+ nodes with diverse provisioning mechanisms, security data, and security services.</p>
+                        <h3 class="news-header2">NCL,  national cybersecurity lab, offers computing resources and controlled experimentation environments to facilitate collaborative research among academia, government bodies, and industry. The infrastructure comprises a cluster of 300+ nodes with diverse provisioning mechanisms, security data, and security services.</h3>
                         <p>&nbsp;</p>
-                        <p>OpenStack, an open-source cloud computing infrastructure software project, serves as the foundation for managing the NCL infrastructure. In addition to Compute and Baremetal, NCL also supplies a range of GPU servers to accommodate the growing requirements of AI research.</p>
+                        <h3 class="news-header2">OpenStack, an open-source cloud computing infrastructure software project, serves as the foundation for managing the NCL infrastructure. In addition to Compute and Baremetal, NCL also supplies a range of GPU servers to accommodate the growing requirements of AI research.</h3>
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
                     </div>

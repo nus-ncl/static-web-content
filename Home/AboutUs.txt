@@ -1,5 +1,5 @@
 <div layout:fragment="content" id="AboutUs">
- <p></p><br></br>
+ <p></p>
     <p></p>
 
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">

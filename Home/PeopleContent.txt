@@ -163,6 +163,16 @@
                     </div>
                 </div>
 
+  <div class="row">
+                <p></p>
+                <p></p>
+                <div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Ahmad Soltani</b></h8>
+                        <p><b><font color="585656">PhD Student</font></b> </p>
+                    </div>
+                </div>
+
                 <!-- <div class="col-sm-6">
                      <div class="row">
                          <h8><b>Suravi Chatterjee</b></h8>

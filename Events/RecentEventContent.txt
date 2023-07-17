@@ -41,11 +41,9 @@
                     <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2022</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) has supported and hosted the inaugural Critical Infrastructure Defence Exercise (CIDeX) from 15 to 16 November at the National University of Singapore (NUS) School of Computing. </p></li>
+                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL), NUS has supported and hosted the inaugural Critical Infrastructure Defence Exercise (CIDeX) from 15 to 16 November 2022. </p></li>
                             
-                            <li><p align="justify">The cyber defence exercise involved over 100 participants from the Digital and Intelligence Service (DIS) and 16 other national agencies across the Critical Information Infrastructure (CII) sectors.
-                            
-The event focused on training and strengthening Whole-Of-Government (WoG) cyber capabilities to detect and tackle cyber security threats to Information Technology (IT) and OT networks that control the operations of critical infrastructure.</p></li>
+                            <li><p align="justify">The cyber defence exercise involved over 100 participants from the Digital and Intelligence Service (DIS) and 16 other national agencies across the Critical Information Infrastructure (CII) sectors. The event focused on training and strengthening Whole-Of-Government (WoG) cyber capabilities to detect and tackle cyber security threats to Information Technology (IT) and OT networks that control the operations of critical infrastructure.</p></li>
                             
                             <li><p><a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/November/16nov22_nr">Read More</a>.</p></li>
                         </ul>

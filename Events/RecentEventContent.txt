@@ -17,8 +17,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('AYCEP-NCL.jpeg','AYCEP','JPG')"/>
-                    <img id="AYCEP" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (10).png','MicrosoftTeams_image','PNG')"/>
+                    <img id="MicrosoftTeams_image" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">NCL - GreyHats CTF 2023</h3>

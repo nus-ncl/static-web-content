@@ -106,8 +106,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
-                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCL Visit - 06 Mar 2023.jpg','NCL_Visit06Mar','JPG')"/>
+                    <img id="NCL_Visit06Mar" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">Mr. Sukwoo Lin, a Visiting Researcher to National Cybersecurity R&D Lab (NCL) </h3>

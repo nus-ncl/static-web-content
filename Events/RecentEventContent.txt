@@ -11,6 +11,118 @@
                     <p></p>
                 </div>
             </div>
+
+<!----New 1 ------>
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
+                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">NCL - CSA - Advanced Youth Cyber Exploration Programme (AYCEP) 2023 </h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Lab (NCL) would like to express our gratitude to the Cyber Security Agency of Singapore (CSA) for involving NCL as a co-partner for the Advanced Youth Cyber Exploration Programme (AYCEP) that was held on 06-07 June 2023. </p></li>
+                            <li><p align="justify">Together with Horangi, NCL provided technical training on Day 1 of AYCEP to prepare the participants for the CTF challenge. The final CTF round and table-top exercise scenarios was held in ASEAN-Singapore Cybersecurity Centre for Excellence on 07th June 2023. </p></li>
+                            <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/06/ncl-csa-advanced-youth-cyber.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+<!----end 1 ------>
+
+<!----New 2 ------>
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
+                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">National Cybersecurity R&D Laboratory (NCL) at LockShield 2023 </h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) has sent a team to participate in LockShield 2023, held in Estonia from 17 to 21 April 2023. LockedShield is an annual exercise organised by CCDCOE (The NATO Cooperative Cyber Defence Centre of Excellence), enables cyber security experts to enhance their skills in defending national IT systems and critical infrastructure under real-time attacks. The focus is on realistic scenarios, cutting-edge technologies and simulating the entire complexity of a massive cyber incident, including strategic decision-making, legal and communication aspects. </p></li>
+                            <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/05/national-cybersecurity-r-laboratory-ncl.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+<!----end 2 ------>
+
+<!----New 3 ------>
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
+                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">China Unicom (Singapore) Operations Pte Ltd. Explores Collaboration Opportunities with National Cybersecurity R&D Lab (NCL) at NUS </h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">On 24 March 2023, a delegation of visitors, Mr. Bai Jian (Deputy General Manager) and Mr. Adam Cheung (Senior Product Manager) from China Unicom (Singapore) Operations Pte. Ltd., visited the National Cybersecurity R&D Lab (NCL), NUS to explore the potential collaboration opportunities. </p></li>
+                            <li><p align="justify">The visitors were given a briefing on NCL facilities and Cybersecurity compute Infrastructure and resources.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+<!----end 3 ------>
+
+<!----New 4 ------>
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
+                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">Dr. Norrathep Rattanavipanon's Techincal Visit to National Cybersecurity R&D Lab (NCL)</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify"></p>On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy, Phuket Campus, Thailand visited National Cybersecurity R&D Laboratory (NCL). This was a technical visit organized by Associate Professor Liang Zhenkai, School of Computing, NUS. </li>
+                            <li><p align="justify">The purpose of the visit was to explore the cutting-edge technologies and projects being developed in the lab and to gain more knowledge about Cyber security services offered by NCL.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+<!----end 4 ------>
+
+<!----New 5 ------>
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
+                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">Mr. Sukwoo Lin, a Visiting Researcher to National Cybersecurity R&D Lab (NCL) </h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Lab (NCL) is very happy to host Mr. Sukwoo Lin as a Visiting Researcher, who have been selected for overseas training program sponsored by Korean Government. He is a Superintendent of the Korean National Police Agency (KNPA). </p></li>
+                            <li><p align="justify">His research topics focus on the cybersecurity law of Singapore, the role of the Cyber Security Agency as well as the cooperative relationship between the Cyber Security Agency and the Singapore Police Force in cyber-terrorism investigations.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+<!----end 5 ------>
+
                     
              <div class="col-sm-12">
                 <div class="col-sm-4">

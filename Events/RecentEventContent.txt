@@ -47,7 +47,8 @@
                     <h3 class="news-header">National Cybersecurity R&D Laboratory (NCL) at LockShield 2023 </h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) has sent a team to participate in LockShield 2023, held in Estonia from 17 to 21 April 2023. LockedShield is an annual exercise organised by CCDCOE (The NATO Cooperative Cyber Defence Centre of Excellence), enables cyber security experts to enhance their skills in defending national IT systems and critical infrastructure under real-time attacks. The focus is on realistic scenarios, cutting-edge technologies and simulating the entire complexity of a massive cyber incident, including strategic decision-making, legal and communication aspects. </p></li>
+                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) has sent a team to participate in LockShield 2023, held in Estonia from 17 to 21 April 2023.</p></li> 
+<li><p align="justify">LockedShield is an annual exercise organised by CCDCOE (The NATO Cooperative Cyber Defence Centre of Excellence), enables cyber security experts to enhance their skills in defending national IT systems and critical infrastructure under real-time attacks.</p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/05/national-cybersecurity-r-laboratory-ncl.html">Read More</a>.</p></li>
                             </ul>
                     </div>

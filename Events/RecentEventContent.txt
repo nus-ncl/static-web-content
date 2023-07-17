@@ -84,8 +84,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
-                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCL Visit - 07 Mar 2023.jpg','NCL_Visit','JPG')"/>
+                    <img id="NCL_Visit" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">Dr. Norrathep Rattanavipanon's Techincal Visit to National Cybersecurity R&D Lab (NCL)</h3>

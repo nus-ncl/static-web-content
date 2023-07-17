@@ -67,7 +67,7 @@
                     <img id="ChinaUnicom2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
-                    <h3 class="news-header">China Unicom (Singapore) Operations Pte Ltd. Explores Collaboration Opportunities with National Cybersecurity R&D Lab (NCL) at NUS </h3>
+                    <h3 align="justify" class="news-header">China Unicom (Singapore) Operations Pte Ltd. Explores Collaboration Opportunities with National Cybersecurity R&D Lab (NCL) at NUS </h3>
                     <div class="row">
                         <ul>
                             <li><p align="justify">On 24 March 2023, a delegation of visitors, Mr. Bai Jian (Deputy General Manager) and Mr. Adam Cheung (Senior Product Manager) from China Unicom (Singapore) Operations Pte. Ltd., visited the National Cybersecurity R&D Lab (NCL), NUS to explore the potential collaboration opportunities. </p></li>
@@ -89,10 +89,10 @@
                     <img id="NCL_Visit" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
-                    <h3 class="news-header">Dr. Norrathep Rattanavipanon's Techincal Visit to National Cybersecurity R&D Lab (NCL)</h3>
+                    <h3 class="news-header">Dr. Norrathep Rattanavipanon's Techincal Visit to NCL</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify"></p>On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy, Phuket Campus, Thailand visited National Cybersecurity R&D Laboratory (NCL). This was a technical visit organized by Associate Professor Liang Zhenkai, School of Computing, NUS. </li>
+                            <li><p align="justify"></p>On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy, Phuket Campus, Thailand visited National Cybersecurity R&D Laboratory (NCL).</li>
                             <li><p align="justify">The purpose of the visit was to explore the cutting-edge technologies and projects being developed in the lab and to gain more knowledge about Cyber security services offered by NCL.</p></li>
                             </ul>
                     </div>

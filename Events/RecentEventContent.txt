@@ -40,8 +40,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
-                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCL-Lockshield2023.jpg','Lockshield2023','JPG')"/>
+                    <img id="Lockshield2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">National Cybersecurity R&D Laboratory (NCL) at LockShield 2023 </h3>

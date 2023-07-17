@@ -21,6 +21,29 @@
                     <img id="AYCEP" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
+                    <h3 class="news-header">NCL - GreyHats CTF 2023</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Lab (NCL)and NUS Greyhats jointly organized the GreyHats CTF 2023 event held from 15-16 July 2023 at the School of Computing, National University of Singapore. There were 15 teams (local and international) with 90 participants invited to compete physically in Singapore. The top 3 teams were awarded medals and cash prizes at the end of the competition.</p></li>
+                            <li><p align="justify">We would like to extend our heartfelt gratitude to our sponsors Cyber Security Agency of Singapore (CSA), The Digital and Intelligence Service, and Bakkhos Labs for their invaluable support in making this event happen and ensuring its success.</p></li>
+                            <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/07/greyhats-ctf-2023.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+<!----end 1 ------>
+
+<!----New 1 ------>
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('AYCEP-NCL.jpeg','AYCEP','JPG')"/>
+                    <img id="AYCEP" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
                     <h3 class="news-header">NCL - CSA - Advanced Youth Cyber Exploration Programme (AYCEP) 2023 </h3>
                     <div class="row">
                         <ul>

@@ -71,7 +71,7 @@
                     <div class="row">
                         <ul>
                             <li><p align="justify">On 24 March 2023, a delegation of visitors, Mr. Bai Jian (Deputy General Manager) and Mr. Adam Cheung (Senior Product Manager) from China Unicom (Singapore) Operations Pte. Ltd., visited the National Cybersecurity R&D Lab (NCL), NUS to explore the potential collaboration opportunities. </p></li>
-                            <li><p align="justify">The visitors were given a briefing on NCL facilities and Cybersecurity compute Infrastructure and resources.</p></li>
+                            <li><p align="justify">The visitors were given a briefing on NCL facilities and Cybersecurity compute Infrastructure.</p></li>
                             </ul>
                     </div>
                 </div>

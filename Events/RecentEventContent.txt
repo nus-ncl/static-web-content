@@ -25,7 +25,7 @@
                     <div class="row">
                         <ul>
                             <li><p align="justify">National Cybersecurity R&D Lab (NCL) would like to express our gratitude to the Cyber Security Agency of Singapore (CSA) for involving NCL as a co-partner for the Advanced Youth Cyber Exploration Programme (AYCEP) that was held on 06-07 June 2023. </p></li>
-                            <li><p align="justify">Together with Horangi, NCL provided technical training on Day 1 of AYCEP to prepare the participants for the CTF challenge. The final CTF round and table-top exercise scenarios was held in ASEAN-Singapore Cybersecurity Centre for Excellence on 07th June 2023. </p></li>
+                            <li><p align="justify">Together with Horangi, NCL provided technical training on Day 1 of AYCEP to prepare the participants for the CTF challenge.</p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/06/ncl-csa-advanced-youth-cyber.html">Read More</a>.</p></li>
                             </ul>
                     </div>

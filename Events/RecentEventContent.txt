@@ -62,8 +62,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('zerotrustcs.jpg','zerotrustcs','JPG')"/>
-                    <img id="zerotrustcs" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCL-ChinaUnicom2023.jpg','ChinaUnicom2023','JPG')"/>
+                    <img id="ChinaUnicom2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">China Unicom (Singapore) Operations Pte Ltd. Explores Collaboration Opportunities with National Cybersecurity R&D Lab (NCL) at NUS </h3>

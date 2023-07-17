@@ -92,7 +92,7 @@
                     <h3 class="news-header">Dr. Norrathep Rattanavipanon's Techincal Visit to NCL</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify"></p>On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy, Phuket Campus, Thailand visited National Cybersecurity R&D Laboratory (NCL).</li>
+                            <li><p align="justify"></p>On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy, Phuket Campus, Thailand visited National Cybersecurity R&D Laboratory (NCL).</p></li>
 
                             <li><p align="justify">The purpose of the visit was to explore the cutting-edge technologies and projects being developed in the lab and to gain more knowledge about Cyber security services offered by NCL.</p></li>
                             </ul>

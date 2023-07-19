@@ -24,7 +24,7 @@
                     <h3 class="news-header">NCL - GreyHats CTF 2023</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">National Cybersecurity R&D Lab (NCL)and NUS Greyhats jointly organized the GreyHats CTF 2023 event held from 15-16 July 2023 at the School of Computing, National University of Singapore.</p> </li>
+                            <li><p align="justify">National Cybersecurity R&D Lab (NCL)and NUS Greyhats jointly organized the GreyHats CTF 2023 event held from 15-16 July 2023 at the School of Computing, NUS.</p> </li>
 <li><p align="justify">There were 15 teams (local and international) with 90 participants invited to compete physically in Singapore. The top 3 teams were awarded medals and cash prizes at the end of the competition.</p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/07/greyhats-ctf-2023.html">Read More</a>.</p></li>
                             </ul>

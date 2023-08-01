@@ -21,6 +21,26 @@
                     <img id="MicrosoftTeams_image" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
+                    <h3 class="news-header">YCEP Central CTF 2023</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">The Youth Cyber Exploration Programme (YCEP) Central Capture-the-Flag 2023 competition took place on the 25th of July 2023, in conjunction with WorldSkills ASEASN 2023, at Suntec Convention Centre witnessed close to 70 finalists from different schools.</p> </li>
+
+<li><p align="justify">The competition was organized by CSA, with the support of National Cybersecurity R&D Lab (NCL) and Cisco Systems, aimed to ignite the passion for cybersecurity among young talents and foster a vibrant cyber community.</p></li>
+                            <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/07/the-youth-cyber-exploration-programme.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (10).png','MicrosoftTeams_image','PNG')"/>
+                    <img id="MicrosoftTeams_image" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
                     <h3 class="news-header">NCL - GreyHats CTF 2023</h3>
                     <div class="row">
                         <ul>
@@ -31,6 +51,7 @@
                     </div>
                 </div>
             </div> 
+
 
 
 <!----end 1 ------>

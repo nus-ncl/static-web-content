@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">The Youth Cyber Exploration Programme (YCEP) Central Capture-the-Flag 2023 competition took place on the 25th of July 2023, in conjunction with WorldSkills ASEASN 2023, at Suntec Convention Centre witnessed close to 70 finalists from different schools.</p> </li>
 
-<li><p align="justify">The competition was organized by CSA, with the support of National Cybersecurity R&D Lab (NCL) and Cisco Systems, aimed to ignite the passion for cybersecurity among young talents and foster a vibrant cyber community.</p></li>
+<li><p align="justify">The competition was organized by CSA, with the support of National Cybersecurity R&D Lab (NCL) and Cisco Systems.</p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/07/the-youth-cyber-exploration-programme.html">Read More</a>.</p></li>
                             </ul>
                     </div>

@@ -17,8 +17,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage(YCEP2023.jpg','YCEP2023','JPG')"/>
-                    <img id="YCEP2023" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage(CTFYCEP2023.jpg','CTFYCEP2023','JPG')"/>
+                    <img id="CTFYCEP2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">YCEP Central CTF 2023</h3>

@@ -130,7 +130,7 @@
                                         <td><div align="center">48</div></td>
                                         <td><div align="center">3840</div></td>
                                         <td><div align="center">16</div></td>
-                                        <td><div align="center"><strong>Coming soon...</strong></div></td>
+                                        <td><div align="center"><strong>Occupied</strong></div></td>
                                     </tr>
                                 </table>
                             </div>

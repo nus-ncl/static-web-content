@@ -116,6 +116,22 @@
                                         <td><div align="center">8</div></td>
                                         <td><div align="center"><strong>250</strong></div></td>
                                     </tr>
+				    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>A40</strong></h5></th>
+                                        <td><div align="center">4</div></td>
+                                        <td><div align="center">48</div></td>
+                                        <td><div align="center">960</div></td>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center"><strong>Coming soon...</strong></div></td>
+                                    </tr>
+				    <tr BGCOLOR="#fff">
+                                        <th BGCOLOR="#E0E0E0"><h5><strong>A40</strong></h5></th>
+                                        <td><div align="center">8</div></td>
+                                        <td><div align="center">48</div></td>
+                                        <td><div align="center">3840</div></td>
+                                        <td><div align="center">16</div></td>
+                                        <td><div align="center"><strong>Coming soon...</strong></div></td>
+                                    </tr>
                                 </table>
                             </div>
                     </div>

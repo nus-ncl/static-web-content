@@ -105,7 +105,7 @@
                                         <td><div align="center">1</div></td>
                                         <td><div align="center">80</div></td>
                                         <td><div align="center">480</div></td>
-                                        <td><div align="center">2.4</div></td>
+                                        <td><div align="center">12</div></td>
                                         <td><div align="center"><strong>100</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
@@ -122,7 +122,7 @@
                                         <td><div align="center">48</div></td>
                                         <td><div align="center">960</div></td>
                                         <td><div align="center">8</div></td>
-                                        <td><div align="center"><strong>Imminent</strong></div></td>
+                                        <td><div align="center"><strong>Coming Soon</strong></div></td>
                                     </tr>
 				    <tr BGCOLOR="#fff">
                                         <th BGCOLOR="#E0E0E0"><h5><strong>A40</strong></h5></th>
@@ -142,7 +142,7 @@
 		    <ol>
 		    <li>GST is NOT included in the listed price.</li>
 		    <li>1CPU core = 4 vCPU until further notice.</li>
-		    <li>NCL allows customised specs (vCPU, RAM, etc etc) and dedicated servers. Kindly contact us for more details</li>
+		    <li>NCL allows customised specs (vCPU, RAM, etc) and dedicated servers. Kindly contact us for more details.</li>
 		    <li>NCL deserves the right to interpret any ambiguities, if any.</li>
 		    </ol>
     </section>

@@ -73,7 +73,7 @@
               <p>&nbsp;</p>
 	      </div>
 	     <div>
-		<h4 align="left"><b>GPU Offerings</b></h4>	
+		<h3>GPU Offerings</h3>	
 		</div> 
 	     <div class="row">
                             <div class="table-responsive">

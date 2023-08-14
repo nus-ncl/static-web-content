@@ -72,9 +72,7 @@
 	     <p>&nbsp;</p>
               <p>&nbsp;</p>
 	      </div>
-	     <div>
 		<h3>GPU Offerings</h3>	
-		</div> 
 	     <div class="row">
                             <div class="table-responsive">
                                 <table class="table1" style="width:100%">

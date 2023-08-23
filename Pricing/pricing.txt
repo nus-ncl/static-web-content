@@ -133,7 +133,7 @@
                                         <td><div align="center"><strong>480</strong></div></td>
                                     </tr>
                                 </table>
-				<h4><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a> for special pricing on a long-term contract basis.</b></h4>
+				<h5><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a> for special pricing on a long-term contract basis.</b></h5>
                             </div>
                     </div>
 		 </div>

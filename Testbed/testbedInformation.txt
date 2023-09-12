@@ -111,7 +111,7 @@
 
                 <table class="table1">
 
-                    <tr BGCOLOR="#fff" id="A100">
+                    <tr id="A100">
 
                         <td><p><b>NVIDIA Ampere A100 - Dell PowerEdge R750</b></p>
 			<ul>

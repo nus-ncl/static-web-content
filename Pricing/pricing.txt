@@ -109,7 +109,7 @@
                                         <td><div align="center"><strong>100</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
-                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="testbedInformation/#Section1">A5000</a></strong></h5></th>
+                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="testbedInformation.html#Section1">A5000</a></strong></h5></th>
                                         <td><div align="center">4</div></td>
                                         <td><div align="center">24</div></td>
                                         <td><div align="center">960</div></td>

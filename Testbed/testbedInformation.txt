@@ -175,7 +175,7 @@
 			
 		     </tr>
 
-		     <tr id="Section1">
+		     <tr id="Section2">
 
                         <td><p><b>ASUS ESC8000A-E11 GPU server: NVIDIA A40 Current Config: 8x A40 GPU Card Per Server Max GPU: 8</b></p>
 			<ul>
@@ -191,7 +191,7 @@
 			
 		     </tr>	
 
-                      <tr id="Section1">
+                      <tr id="Section3">
 
                         <td><p><b>ASUS ESC4000A-E10 GPU server: NVIDIA A40 Current Config: 4x A40 GPU Card Per Server Max GPU: 4</b></p>
 			<ul>

@@ -85,7 +85,7 @@
                                     <th width="25%"><p><h5><strong>Price*(S$/day)</strong></h5></p></th>
                                     </thead>
                                     <tr BGCOLOR="#fff">
-                                        <th BGCOLOR="#E0E0E0"><h5><strong>P100</strong></h5></th>
+                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="https://ncl.sg/testbedInformation.html#P100">P100</a></strong></h5></th>
                                         <td><div align="center">2</div></td>
                                         <td><div align="center">12</div></td>
                                         <td><div align="center">480</div></td>
@@ -93,7 +93,7 @@
                                         <td><div align="center"><strong>45</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
-                                        <th BGCOLOR="#E0E0E0"><h5><strong>V100</strong></h5></th>
+                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="https://ncl.sg/testbedInformation.html#V100">V100</a></strong></h5></th>
                                         <td><div align="center">2</div></td>
                                         <td><div align="center">16</div></td>
                                         <td><div align="center">480</div></td>
@@ -101,7 +101,7 @@
                                         <td><div align="center"><strong>70</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
-                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5></th>
+                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="https://ncl.sg/testbedInformation.html#A100">A100</a></strong></h5></th>
                                         <td><div align="center">1</div></td>
                                         <td><div align="center">80</div></td>
                                         <td><div align="center">480</div></td>

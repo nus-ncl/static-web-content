@@ -177,7 +177,7 @@
 
 		     <tr id="Section1">
 
-                        <td><p><b>ASUS ESC8000A-E11 GPU server: NVIDIA A40 Current Config: 8x A40 GPU Card Per Server Max GPU: 8</b></p>
+                        <td><p><b>NVIDIA A40 Current Config: 8x A40 GPU Card Per Server Max GPU: 8</b></p>
 			<ul>
 			<li>Processor: (2) AMD EPYC 7543 ( 32-core / 2.80GHz / 256MB L3 / 225W / DDR4-3200</li>
 			<li>Ethernet Ports: (1) 10GBASE-T Dual port adapter</li>

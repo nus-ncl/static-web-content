@@ -368,11 +368,6 @@
 
             <h2 class="team-heading team-heading-current-team" th:text="#{image.deterlab.system}">NCL SGX Attestation Services</h2>
 
-<section id="section1">
-        <h2>Section 1</h2>
-        <p>This is the content of section 1.</p>
-    </section>
-
             <p></p>
 
             <p align="justify">We already know well how to protect sensitive data in storage and transit via encryption. However, the encrypted data often times needs to be decrypted when being computed in memory, which puts the protected data at the risk of being exposed. Confidential Computing (CC), such as Intel SGX, is one widely available to rescue, which is an up-and-coming security technology for protecting data in use.</p>

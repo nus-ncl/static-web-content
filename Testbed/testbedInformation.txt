@@ -417,3 +417,17 @@
 </div> <!--Container 2 closes-->
 
 </div>
+
+
+<script>
+        // JavaScript to scroll to the section specified in the URL fragment
+        window.addEventListener('DOMContentLoaded', function() {
+            const fragment = window.location.hash; // Get the fragment from the URL
+            if (fragment) {
+                const targetSection = document.querySelector(fragment);
+                if (targetSection) {
+                    targetSection.scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+        });
+</script>

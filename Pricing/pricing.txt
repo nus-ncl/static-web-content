@@ -101,7 +101,7 @@
                                         <td><div align="center"><strong>70</strong></div></td>
                                     </tr>
                                     <tr BGCOLOR="#fff">
-                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5></th>
+                                        <th BGCOLOR="#E0E0E0"><h5><strong><a href="testbedInformation.html#A100">Go to Row with ID A100</a></strong></h5></th>
                                         <td><div align="center">1</div></td>
                                         <td><div align="center">80</div></td>
                                         <td><div align="center">480</div></td>

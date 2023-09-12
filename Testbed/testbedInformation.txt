@@ -128,7 +128,7 @@
 		     </tr>
 		    
 		    
-		     <tr BGCOLOR="#fff">
+		     <tr id="V100">
 
                         <td><p><b>NVIDIA Tesla V100 - ASUS ESC4000</b></p>
 			<ul>
@@ -159,7 +159,7 @@
 			
 		     </tr>
 		     
-		      <tr BGCOLOR="#fff">
+		      <tr id="A500">
 
                         <td><p><b>NVIDIA RTX A5000 - ASUS ESC4000-E10 2U GPU Server</b></p>
 			<ul>

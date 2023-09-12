@@ -159,7 +159,8 @@
 			
 		     </tr>
 		     
-		      <tr id="Section1">
+		      <tr>
+			<div id="Section1">
 
                         <td><p><b>NVIDIA RTX A5000 - ASUS ESC4000-E10 2U GPU Server</b></p>
 			<ul>
@@ -172,6 +173,7 @@
 			<li>OS: (1) Ubuntu 22.04 LTS</li>
 			<li>GPU: (4) NVIDIA RTX A5000 24GB GDDR6 8192 Cuda Core GPU</li>
 			</td>
+			</div>
 			
 		     </tr>
 

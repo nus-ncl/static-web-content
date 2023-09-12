@@ -112,6 +112,7 @@
                 <table class="table1">
 
                     <tr id="A100">
+			 <section id="section1">
 
                         <td><p><b>NVIDIA Ampere A100 - Dell PowerEdge R750</b></p>
 			<ul>
@@ -124,6 +125,8 @@
 			<li>OS: (1) Ubuntu 20.04 LTS</li>
 			<li>GPU: (1) NVIDIA Ampere A100, PCIe, 300W, 80GB Passive, Double Wide, Full Height GPU</li>
 			</td>
+
+			 </section>
 			
 		     </tr>
 		    
@@ -160,7 +163,7 @@
 		     </tr>
 		     
 		      <tr>
-			<div id="Section1">
+			<div id="A5000">
 
                         <td><p><b>NVIDIA RTX A5000 - ASUS ESC4000-E10 2U GPU Server</b></p>
 			<ul>
@@ -177,7 +180,7 @@
 			
 		     </tr>
 
-		     <tr id="Section2">
+		     <tr id="A401">
 
                         <td><p><b>ASUS ESC8000A-E11 GPU server: NVIDIA A40 Current Config: 8x A40 GPU Card Per Server Max GPU: 8</b></p>
 			<ul>
@@ -193,7 +196,7 @@
 			
 		     </tr>	
 
-                      <tr id="Section3">
+                      <tr id="A402">
 
                         <td><p><b>ASUS ESC4000A-E10 GPU server: NVIDIA A40 Current Config: 4x A40 GPU Card Per Server Max GPU: 4</b></p>
 			<ul>

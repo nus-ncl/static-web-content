@@ -141,7 +141,6 @@
              </div>
 	     
                     <h3>Terms and Conditions:</h3>
- <p><a href="/testbedInformation.html#section1">Go to Section 1</a></p>
 		    <ol>
 		    <li>GST is not included in the listed price.</li>
 		    <li>1CPU core = 4 vCPU until further notice.</li>

@@ -159,7 +159,7 @@
 			
 		     </tr>
 		     
-		      <tr id="A5000">
+		      <tr id="Section1">
 
                         <td><p><b>NVIDIA RTX A5000 - ASUS ESC4000-E10 2U GPU Server</b></p>
 			<ul>
@@ -171,6 +171,22 @@
 			<li>HDD: (1) 8TB Enterprise SATA HDD, 7.2k RPM 256MB cache</li>
 			<li>OS: (1) Ubuntu 22.04 LTS</li>
 			<li>GPU: (4) NVIDIA RTX A5000 24GB GDDR6 8192 Cuda Core GPU</li>
+			</td>
+			
+		     </tr>
+
+		     <tr id="Section1">
+
+                        <td><p><b>ASUS ESC8000A-E11 GPU server: NVIDIA A40 Current Config: 8x A40 GPU Card Per Server Max GPU: 8</b></p>
+			<ul>
+			<li>Processor: (2) AMD EPYC 7543 ( 32-core / 2.80GHz / 256MB L3 / 225W / DDR4-3200</li>
+			<li>Ethernet Ports: (1) 10GBASE-T Dual port adapter</li>
+			<li>Memory: (512) GB DDR4-3200 ECC RDIMM - 32GB x 16pcs</li>
+			<li>SSD: (1) 3.84TB Enterprise NVMe Gen4 SSD, U.2, powerloss protect., 1DWPD, 2M MTBF</li>
+			<li>HDD: (1) 16TB Enterprise SATA HDD, 7.2K RPM 256MB cache, 2M MTBF</li>
+			<li>GPU: (8) NVIDIA A40, 10752 CUDA core, 48GB GDDR6</li>
+			<li>Host Bus Adapter (HBA): LSI 3008 HBA (to support SATA/SAS) x 1 pcs</li>
+			<li>Thermal Design Power: 300W per card</li>
 			</td>
 			
 		     </tr>

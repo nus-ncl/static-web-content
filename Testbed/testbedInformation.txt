@@ -186,16 +186,15 @@
             <tr id="A401">
 
               <td>
-                <p><b>ASUS ESC8000A-E11 GPU server: NVIDIA A40 Current Config: 8x A40 GPU Card Per Server Max GPU: 8</b></p>
+                <p><b>NVIDIA A40 with 8 GPU Card - ASUS ESC8000A-E11 GPU server</b></p>
                 <ul>
-                  <li>Processor: (2) AMD EPYC 7543 ( 32-core / 2.80GHz / 256MB L3 / 225W / DDR4-3200</li>
-                  <li>Ethernet Ports: (1) 10GBASE-T Dual port adapter</li>
+                  <li>CPU: (2) AMD EPYC 7543 ( 32-core / 2.80GHz / 256MB L3 / 225W / DDR4-3200</li>
                   <li>Memory: (512) GB DDR4-3200 ECC RDIMM - 32GB x 16pcs</li>
+                  <li>Ethernet Ports: (1) 10GBASE-T Dual port adapter</li>
                   <li>SSD: (1) 3.84TB Enterprise NVMe Gen4 SSD, U.2, powerloss protect., 1DWPD, 2M MTBF</li>
                   <li>HDD: (1) 16TB Enterprise SATA HDD, 7.2K RPM 256MB cache, 2M MTBF</li>
+                  <li>OS: (1) Ubuntu 22.04 LTS</li>
                   <li>GPU: (8) NVIDIA A40, 10752 CUDA core, 48GB GDDR6</li>
-                  <li>Host Bus Adapter (HBA): LSI 3008 HBA (to support SATA/SAS) x 1 pcs</li>
-                  <li>Thermal Design Power: 300W per card</li>
                 </ul>
               </td>
 
@@ -204,16 +203,15 @@
             <tr id="A402">
 
               <td>
-                <p><b>ASUS ESC4000A-E10 GPU server: NVIDIA A40 Current Config: 4x A40 GPU Card Per Server Max GPU: 4</b></p>
+                <p><b>NVIDIA A40 with 4 GPU Card - ASUS ESC4000A-E10 GPU server</b></p>
                 <ul>
-                  <li>Processor: (1) AMD EPYC 7443P or 7443 ( 24-core / 2.85GHz / 128MB L3 / 200W / DDR4-3200</li>
-                  <li>Ethernet Ports: (1) 10GBASE-T Dual port adapter</li>
+                  <li>CPU: (1) AMD EPYC 7443P or 7443 ( 24-core / 2.85GHz / 128MB L3 / 200W / DDR4-3200</li>
                   <li>Memory: (256) GB DDR4-3200 ECC RDIMM - 64GB x 4pcs</li>
+                  <li>Ethernet Ports: (1) 10GBASE-T Dual port adapter</li>
                   <li>SSD: (2) 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</li>
                   <li>HDD: (1) 8TB Enterprise SATA HDD, 7.2K RPM 256MB cache, 2M MTBF</li>
-                  <li>GPU: (8) NVIDIA A40, 10752 CUDA core, 48GB GDDR6</li>
+                  <li>OS: (1) Ubuntu 22.04 LTS</li>
                   <li>GPU: (4) NVIDIA A40, 10752 CUDA core, 48GB GDDR6</li>
-                  <li>Thermal Design Power: 300W per card</li>
                 </ul>
               </td>
 

@@ -200,6 +200,49 @@
                     </p>
                   </th>
                 </thead>
+
+               <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">2</div>
+                  </td>
+                  <td>
+                    <div align="center">80</div>
+                  </td>
+                  <td>
+                    <div align="center">480</div>
+                  </td>
+                  <td>
+                    <div align="center">12</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>100</strong></div>
+                  </td>
+                </tr>
+
+               <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">1</div>
+                  </td>
+                  <td>
+                    <div align="center">80</div>
+                  </td>
+                  <td>
+                    <div align="center">480</div>
+                  </td>
+                  <td>
+                    <div align="center">12</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>100</strong></div>
+                  </td>
+                </tr>
+
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
                     <h5><strong><a href="testbedInformation.html#P100">P100</a></strong></h5>
@@ -240,26 +283,7 @@
                     <div align="center"><strong>70</strong></div>
                   </td>
                 </tr>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">1</div>
-                  </td>
-                  <td>
-                    <div align="center">80</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">12</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>100</strong></div>
-                  </td>
-                </tr>
+               
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
                     <h5><strong><a href="testbedInformation.html#A500">A5000</a></strong></h5>

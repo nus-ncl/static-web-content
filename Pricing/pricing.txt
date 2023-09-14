@@ -243,6 +243,26 @@
                   </td>
                 </tr>
 
+                <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5><strong><a href="testbedInformation.html#A40">A40</a></strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">8</div>
+                  </td>
+                  <td>
+                    <div align="center">48</div>
+                  </td>
+                  <td>
+                    <div align="center">3840</div>
+                  </td>
+                  <td>
+                    <div align="center">16</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>480</strong></div>
+                  </td>
+                </tr>
 
               <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
@@ -264,24 +284,46 @@
                     <div align="center"><strong>260</strong></div>
                   </td>
                 </tr>
+
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A40">A40</a></strong></h5>
+                    <h5><strong><a href="testbedInformation.html#A500">A5000</a></strong></h5>
                   </th>
+                  <td>
+                    <div align="center">4</div>
+                  </td>
+                  <td>
+                    <div align="center">24</div>
+                  </td>
+                  <td>
+                    <div align="center">960</div>
+                  </td>
                   <td>
                     <div align="center">8</div>
                   </td>
                   <td>
-                    <div align="center">48</div>
+                    <div align="center"><strong>250</strong></div>
                   </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5><strong><a href="testbedInformation.html#V100">V100</a></strong></h5>
+                  </th>
                   <td>
-                    <div align="center">3840</div>
+                    <div align="center">2</div>
                   </td>
                   <td>
                     <div align="center">16</div>
                   </td>
                   <td>
-                    <div align="center"><strong>480</strong></div>
+                    <div align="center">480</div>
+                  </td>
+                  <td>
+                    <div align="center">8</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>70</strong></div>
                   </td>
                 </tr>
 
@@ -305,47 +347,7 @@
                     <div align="center"><strong>45</strong></div>
                   </td>
                 </tr>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#V100">V100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">16</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>70</strong></div>
-                  </td>
-                </tr>
                
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A500">A5000</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">24</div>
-                  </td>
-                  <td>
-                    <div align="center">960</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>250</strong></div>
-                  </td>
-                </tr>
               </table>
                <a target="_blank" href="testbedInformation.html"><h18>Learn More >>> </h18></a>
               <h5 align="left"><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a> for special pricing on a long-term contract basis.</b></h5>

@@ -264,6 +264,14 @@
                   </td>
                 </tr>
 
+               <tr>
+                 <div id="mrtOPT4Id" class=hide position" style="margin-left:30px">
+    							<br/>
+    							<img align="center" src="images/dircom2.png" alt="" width="450"  height="360" border="0" style="margin-left:30px"/>
+    						</div>
+               </tr>
+
+
               <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
                     <h5><strong><a href="testbedInformation.html#A40">A40</a></strong></h5>

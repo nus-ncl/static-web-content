@@ -265,10 +265,12 @@
                 </tr>
 
                <tr>
+                 <td>
                  <div id="mrtOPT4Id" class=hide position" style="margin-left:30px">
     							<br/>
     							<img align="center" src="images/dircom2.png" alt="" width="450"  height="360" border="0" style="margin-left:30px"/>
     						</div>
+                </td>
                </tr>
 
 

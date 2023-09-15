@@ -245,7 +245,7 @@
 
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A40">A40</a></strong></h5>
+                    <h5 onclick="myFunction('mrtOPT4Id')"><strong>A40</strong></h5>
                   </th>
                   <td>
                     <div align="center">8</div>

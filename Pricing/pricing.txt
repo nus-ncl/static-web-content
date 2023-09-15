@@ -377,3 +377,18 @@
     </div>
   </section>
 </div>
+
+<script>
+ function myFunction(id)
+    {
+        var obj = document.getElementById(id);
+        if(obj.className == 'show')
+        {
+            obj.className = 'hide';
+        }
+        else
+        {
+            obj.className = 'show';
+        }
+    }
+</script>

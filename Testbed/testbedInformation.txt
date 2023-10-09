@@ -47,38 +47,43 @@
           <p> Below are an example of the specification of each node in different category:</p>
 
             <p><dt class="fa fa-check">Platinum</dt> 
-		<i>2x Intel Xeon Platinum 8480+ (each: 56-core / 2.00Ghz / 105MB L3 / 350W / DDR5)</i>
-		<i>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</i>
-		<i>1x 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</i>
-		<i>1x 10GBASE-T Quad (4) port adapter</i></p>
+		<ul>
+		<li>2x Intel Xeon Platinum 8480+ (each: 56-core / 2.00Ghz / 105MB L3 / 350W / DDR5)</li>
+		<li>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</li>
+		<li>1x 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</li>
+		<li>1x 10GBASE-T Quad (4) port adapter</li></ul></p>
 
 	    <p><dt class="fa fa-check">Gold+</dt> 
-		<dd>2x Intel Xeon Gold 6338 Processor (32C, 64T, 48M, 2.00 GHz)</dd>
-		<dd>16x 64GB DDR4-3200 REG ECC DIMM</dd>
-		<dd>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</dd>
-		<dd>2x 16TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data);  1x PIKE II 3108 HW Raid Controller, 2Gb Cache</dd>
-		<dd>1x Dual-Port 10G Base-T Intel Based Mezzaine Card;  Onboard Dual GbE LAN and Dedicated management Port</dd></p>
+		<ul>
+		<li>2x Intel Xeon Gold 6338 Processor (32C, 64T, 48M, 2.00 GHz)</li>
+		<li>16x 64GB DDR4-3200 REG ECC DIMM</li>
+		<li>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</li>
+		<li>2x 16TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data);  1x PIKE II 3108 HW Raid Controller, 2Gb Cache</li>
+		<li>1x Dual-Port 10G Base-T Intel Based Mezzaine Card;  Onboard Dual GbE LAN and Dedicated management Port</li></ul></p>
 
             <p><dt class="fa fa-check">Gold</dt> 
-		<dd>2x Intel Xeon Gold 5218R Processor (20C, 40T, 27.5M, 2.10 GHz)</dd>
-		<dd>16x 64GB DDR4-2933 REG ECC DIMM</dd>
-		<dd>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</dd>
-		<dd>2x 14TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data);  1x PIKE II 3108 HW Raid Controller, 2Gb Cache</dd>
-		<dd>1x Dual-Port 10G Base-T Intel Based Mezzaine Card; Onboard Dual GbE LAN and Dedicated management Port</dd></p>
+		<ul>
+		<li>2x Intel Xeon Gold 5218R Processor (20C, 40T, 27.5M, 2.10 GHz)</li>
+		<li>16x 64GB DDR4-2933 REG ECC DIMM</li>
+		<li>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</li>
+		<li>2x 14TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data);  1x PIKE II 3108 HW Raid Controller, 2Gb Cache</li>
+		<li>1x Dual-Port 10G Base-T Intel Based Mezzaine Card; Onboard Dual GbE LAN and Dedicated management Port</li></ul></p>
 
             <p><dt class="fa fa-check">Sliver</dt> 
-		<dd>2x Intel Xeon Silver 4210R Processor (10C, 20T, 13.75M, 2.40 GHz)</dd>
-		<dd>4x 32GB DDR4-2933 REG ECC DIMM</dd>
-		<dd>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</dd>
-		<dd>2x 2TB 7200RPM SATA Enterprise 3.5" HDD 2M MTBF</dd>
-		<dd>1x PIKE II 3108 HW Raid Controller, 2Gb Cache; 1x Dual-Port 10G Base-T Intel Based Mezzaine Card</dd></p>
+		<ul>
+		<li>2x Intel Xeon Silver 4210R Processor (10C, 20T, 13.75M, 2.40 GHz)</li>
+		<li>4x 32GB DDR4-2933 REG ECC DIMM</li>
+		<li>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</li>
+		<li>2x 2TB 7200RPM SATA Enterprise 3.5" HDD 2M MTBF</li>
+		<li>1x PIKE II 3108 HW Raid Controller, 2Gb Cache; 1x Dual-Port 10G Base-T Intel Based Mezzaine Card</li></ul></p>
 
 	    <p><dt class="fa fa-check">Bronze</dt> 
-		<dd>2x Intel Xeon Bronze 3206R Processor (8C, 8T, 11M, 1.90 GHz)</dd>
-		<dd>2x 32GB DDR4-2933 REG ECC DIMM</dd>
-		<dd>1x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD</dd>
-		<dd>1x Dual-Port 10G Base-T Intel Based Mezzaine Card</dd>
-		<dd>1x Dual-Port 1G Base-T Intel Based NIC Onboard Dual GbE LAN and Dedicated management Port</dd></p>
+		<ul>
+		<li>2x Intel Xeon Bronze 3206R Processor (8C, 8T, 11M, 1.90 GHz)</li>
+		<li>2x 32GB DDR4-2933 REG ECC DIMM</li>
+		<li>1x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD</li>
+		<li>1x Dual-Port 10G Base-T Intel Based Mezzaine Card</li>
+		<li>1x Dual-Port 1G Base-T Intel Based NIC Onboard Dual GbE LAN and Dedicated management Port</li></ul></p>
 
         </div> <!-- panel -->
 

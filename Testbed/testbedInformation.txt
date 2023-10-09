@@ -44,38 +44,13 @@
 
           <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
 
-          <p> Each node has the following specifications:</p>
-
-          <p><i class="fa fa-check"></i> Two (2) Intel Xeon Processor E5-2620 V3 (2.40GHz/6-core) or V4 (2.1Ghz/8-core)</p>
-
-          <p><i class="fa fa-check"></i> One (1) 64GB 2133MHz DDR4 ECC memory</p>
-
-          <p><i class="fa fa-check"></i> One (1) 2TB 7.2K RPM Enterprise SATA 3.5” Hot-Plug Hard Drive</p>
-
-          <p><i class="fa fa-check"></i> One (1) 1Gb Ethernet RJ45 LAN port</p>
-
-          <p><i class="fa fa-check"></i> Two (2) 10Gb Ethernet ports (Intel X540)</p>
-
-          <p><i class="fa fa-check"></i> One (1) power supply unit</p>
-
-        </div> <!-- panel -->
-
-      </div>
-
-
-      <div class="row">
-
-        <div class="panel panel-primary dashpanel">
-
-          <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">SGX server node Specification</h2>
-
           <p> Below are an example of the specification of each node in different category:</p>
 
             <p><dt class="fa fa-check">Platinum</dt> 
-		<dd>2x Intel Xeon Platinum 8480+ (each: 56-core / 2.00Ghz / 105MB L3 / 350W / DDR5)</dd>
-		<dd>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</dd>
-		<dd>1x 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</dd>
-		<dd>1x 10GBASE-T Quad (4) port adapter</dd></p>
+		<i>2x Intel Xeon Platinum 8480+ (each: 56-core / 2.00Ghz / 105MB L3 / 350W / DDR5)</i>
+		<i>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</i>
+		<i>1x 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</i>
+		<i>1x 10GBASE-T Quad (4) port adapter</i></p>
 
 	    <p><dt class="fa fa-check">Gold+</dt> 
 		<dd>2x Intel Xeon Gold 6338 Processor (32C, 64T, 48M, 2.00 GHz)</dd>
@@ -106,6 +81,32 @@
 		<dd>1x Dual-Port 1G Base-T Intel Based NIC Onboard Dual GbE LAN and Dedicated management Port</dd></p>
 
         </div> <!-- panel -->
+
+      </div>
+
+
+      <div class="row">
+
+        <div class="panel panel-primary dashpanel">
+
+          <h2 class="team-heading team-heading-current-team" th:text="#{GPU.Nodes.Specification}">SGX server node Specification</h2>
+
+          <p> Each node has the following specifications:</p>
+
+          <p><i class="fa fa-check"></i> CPU: 6-core Intel Xeon E-2356G 3.2GHZ/12M Cache/3200 MT/s</p>
+
+          <p><i class="fa fa-check"></i> SGX: Firmware Version</p>
+
+          <p><i class="fa fa-check"></i> TPM: Trusted Platform Module 2.0 V3</p>
+
+          <p><i class="fa fa-check"></i> RAM: 16GB UDIMM, 3200MT/s, ECC</p>
+
+          <p><i class="fa fa-check"></i> SSD: 480GB SATA Mix Use 6Gbps</p>
+
+          <p><i class="fa fa-check"></i> LAN: Dual Port 1GB Ethernet</p>
+
+        </div> <!-- panel -->
+
 
       </div>
 

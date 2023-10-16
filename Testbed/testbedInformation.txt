@@ -6,11 +6,8 @@
 
     <!--<p class="heading h15 text-center">Testbed Info</p>-->
 
-
-
-
     <p align="Center"><b>
-        <font size="30px" color="#0d6dba">Testbed Info</font>
+        <font size="30px" color="#0d6dba">Testbed Info Today</font>
       </b></p>
     <h4 align="Center">To access our testbed services for research experimentation and testing, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
 

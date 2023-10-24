@@ -9,7 +9,8 @@
           <p align="Center"><b>
               <font size="30px" color="#0d6dba">NCL’s Chatbot Arena</font>
             </b></p>
-          <h6>Exciting News for Our Users!</h6>
+          </br>
+          <h6 color="black">Exciting News for Our Users!</h6>
           <h4>For reservation/booking of nodes or VM, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
           <div class="row">
             <div class="table-responsive">

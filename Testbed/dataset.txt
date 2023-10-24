@@ -42,72 +42,72 @@
                 </thead>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center">1</div>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Llama-2-70b-chat</a></div>
                   </td>
                   <td>
-                    <div align="center">2</div>
+                    <div align="center">Yes</div>
                   </td>
                   <td>
-                    <div align="center">40</div>
+                    <div align="center">Non-commercial</div>
                   </td>
                   <td>
-                    <div align="center">0</div>
-                  </td>
-                </tr>
-                <tr BGCOLOR="#fff">
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">60</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
+                    <div align="center"></div>
                   </td>
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center">4</div>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">WizardLM-13b-v1.2</a></div>
                   </td>
                   <td>
-                    <div align="center">8</div>
+                    <div align="center">Yes</div>
                   </td>
                   <td>
-                    <div align="center">80</div>
+                    <div align="center">Llama 2 Community</div>
                   </td>
                   <td>
-                    <div align="center">0</div>
-                  </td>
-                </tr>
-                <tr BGCOLOR="#fff">
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center">12</div>
-                  </td>
-                  <td>
-                    <div align="center">120</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
+                    <div align="center"></div>
                   </td>
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center">64</div>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-13B</a></div>
                   </td>
                   <td>
-                    <div align="center">64</div>
+                    <div align="center">Yes</div>
                   </td>
                   <td>
-                    <div align="center">2048</div>
+                    <div align="center">Llama 2 Community</div>
                   </td>
                   <td>
-                    <div align="center">0</div>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-33B</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-33B</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
                   </td>
                 </tr>
               </table>

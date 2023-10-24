@@ -56,7 +56,7 @@
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">WizardLM-13b-v1.2</a></div>
+                    <div align="center"><a href="https://huggingface.co/meta-llama/Llama-2-70b-chat-hf">WizardLM-13b-v1.2</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -84,7 +84,7 @@
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-33B</a></div>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-13b-v1.5">Vicuna-13B</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>

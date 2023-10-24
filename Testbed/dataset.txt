@@ -42,9 +42,6 @@
                   </th>
                 </thead>
                 <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.small)</strong></h5>
-                  </th>
                   <td>
                     <div align="center">1</div>
                   </td>
@@ -58,16 +55,8 @@
                     <div align="center">0</div>
                   </td>
                   <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>0.3</strong></div>
-                  </td>
                 </tr>
                 <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.medium)</strong></h5>
-                  </th>
                   <td>
                     <div align="center">2</div>
                   </td>
@@ -80,17 +69,8 @@
                   <td>
                     <div align="center">0</div>
                   </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>0.58</strong></div>
-                  </td>
                 </tr>
                 <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.large)</strong></h5>
-                  </th>
                   <td>
                     <div align="center">4</div>
                   </td>
@@ -103,17 +83,8 @@
                   <td>
                     <div align="center">0</div>
                   </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>1.11</strong></div>
-                  </td>
                 </tr>
                 <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.xlarge)</strong></h5>
-                  </th>
                   <td>
                     <div align="center">8</div>
                   </td>
@@ -126,17 +97,8 @@
                   <td>
                     <div align="center">0</div>
                   </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>1.95</strong></div>
-                  </td>
                 </tr>
                 <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>CPU Server</strong></h5>
-                  </th>
                   <td>
                     <div align="center">64</div>
                   </td>
@@ -148,12 +110,6 @@
                   </td>
                   <td>
                     <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>10.5</strong></div>
                   </td>
                 </tr>
               </table>

@@ -42,7 +42,7 @@
                 </thead>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Llama-2-70b-chat</a></div>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-33B</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -56,7 +56,7 @@
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/meta-llama/Llama-2-70b-chat-hf">WizardLM-13b-v1.2</a></div>
+                    <div align="center"><a href="https://huggingface.co/meta-llama/Llama-2-70b-chat-hf">Llama-2-70b-chat</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -70,7 +70,7 @@
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-13B</a></div>
+                    <div align="center"><a href="https://huggingface.co/WizardLM/WizardLM-13B-V1.2">WizardLM-13b-v1.2</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -98,7 +98,7 @@
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-33b-v1.3">Vicuna-33B</a></div>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>

@@ -10,7 +10,7 @@
               <font size="20px" color="#0d6dba">NCL’s Chatbot Arena</font>
             </b></p>
           </br>
-          <h8 style="color: black; font-weight: bold;">Exciting News for Our Users!</h6>
+          <h8 style="color: black; font-weight: bold;">Exciting News for Our Users!</h8>
           <p> In our continuous effort to enhance your research environment and overall experience, NCL has pre-downloaded the community's favorite models and datasets (coming soon) within our environment.</p>
           <p> These resources are readily available for you to seamlessly integrate into your own environment and begin using immediately.</p>
           <p> Additionally, NCL offers access to a variety of GPU clusters for rental, subject to availability, further enhancing your capabilities and research possibilities.</p>

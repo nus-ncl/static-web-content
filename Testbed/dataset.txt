@@ -53,7 +53,6 @@
                   <td>
                     <div align="center">0</div>
                   </td>
-                  <td>
                 </tr>
                 <tr BGCOLOR="#fff">
                   <td>

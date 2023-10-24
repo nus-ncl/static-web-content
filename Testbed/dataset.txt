@@ -19,35 +19,26 @@
               <table class="table1" style="width:100%">
                 <thead BGCOLOR="#E0E0E0">
                   <th> </th>
-                  <th width="15%">
+                  <th width="30%">
                     <p>
-                      <h5><strong>vCPU*</strong></h5>
+                      <h5><strong>Model</strong></h5>
                     </p>
                   </th>
-                  <th width="15%">
+                  <th width="20%">
                     <p>
-                      <h5><strong>RAM(GB)</strong></h5>
+                      <h5><strong>Download State</strong></h5>
                     </p>
                   </th>
-                  <th width="15%">
+                  <th width="30%">
                     <p>
-                      <h5><strong>HDD(GB)</strong></h5>
+                      <h5><strong>License</strong></h5>
                     </p>
                   </th>
-                  <th width="15%">
+                  <th width="20%">
                     <p>
-                      <h5><strong>SSD(GB)</strong></h5>
+                      <h5><strong>Size (Gb)</strong></h5>
                     </p>
                   </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>GPU(Nvidia v100)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="25%">
-                    <p>
-                      <h5><strong>Price*(S$/day)</strong></h5>
-                    </p>
                   </th>
                 </thead>
                 <tr BGCOLOR="#fff">

@@ -111,7 +111,7 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
                     <div align="center">Yes</div>
                   </td>
                   <td>
-                    <div align="center">Llama 2 Community</div>
+                    <div align="center">CC-BY-NC-SA-4.0</div>
                   </td>
                   <td>
                     <div align="center"></div>
@@ -120,7 +120,22 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
 
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                    <div align="center"><a href="https://huggingface.co/timdettmers/guanaco-33b-merged">Guanaco-33B</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Non-commercial</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/codellama/CodeLlama-34b-Instruct-hf">CodeLlama-34B-instruct</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -135,7 +150,7 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
 
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                    <div align="center"><a href="https://huggingface.co/lmsys/vicuna-7b-v1.5">Vicuna-7B</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -150,7 +165,7 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
 
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                    <div align="center"><a href="https://huggingface.co/meta-llama/Llama-2-13b-chat-hf">Llama-2-13b-chat</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -165,7 +180,7 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
 
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                    <div align="center"><a href="https://huggingface.co/meta-llama/Llama-2-7b-chat-hf">Llama-2-7b-chat</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
@@ -180,28 +195,13 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
 
                 <tr BGCOLOR="#fff">
                   <td>
-                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                    <div align="center"><a href="https://huggingface.co/nomic-ai/gpt4all-13b-snoozy">GPT4All-13B-Snoozy</a></div>
                   </td>
                   <td>
                     <div align="center">Yes</div>
                   </td>
                   <td>
-                    <div align="center">Llama 2 Community</div>
-                  </td>
-                  <td>
-                    <div align="center"></div>
-                  </td>
-                </tr>
-
-                <tr BGCOLOR="#fff">
-                  <td>
-                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
-                  </td>
-                  <td>
-                    <div align="center">Yes</div>
-                  </td>
-                  <td>
-                    <div align="center">Llama 2 Community</div>
+                    <div align="center">Non-commercial</div>
                   </td>
                   <td>
                     <div align="center"></div>
@@ -217,29 +217,7 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
         </div>
 
       </div>
-
-      <h3>Terms and Conditions:</h3>
-      <ol>
-        <li>GST is not included in the listed price.</li>
-        <li>1CPU core = 4 vCPU until further notice.</li>
-        <li>NCL offers customized specifications (vCPU, RAM, etc.) and dedicated servers. Please contact us for more details.</li>
-        <li>NCL reserves the right to interpret any ambiguities, if present.</li>
-      </ol>
     </div>
   </section>
 </div>
 
-<script>
- function myFunction(id)
-    {
-        var obj = document.getElementById(id);
-        if(obj.className == 'show')
-        {
-            obj.className = 'hide';
-        }
-        else
-        {
-            obj.className = 'show';
-        }
-    }
-</script>

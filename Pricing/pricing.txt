@@ -167,6 +167,65 @@
           <div>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
+
+	<h3 align="left"><strong>SGX Offerings:</strong></h3>
+          <div class="row">
+            <div class="table-responsive">
+              <table class="table1" style="width:100%">
+                <thead BGCOLOR="#E0E0E0">
+                  <th> </th>
+                  <th width="15%">
+                    <p>
+                      <h5><strong>CPU</strong></h5>
+                    </p>
+                  </th>
+                  <th width="15%">
+                    <p>
+                      <h5><strong>RAM(GB)</strong></h5>
+                    </p>
+                  </th>
+                  <th width="15%">
+                    <p>
+                      <h5><strong>SSD(GB)</strong></h5>
+                    </p>
+                  </th>
+                  <th width="15%">
+                    <p>
+                      <h5><strong>LAN</strong></h5>
+                    </p>
+                  </th>
+                  <th width="25%">
+                    <p>
+                      <h5><strong>Price*(S$/day)</strong></h5>
+                    </p>
+                  </th>
+                </thead>
+
+
+                <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5 onclick="myFunction('mrt')"><strong>1</strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">6</div>
+                  </td>
+                  <td>
+                    <div align="center">16</div>
+                  </td>
+                  <td>
+                    <div align="center">480</div>
+                  </td>
+                  <td>
+                    <div align="center">Dual Port 1GB Ethernet</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>10</strong></div>
+                  </td>
+                </tr>
+              </table>
+	    <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
           </div>
           <h3 align="left"><strong>GPU Offerings:</strong></h3>
           <div class="row">

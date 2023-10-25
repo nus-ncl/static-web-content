@@ -74,7 +74,7 @@
 
           <p><i class="fa fa-check"></i> TPM: Trusted Platform Module 2.0 V3</p>
 
-          <p><i class="fa fa-check"></i> RAM: 16GB UDIMM, 3200MT/s, ECC</p>
+          <p><i class="fa fa-check"></i> RAM: 32GB UDIMM, 3200MT/s, ECC</p>
 
           <p><i class="fa fa-check"></i> SSD: 480GB SATA Mix Use 6Gbps</p>
 

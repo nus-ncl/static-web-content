@@ -210,7 +210,7 @@
                     <div align="center">6</div>
                   </td>
                   <td>
-                    <div align="center">16</div>
+                    <div align="center">32</div>
                   </td>
                   <td>
                     <div align="center">480</div>

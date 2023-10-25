@@ -10,7 +10,6 @@
               <font size="10px" color="#0d6dba">NCL’s Chatbot Arena</font>
             </b></p>
           </br>
- <p></p><br>
     <p></p>
         <div class="row">
             <h3 class="news-header"><font color="black">Exciting News for Our Users!</font></h2>

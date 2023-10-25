@@ -33,45 +33,6 @@
         </ul>
       </div>
     </div> <!-- container 1st ends here-->
-
-    <br></br> <!-- Railway Container Starts here-->
-    <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
-
-      <!-- <div class="col-sm-8 col-sm-offset-3">-->
-      <div class="row">
-        <!-- <h2><b><font color="#0d6dba">Railway [ Metro ] System</font></b></h2>-->
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Railway [ Metro ] System</font></b></h2>
-      </div>
-
-
-      <div class="col-sm-12">
-        <div class="col-sm-6">
-          <img src="images/Brochure_Railway.png" alt="" width="550"  height="350" border="0" align="right" />
-        </div>
-
-        <div class="col-sm-6">
-          <div class="row">
-            <ul>
-              <p><font color="#050505"></font> </p>
-              <p><font color="#050505"></font> </p><br></br>
-              <p><font color="#050505"></font> </p><br></br>
-              <p><font color="#050505"></font> </p><br></br>
-              <li><p><font color="#050505">Visualise Railway Operational Technology (OT) System</font> </p></li>
-              <li><p><font color="#050505">4 distinct tracks, 48 junctions, 39 sensors, and up to 17 signals</font></p></li>
-              <li><p><font color="#050505">Enable real-time monitoring and control of trains, sensor-signal, and the station system</font></p></li>
-              <li><p><font color="#050505">Scenario Loading feature, allowing users to load pre-saved real-world scenarios, such as train collision at junctions or stations</font></p></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-12">
-        <div class="row">
-          <p><font color="#050505"></font> </p>
-          <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Railway [Metro] System or collaboration, please reach out to us at support@ncl.sg for more information!</font></p>
-        </div>
-      </div>    
-    </div><!-- Railway Container Ends here-->
     <br></br>
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
 
@@ -352,5 +313,3 @@
 
   </section>
 </div>
-
-

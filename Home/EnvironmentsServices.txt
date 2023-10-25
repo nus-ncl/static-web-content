@@ -46,7 +46,7 @@
 
       <div class="col-sm-12">
         <div class="col-sm-6">
-          <img src="images/[Brochure] Railway.PNG" alt="" width="550"  height="350" border="0" align="right" />
+          <img src="images/Brochure_Railway.png" alt="" width="550"  height="350" border="0" align="right" />
         </div>
 
         <div class="col-sm-6">

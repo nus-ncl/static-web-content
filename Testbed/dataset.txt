@@ -7,10 +7,10 @@
           <p>&nbsp;</p>
           <p>&nbsp;</p>
           <p align="Center"><b>
-              <font size="20px" color="#0d6dba">NCL’s Chatbot Arena</font>
+              <font size="10px" color="#0d6dba">NCL’s Chatbot Arena</font>
             </b></p>
           </br>
- <p></p><br></br>
+ <p></p><br>
     <p></p>
         <div class="row">
             <h3 class="news-header"><font color="black">Exciting News for Our Users!</font></h2>
@@ -21,6 +21,7 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
 <br/>
 
           <div class="row">
+          <h3 class="news-header"><font color="black">Readily Available List:</font></h2>
             <div class="table-responsive">
               <table class="table1" style="width:100%">
                 <thead BGCOLOR="#E0E0E0">
@@ -102,6 +103,96 @@ Additionally, NCL offers access to a variety of GPU clusters for rental, subject
                     <div align="center"></div>
                   </td>
                 </tr>
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
+                <tr BGCOLOR="#fff">
+                  <td>
+                    <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>
+                  </td>
+                  <td>
+                    <div align="center">Yes</div>
+                  </td>
+                  <td>
+                    <div align="center">Llama 2 Community</div>
+                  </td>
+                  <td>
+                    <div align="center"></div>
+                  </td>
+                </tr>
+
                 <tr BGCOLOR="#fff">
                   <td>
                     <div align="center"><a href="https://huggingface.co/mosaicml/mpt-30b-chat">MPT-30B-chat</a></div>

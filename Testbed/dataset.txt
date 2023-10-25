@@ -10,10 +10,19 @@
               <font size="20px" color="#0d6dba">NCL’s Chatbot Arena</font>
             </b></p>
           </br>
-          <h8 style="color: black; font-weight: bold;">Exciting News for Our Users!</h8>
-          <p> In our continuous effort to enhance your research environment and overall experience, NCL has pre-downloaded the community's favorite models and datasets (coming soon) within our environment.</p>
-          <p> These resources are readily available for you to seamlessly integrate into your own environment and begin using immediately.</p>
-          <p> Additionally, NCL offers access to a variety of GPU clusters for rental, subject to availability, further enhancing your capabilities and research possibilities.</p>
+          <div class="row">
+            <h2 class="team-heading team-heading-current-team1"><b>Principal Investigators</b></h2>
+            <div class="col-sm-6">
+              <div class="row">
+                <h8><b>Exciting News for Our Users!</b></h8>
+                <p><b><font color="#585656">In our continuous effort to enhance your research environment and overall experience, NCL has pre-downloaded the community's favorite models and datasets (coming soon) within our environment. These resources are readily available for you to seamlessly integrate into your own environment and begin using immediately. 
+Additionally, NCL offers access to a variety of GPU clusters for rental, subject to availability, further enhancing your capabilities and research possibilities.
+</font></b> </p>
+                       <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
+              </div>
+            </div>
+          </div>
+
           <div class="row">
             <div class="table-responsive">
               <table class="table1" style="width:100%">

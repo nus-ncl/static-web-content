@@ -12,7 +12,7 @@
           </br>
           <div class="row">
             <h2 class="team-heading team-heading-current-team1"><b>Principal Investigators</b></h2>
-            <div class="col-sm-6">
+            <div class="col-sm-9">
               <div class="row">
                 <h8><b>Exciting News for Our Users!</b></h8>
                 <p><b><font color="#585656">In our continuous effort to enhance your research environment and overall experience, NCL has pre-downloaded the community's favorite models and datasets (coming soon) within our environment. These resources are readily available for you to seamlessly integrate into your own environment and begin using immediately. 

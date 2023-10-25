@@ -10,18 +10,17 @@
               <font size="20px" color="#0d6dba">NCL’s Chatbot Arena</font>
             </b></p>
           </br>
-          <div class="row">
-            <h2 class="team-heading team-heading-current-team1"><b>Principal Investigators</b></h2>
-            <div class="col-sm-9">
-              <div class="row">
-                <h8><b>Exciting News for Our Users!</b></h8>
-                <p><b><font color="#585656">In our continuous effort to enhance your research environment and overall experience, NCL has pre-downloaded the community's favorite models and datasets (coming soon) within our environment. These resources are readily available for you to seamlessly integrate into your own environment and begin using immediately. 
-Additionally, NCL offers access to a variety of GPU clusters for rental, subject to availability, further enhancing your capabilities and research possibilities.
-</font></b> </p>
-                       <p>Network Security | Applied Cryptography | Multimedia &amp; Biometric Security</p>
-              </div>
-            </div>
-          </div>
+ <p></p><br></br>
+    <p></p>
+
+    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+        <div class="row">
+            <h2 class="news-header"><font color="#0d6dba">Overview</font></h2>
+            <!--<p><font color="#313030" size="4px">The National Cybersecurity R&amp;D Lab (NCL) is funded under National Cybersecurity R&amp;D (NCR) Programme since 2015. NCL aims to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing needs.</font></p>-->
+            <h3 class="news-header2">We are a National Cybersecurity R&amp;D Lab (NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</h3>
+            <h3 class="news-header2">Our aim is to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing requirements.</h3>
+        </div>
+<br/>
 
           <div class="row">
             <div class="table-responsive">

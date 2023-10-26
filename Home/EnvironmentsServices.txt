@@ -55,8 +55,6 @@
             <ul>
               <p><font color="#050505"></font> </p>
               <p><font color="#050505"></font> </p><br></br>
-              <p><font color="#050505"></font> </p><br></br>
-              <p><font color="#050505"></font> </p><br></br>
               <li><p><font color="#050505">Visualise Railway Operational Technology (OT) System</font> </p></li>
               <li><p><font color="#050505">4 distinct tracks, 48 junctions, 39 sensors, and up to 17 signals</font></p></li>
               <li><p><font color="#050505">Enable real-time monitoring and control of trains, sensor-signal, and the station system</font></p></li>

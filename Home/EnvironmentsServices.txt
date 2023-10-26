@@ -81,7 +81,7 @@
  
       <div class="col-sm-12">
         <div class="col-sm-6">
-          <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('User_Action_Actor_Repository.mp4','CUE','mp4')"/>
+          <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('User_Action_Actor_Repository.mp4','CUE','MP4')"/>
           <img id="CUE" width="550" height="350" border="0" align="left"/>
         </div>
  

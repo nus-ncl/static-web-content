@@ -44,6 +44,12 @@
            <p>Below are an example of the specification of each node in different category:</p>
 
 
+<details>
+  <summary>See More</summary>
+  This text will be hidden if your browser supports it.
+</details>
+
+
           <ul>
             <li><a href="#">Platinum</a>
               <ul>

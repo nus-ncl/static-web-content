@@ -93,8 +93,6 @@
             <ul>
               <p><font color="#050505"></font> </p>
               <p><font color="#050505"></font> </p><br></br>
-              <p><font color="#050505"></font> </p><br></br>
-              <p><font color="#050505"></font> </p><br></br>
               <li><p><font color="#050505">For educational &amp; professional training</font> </p></li>
               <li><p><font color="#050505">Useful for hands-on practice and skills assessment</font></p></li>
               <li><p><font color="#050505">Comes with modular environment setup</font></p></li>

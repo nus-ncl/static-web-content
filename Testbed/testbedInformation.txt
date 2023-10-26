@@ -45,7 +45,7 @@
 
 
           <ul>
-            <li><a href="#"><dt class="fa fa-check">Platinum</dt> 
+            <li><a href="#"><dt class="fa fa-check">Platinum</dt></a>
               <ul>
                 <li>2x Intel Xeon Platinum 8480+ Processor (56C / 2.00 Ghz / 105MB L3 / 350W / DDR5)</li>
                 <li>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</li>

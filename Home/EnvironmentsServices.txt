@@ -46,7 +46,8 @@
 
       <div class="col-sm-12">
         <div class="col-sm-6">
-          <img src="images/Brochure_Railway.png" alt="" width="550"  height="350" border="0" align="right" />
+          <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Brochure_Railway.png','BrochureRailway.png','PNG')"/>
+          <img id="BrochureRailway.png" width="550" height="350" border="0" align="left"/>
         </div>
 
         <div class="col-sm-6">

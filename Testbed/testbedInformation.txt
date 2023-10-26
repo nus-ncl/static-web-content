@@ -45,8 +45,13 @@
 
 
 <details>
-  <summary>See More</summary>
-  This text will be hidden if your browser supports it.
+  <summary><p><dt class="fa fa-check">Platinum</dt></summary>
+  <ul>
+        <li>2x Intel Xeon Platinum 8480+ Processor (56C / 2.00 Ghz / 105MB L3 / 350W / DDR5)</li>
+        <li>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</li>
+        <li>1x 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</li>
+        <li>1x 10GBASE-T Quad (4) port adapter</li>
+  </ul>
 </details>
 
 

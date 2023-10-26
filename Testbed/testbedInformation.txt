@@ -41,20 +41,46 @@
 
           <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
 
-           <p> Each node has the following specifications:</p>
+           <p>Below are an example of the specification of each node in different category:</p>
 
-          <p><i class="fa fa-check"></i> Two (2) Intel Xeon Processor E5-2620 V3 (2.40GHz/6-core) or V4 (2.1Ghz/8-core)</p>
 
-          <p><i class="fa fa-check"></i> One (1) 64GB 2133MHz DDR4 ECC memory</p>
-
-          <p><i class="fa fa-check"></i> One (1) 2TB 7.2K RPM Enterprise SATA 3.5” Hot-Plug Hard Drive</p>
-
-          <p><i class="fa fa-check"></i> One (1) 1Gb Ethernet RJ45 LAN port</p>
-
-          <p><i class="fa fa-check"></i> Two (2) 10Gb Ethernet ports (Intel X540)</p>
-
-          <p><i class="fa fa-check"></i> One (1) power supply unit</p>
-
+          <ul>
+            <li><p><dt class="fa fa-check">Platinum</dt> 
+              <ul>
+                <li>2x Intel Xeon Platinum 8480+ Processor (56C / 2.00 Ghz / 105MB L3 / 350W / DDR5)</li>
+                <li>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</li>
+                <li>1x 960GB Enterprise SATA SSD, 2.5", powerloss protect., 1DWPD, 2M MTBF</li>
+                <li>1x 10GBASE-T Quad (4) port adapter</li>
+              </ul>
+            </li>
+            <li><p><dt class="fa fa-check">Gold</dt></li>
+              <ul>
+                <li>2x Intel Xeon Gold 6338 Processor (32C / 64T / 48M / 2.00 GHz)</li>
+                <li>16x 64GB DDR4-3200 REG ECC DIMM</li>
+                <li>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</li>
+                <li>2x 16TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data);  1x PIKE II 3108 HW Raid Controller, 2Gb Cache</li>
+                <li>1x Dual-Port 10G Base-T Intel Based Mezzaine Card;  Onboard Dual GbE LAN and Dedicated management Port</li>
+              </ul>
+            </li>
+            <li><p><dt class="fa fa-check">Sliver</dt>
+              <ul>
+                <li>2x Intel Xeon Silver 4210R Processor (10C / 20T / 13.75M / 2.40 GHz)</li>
+                <li>4x 32GB DDR4-2933 REG ECC DIMM</li>
+                <li>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</li>
+                <li>2x 2TB 7200RPM SATA Enterprise 3.5" HDD 2M MTBF</li>
+                <li>1x PIKE II 3108 HW Raid Controller, 2Gb Cache; 1x Dual-Port 10G Base-T Intel Based Mezzaine Card</li>
+              </ul>
+            </li>
+            <li><p><dt class="fa fa-check">Bronze</dt>
+              <ul>
+                <li>2x Intel Xeon Bronze 3206R Processor (8C / 8T / 11M / 1.90 GHz)</li>
+                <li>2x 32GB DDR4-2933 REG ECC DIMM</li>
+                <li>1x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD</li>
+                <li>1x Dual-Port 10G Base-T Intel Based Mezzaine Card</li>
+                <li>1x Dual-Port 1G Base-T Intel Based NIC Onboard Dual GbE LAN and Dedicated management Port</li>
+              </ul>
+            </li>
+          </ul>
         </div> <!-- panel -->
 
       </div>

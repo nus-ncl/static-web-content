@@ -204,7 +204,7 @@
 
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
-                    <h5 onclick="myFunction('mrt')"><strong>1</strong></h5>
+                    <h5 onclick="myFunction('mrt')"><strong>DELL EMC POWER EDGE R350</strong></h5>
                   </th>
                   <td>
                     <div align="center">6</div>

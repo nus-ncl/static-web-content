@@ -25,7 +25,6 @@
           <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
            <p>Below are an example of the specification of each node in different category:</p>
             <p>&nbsp;</p>
-            <p>&nbsp;</p>
             <details>
               <summary>Platinum</summary>
               <ul>
@@ -68,7 +67,6 @@
                   <li>1x Dual-Port 1G Base-T Intel Based NIC Onboard Dual GbE LAN and Dedicated management Port</li>
               </ul>
             </details>
-            <p>&nbsp;</p>
             <p>&nbsp;</p>
         </div> <!-- panel -->
       </div>

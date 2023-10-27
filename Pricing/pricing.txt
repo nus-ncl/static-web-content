@@ -176,7 +176,7 @@
                   <th> </th>
                   <th width="15%">
                     <p>
-                      <h5><strong>CPU</strong></h5>
+                      <h5><strong>CPU Core</strong></h5>
                     </p>
                   </th>
                   <th width="15%">

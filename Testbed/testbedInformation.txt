@@ -25,7 +25,7 @@
           <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
            <p>Below are an example of the specification of each node in different category:</p>
             <details>
-              <summary>Platinum</summary>
+              <summary>Platinum Grade</summary>
               <ul>
                     <li>2x Intel Xeon Platinum 8480+ Processor (56C / 2.00 Ghz / 105MB L3 / 350W / DDR5)</li>
                     <li>1024 GB DDR5-4800 ECC RDIMM - 64GB x 16pcs</li>
@@ -35,7 +35,7 @@
             </details>
             <p>&nbsp;</p>
             <details>
-              <summary>Gold</summary>
+              <summary>Gold Grade</summary>
               <ul>
                     <li>2x Intel Xeon Gold 6338 Processor (32C / 64T / 48M / 2.00 GHz)</li>
                     <li>16x 64GB DDR4-3200 REG ECC DIMM</li>
@@ -46,7 +46,7 @@
             </details>
             <p>&nbsp;</p>
             <details>
-              <summary>Sliver</summary>
+              <summary>Sliver Grade</summary>
               <ul>
                   <li>2x Intel Xeon Silver 4210R Processor (10C / 20T / 13.75M / 2.40 GHz)</li>
                   <li>4x 32GB DDR4-2933 REG ECC DIMM</li>
@@ -57,7 +57,7 @@
             </details>
             <p>&nbsp;</p>
             <details>
-              <summary>Bronze</summary>
+              <summary>Bronze Grade</summary>
               <ul>
                   <li>2x Intel Xeon Bronze 3206R Processor (8C / 8T / 11M / 1.90 GHz)</li>
                   <li>2x 32GB DDR4-2933 REG ECC DIMM</li>

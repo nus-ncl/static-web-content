@@ -40,7 +40,8 @@
                     <li>2x Intel Xeon Gold 6338 Processor (32C / 64T / 48M / 2.00 GHz)</li>
                     <li>16x 64GB DDR4-3200 REG ECC DIMM</li>
                     <li>2x 480GB SATA Enterprise 2.5" SSD 2M MTBF 1 DWPD (RAID 1 for OS)</li>
-                    <li>2x 16TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data);  1x PIKE II 3108 HW Raid Controller, 2Gb Cache</li>
+                    <li>2x 16TB 7200RPM SATA 256MB Enterprise 3.5" HDD 2.5M MTBF (RAID 1 for Data)</li>
+                    <li>1x PIKE II 3108 HW Raid Controller, 2Gb Cache</li>
                     <li>1x Dual-Port 10G Base-T Intel Based Mezzaine Card;  Onboard Dual GbE LAN and Dedicated management Port</li>
               </ul>
             </details>

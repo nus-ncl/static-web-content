@@ -57,12 +57,12 @@
 	            </div>
                 </div>
 		
-                <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Hannah Oei</b></h8>
-                        <p><b><font color="585656">Assistant Manager</font></b> </p>
-		      </div>
-                </div>
+                <!--<div class="col-sm-6">-->
+                    <!--<div class="row">-->
+                        <!--<h8><b>Hannah Oei</b></h8>-->
+                        <!--<p><b><font color="585656">Assistant Manager</font></b> </p>-->
+		      <!--</div>-->
+                <!--</div>-->
 
                 <div class="col-sm-6">
                     <div class="row">
@@ -99,18 +99,24 @@
 	            </div>
                 </div>
 
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Seen Wei Jie</b></h8>
+                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
+	            </div>
+                </div>
+
             </div>
 
             <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Research Team</b></h2>
-                <div class="col-sm-6">
-                    <div class="row">
-                       <h8><b>Xu Jia</b></h8> 
-		       <p><b><font color="585656">Senior Research Fellow&nbsp;<a href="https://scholar.google.com/citations?user=n4vjKNoAAAAJ&hl=en"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a></font></b> </p>
-			 <p>Applied Cryptography | Secure Cloud Computing | Post-quantum Cryptography </p>
-			
-                    </div>
-                </div>
+                <!--<div class="col-sm-6">-->
+                    <!--<div class="row">-->
+                       <!--<h8><b>Xu Jia</b></h8>--> 
+		       <!--<p><b><font color="585656">Senior Research Fellow&nbsp;<a href="https://scholar.google.com/citations?user=n4vjKNoAAAAJ&hl=en"><img src="images/contacts-icon.png" alt="" width="20"  height="20" border="0" align="center"/></a></font></b> </p>-->
+			 <!--<p>Applied Cryptography | Secure Cloud Computing | Post-quantum Cryptography </p>-->
+                    <!--</div>-->
+                <!--</div>-->
 
                 <div class="col-sm-6">
                     <div class="row">

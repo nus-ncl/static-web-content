@@ -250,11 +250,11 @@
       </div>
 
       <div class="col-sm-12">
-        <div class="col-sm-5">
+        <!-- <div class="col-sm-5"> -->
          <!-- <iframe width="450" height="250" src="https://www.youtube.com/embed/jG-WExKidcM"> </iframe>-->
-          <iframe width="450" height="250" src="https://www.youtube.com/watch?v=0B0YreuzESk"> </iframe>
+          <!-- <iframe width="450" height="250" src="https://www.youtube.com/watch?v=0B0YreuzESk"> </iframe>-->
 
-        </div>
+        <!-- </div>-->
 
 
         <div class="col-sm-7" align="left">

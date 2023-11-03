@@ -17,7 +17,7 @@
             					<img src="images/database.png"></a>
 
             				</div>
-					<h1 style="color: blue;">This is a blue heading</h1>
+					<h3 style="color: blue;">This is a blue heading</h3>
             				<h3 class="news-header" style="color: 0d6dba;">NCL Synthetic Security Experimentation Dataset</a></h3><br/>
             				<div class="col-sm-9">
             					<div class="row">

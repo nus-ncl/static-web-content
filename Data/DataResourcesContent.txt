@@ -17,7 +17,7 @@
             					<img src="images/database.png"></a>
 
             				</div>
-					<h3 class="news-header" style="color: #0d6dba;">NCL Synthetic Security Experimentation Dataset</a></h3><br/>
+					<h3 class="news-header" style="color: #0d6dba;">NCL Synthetic Security Experimentation Dataset</h3><br/>
             				<div class="col-sm-9">
             					<div class="row">
             						<p>The collected dataset are based on the simulated environment and events that are generated for specific APT campaign or security vulnerability. Most of the dataset consists of network traffic capture, memory dump, and system or application logs. </p>

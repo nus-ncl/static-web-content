@@ -250,13 +250,9 @@
       </div>
 
       <div class="col-sm-12">
-        <!-- <div class="col-sm-5"> -->
-         <!-- <iframe width="450" height="250" src="https://www.youtube.com/embed/jG-WExKidcM"> </iframe>-->
+        <div class="col-sm-5">
           <iframe width="450" height="250" src="https://www.youtube.com/embed/0B0YreuzESk"> </iframe>
-
-        <!-- </div>-->
-
-
+        </div>
         <div class="col-sm-7" align="left">
           <div class="row">
             <ul>
@@ -264,10 +260,6 @@
               <p><font color="#050505"></font> </p>
               <li><p><font color="#050505">Replay Log4Shell attack on NCL testbed</font></p></li>
               <li><p><font color="#050505">Explore and learn about Log4Shell (CVE-2021-44228) vulnerability </font></p></li>
-
-              <!--<li><p><font color="#050505">Common vulnerabilities in web applications based on OWASP Top 10</font></p></li>
-              <li><p><font color="#050505">How such vulnerabilities could be discovered in real world web applications</font> </p></li>
-              <li><p><font color="#050505">How a successful kill-chain could be designed by chaining the vulnerabilities for remote code execution</font> </p></li>-->
             </ul>
           </div>
         </div>

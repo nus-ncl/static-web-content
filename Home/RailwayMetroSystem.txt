@@ -56,7 +56,7 @@
             </br>
 
              <p style="display: block; margin: 0 auto; text-align: center;">Email: support@ncl.sg</p>
-             <p style="display: block; margin: 0 auto; text-align: center;">National Cybersecurity R&D Lab(NCL), School of Computing, National University of Singapore, COM3-B1-09, ResearchLink, Singapore 119391</p>
+             <p style="display: block; margin: 0 auto; text-align: center;">Address: National Cybersecurity R&D Lab(NCL), School of Computing, National University of Singapore, COM3-B1-09, ResearchLink, Singapore 119391</p>
  
             </div>
         </div>

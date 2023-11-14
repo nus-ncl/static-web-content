@@ -11,14 +11,15 @@
             <p>Our idea on creating a digital version of the railway system emulation platform, designed to replicate the operation of multiple trains traversing distinct tracks, each equipped with unique sensor-signal controls. This platform is intended to serve as a valuable resource for cybersecurity researchers, enabling them to demonstrate and assess the impact of various types of IT attackes on operational technology (OT) systems. The platform comprises six primary components(programs):</p>
             <br/>
             <ul>
-                <li><font color="#313030"> Railway [Metro] System </font></li>
+                <li> Railway [Metro] System </font></li>
                 <li> Railway System SCADA HMI </li>
                 <li> Railway System Train Controller HMI </li>
                 <li> Railway Junctions Sensor - Signal System Control PLC Simulator</li>
                 <li> Railway Stations Sensor - Signal System Control PLC Simulator</li>
                 <li> Railway Trains Sensor - Power System Control PLC Simulator</li>
             </ul>
-            <!--<h3 class="news-header2">We are a National Cybersecurity R&amp;D Lab (NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</h3>-->
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
+              <img id="Railway1" width="300" height="200" border="0" align="left"/>
         </div>
     </div>
 </div>

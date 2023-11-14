@@ -22,6 +22,12 @@
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
               <img id="Railway1" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center;">Real-world Metro System Emulator</p>
+
+            </br>
+
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')"/>
+              <img id="Railway2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center;">Railway System SCADA HMI</p>
             </div>
         </div>
     </div>

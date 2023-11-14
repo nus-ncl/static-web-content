@@ -1,92 +1,100 @@
+<div layout:fragment="content" id="RailwayMetroSystem">
+ <p></p><br></br>
+    <p></p>
 
-    <h1>Cluster User Emulator (CUE)</h1>
-
-    <p>We are thrilled to introduce our very own Cluster User Emulator, CUE!</p>
-
-    <p>With CUE, we empower you to effortlessly generate benign traffic through customizable scheduling profiles, automating even the most intricate tasks.</p>
-
-    <h2>What do we mean by “customizable scheduling profiles”?</h2>
-
-    <p>For example, the daily activities of a human resources (HR) employee are not limited to:</p>
-
-    <ul>
-        <li>Employee Attendance and Time Management:
+    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+        <div class="row">
+            <h1>Cluster User Emulator (CUE)</h1>
+            
+            <p>We are thrilled to introduce our very own Cluster User Emulator, CUE!</p>
+            
+            <p>With CUE, we empower you to effortlessly generate benign traffic through customizable scheduling profiles, automating even the most intricate tasks.</p>
+            
+            <h2>What do we mean by “customizable scheduling profiles”?</h2>
+            
+            <p>For example, the daily activities of a human resources (HR) employee are not limited to:</p>
+            
             <ul>
-                <li>Monitor employee attendance and time records.</li>
+                <li>Employee Attendance and Time Management:
+                    <ul>
+                        <li>Monitor employee attendance and time records.</li>
+                    </ul>
+                </li>
+                <li>Recruitment and Talent Acquisition:
+                    <ul>
+                        <li>Review and respond to job applications and resumes.</li>
+                        <li>Schedule and conduct interviews with candidates.</li>
+                    </ul>
+                </li>
+                <li>Onboarding and Orientation:
+                    <ul>
+                        <li>Assist in the onboarding process for new hires.</li>
+                    </ul>
+                </li>
+                <li>Employee Relations:
+                    <ul>
+                        <li>Address employee concerns and inquiries related to HR policies and procedures.</li>
+                    </ul>
+                </li>
+                <li>Performance Management:
+                    <ul>
+                        <li>Review employee performance evaluations and feedback.</li>
+                    </ul>
+                </li>
+                <li>Benefits Administration:
+                    <ul>
+                        <li>Assist employees with questions about their benefits, such as health insurance or retirement plans.</li>
+                    </ul>
+                </li>
+                <li>Payroll and Compensation:
+                    <ul>
+                        <li>Process payroll and ensure accurate payment of employees.</li>
+                    </ul>
+                </li>
+                <li>And so on...</li>
             </ul>
-        </li>
-        <li>Recruitment and Talent Acquisition:
+            
+            <p>To simulate a seamless flow of regular operations, we employ CUE to generate an HR employee profile that meticulously executes each task according to predefined schedules, from inception to completion. This approach guarantees that the generated traffic remains dynamic and doesn't appear rigid or static.</p>
+            
+            <h2>CUE Breakdown:</h2>
+            
+            <h3>User Action Actor Repository (UAR):</h3>
+            
+            <p>The UAR is a repository of User Action Agents, each with the capacity to perform discrete human tasks within diverse environments, encompassing interactions with hardware, various application graphical user interfaces (GUI), and specific APIs.</p>
+            
+            <!-- Add your video embed code or link here -->
+            
+            <h3>User Profile Emulator (UPE):</h3>
+            
+            <p>The User Profile Emulator (UPE) is a sophisticated tool designed to facilitate the emulation of user profiles and subsequently generate a series of actions to be executed by User Action Agents. This innovative system brings an added layer of versatility and automation to the realm of user actions.</p>
+            
+            <!-- Add information about User Profile Emulator -->
+            
+            <h3>Scheduler Monitor Hub (SMH):</h3>
+            
+            <p>The Scheduler Monitor Hub, or SMH for short, serves as a master orchestrator within extensive network environments. It boasts a comprehensive suite of features designed for the swift deployment of User Action Agents, interactive monitoring, and precise control over these agents.</p>
+            
+            <!-- Add information about Scheduler Monitor Hub -->
+            
+            <h2>What might this system be useful for:</h2>
+            
             <ul>
-                <li>Review and respond to job applications and resumes.</li>
-                <li>Schedule and conduct interviews with candidates.</li>
+                <li>Cyber Exercises (CIDEX, Locked Shields, CTF): This system proves invaluable in the realm of cyber exercises and competitions, it empowers participants to respond to simulated cyber threats with precision, enhancing their cybersecurity skills and readiness.</li>
+                <!-- Add other use cases as needed -->
             </ul>
-        </li>
-        <li>Onboarding and Orientation:
-            <ul>
-                <li>Assist in the onboarding process for new hires.</li>
-            </ul>
-        </li>
-        <li>Employee Relations:
-            <ul>
-                <li>Address employee concerns and inquiries related to HR policies and procedures.</li>
-            </ul>
-        </li>
-        <li>Performance Management:
-            <ul>
-                <li>Review employee performance evaluations and feedback.</li>
-            </ul>
-        </li>
-        <li>Benefits Administration:
-            <ul>
-                <li>Assist employees with questions about their benefits, such as health insurance or retirement plans.</li>
-            </ul>
-        </li>
-        <li>Payroll and Compensation:
-            <ul>
-                <li>Process payroll and ensure accurate payment of employees.</li>
-            </ul>
-        </li>
-        <li>And so on...</li>
-    </ul>
-
-    <p>To simulate a seamless flow of regular operations, we employ CUE to generate an HR employee profile that meticulously executes each task according to predefined schedules, from inception to completion. This approach guarantees that the generated traffic remains dynamic and doesn't appear rigid or static.</p>
-
-    <h2>CUE Breakdown:</h2>
-
-    <h3>User Action Actor Repository (UAR):</h3>
-
-    <p>The UAR is a repository of User Action Agents, each with the capacity to perform discrete human tasks within diverse environments, encompassing interactions with hardware, various application graphical user interfaces (GUI), and specific APIs.</p>
-
-    <!-- Add your video embed code or link here -->
-
-    <h3>User Profile Emulator (UPE):</h3>
-
-    <p>The User Profile Emulator (UPE) is a sophisticated tool designed to facilitate the emulation of user profiles and subsequently generate a series of actions to be executed by User Action Agents. This innovative system brings an added layer of versatility and automation to the realm of user actions.</p>
-
-    <!-- Add information about User Profile Emulator -->
-
-    <h3>Scheduler Monitor Hub (SMH):</h3>
-
-    <p>The Scheduler Monitor Hub, or SMH for short, serves as a master orchestrator within extensive network environments. It boasts a comprehensive suite of features designed for the swift deployment of User Action Agents, interactive monitoring, and precise control over these agents.</p>
-
-    <!-- Add information about Scheduler Monitor Hub -->
-
-    <h2>What might this system be useful for:</h2>
-
-    <ul>
-        <li>Cyber Exercises (CIDEX, Locked Shields, CTF): This system proves invaluable in the realm of cyber exercises and competitions, it empowers participants to respond to simulated cyber threats with precision, enhancing their cybersecurity skills and readiness.</li>
-        <!-- Add other use cases as needed -->
-    </ul>
-
-    <h2>Collaboration</h2>
-
-    <p>Our CUE system has been actively participating in an international cybersecurity exercise. It is designed to generate benign traffic and/or simulate cyber intruders carrying out malicious activities, all without the need for direct human intervention.</p>
-
-    <p>If you're curious and eager to delve deeper into this topic, please don't hesitate to get in touch with us at:</p>
-
-    <address>
-        Email: <a href="mailto:support@ncl.sg">support@ncl.sg</a><br>
-        Address: National Cybersecurity R&D Lab (NCL), School of Computing<br>
-        National University of Singapore<br>
-        COM3-B1-09, 11 Research Link, Singapore 119391
-    </address>
+            
+            <h2>Collaboration</h2>
+            
+            <p>Our CUE system has been actively participating in an international cybersecurity exercise. It is designed to generate benign traffic and/or simulate cyber intruders carrying out malicious activities, all without the need for direct human intervention.</p>
+            
+            <p>If you're curious and eager to delve deeper into this topic, please don't hesitate to get in touch with us at:</p>
+            
+            <address>
+                Email: <a href="mailto:support@ncl.sg">support@ncl.sg</a><br>
+                Address: National Cybersecurity R&D Lab (NCL), School of Computing<br>
+                National University of Singapore<br>
+                COM3-B1-09, 11 Research Link, Singapore 119391
+            </address>
+</div>
+</div>
+</div>

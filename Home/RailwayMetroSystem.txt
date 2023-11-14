@@ -37,6 +37,13 @@
 
             </br>
 
+            <h3>What might this system be useful for : </h3>
+            </br>
+            <ul>
+             <li> <strong>Training and Education: </strong> This system serves as an invaluable tool for educating students about Rilway Systems, their components, and operational processes.</li>
+             <li></li>
+             <li></li>
+            </ul>
 
             </div>
         </div>

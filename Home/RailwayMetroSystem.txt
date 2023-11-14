@@ -6,10 +6,9 @@
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="row">
             <h2 class="news-header"><font color="#0d6dba">Introduction</font></h2>
-            <p><font color="#313030" size="2px">Railway [Metro] System was built in 2023 by NCL development team, for research in cyber security. Its purpose is to help ICS researchers and instructors test IT/OT attack and defense soluctions and provide a platform for ICS security training and education.</font></p>
+            <p><font color="#313030" size="3px">Railway [Metro] System was built in 2023 by NCL development team, for research in cyber security. Its purpose is to help ICS researchers and instructors test IT/OT attack and defense soluctions and provide a platform for ICS security training and education.</font></p>
             <br/>
-            <br/>
-            <p><font color="#313030" size="2px">Our idea on creating a digital version of the railway system emulation platform, designed to replcate the operation of multiple trains traversing ditinct tracks, each equipped with unique sensor-signal controls.
+            <p><font color="#313030" size="3px">Our idea on creating a digital version of the railway system emulation platform, designed to replcate the operation of multiple trains traversing ditinct tracks, each equipped with unique sensor-signal controls.
                                                 This platform is intended to serve as a valuable resource for cybersecurity researchers, enabling them to demonstrate and assess the impact of various types of IT attackes on operational technology (OT) systems.
                                                 The platform comprises six primary components(programs):</font></p>
             <br/>

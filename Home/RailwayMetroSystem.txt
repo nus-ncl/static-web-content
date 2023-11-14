@@ -19,7 +19,7 @@
                 <li> Railway Trains Sensor - Power System Control PLC Simulator</li>
             </ul>
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
-              <img id="Railway1" width="400" height="300" border="0" align="centre"/>
+              <img id="Railway1" width="400" height="300" border="0" align="center"/>
         </div>
     </div>
 </div>

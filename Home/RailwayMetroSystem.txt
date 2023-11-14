@@ -18,8 +18,10 @@
                 <li> Railway Stations Sensor - Signal System Control PLC Simulator</li>
                 <li> Railway Trains Sensor - Power System Control PLC Simulator</li>
             </ul>
-            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
-              <img id="Railway1" width="400" height="300" border="0" alt="Centered Image"/>
+            <div style="display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;">
+             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
+               <img id="Railway1" width="400" height="300" border="0" alt="Centered Image"/>
+            </div>
         </div>
     </div>
 </div>

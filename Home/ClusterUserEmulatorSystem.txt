@@ -99,7 +99,7 @@
             
             <p>Our CUE system has been actively participating in an international cybersecurity exercise. It is designed to generate benign traffic and/or simulate cyber intruders carrying out malicious activities, all without the need for direct human intervention.</p>
             
-            <p>If you're curious and eager to delve deeper into this topic, please don't hesitate to get in touch with us at:</p>
+            <p>With our highly customized profile agent in operation, which generates benign traffic, participants are faced with the challenge of distinguishing between robotic activities and genuine "human" actions. If you're curious and eager to delve deeper into this topic, please don't hesitate to get in touch with us at:</p>
             
             <address>
                 Email: <a href="mailto:support@ncl.sg">support@ncl.sg</a><br>

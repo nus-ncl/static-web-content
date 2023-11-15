@@ -99,8 +99,8 @@
             
             <!-- Add information about Scheduler Monitor Hub -->
              <p>&nbsp;</p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (21).png','Scheduler','PNG')"/>
-                    <img id="Scheduler" width="300" height="200" border="0" align="left"/>
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (21).png','Scheduler','PNG')"/>
+              <img id="Scheduler" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
              <p>&nbsp;</p>
             
             <h2>What might this system be useful for:</h2>

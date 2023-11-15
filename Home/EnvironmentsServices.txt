@@ -59,7 +59,7 @@
               <li><p><font color="#050505">4 distinct tracks, 48 junctions, 39 sensors, and up to 17 signals</font></p></li>
               <li><p><font color="#050505">Enable real-time monitoring and control of trains, sensor-signal, and the station system</font></p></li>
               <li><p><font color="#050505">Scenario Loading feature, allowing users to load pre-saved real-world scenarios, such as train collision at junctions or stations</font></p></li>
-              <li><!--<a href="/[Web]_Railway_System.pdf">Learn More</a>--></li>
+              <li><a href="RailwayMetroSystem.html">Learn More</a></li>
             </ul>
           </div>
         </div>

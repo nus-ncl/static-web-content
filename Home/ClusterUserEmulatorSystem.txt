@@ -65,6 +65,13 @@
             <p>In the video below, you will witness an illustrative showcase of the multifaceted capabilities of a user action actor. This includes executing software applications, precise mouse-click interactions, simple gaming experiences, and a myriad of other versatile actions.</p>
             
             <!-- Add your video embed code or link here -->
+                       <p>&nbsp;</p>
+ <div class="col-sm-12 embed-responsive embed-responsive-16by9" >
+                        <iframe src="https://vimeo.com/884707145"
+                                frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
+                                allowfullscreen="true" 
+                                sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+                    </div>
             
             <h3>User Profile Emulator (UPE):</h3>
             

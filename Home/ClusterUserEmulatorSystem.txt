@@ -61,25 +61,37 @@
             <h3>User Action Actor Repository (UAR):</h3>
             
             <p>The UAR is a repository of User Action Agents, each with the capacity to perform discrete human tasks within diverse environments, encompassing interactions with hardware, various application graphical user interfaces (GUI), and specific APIs.</p>
+            <br/>
+            <p>In the video below, you will witness an illustrative showcase of the multifaceted capabilities of a user action actor. This includes executing software applications, precise mouse-click interactions, simple gaming experiences, and a myriad of other versatile actions.</p>
             
             <!-- Add your video embed code or link here -->
             
             <h3>User Profile Emulator (UPE):</h3>
             
             <p>The User Profile Emulator (UPE) is a sophisticated tool designed to facilitate the emulation of user profiles and subsequently generate a series of actions to be executed by User Action Agents. This innovative system brings an added layer of versatility and automation to the realm of user actions.</p>
+           </br>
+           <p>The UPE offers the flexibility to create and model profiles after specific roles within an organization, catering to a diverse range of responsibilities and requirements. These roles can span across various domains, such as Human Resources (HR), Engineering, or even the executive C-level positions within a company.</p>
+           </br>
+           <p>Utilizing the Profile Emulator, we have the capability to generate benign traffic within a simulated environment, closely mirroring real-world operational patterns. Moreover, in the context of a cyber exercise, we can take it a step further by meticulously crafting the actions of a cyber intrusion, strategically aimed at accomplishing specific exploits within a controlled and simulated environment. This versatile tool empowers us to seamlessly bridge the gap between simulation and reality, facilitating a comprehensive range of scenarios for analysis and preparedness.</p>
             
             <!-- Add information about User Profile Emulator -->
             
             <h3>Scheduler Monitor Hub (SMH):</h3>
             
             <p>The Scheduler Monitor Hub, or SMH for short, serves as a master orchestrator within extensive network environments. It boasts a comprehensive suite of features designed for the swift deployment of User Action Agents, interactive monitoring, and precise control over these agents.</p>
+            </br>
+            <p>SMH operates through a user-friendly web-based console, affording users the ability to exercise vigilant oversight and meticulous control over task states pertaining to user profiles within a given cluster. This centralized hub acts as the cornerstone for managing the dynamics of large-scale networks, providing a powerful tool for efficient administration and optimization of user actions.</p>
             
             <!-- Add information about Scheduler Monitor Hub -->
             
             <h2>What might this system be useful for:</h2>
             
             <ul>
-                <li>Cyber Exercises (CIDEX, Locked Shields, CTF): This system proves invaluable in the realm of cyber exercises and competitions, it empowers participants to respond to simulated cyber threats with precision, enhancing their cybersecurity skills and readiness.</li>
+                <li><strong>Cyber Exercises (CIDEX, Locked Shields, CTF):</strong> This system proves invaluable in the realm of cyber exercises and competitions, it empowers participants to respond to simulated cyber threats with precision, enhancing their cybersecurity skills and readiness.</li>
+                <li><strong>-	Honeypot Trap: </strong> The system can serve as a sophisticated honeypot trap, luring potential threats into a controlled environment where their actions can be analyzed and monitored without endangering real systems. This aids in threat detection and response strategies.</li>
+                <li><strong>-	Automate repetitive process: </strong> For organizations seeking to streamline and optimize operations, the system's ability to automate repetitive processes is a game-changer. It minimizes human intervention and enhances efficiency across various workflows.</li>
+                <li><strong>-	Dynamic Flags (Training): </strong> In training scenarios, the system facilitates dynamic flag creation and management, providing an ideal platform for honing the skills of both cybersecurity professionals and participants in other training programs.</li>
+                <li><strong>-	Synthetic data generation for research (ML): </strong> Researchers and data scientists benefit from the system's capability to generate synthetic data. This data serves as a valuable resource for machine learning experiments, enabling the development, and testing of algorithms without the need for extensive real-world datasets.</li>
                 <!-- Add other use cases as needed -->
             </ul>
             

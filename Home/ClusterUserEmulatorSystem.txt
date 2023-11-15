@@ -82,6 +82,14 @@
            <p>Utilizing the Profile Emulator, we have the capability to generate benign traffic within a simulated environment, closely mirroring real-world operational patterns. Moreover, in the context of a cyber exercise, we can take it a step further by meticulously crafting the actions of a cyber intrusion, strategically aimed at accomplishing specific exploits within a controlled and simulated environment. This versatile tool empowers us to seamlessly bridge the gap between simulation and reality, facilitating a comprehensive range of scenarios for analysis and preparedness.</p>
             
             <!-- Add information about User Profile Emulator -->
+                       <p>&nbsp;</p>
+ <div class="col-sm-12 embed-responsive embed-responsive-16by9" >
+                        <iframe width="450" height="250" src="https://player.vimeo.com/video/884686198?title=0&amp;byline=0&amp;portrait=0"
+                                frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
+                                allowfullscreen="true" 
+                                sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+                    </div>
+             <p>&nbsp;</p>
             
             <h3>Scheduler Monitor Hub (SMH):</h3>
             

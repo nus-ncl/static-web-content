@@ -98,6 +98,10 @@
             <p>SMH operates through a user-friendly web-based console, affording users the ability to exercise vigilant oversight and meticulous control over task states pertaining to user profiles within a given cluster. This centralized hub acts as the cornerstone for managing the dynamics of large-scale networks, providing a powerful tool for efficient administration and optimization of user actions.</p>
             
             <!-- Add information about Scheduler Monitor Hub -->
+             <p>&nbsp;</p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (21).png','Scheduler','PNG')"/>
+                    <img id="Scheduler" width="300" height="200" border="0" align="left"/>
+             <p>&nbsp;</p>
             
             <h2>What might this system be useful for:</h2>
             

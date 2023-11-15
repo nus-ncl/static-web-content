@@ -67,7 +67,7 @@
             <!-- Add your video embed code or link here -->
                        <p>&nbsp;</p>
  <div class="col-sm-12 embed-responsive embed-responsive-16by9" >
-                        <iframe src="https://vimeo.com/884707145"
+                        <iframe src="https://player.vimeo.com/video/884707145?title=0&amp;byline=0&amp;portrait=0"
                                 frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
                                 allowfullscreen="true" 
                                 sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>

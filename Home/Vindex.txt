@@ -1,15 +1,55 @@
 
-
 <div layout:fragment="content" id="Vindex">
  <p></p><br></br>
     <p></p>
 
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="row">
-            <h2 class="news-header"><font color="#0d6dba">Overview</font></h2>
-            <!--<p><font color="#313030" size="4px">The National Cybersecurity R&amp;D Lab (NCL) is funded under National Cybersecurity R&amp;D (NCR) Programme since 2015. NCL aims to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing needs.</font></p>-->
-            <h3 class="news-header2">We are a National Cybersecurity R&amp;D Lab (NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</h3>
-            <h3 class="news-header2">Our aim is to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing requirements.</h3>
-        </div>
+
+<h1>NCL Synthetic Security Experimentation Dataset</h1>
+
+<p>
+    The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:
+    <ul>
+        <li>One attacker machine in the external network</li>
+        <li>One victim machine in the internal network</li>
+        <li>One or more machines also in the internal network emulating normal users accessing Internet services</li>
+    </ul>
+</p>
+
+<p>The datasets include:</p>
+
+<ol>
+    <li>Victim's memory dump that contains process, state, and temporary files (please open it using Volatility tools)</li>
+    <li>Router's network packet capture in all interfaces (please open it using Wireshark)</li>
+    <li>Victim's system logs that contain user execution tasks and results (please open it using a text editor)</li>
+</ol>
+
+<p>
+    These datasets can be downloaded after you fill in this <a href="#">form</a> or you may send an email to <a href="mailto:support@ncl.sg">support@ncl.sg</a> for further inquiries.
+</p>
+
+<p><strong>OceanLotus APT</strong></p>
+
+<p>
+    Different version datasets are available based on the victim operating system and topology:
+</p>
+
+<ul>
+    <li><a href="#">OL-01.Basic Version Windows (1 Windows victim, 1 normal machine, 1 attacker machine)</a></li>
+    <li><a href="#">OL-02.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</a></li>
+    <li><a href="#">OL-03.Custom Version Windows (1 Windows victim, 4 normal machines, 1 public attacker machine)</a></li>
+</ul>
+
+<p><strong>Log4Shell Vulnerability</strong></p>
+
+<ul>
+    <li><a href="#">L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</a></li>
+</ul>
+
+<p><strong>Other APTs</strong></p>
+
+<p><a href="#">TBD</a></p>
+
     </div>
 </div>

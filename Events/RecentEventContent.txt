@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">National Cybersecurity R&D Laboratory participated in the GovWare 2023 Conference and Exhibition held on 17-19 Oct 2023 at MBS Expo and Convention Center, Singapore.</p> </li>
 
-<li><p align="justify">Deputy Prime Minister of Singapore, Mr. Heng Swee Keat visited our booth on the 1st day of GovWare 2023. NCL Lead Principal Investigator and Associate Professor Dr Chang Ee-Chien shared insights about NCL’s current research and interesting ongoing projects to the Deputy Prime Minister of Singapore.</p></li>
+<li><p align="justify">Deputy Prime Minister of Singapore, Mr. Heng Swee Keat visited our booth and NCL Lead Principal Investigator and Associate Professor Chang Ee-Chien shared insights about NCL’s current research and interesting ongoing projects to the Deputy Prime Minister of Singapore.</p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/10/honored-to-have-deputy-prime-minister.html">Read More</a>.</p></li>
                             </ul>
                     </div>

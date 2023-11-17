@@ -21,7 +21,7 @@
                     <img id="CZECHDELEVISIT2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
-                    <h3 class="news-header">GovWare 2023 - Conference & Exhibition</h3>
+                    <h3 class="news-header">CZech Delegates visit to NCL</h3>
                     <div class="row">
                         <ul>
                             <li><p align="justify">On October 20, 2023, the National Cybersecurity R&D Lab (NCL) had the privilege of hosting a delegation from the Czech Republic, including Mr. Petr Manoušek, Deputy Ambassador at the Embassy of the Czech Republic, Mr. Tomáš Martynek from the CERT Unit at the National Cyber and Information Security Agency, and Mr. Martin Jírovec, a Technology Transfer Consultant from the Faculty of IT at Brno University of Technology.</p> </li>

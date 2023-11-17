@@ -17,6 +17,26 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCLGOVWARE2023.JPG','NCLGOVWARE2023','JPG')"/>
+                    <img id="NCLGOVWARE2023" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">GovWare 2023 - Conference & Exhibition</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Laboratory participated in the GovWare 2023 Conference and Exhibition held on 17-19 Oct 2023 at MBS Expo and Convention Center, Singapore.</p> </li>
+
+<li><p align="justify">Deputy Prime Minister of Singapore, Mr. Heng Swee Keat visited our booth on the 1st day of GovWare 2023. NCL Lead Principal Investigator and Associate Professor Dr Chang Ee-Chien shared insights about NCL’s current research and interesting ongoing projects to the Deputy Prime Minister of Singapore.</p></li>
+                            <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/10/honored-to-have-deputy-prime-minister.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CSAINNO2023.JPG','CSAINNO2023','JPG')"/>
                     <img id="CSAINNO2023" width="300" height="200" border="0" align="left"/>
                 </div>

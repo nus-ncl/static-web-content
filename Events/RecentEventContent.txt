@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) at the School of Computing, NUS, was one of the exhibitors at Cybersecurity Innovation Day 2023, held on the 29th of September 2023, at the MBS Expo and Convention Centre, Singapore.</p> </li>
 
-<li><p align="justify">During the event, Mrs. Josephine Teo, the Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, announced that two Cybersecurity Centers will be established at local universities, receiving an impressive <b>$110 million</b> in funding as part of a plan to grow Singapore as a cyber-security hub.</p></li>
+<li><p align="justify">During the event, Mrs. Josephine Teo, the Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, announced an impressive <b>$110 million</b> in funding as part of a plan to grow Singapore as a cyber-security hub.</p></li>
                             <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/10/cybersecurity-innovation-day-2023.html">Read More</a>.</p></li>
                             </ul>
                     </div>

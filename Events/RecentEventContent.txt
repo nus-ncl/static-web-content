@@ -17,7 +17,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CZECHDELEVISIT2023.JPG','CZECHDELEVISIT2023','JPG')"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CZECHDELEVISIT2023.jpg','CZECHDELEVISIT2023','JPG')"/>
                     <img id="CZECHDELEVISIT2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
@@ -34,7 +34,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCLGOVWARE2023.JPG','NCLGOVWARE2023','JPG')"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCLGOVWARE2023.jpg','NCLGOVWARE2023','JPG')"/>
                     <img id="NCLGOVWARE2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
@@ -54,7 +54,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CSAINNO2023.JPG','CSAINNO2023','JPG')"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CSAINNO2023.jpg','CSAINNO2023','JPG')"/>
                     <img id="CSAINNO2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">

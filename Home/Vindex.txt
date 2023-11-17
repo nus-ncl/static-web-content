@@ -41,7 +41,7 @@
     <li><a href="https://vindex.ncl.sg:3443/OceanLotus/v3-custom-win-victim">OL-03.Custom Version Windows (1 Windows victim, 4 normal machines, 1 public attacker machine)</a></li>
 </ul>
 
-<p><strong>Log4Shell Vulnerability</strong></p>
+<h3>Log4Shell Vulnerability</h3>
 
 <ul>
     <li><a href="https://vindex.ncl.sg:3443/Log4Shell/v1-basic-linux-victim">L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</a></li>

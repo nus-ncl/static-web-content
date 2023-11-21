@@ -19,13 +19,14 @@
     </ul>
 </h3>
 
-<p>The datasets include:</p>
-
+<h3 class="news-header2">The datasets include:
+<br></br>
 <ol>
     <li>Victim's memory dump that contains process, state, and temporary files (please open it using <a href="https://github.com/volatilityfoundation/volatility">Volatility</a> tools)</li>
     <li>Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a>)</li>
     <li>Victim's system logs that contain user execution tasks and results (please open it using a text editor)</li>
 </ol>
+<h3 class="news-header2">
 
 <p>
     <strong>These datasets can be downloaded after you fill in this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">form</a> or you may send an email to <a href="mailto:support@ncl.sg">support@ncl.sg</a> for further inquiries.</strong

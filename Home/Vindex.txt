@@ -10,14 +10,14 @@
         <div class="row">
             <h2 class="news-header"><font color="#0d6dba">NCL Synthetic Security Experimentation Dataset</font></h2>
 
-<h3 class="news-header2">The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:
+<h3 class="news-header2">The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:</h3>
 <br></br>    
 <ul>
-        <li>One attacker machine in the external network</li>
-        <li>One victim machine in the internal network</li>
-        <li>One or more machines also in the internal network emulating normal users accessing Internet services</li>
+        <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;One attacker machine in the external network</font></p></li>
+        <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;One victim machine in the internal network</font></p></li>
+        <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;One or more machines also in the internal network emulating normal users accessing Internet services</font></p></li>
     </ul>
-</h3>
+
 
 <h3 class="news-header2">The datasets include:
 <br></br>

@@ -5,8 +5,7 @@
 
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="row">
-
-<h1>NCL Synthetic Security Experimentation Dataset</h1>
+            <h2 class="news-header"><font color="#0d6dba">NCL Synthetic Security Experimentation Dataset</font></h2>
 
 <p>
     The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:

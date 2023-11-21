@@ -1,12 +1,12 @@
 
-<div layout:fragment="content" id="Vindex">
+<section>
         <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
             <div class="post-content">
+            
+                <p>&nbsp;</p>
                     <div class="row">
                         <p align="Center"><b><font size="6px" color="#0d6dba">NCL Synthetic Security Experimentation Dataset</font></b></p>
                     </div>
-            
-
                 <p>&nbsp;</p>
                 
                 <p>The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:</p>
@@ -46,4 +46,4 @@
                 </ul>
 </div>
 </div>
-</div>
+</section>

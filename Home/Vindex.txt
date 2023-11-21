@@ -22,9 +22,9 @@
 <h3 class="news-header2">The datasets include:
 <br></br>
 <ol>
-    <li>Victim's memory dump that contains process, state, and temporary files (please open it using <a href="https://github.com/volatilityfoundation/volatility">Volatility</a> tools)</li>
-    <li>Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a>)</li>
-    <li>Victim's system logs that contain user execution tasks and results (please open it using a text editor)</li>
+    <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Victim's memory dump that contains process, state, and temporary files (please open it using <a href="https://github.com/volatilityfoundation/volatility">Volatility</a> tools)</font></p></li>
+    <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a>)</font></p></li>
+    <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Victim's system logs that contain user execution tasks and results (please open it using a text editor)</font></p></li>
 </ol>
 <h3 class="news-header2">
 

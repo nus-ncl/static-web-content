@@ -17,7 +17,7 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CIDEX2023.jpg','CIDEX2023','JPG')"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CZECHDELEVISIT2023.jpg','CZECHDELEVISIT2023','JPG')"/>
                     <img id="CIDEX2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">

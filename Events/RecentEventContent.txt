@@ -24,7 +24,7 @@
                     <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2023</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">National Cybersecurity R&D Lab (NCL) had the opportunity to support Critical Infrastructure Defence Exercise (CIDeX) 2023 from 22nd November to 24th November 2023 held at the School of Computing, National University Singapore (NUS). The event involves over 200 participants coming from DIS, CSA and 24 other national agencies across six Critical Information Infrastructure (CII) Sectors.</p> </li>
+                            <li><p align="justify">NCL had the opportunity to support Critical Infrastructure Defence Exercise (CIDeX) 2023. The event involves over 200 participants coming from DIS, CSA and 24 other national agencies across six Critical Information Infrastructure (CII) Sectors.</p> </li>
 
 <li><p align="justify">Mr. Heng Chee How, the Senior Minister of State for Defence, and Dr. Janil Puthucheary, the Senior Minister of State for Communications and Information and Health, attended the event on 24th of November 2023.</p> </li>
 

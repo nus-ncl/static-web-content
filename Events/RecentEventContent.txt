@@ -17,6 +17,25 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CIDEX2023.jpg','CIDEX2023','JPG')"/>
+                    <img id="CIDEX2023" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2023</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Lab (NCL) had the opportunity to support Critical Infrastructure Defence Exercise (CIDeX) 2023 from 22nd November to 24th November 2023 held at the School of Computing, National University Singapore (NUS). The event involves over 200 participants coming from DIS, CSA and 24 other national agencies across six Critical Information Infrastructure (CII) Sectors.</p> </li>
+
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/11/critical-infrastructure-defence.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CZECHDELEVISIT2023.jpg','CZECHDELEVISIT2023','JPG')"/>
                     <img id="CZECHDELEVISIT2023" width="300" height="200" border="0" align="left"/>
                 </div>

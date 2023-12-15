@@ -48,7 +48,7 @@
                 
                 <p><strong>ELIGIBLE NUS MASTER’S PROGRAMMES</strong></p>
                 <ul>
-                    <li><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln">Master of Computing (General Track)</a> and working on either a dissertation, or a 2-semester project related to cybersecurity</li>
+                    <li><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln"><u>Master of Computing (General Track)</u></a> and working on either a dissertation, or a 2-semester project related to cybersecurity</li>
                     <li>Master of Computing (Computer Science Specialisation) and working on either a dissertation, or a 2-semester project related to cybersecurity</li>
                     <li>Master of Computing (Infocomm Security Specialisation)</li>
                     <li>Master programmes (by Research) from Faculty of Science with dissertation focused on cybersecurity</li>

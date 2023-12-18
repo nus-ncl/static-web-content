@@ -57,35 +57,11 @@
                 </ul>
                 <p>&nbsp;</p>
 
-                <p><strong>TIMELINE [for School of Computing (SOC) Aug 2023 intake]</strong></p>
-                <table class="table1">
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">Jan 2023</div></td>
-                        <td><div align="center">Applicants indicate their interest in their applications to MCOMP programme.</div></td>
-                    </tr>
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">May 2023</div></td>
-                        <td><div align="center">Interviews and Offer of Admissions.</div></td>
-                    </tr>
-                </table>
-                <p>&nbsp;</p>
-                
-                <p><strong>TIMELINE [for Science and Engineering Aug 2023 intake]</strong></p>
-                <table class="table1">
-                    <tr BGCOLOR="#fff">
-                        <td><div align="center">May 2023</div></td>
-                        <td><div align="center">Applicants who have already received admission offers indicate their interest by contacting us via email.</div></td>
-                    </tr>
-                </table>
-                <p>&nbsp;</p>
-                
-                <p><strong>TIMELINE (for current SOC students and SOC Jan 2023 intake)</strong></p>
-                <p>Application for Jan 2023 intake is by invitation. Eligible students/applicants will receive an email invitation from us to apply.</p>
-                <p>&nbsp;</p>
-                
-                <p><strong>TIMELINE (for current non-SOC students and non-SOC Jan 2023 intake)</strong></p>
-                <p>The application is closed.</p>
-                <p>&nbsp;</p>
+                <p><strong>APPLICATION PROCESS (for Master of Computing)</strong></p>
+                <p>Application is by invitation. Eligible students will receive email invitation after they accepted offer from the respective Master of Computing programme.</p>
+ <p>&nbsp;</p>
+ <p><strong>APPLICATION PROCESS (for non Master of Computing)</strong></p>
+                <p>Applicants who have accepted offer from the respective Master programme indicate their interest by contacting us via email.</p>
 
                 <p>&nbsp;</p>
                 <p>For enquiries on the NCLS, please email <a href="mailto:aad.dcs@nus.edu.sg">aad.dcs@nus.edu.sg</a> [Subject: Enquiry on NCLS]</p>

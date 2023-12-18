@@ -58,10 +58,11 @@
                 <p>&nbsp;</p>
 
                 <p><strong>APPLICATION PROCESS (for Master of Computing)</strong></p>
-                <p>Application is by invitation. Eligible students will receive email invitation after they accepted offer from the respective Master of Computing programme.</p>
+                <ul><li><p>Application is by invitation. Eligible students will receive email invitation after they accepted offer from the respective Master of Computing programme.</p></li></ul>
+               
  <p>&nbsp;</p>
  <p><strong>APPLICATION PROCESS (for non Master of Computing)</strong></p>
-                <p>Applicants who have accepted offer from the respective Master programme indicate their interest by contacting us via email.</p>
+                <ul><li> <p>Applicants who have accepted offer from the respective Master programme indicate their interest by contacting us via email.</p></li></ul>
 
                 <p>&nbsp;</p>
                 <p>For enquiries on the NCLS, please email <a href="mailto:aad.dcs@nus.edu.sg">aad.dcs@nus.edu.sg</a> [Subject: Enquiry on NCLS]</p>

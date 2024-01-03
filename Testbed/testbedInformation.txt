@@ -25,7 +25,7 @@
           <h2 class="team-heading team-heading-current-team" th:text="#{Nodes.Specification}">Node Specification</h2>
            <p>Below are an example of the specification of each node in different category:</p>
             <details>
-              <summary>Platinum Grade</summary>
+              <summary><b>Platinum Grade</b></summary>
               <ul>
                     <li>2x Intel Xeon Platinum Processor (56C / 112T)</li>
                     <li>1 TB RAM</li>
@@ -33,7 +33,7 @@
             </details>
         
             <details>
-              <summary>Gold Grade</summary>
+              <summary><b>Gold Grade</b></summary>
               <ul>
                     <li>2x Intel Xeon Gold Processor (32C / 64T )</li>
                    <li>1 TB RAM</li>
@@ -41,7 +41,7 @@
             </details>
             
             <details>
-              <summary>Sliver Grade</summary>
+              <summary><b>Sliver Grade</b></summary>
               <ul>
                   <li>2x Intel Xeon Silver Processor (10C / 20T)</li>
                   <li>128 GB RAM</li>
@@ -49,7 +49,7 @@
             </details>
            
             <details>
-              <summary>Bronze Grade</summary>
+              <summary><b>Bronze Grade</b></summary>
               <ul>
                   <li>2x Intel Xeon Bronze Processor (8C / 8T )</li>
                   <li>64 GB RAM</li>

@@ -31,7 +31,7 @@
                     <li>1 TB RAM</li>
               </ul>
             </details>
-            <p>&nbsp;</p>
+        
             <details>
               <summary>Gold Grade</summary>
               <ul>

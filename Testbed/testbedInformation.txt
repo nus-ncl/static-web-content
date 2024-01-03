@@ -39,7 +39,7 @@
                    <li>1 TB RAM</li>
               </ul>
             </details>
-            <p>&nbsp;</p>
+            
             <details>
               <summary>Sliver Grade</summary>
               <ul>
@@ -47,7 +47,7 @@
                   <li>128 GB RAM</li>
               </ul>
             </details>
-            <p>&nbsp;</p>
+           
             <details>
               <summary>Bronze Grade</summary>
               <ul>

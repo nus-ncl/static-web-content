@@ -38,6 +38,27 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('IJCO.jpg','IJCO','JPG')"/>
+                    <img id="IJCO" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">NCL participated in Crossed Swords 2023, hosted by CCDCOE</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) participated in Crossed Swords 2023, which took place in Estonia from December 11 to 14, 2023.</p></li>
+
+<li><p align="justify">Crossed Swords 23 (XS23) is an exercise designed to train the cyber specialists conduct successfully full-spectrum offensive cyber operations. More than 20 countries, including NATO and non-NATO member states, participated in Crossed Swords 2023.</p></li>
+
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/12/the-national-cybersecurity-r-laboratory.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CIDEX2023.jpg','CIDEX2023','JPG')"/>
                     <img id="CIDEX2023" width="300" height="200" border="0" align="left"/>
                 </div>

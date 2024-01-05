@@ -21,6 +21,27 @@
                     <img id="CIDEX2023" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
+                    <h3 class="news-header">International Junior Cybersecurity Olympiad 2023 CTF competition</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">The National Cybersecurity R&D Lab (NCL) supported the STEAM AHEAD Global Finals 2023 (7-11 Dec 2023), organized by the Singapore International Mastery Contests Centre (SIMCC) in Bali, Indonesia.</p></li>
+
+<li><p align="justify">The STEAM AHEAD Global Finals 2023 featured three categories, and NCL co-organized the “International Junior Cybersecurity Olympiad 2023 CTF competition”, collaborating with the NUS Centre for Nurturing Computer Excellence.</p></li>
+
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/12/international-junior-cybersecurity.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CIDEX2023.jpg','CIDEX2023','JPG')"/>
+                    <img id="CIDEX2023" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
                     <h3 class="news-header">Critical Infrastructure Defence Exercise (CIDeX) 2023</h3>
                     <div class="row">
                         <ul>

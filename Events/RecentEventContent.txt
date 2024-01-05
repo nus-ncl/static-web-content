@@ -38,8 +38,8 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('IJCO.jpg','IJCO','JPG')"/>
-                    <img id="IJCO" width="300" height="200" border="0" align="left"/>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CROSSEDSWORDS23.jpg','CROSSEDSWORDS23','JPG')"/>
+                    <img id="CROSSEDSWORDS23" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">NCL participated in Crossed Swords 2023, hosted by CCDCOE</h3>

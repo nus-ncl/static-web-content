@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">The National Cybersecurity R&D Lab (NCL) supported the STEAM AHEAD Global Finals 2023 (7-11 Dec 2023), organized by the Singapore International Mastery Contests Centre (SIMCC) in Bali, Indonesia.</p></li>
 
-<li><p align="justify">The STEAM AHEAD Global Finals 2023 featured three categories, and NCL co-organized the “International Junior Cybersecurity Olympiad 2023 CTF competition”, collaborating with the NUS Centre for Nurturing Computer Excellence.</p></li>
+<li><p align="justify">NCL co-organized the “International Junior Cybersecurity Olympiad 2023 CTF competition”, collaborating with the NUS Centre for Nurturing Computer Excellence.</p></li>
 
 <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2023/12/international-junior-cybersecurity.html">Read More</a>.</p></li>
                             </ul>

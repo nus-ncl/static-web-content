@@ -1,4 +1,4 @@
-<div layout:fragment="content" id="DataResourcesBody">
+<div layout:fragment="content" id="footerBody">
  <!-- give a fragment name so that we can import from other html files -->
 
    	<div th:fragment="footer">

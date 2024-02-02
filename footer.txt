@@ -1,4 +1,4 @@
-<div layout:fragment="content" id="footerBody">
+<div  id="footerBody">
 <div class="container">
 		<p>&nbsp;</p>
 			<div class="row">

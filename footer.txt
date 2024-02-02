@@ -1,7 +1,7 @@
- <!-- <div layout:fragment="footer" id="footerBody"> -->
+ <div id="footerBody"> 
  <!-- give a fragment name so that we can import from other html files -->
 
-   	<div th:fragment="footer" id="footerBody">
+   	<div th:fragment="footer" >
 				<footer id="footer">
 					<div class="footer-bgcolor">
 						<div class="container">
@@ -33,4 +33,4 @@
    		</div> <!-- main-nav -->
 	  <object th:include="fragments/javascript :: javascript" th:remove="tag" />
 
-<!-- </div> -->
+</div>

@@ -27,7 +27,7 @@
 
 			</div>  <!-- part 1 ends-->
             <br/><br/><br/>
-
+		<p></p>
 			<div class="col-sm-12">
 				<div class="col-sm-3">
 					<a href="http://impactcybertrust.org"> <img src="images/impact1.png" width="251" height="189" href="http://impactcybertrust.org"/></a>

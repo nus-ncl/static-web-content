@@ -1,4 +1,4 @@
-<div layout:fragment="footer" id="footerBody">
+ <!-- <div layout:fragment="footer" id="footerBody">-->
  <!-- give a fragment name so that we can import from other html files -->
 
    	<div th:fragment="footer">
@@ -33,4 +33,4 @@
    		</div> <!-- main-nav -->
 	  <object th:include="fragments/javascript :: javascript" th:remove="tag" />
 
-</div>
+<!-- </div>-->

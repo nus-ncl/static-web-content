@@ -403,13 +403,13 @@
 
       </div>
 
-      <h3>Terms and Conditions:</h3>
-      <ol>
+      <h3 align="left"><strong>Terms and Conditions:</strong></h3>
+      <ul>
         <li>GST is not included in the listed price.</li>
         <li>1CPU core = 4 vCPU until further notice.</li>
         <li>NCL offers customized specifications (vCPU, RAM, etc.) and dedicated servers. Please contact us for more details.</li>
         <li>NCL reserves the right to interpret any ambiguities, if present.</li>
-      </ol>
+      </ul>
     </div>
   </section>
 </div>

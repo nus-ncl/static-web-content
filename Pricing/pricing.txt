@@ -395,15 +395,15 @@
                 </tr>
                
               </table>
-               <h5 align="left" style="margin-left:10px"><a target="_blank" href="testbedInformation.html"><b><u>Learn More >>></b></u></a></h5>
-              <h5 align="left"  style="margin-left:10px"><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a> for special pricing on a long-term contract basis.</b></h5>
+               <h5 align="left" ><a target="_blank" href="testbedInformation.html"><b><u>Learn More >>></b></u></a></h5>
+              <h5 align="left"  ><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a> for special pricing on a long-term contract basis.</b></h5>
 		
 		<h3 align="left"><strong><u>Terms and Conditions:</u></strong></h3>
-      		<ul>
-        		<li aligin="left">GST is not included in the listed price.</li>
-        		<li aligin="left">1CPU core = 4 vCPU until further notice.</li>
-        		<li aligin="left">NCL offers customized specifications (vCPU, RAM, etc.) and dedicated servers. Please contact us for more details.</li>
-        		<li aligin="left">NCL reserves the right to interpret any ambiguities, if present.</li>
+      		<ul  style="text-align: left;">
+        		<li  style="text-align: left;">GST is not included in the listed price.</li>
+        		<li  style="text-align: left;">1CPU core = 4 vCPU until further notice.</li>
+        		<li  style="text-align: left;">NCL offers customized specifications (vCPU, RAM, etc.) and dedicated servers. Please contact us for more details.</li>
+        		<li  style="text-align: left;">NCL reserves the right to interpret any ambiguities, if present.</li>
      		 </ul>
             </div>
           </div>

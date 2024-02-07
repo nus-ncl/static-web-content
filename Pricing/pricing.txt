@@ -138,29 +138,6 @@
                     <div align="center"><strong>1.95</strong></div>
                   </td>
                 </tr>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>CPU Server</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">64</div>
-                  </td>
-                  <td>
-                    <div align="center">64</div>
-                  </td>
-                  <td>
-                    <div align="center">2048</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>10.5</strong></div>
-                  </td>
-                </tr>
               </table>
             </div>
           </div>

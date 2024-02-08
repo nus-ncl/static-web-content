@@ -21,6 +21,12 @@
 
             <div class="col-sm-12">
                 <div class="row">
+
+<h3 class="news-header1" >
+                            <a target=_blank href="https://www.ece.nus.edu.sg/stfpage/bsikdar/papers/sgc_23.pdf"><font color="#216694">Representation Learning based Time Synchronization Attack Detection for Synchrophasors</font></a></h3>
+
+<p><font size="2px" color="#000000">• Asif Iqbal, Muhammad Naveed Aman, and Biplab Sikdar.</font></p>
+
                                        <h3 class="news-header1"><a href="http://www.evosuite.org/wp-content/papercite-data/pdf/fse21_objectseed.pdf"><font color="#216694">Graph-based Seed Object Synthesis for Search-Based Unit Testing</font></a></h3>
                                   <p><font size="2px" color="#000000">•  Yun Lin, You Sheng Ong, Jun Sun, Gordon Fraser, Jin Song Dong&nbsp;&nbsp;• 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,ESEC/FSE’21 , 2021 </font></p>    
                 

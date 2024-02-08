@@ -21,7 +21,7 @@
 
                 <ol>
                   <li>Victim's memory dump that contains process, state, and temporary files (please open it using <a href="https://github.com/volatilityfoundation/volatility">Volatility</a> tools)</li>
-                  <li>Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a></li>
+                  <li>Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a>)</li>
                   <li>Victim's system logs that contain user execution tasks and results (please open it using a text editor)</li>
                 </ol>
 

@@ -49,6 +49,18 @@
                         
                          <!-- 2022 publication -->
                          <h3 class="news-header1" >
+                            <a target=_blank href="https://ieeexplore.ieee.org/document/10066414/"><font color="#216694">Representation Learning based Time Synchronization Attack Detection for Synchrophasors</font></a></h3>
+ <p><font size="2px" color="#000000">• Asif Iqbal, Muhammad Naveed Aman, and Biplab Sikdar.</font></p>
+
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://ieeexplore.ieee.org/document/10066414/"><font color="#216694">End-to-End Performance Evaluation of R-SV / R-GOOSE Messages for Wide Area Protection and Control Applications</font></a></h3>
+ <p><font size="2px" color="#000000">• S.M. Suhail Hussain, Muhammad M. Roomi, Daisuke Mashima, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• 2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT).</font></p>
+
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://dl.acm.org/doi/abs/10.1145/3488932.3524127"><font color="#216694">RecIPE: Revisiting the Evaluation of Memory Error Defenses</font></a></h3>
+ <p><font size="2px" color="#000000">• Yuancheng Jiang, Roland H.C. Yap, Zhenkai Liang & Hubert Rosier&nbsp;&nbsp;&nbsp;• ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, May 2022.</font></p>
+
+			<h3 class="news-header1" >
                             <a target=_blank href="https://informs-sim.org/wsc22papers/by_area.html#cea148"><font color="#216694">Design and Implementation of Human-Behave Bot for Realistic Web Browsing Activity generation</font></a></h3>
  <p><font size="2px" color="#000000">• Akhil Vuputuri, Aris Cahyadi Risdianto, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• WSC 2022: Winter Simulation Conference 2022.</font></p>
  

@@ -38,7 +38,7 @@
                 </ul>
 
                 <p>&nbsp;</p>
-                <p><strong>Log4Shell Vulnerability</strong></p>
+                <p><strong><u>Log4Shell Vulnerability</u></strong></p>
                 <ul>
                   <li>L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</li>
                 </ul>

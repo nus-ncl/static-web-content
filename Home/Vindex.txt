@@ -29,7 +29,7 @@
                 <p>These datasets can be downloaded after you fill in this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">form</a> or you may send an email to <a href="mailto:support@ncl.sg">support@ncl.sg</a> for further inquiries.</p>
 
                 <p>&nbsp;</p>
-                <p><strong>OceanLotus APT</strong></p>
+                <p><strong><u>OceanLotus APT</u></strong></p>
                 <p>Different version datasets are available based on the victim operating system and topology:</p>
                 <ul>
                    <li>OL-01.Basic Version Windows (1 Windows victim, 1 normal machine, 1 attacker machine)</li>

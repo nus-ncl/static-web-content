@@ -47,11 +47,7 @@
                         <p></p>
                         <h7><b>NCL Publications</b></h7>
                         
-                         <!-- 2022 publication -->
-                         <h3 class="news-header1" >
-                            <a target=_blank href="https://www.ece.nus.edu.sg/stfpage/bsikdar/papers/sgc_23.pdf"><font color="#216694">Representation Learning based Time Synchronization Attack Detection for Synchrophasors</font></a></h3>
- <p><font size="2px" color="#000000">• Asif Iqbal, Muhammad Naveed Aman, and Biplab Sikdar.</font></p>
-
+                         <!-- 2022 publication -->                       
 			<h3 class="news-header1" >
                             <a target=_blank href="https://ieeexplore.ieee.org/document/10066414/"><font color="#216694">End-to-End Performance Evaluation of R-SV / R-GOOSE Messages for Wide Area Protection and Control Applications</font></a></h3>
  <p><font size="2px" color="#000000">• S.M. Suhail Hussain, Muhammad M. Roomi, Daisuke Mashima, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• 2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT).</font></p>

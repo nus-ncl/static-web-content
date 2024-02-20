@@ -33,7 +33,8 @@
                 <p><strong>BENEFITS OF NCLS PROGRAMME</strong></p>
                 <ul>
                     <li>Tuition fees (after MOE Tuition Fee Grant) of NUS Master of Computing or related course programme.</li>
-                    <li>Full-time students are eligible for monthly stipends of $3,500 for Singapore Citizens and $2,700 for Singapore Permanent Residents, capped at 18 months.</li>
+                    <li>Full-time students are eligible for monthly stipends capped at 18 months.</li>
+                    <li>The monthly stipend amount is $3500 for Singapore Citizens and $2700 for Singapore Permanent Residents</li>
                     <li>A project grant of $5,000 to the academic supervisors of the students’ cybersecurity projects or dissertations.</li>
                 </ul>
                 <p>&nbsp;</p>

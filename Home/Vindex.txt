@@ -43,4 +43,25 @@
         </div>
     </div>
 </section>
-
+ <script type="text/javascript">
+    function callcheckurl(url){
+        var fullurl=url;
+        $.ajax({
+            url: '/checkUrl',
+            method: 'POST',
+            dataType: 'json',
+            data: { "url": fullurl},
+            success: function(response) {
+                if(response.flag == "false"){
+                    alert("Kindly utilize an external network, rather than the NUS network, for downloading the dataset. Your cooperation is appreciated. Thank you!");
+                }
+                else{
+                    window.open(fullurl, '_blank');
+                    }
+                },
+            error: function(error) {
+                 alert("Kindly utilize an external network, rather than the NUS network, for downloading the dataset. Your cooperation is appreciated. Thank you!");
+            }
+       });
+    }
+</script>

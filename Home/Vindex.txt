@@ -1,47 +1,45 @@
 
 <section>
-        <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
-            <div class="post-content">
-            
-                <p>&nbsp;</p>
-                    <div class="row">
-                        <p align="Center"><b><font size="6px" color="#0d6dba">NCL Synthetic Security Experimentation Dataset</font></b></p>
-                    </div>
-                <p>&nbsp;</p>
-                
-                <p>The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:</p>
+    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+        <div class="post-content">
 
-                <ul>
-                    <li>One attacker machine in the external network</li>
-                    <li>One victim machine in the internal network</li>
-                    <li>One or more machines also in the internal network emulating normal users accessing Internet services</li>
-                </ul>
-                <p>&nbsp;</p>
-                <p>The datasets include:</p>
+            <div class="row">
+                <p align="Center"><b><font size="6px" color="#0d6dba">NCL Synthetic Security Experimentation Dataset</font></b></p>
+            </div>
 
-                <ol>
-                  <li>Victim's memory dump that contains process, state, and temporary files (please open it using <a href="https://github.com/volatilityfoundation/volatility">Volatility</a> tools)</li>
-                  <li>Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a>)</li>
-                  <li>Victim's system logs that contain user execution tasks and results (please open it using a text editor)</li>
-                </ol>
+            <p>The collected dataset is based on a simulated environment and events that are generated to replicate specific APT campaigns or security vulnerabilities. These datasets are created using a basic enterprise IT environment with the simplest topology and components:</p>
 
-                <p>&nbsp;</p>
-                <p>These datasets can be downloaded after you fill in this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">form</a> or you may send an email to <a href="mailto:support@ncl.sg">support@ncl.sg</a> for further inquiries.</p>
+            <ul>
+                <li>One attacker machine in the external network</li>
+                <li>One victim machine in the internal network</li>
+                <li>One or more machines also in the internal network emulating normal users accessing Internet services</li>
+            </ul>
+            <p>&nbsp;</p>
+            <p>The datasets include:</p>
 
-                <p>&nbsp;</p>
-                <p><strong><u>OceanLotus APT</u></strong></p>
-                <p>Different version datasets are available based on the victim operating system and topology:</p>
-                <ul>
-                   <li>OL-01.Basic Version Windows (1 Windows victim, 1 normal machine, 1 attacker machine)</li>
-                   <li>OL-02.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</li>
-                   <li>OL-03.Custom Version Windows (1 Windows victim, 4 normal machines, 1 public attacker machine)</li>
-                </ul>
+            <ol>
+                <li>Victim's memory dump that contains process, state, and temporary files (please open it using <a href="https://github.com/volatilityfoundation/volatility">Volatility</a> tools)</li>
+                <li>Router's network packet capture in all interfaces (please open it using <a href="https://www.wireshark.org/">Wireshark</a>)</li>
+                <li>Victim's system logs that contain user execution tasks and results (please open it using a text editor)</li>
+            </ol>
 
-                <p>&nbsp;</p>
-                <p><strong><u>Log4Shell Vulnerability</u></strong></p>
-                <ul>
-                  <li>L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</li>
-                </ul>
-</div>
-</div>
+
+            <p>These datasets can be downloaded after you fill in this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUb1lDHtl3mYF2aJ_l65KnVL7sWp742pty9LJObsAvFc2c7g/viewform">form</a> or you may send an email to <a href="mailto:support@ncl.sg">support@ncl.sg</a> for further inquiries.</p>
+
+            <p>&nbsp;</p>
+            <p><strong><u>OceanLotus APT</u></strong></p>
+            <p>Different version datasets are available based on the victim operating system and topology:</p>
+            <ul>
+                <li><a href="#" ><u>OL-01.Basic Version Windows (1 Windows victim, 1 normal machine, 1 attacker machine)</u></a></li>
+                <li><a href="#" ><u>OL-02.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</u></a></li>
+                <li><a href="#" ><u>OL-03.Custom Version Windows (1 Windows victim, 4 normal machines, 1 public attacker machine)</u></a></li>
+            </ul>
+
+            <p>&nbsp;</p>
+            <p><strong><u>Log4Shell Vulnerability</u></strong></p>
+            <ul>
+                <li><a href="#" ><u>L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</u></a></li>
+            </ul>
+        </div>
+    </div>
 </section>

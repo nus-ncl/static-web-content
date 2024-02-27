@@ -38,7 +38,7 @@
             <p>&nbsp;</p>
             <p><strong><u>Log4Shell Vulnerability</u></strong></p>
             <ul>
-                <li><a href="#" onclick="callcheckurl('https://vindex.ncl.sg:3443/Log4Shell/v1-basic-linux-victim')" ><u>L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</u></a></li>
+                <li><a href="#" ><u>L4S-01.Basic Version Linux (1 Linux victim, 1 normal machine, 1 attacker machine)</u></a></li>
             </ul>
         </div>
     </div>

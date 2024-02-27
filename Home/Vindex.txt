@@ -1,4 +1,3 @@
-
 <section>
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="post-content">

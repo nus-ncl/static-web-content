@@ -45,6 +45,8 @@
     						<p style="margin-left:30px" onclick="myFunction('CityOPT1Id')"><font color="black"><i><u>From the city:</u></i></font></p>
     						
 <div style="margin-left:30px" id="CityOPT1Id" class="show position">
+<br/>
+<p>Please access the google map <a target="_blank" href="https://maps.app.goo.gl/K15MSmUo4fTqiVWV6"><u>link</u></a></p>
     							<ul>
     							<li>Drive along the AYER RAJAH EXPRESSWAY (AYE) towards Jurong</li>
     							<li>Exit AYE (exit 8) and head towards SOUTH BUONA VISTA ROAD</li>

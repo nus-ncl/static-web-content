@@ -34,7 +34,7 @@
                        
 <p style="font-size:20px"><font color="darkblue"><b><u>Detailed instructions and direction guide to reach National Cybersecurity R&D Lab (NCL):</u></b></font></p><br/>            
     					<ul>
-                        <li>Kindly access the Google map <a target="_blank" href="https://maps.app.goo.gl/K15MSmUo4fTqiVWV6"> <b><u>link</u></b></a> to reach National                                     Cybersecurity R&D Lab, NUS @COM3 building if you are driving. <b>Please note that COM3 Building and Innovation4.0 building (next to COM3                                     building) share the same carpark.</b></li>
+                        <li>Kindly access the Google map <a target="_blank" href="https://maps.app.goo.gl/K15MSmUo4fTqiVWV6"> <b><u>link</u></b></a> to reach National                                     Cybersecurity R&D Lab, NUS @COM3 building if you are driving. <b>Please note that COM3 Building and Innovation4.0 building (next to COM3 building) share the same carpark.</b></li>
                         </ul>
 
     					<br/>
@@ -48,8 +48,7 @@
     							<ul>
     							<li>Drive along the AYER RAJAH EXPRESSWAY (AYE) towards Jurong</li>
     							<li>Exit AYE (exit 8) and head towards SOUTH BUONA VISTA ROAD</li>
-    							<li>After passing the National University Health System building on your right, turn RIGHT into
-KENT RIDGE ROAD at the traffic junction.</li>
+    							<li>After passing the National University Health System building on your right, turn RIGHT into KENT RIDGE ROAD at the traffic junction.</li>
     							<li>Keep LEFT and turn LEFT into PRINCE GEORGE’S PARK road.</li>
     							<li>Continue on PRINCE GEORGE’S PARK road (down slope).</li>
     							<li>The COM3 Building is at the end of slope on your RIGHT (right after the Innovation 4.0 Building)</li>

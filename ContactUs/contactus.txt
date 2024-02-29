@@ -84,7 +84,7 @@
 
     					<div id="drivingInno4ComId" class="hide position" style="margin-left:30px">
     						<p style="margin-left:30px" onclick="myFunction('InnoOPT1Id')"><font color="black"><i><u>From the city:</u></i></font></p>
-    						
+  <br/>  						
 <div style="margin-left:30px" id="InnoOPT1Id" class="show position">
     							<ul>
     							<li>Drive along the AYER RAJAH EXPRESSWAY (AYE) towards Jurong</li>

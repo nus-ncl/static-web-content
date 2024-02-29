@@ -45,7 +45,7 @@
 
 <div id="drivingCityAllId" class="hide position" style="margin-left:30px">
 <br/>
-<p><b>Please access the google map<a target="_blank" href=" https://maps.app.goo.gl/K15MSmUo4fTqiVWV6">link</a></b></p>
+<p><b>Please access the google map <a target="_blank" href=" https://maps.app.goo.gl/K15MSmUo4fTqiVWV6"><u>link</u></a></b></p>
     						
     						<p style="margin-left:30px" onclick="myFunction('CityOPT1Id')"><font color="black"><i><u>From the city:</u></i></font></p>
 					

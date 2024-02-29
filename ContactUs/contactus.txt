@@ -56,7 +56,7 @@ KENT RIDGE ROAD at the traffic junction.</li>
     							<li>Park in any of the white carpark lots in Carpark 11)</li>
     							<li>Take lift (opposite to COM3 bus stop) at Basement 2 and go to Level Basement 1 for NCL Lab</li>
     						</ul>
-                                <img src="images/dircar.png" alt="" width="600"  height="400" border="0" align="center" />
+                               
 </div>
     						
 <p style="margin-left:30px" onclick="myFunction('CityOPT2Id')"><font color="black"><i><u>From Pasir Panjang Road:</u></i></font></p>

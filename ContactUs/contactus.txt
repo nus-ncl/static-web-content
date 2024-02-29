@@ -128,7 +128,7 @@ see NCL office</li>
     					<p onclick="myFunction('drivingComId')" style="margin-left:30px"><img src="images/icons8-down.png" alt="" width="20"  height="20" border="0" />&nbsp;&nbsp;<font color="black"><strong><u>If you are taking taxi to COM1/COM2:</u></strong></font></p>
     					<br/>
     					<div id="drivingComId" class="hide position" style="margin-left:30px">
-    						<p>Please access the google map<a target="_blank" href="https://www.comp.nus.edu.sg/maps/getting-here/" style="margin-left:30px"> link</a></p>
+    						<p><strong>Please access the google map<a target="_blank" href="https://www.comp.nus.edu.sg/maps/getting-here/"><u> link</u></a></strong></p>
     						
     						<p style="margin-left:30px" onclick="myFunction('drivingCCId')"><font color="black"><i><u>From the city: </u></i></font></p>
 

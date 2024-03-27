@@ -17,6 +17,27 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('HACKBASH2024.jpg','HACKBASH2024','JPG')"/>
+                    <img id="HACKBASH2024" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">HackBash (A.YCEP) 2024</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">Over 500 youths participated in the Advanced Youth Cyber Exploration Programme (A.YCEP) X HackBash 2024 in March, with 180 youths attending an on-site cybersecurity training bootcamp.The top 80 students then competed in teams of four in the final Capture-The-Flag competition. The final CTF held on March 16, 2024, at the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) in Singapore! </p></li>
+
+<li><p align="justify">CSA co-organised the event with NUS Greyhats, Bakkhos Labs, Horangi Cyber Security - a Bitdefender company and the National Cybersecurity R&D Lab (NCL)</p></li>
+
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2024/03/hackbash-aycep-2024.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('IJCO.jpg','IJCO','JPG')"/>
                     <img id="IJCO" width="300" height="200" border="0" align="left"/>
                 </div>

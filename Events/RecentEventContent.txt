@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">National Cybersecurity R&D Lab (NCL) is pleased to have hosted Professor Abhik Roychoudhury from NUS, Ms. Akvilė Giniotienė, Head of Cyber and New Technologies Unit, Programme Management Officer at United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre, and Rayson Ng, Assistant Manager at NUS Enterprise.</p></li>
 
-<li><p align="justify"> They visited NCL on 21st March 2024 to explore NCL's services, facilities, and discuss potential collaboration opportunities.</p></li>
+<li><p align="justify">They visited NCL on 21st March 2024 to explore NCL's services, facilities, and discuss potential collaboration opportunities.</p></li>
                             </ul>
                     </div>
                 </div>

@@ -24,7 +24,7 @@
                     <h3 class="news-header">HackBash (A.YCEP) 2024</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">Over 500 youths participated in the Advanced Youth Cyber Exploration Programme (A.YCEP) X HackBash 2024 in March, with 180 youths attending an on-site cybersecurity training bootcamp.The top 80 students then competed in teams of four in the final Capture-The-Flag competition. The final CTF held on March 16, 2024, at the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) in Singapore! </p></li>
+                            <li><p align="justify">Over 500 youths participated in the Advanced Youth Cyber Exploration Programme (A.YCEP) X HackBash 2024 in March, with 180 youths attending an on-site cybersecurity training bootcamp.The top 80 students then competed in teams of four in the final Capture-The-Flag competition.</p></li>
 
 <li><p align="justify">CSA co-organised the event with NUS Greyhats, Bakkhos Labs, Horangi Cyber Security - a Bitdefender company and the National Cybersecurity R&D Lab (NCL)</p></li>
 

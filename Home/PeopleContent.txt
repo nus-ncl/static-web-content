@@ -71,13 +71,6 @@
 		     </div>
               </div>
 
-		<div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Deepshikha</b></h8>
-                        <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
-                    </div>
-                </div>
-
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Tha Zin Hlaing</b></h8>
@@ -92,12 +85,7 @@
 	            </div>
                 </div>
 		
-		<div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Mavis Ang</b></h8>
-                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
-	            </div>
-                </div>
+		
 
 		<div class="col-sm-6">
                     <div class="row">
@@ -118,12 +106,6 @@
                     <!--</div>-->
                 <!--</div>-->
 
-                <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Huang Kang</b></h8>
-                        <p><b><font color="585656">Research Associate</font></b> </p>
-                    </div>
-                </div>
 		
             </div>
 

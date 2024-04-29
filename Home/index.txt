@@ -46,7 +46,7 @@
                     <div class="col-12 col-lg-6 col-xl-6">
                         <div class="row justify-content-xl-center">
                             <div class="col-12 col-xl-11">
-                                <h2 class="mb-3 about-new-title">About Us Static Content Page.</h2>
+                                <h2 class="mb-3 about-new-title">About Us</h2>
                                 <p class="lead fs-5 text-secondary mb-2 about-des">NCL’s Cybersecurity Compute Infrastructure (CCI) offers over 300 nodes and a range of security data and services,
                                     providing a collaborative research platform for academia, government and industry.</p>
                                 <p class="mb-5">We offers a realistic , safe environment for testing and validating system before production deployment.</p>

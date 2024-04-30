@@ -1,27 +1,48 @@
-<div  id="footerBody">
-<div class="container">
-		<p>&nbsp;</p>
-			<div class="row">
-				<div class="col-sm-3 col-sm-offset-1">
-					<ul class="address">
-						<li><i class="fa fa-envelope"></i> <span> Email: </span><a>support@ncl.sg</a></li>
-			<li><i class="fa fa-map-marker"></i> <span> Address: </span><a href="nclDirections.pdf" target="_blank">NCL COM3-B1-09 Computing 3, 11 Research Link, Singapore 119391,</a></li>
-			</ul>
-							<div class="social-icons2">
-						</div>
-				</div>
-								<div class="col-sm-4">
-<a href="terms_and_conditions" th:href="@{/terms_and_conditions}" th:text="#{signup.termsAndCondition}">Terms and Conditions</a> | <a href="#" th:href="@{/orderform/download}">Reservation</a> 
-<!--| <a th:href="@{/public_teams}">Public&nbsp;Teams</a>--> | <a th:href="@{/data/public}">Public Datasets</a>
-								</div>
-								<div class="col-sm-2">
-									<ul>
-										<a class="envelope" th:href="#{support.email.link}"><i class="fa fa-envelope fa-3x"></i></a>
-										<a href="">&nbsp;</a>
-										<!--<a class="github" href="https://github.com/nus-ncl"><i class="fa fa-github fa-3x"></i></a>-->
-									</ul>
-								</div>
+<div layout:fragment="footer" id="footer">
+<footer class="footer footer-bg">
+		  <section class="py-4 py-md-5 py-xl-8  " >
+			  <div class="container overflow-hidden">
+				  <div class="row gy-4 gy-lg-0">
+					  <div class="col-12 col-md-6 col-lg-4 justify-content-end">
+						  <div class="widget">
+							  <h4 class="widget-title footer-get-title mb-4">Get in Touch</h4>
+							  <address class="mb-4 footer-get-addresstitle">
+								  <i class="fa fa-map-marker fa-sm fa-lg" ></i>
+								  NUS School of Computing, COM3 <br/>B1-09 || 11 Research link,<br/>Singapore 119391</address>
+							  <p class="mb-1">
+							  </p>
+							  <p class="mb-0 ">
+								  <a class="footer-get-addresstitle link-secondary text-decoration-none"
+									 href="support@ncl.sg">
+									  <i class="fa fa-envelope fa-sm fa-lg" ></i> support@ncl.sg</a>
+							  </p>
+						  </div>
+					  </div>
+					  <div class="col-12 col-lg-4">
+						  <div class="widget">
+							  <div class="col-12">
+								  <div class="d-grid mt-3">
 
-							</div> <!-- row -->
-						</div> <!-- container -->
+									  <a th:href="@{~/contactus}" class="btn btn-primary">Contact Us</a>
+
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+
+				  </div>
+			  </div>
+		  </section>
+		  <div class="footer-bg py-4 py-md-3 py-xl-8 footer-border-top-custom border-top">
+			  <div class="container overflow-hidden">
+				  <div class="row ">
+					  <div class="col-xs-12 justify-content-center">
+						  <div class="footer-copyright-wrapper text-center ">
+							  <p class="footer-copyright-color"> &#169; 2024 National Cybersecurity R&amp;D Lab. All Rights Reserved.</p>
+						  </div>
+					  </div>
+				  </div>
+			  </div>
+		  </div>
+	  </footer>
 </div>

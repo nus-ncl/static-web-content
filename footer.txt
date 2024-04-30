@@ -1,7 +1,6 @@
 
- <div th:fragment="footer" id="footersection">
-	  	<!--========== FOOTER ==========-->
-	  <footer class="footer footer-bg" >
+ <div th:fragment="content" id="footersection">
+
 
  <section class="py-4 py-md-5 py-xl-8  ">
 			  <div class="container overflow-hidden">
@@ -91,4 +90,4 @@
 
                 				  </div>
                 			  </div>
-                		  </div><footer></div>
+                		  </div></div>

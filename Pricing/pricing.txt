@@ -1,432 +1,353 @@
-<div layout:fragment="content" id="Pricing">
-  <section id="team">
-    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
-      <div class="row">
-        <div class="heading text-center col-sm-9 col-sm-offset-1">
-          <p>&nbsp;</p>
-          <p>&nbsp;</p>
-          <p>&nbsp;</p>
-          <p align="Center"><b>
-              <font size="30px" color="#0d6dba">Pricing</font>
-            </b></p>
-          <h4>For reservation/booking of nodes or VM, please write to us at <a target="_blank" href="mailto:support@ncl.sg">support@ncl.sg</a></h4>
-          <div class="row">
-            <div class="table-responsive">
-              <table class="table1" style="width:100%">
-                <thead BGCOLOR="#E0E0E0">
-                  <th> </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>vCPU*</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>RAM(GB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>HDD(GB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>SSD(GB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>GPU(Nvidia v100)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="25%">
-                    <p>
-                      <h5><strong>Price*(S$/day)</strong></h5>
-                    </p>
-                  </th>
-                </thead>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.small)</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">1</div>
-                  </td>
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">40</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>0.3</strong></div>
-                  </td>
-                </tr>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.medium)</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">60</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>0.58</strong></div>
-                  </td>
-                </tr>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.large)</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center">80</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>1.11</strong></div>
-                  </td>
-                </tr>
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong>VM(m1.xlarge)</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center">12</div>
-                  </td>
-                  <td>
-                    <div align="center">120</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center">0</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>1.95</strong></div>
-                  </td>
-                </tr>
-              </table>
-            </div>
-          </div>
-          <div>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
+<div  id="Pricing">
+  <div class="container">
+             <div class="row justify-content-md-center">
+                 <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
+                     <h2 class="display-8 mb-2 mb-md-3 text-center price-title-text">Our Price</h2>
+                     <hr class="w-30 mx-auto  border-dark-subtle line" />
+                     <p class="fs-10 mt-3 mb-5 text-center price-subtext">
+                         We Offer flexible Pricing for everyone.  </p>
+             </div>
+         </div>
+     </div>
 
-	<h3 align="left"><strong>SGX Offerings:</strong></h3>
-          <div class="row">
-            <div class="table-responsive">
-              <table class="table1" style="width:100%">
-                <thead BGCOLOR="#E0E0E0">
-                  <th> </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>CPU Core</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>RAM(GB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>SSD(GB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>LAN</strong></h5>
-                    </p>
-                  </th>
-                  <th width="25%">
-                    <p>
-                      <h5><strong>Price*(S$/day)</strong></h5>
-                    </p>
-                  </th>
-                </thead>
+         <div class="container overflow-hidden">
 
+             <div class="row justify-content-md-center">
 
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5 onclick="myFunction('mrt')"><strong>DELL EMC POWER EDGE R350</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">6</div>
-                  </td>
-                  <td>
-                    <div align="center">32</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">Dual Port 1GB Ethernet</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>10</strong></div>
-                  </td>
-                </tr>
-              </table>
-	    <p>&nbsp;</p>
-            <p>&nbsp;</p>
+                 <p class="col-10 p-server-title mb-3 ">
+                     Compute Server offer:
+                 </p>
 
-          </div>
-          <h3 align="left"><strong>GPU Offerings:</strong></h3>
-          <div class="row">
-            <div class="table-responsive">
-              <table class="table1" style="width:100%">
-                <thead BGCOLOR="#E0E0E0">
-                  <th> </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>No of cards</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>RAM (GB) on each GPU card</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>SSD(GB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="15%">
-                    <p>
-                      <h5><strong>HDD(TB)</strong></h5>
-                    </p>
-                  </th>
-                  <th width="25%">
-                    <p>
-                      <h5><strong>Price*(S$/day)</strong></h5>
-                    </p>
-                  </th>
-                </thead>
+                 <div class="col-10 table-responsive">
+                     <table class="table  table-bordered">
+                         <thead class="bg-light" >
+                         <th> </th>
+                         <th class="th-value">
+                             <p ><strong >vCPU*</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>RAM(GB)</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>HDD(GB)</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>SSD(GB)</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>GPU(Nvidia v100)</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>Price*(S$/day)</strong>
+                             </p>
+                         </th>
+                         </thead>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >VM(m1.medium)</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >4</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">80</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">0</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">0</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">1.11</div>
+                             </td>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >VM(m1.large)</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">16</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">120</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">0</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">0</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">1.95</div>
+                             </td>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >VM(m1.xlarge)</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >16</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">64</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">120</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">0</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">0</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value"></div>
+                             </td>
+                         </tr>
+                     </table>
+                 </div>
+             </div>
 
-               <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">80</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">12</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>200</strong></div>
-                  </td>
-                </tr>
+             <div class="row justify-content-end col-11">
+                 <div class="col-auto">
+                     <p class="text-center reserve-p">
+                         <strong class ="reserve-text">To reserve or book for nodes/VMs</strong>
+                     </p>
+                 </div>
+                 <div class="col-auto">
+                     <a href="#"  class="btn price-btn btn-lg active"
+                        role="button" aria-pressed="true"
+                        data-bs-toggle="modal"
+                        data-bs-target="#BRModal"
+                        data-bs-whatever="com"
+                     >
+                         click here <i class="bi bi-chevron-double-right"></i></a></div>
+             </div>
 
-               <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A100">A100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">1</div>
-                  </td>
-                  <td>
-                    <div align="center">80</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">12</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>100</strong></div>
-                  </td>
-                </tr>
+             <br/>
 
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5 onclick="myFunction('mrt')"><strong>A40</strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center">48</div>
-                  </td>
-                  <td>
-                    <div align="center">3840</div>
-                  </td>
-                  <td>
-                    <div align="center">16</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>480</strong></div>
-                  </td>
-                </tr>
+             <div class="row justify-content-md-center ">
+                 <p class="col-10 p-server-title mb-3 ">
+                     GPU offer:
+                 </p>
+                 <div  class="col-10 table-responsive">
+                     <table class="table table-bordered">
+                         <thead class="bg-light">
+                         <th> </th>
+                         <th class="th-value">
+                             <p ><strong >No of cards</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>RAM(GB) on each GPU card</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>SSD(GB)</strong>
+                             </p>
+                         </th>
+                         <th >
+                             <p class="th-value"><strong>HDD(TB)</strong>
+                             </p>
+                         </th>
 
-               <tr id="mrt" class=hide position">
-                 <td>
-                 <div>
-    							<br/>
-                    <p> Hello </p>
-    						</div>
-                </td>
-               </tr>
+                         <th >
+                             <p class="th-value"><strong>Price*(S$/day)</strong>
+                             </p>
+                         </th>
+                         </thead>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >A100</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >2</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">80</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">480</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">12</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">200</div>
+                             </td>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >A100</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >1</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">80</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">480</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">12</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">100</div>
+                             </td>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >A40</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">48</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">3840</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">16</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">480</div>
+                             </td>
 
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >A40</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >4</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">48</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">960</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">260</div>
+                             </td>
 
-              <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A40">A40</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">48</div>
-                  </td>
-                  <td>
-                    <div align="center">960</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>260</strong></div>
-                  </td>
-                </tr>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >A5000</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >4</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">24</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">960</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">250</div>
+                             </td>
 
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A500">A5000</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">24</div>
-                  </td>
-                  <td>
-                    <div align="center">960</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>250</strong></div>
-                  </td>
-                </tr>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >V100</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >2</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">16</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">480</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">70</div>
+                             </td>
 
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#V100">V100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">16</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>70</strong></div>
-                  </td>
-                </tr>
+                         </tr>
+                         <tr >
+                             <th class="th-value bg-light">
+                                 <strong >P100</strong>
+                             </th>
+                             <td>
+                                 <div class="tr-td-value justify-content-md-center" >2</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">12</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">480</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">8</div>
+                             </td>
+                             <td>
+                                 <div class="tr-td-value">45</div>
+                             </td>
+                         </tr>
+                     </table>
+                 </div>
+             </div>
 
-                <tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#P100">P100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">2</div>
-                  </td>
-                  <td>
-                    <div align="center">12</div>
-                  </td>
-                  <td>
-                    <div align="center">480</div>
-                  </td>
-                  <td>
-                    <div align="center">8</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>45</strong></div>
-                  </td>
-                </tr>
-               
-              </table>
-               <h5 align="left" ><a target="_blank" href="testbedInformation.html"><b><u>Learn More >>></b></u></a></h5>
-              <h5 align="left"  ><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a> for special pricing on a long-term contract basis.</b></h5>
-		<br/>
-		<h3 align="left"><strong><u>Terms and Conditions:</u></strong></h3>
-      		<ul  style="text-align: left;">
-        		<li  style="text-align: left;">GST is not included in the listed price.</li>
-        		<li  style="text-align: left;">1CPU core = 4 vCPU until further notice.</li>
-        		<li  style="text-align: left;">NCL offers customized specifications (vCPU, RAM, etc.) and dedicated servers. Please contact us for more details.</li>
-        		<li  style="text-align: left;">NCL reserves the right to interpret any ambiguities, if present.</li>
-     		 </ul>
-            </div>
-          </div>
-        </div>
+             <div class="row justify-content-end col-11">
+                 <div class="col-auto">
+                     <p class="text-center reserve-p">
+                         <strong class ="reserve-text" >To reserve or book for nodes/VMs</strong>
+                     </p>
+                 </div>
+                 <div class="col-auto">
+                     <a href="#"  class="btn price-btn btn-lg active"
+                        role="button" aria-pressed="true"
+                        data-bs-toggle="modal"
+                        data-bs-target="#BRModal"
+                        data-bs-whatever="gup"
+                     >click here <i class="bi bi-chevron-double-right"></i></a>
 
-      </div>
+                 </div>
 
-      
-    </div>
-  </section>
+             </div>
+
+             <br/>
+
+             <div class="row justify-content-md-center ">
+                 <p class="col-10 p-server-title mb-3 ">
+                     <u>Terms and Conditions:</u>
+
+                 <ul class="col-10 tc-text" >
+                     <li>GST is not included in the listed price.</li>
+                     <li>1CPU core = 4 vCPU until further notice.</li>
+                     <li>We offers customized specifications (vCPU, RAM, etc.) and dedicated servers. </li>
+                     <li>We reserves the right to interpret any ambiguities, if present.</li>
+                 </ul>
+
+                 </p>
+             </div>
+         </div>
 </div>
-
-<script>
- function myFunction(id)
-    {
-        var obj = document.getElementById(id);
-        if(obj.className == 'show')
-        {
-            obj.className = 'hide';
-        }
-        else
-        {
-            obj.className = 'show';
-        }
-    }
-</script>

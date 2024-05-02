@@ -265,6 +265,12 @@
                             <a href="https://www.stengg.com/" target="_blank"> <img src="images/newui/colla-logo/st-logo.png" width="160" height="80" /></a>
                         </div>
                     </div>
+              <div class=" col-5 col-md-4 col-xl-3 text-center">
+                        <div class="rounded colla-img text-secondary bg-light px-3 py-3 px-md-4 py-md-4 px-lg-8 py-lg-5">
+                            <a href="https://itrust.sutd.edu.sg/" target="_blank"> <img src="images/newui/colla-logo/itrust-logo.png" width="160" height="80" /></a>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </section>

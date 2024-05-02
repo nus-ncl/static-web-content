@@ -1,8 +1,4 @@
 <div layout:fragment="content" id="index">
-<div class="spinner-border text-primary" role="status" id="spinner">
-    <span class="sr-only">Loading...</span>
-</div>
-
     <main >
         <!--========== Home ==========-->
         <section id="home">

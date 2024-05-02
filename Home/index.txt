@@ -1,5 +1,5 @@
 <div layout:fragment="content" id="index">
-  <main >
+    <main >
         <!--========== Home ==========-->
         <section id="home">
             <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -14,7 +14,7 @@
                         <img src="images/newui/home_bg.png" class="bd-placeholder-img" />
                         <div class="container ">
                             <div class="carousel-caption">
-                                 <div class="carousel-content">
+                                <div class="carousel-content">
                                     <div class="text-start">
                                         <div class="carousel-author">National Cybersecurity R&amp;D Lab</div>
                                         <div class="carousel-title">Support's Singapore</div>
@@ -213,7 +213,7 @@
             </div>
         </section>
         <!--========== Our Collaborators ==========-->
-       <!-- <section class="py-3 py-md-5 py-xl-8 f-row-bg" id="collaborators" > -->
+        <!-- <section class="py-3 py-md-5 py-xl-8 f-row-bg" id="collaborators" > -->
         <section class="py-5 py-md-6 py-xl-10 border-top" id="collaborators" >
             <div class="container py-5">
                 <div class="row justify-content-md-center">
@@ -266,9 +266,10 @@
                         </div>
                     </div>
 
-              <div class=" col-5 col-md-4 col-xl-3 text-center">
+                    <div class=" col-5 col-md-4 col-xl-3 text-center">
                         <div class="rounded colla-img text-secondary bg-light px-3 py-3 px-md-4 py-md-4 px-lg-8 py-lg-5">
-                            <a href="https://itrust.sutd.edu.sg/" target="_blank"> <img src="images/newui/colla-logo/itrust-logo.png" width="160" height="80" /></a>
+                            <a href="https://itrust.sutd.edu.sg/" target="_blank">
+                                <img src="images/newui/colla-logo/itrust-logo.png" width="160" height="80" /></a>
                         </div>
                     </div>
 

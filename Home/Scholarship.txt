@@ -52,6 +52,7 @@
                     <li><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank"><u>Master of Computing</u></a> (Computer Science Specialisation) and working on either a dissertation, or a 2-semester project related to cybersecurity.</li>
                     <li><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank"><u>Master of Computing</u></a> (Infocomm Security Specialisation).</li>
  <li><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank"><u>Master of Computing</u></a> (Artificial Intelligence Specialisation) and working on either a dissertation, or a 2-semester project related to cybersecurity.</li>
+ <li><a href="https://www.comp.nus.edu.sg/programmes/pg/mis/" target="_blank"><u>Master of Computing</u></a> (Information Systems Specialisation) </li>
                     <li>Master programmes (by Research) from Faculty of Science, Faculty of Engineering and School of Computing with dissertation focused on cybersecurity.</li>
                 </ul>
                 <p>&nbsp;</p>

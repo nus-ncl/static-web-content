@@ -65,7 +65,7 @@
                 <ul><li> <p>Applicants who have accepted offer from the respective Master programme indicate their interest by contacting us via email.</p></li></ul>
 
                 <p>&nbsp;</p>
-                <p>For enquiries on the NCLS, please email <a href="mailto:aad.dcs@nus.edu.sg">aad.dcs@nus.edu.sg</a> or <a href="mailto:kalaivani@nus.edu.sg">kalaivani@nus.edu.sg</a> [Subject: Enquiry on NCLS]</p>
+                <p>For enquiries on the NCLS, please email <a href="mailto:aad.dcs@nus.edu.sg">aad.dcs@nus.edu.sg</a> or <a href="mailto:kalaivani@nus.edu.sg">kalaivani@nus.edu.sg</a> [Subject: Enquiry on NCLS].</p>
 
             </div>
         </div>

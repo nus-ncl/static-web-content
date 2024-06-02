@@ -1,0 +1,111 @@
+<div layout:fragment="content" id="scholarship">
+  <main id="main" >
+            <section class="py-4 py-md-5 py-xl-6"  style="background-color:#012169">
+                <div class="container " style="margin-top:5.5rem;">
+                    <div class="row ">
+                        <div class="col-12 col-md-10 col-lg-9 col-xl-8 col-xxl-8">
+                            <p  style="color:#fff; font-size:26px;" >
+                                CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="py-3 py-md-4 py-xl-5 bg-light">
+                <div class="container overflow-hidden mt-3">
+                <div class="col-12 ">
+                    <h2 class="train-sch-text mb-2">OVERVIEW</h2>
+                    <p>The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims
+                        to drive and support the development of professionals in Singapore’s
+                        cybersecurity sector and support the National Cybersecurity R&amp;D Lab (NCL) initiative.
+                        This scholarship (funded by the <a href="https://www.csa.gov.sg/">
+                            Cyber Security Agency of Singapore (CSA)</a>)
+                        will be awarded to qualified students who are enrolled in NUS' Master’s
+                        programmes focusing on cybersecurity.</p>
+                    <p>&nbsp;</p>
+                    <h2 class="train-sch-text mb-2">ELIGIBILITY</h2>
+                    <p>This scholarship is open to students who:</p>
+                    <ul>
+                        <li class="train-sch-li">Are Singaporeans or Singapore Permanent Residents.</li>
+                        <li class="train-sch-li">Are admitted into NUS Masters programme with emphasis on cybersecurity (full-time or part-time).</li>
+                    </ul>
+                    <p>&nbsp;</p>
+                    <h2 class="train-sch-text mb-2">BENEFITS OF NCLS PROGRAMME</h2>
+                    <ul>
+                        <li class="train-sch-li">Tuition fees (after MOE Tuition Fee Grant) of NUS Master of Computing or related course programme.</li>
+                        <li class="train-sch-li">Full-time students are eligible for monthly stipends capped at 18 months. The monthly stipend amount is $3500 for Singapore Citizens and $2700 for Singapore Permanent Residents.</li>
+                        <li class="train-sch-li">A project grant of $5,000 to the academic supervisors of the students’ cybersecurity projects or dissertations.</li>
+                    </ul>
+                    <p>&nbsp;</p>
+
+                    <h2 class="train-sch-text mb-2">CONDITIONS OF NCLS</h2>
+                    <p>Students who are awarded the scholarship must:</p>
+                    <ul>
+                        <li class="train-sch-li">Maintain their Cumulative Average Point (CAP) at average 4.0 and have good academic standing.</li>
+                        <li class="train-sch-li">Post-graduation, be employed at NCL for a period of at least 1 year,
+                            or embark on their PhD studies in a Singapore University,
+                            or be employed in Singapore’s cybersecurity industry for at least 1 year.
+                        </li>
+                    </ul>
+                    <p>&nbsp;</p>
+                    <h2 class="train-sch-text mb-2">ELIGIBLE NUS MASTER’S PROGRAMMES</h2>
+                    <ul>
+                        <li class="train-sch-li">
+                            <a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank">
+                                <u>Master of Computing</u>
+                                </a> (General Track) and working on either a dissertation, or a
+                                2-semester project related to cybersecurity.
+                        </li>
+                        <li class="train-sch-li">
+                            <a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank">
+                                <u>Master of Computing</u>
+                            </a>
+                            (Computer Science Specialisation) and working on either a dissertation,
+                            or a 2-semester project related to cybersecurity.
+                        </li>
+                        <li class="train-sch-li"><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank">
+                            <u>Master of Computing</u>
+                        </a> (Infocomm Security Specialisation).
+                        </li>
+                        <li class="train-sch-li"><a href="https://www.comp.nus.edu.sg/programmes/#mcomp_spln" target="_blank">
+                            <u>Master of Computing</u>
+                        </a>
+                            (Artificial Intelligence Specialisation) and working on either a dissertation,
+                            or a 2-semester project related to cybersecurity.
+                        </li>
+                        <li class="train-sch-li"><a href="https://www.comp.nus.edu.sg/programmes/pg/mis/" target="_blank">
+                            <u>Master of Computing</u>
+                        </a> (Information Systems Specialisation). </li>
+                        <li>Master programmes (by Research) from Faculty of Science,
+                            Faculty of Engineering and School of Computing with dissertation focused on cybersecurity.
+                        </li>
+                    </ul>
+                    <p>&nbsp;</p>
+
+                    <h2 class="train-sch-text mb-2">APPLICATION PROCESS (For Master by Coursework)</h2>
+                    <ul>
+                        <li class="train-sch-li">
+                            <p>
+                                Application is by invitation. Eligible students will
+                                receive email invitation after they accepted offer
+                                from the respective Master of Computing programme.
+                            </p></li></ul>
+
+                    <p>&nbsp;</p>
+                    <h2 class="train-sch-text mb-2">APPLICATION PROCESS (For Master by Research)</h2>
+                    <ul><li class="train-sch-li">
+                        <p>Applicants who have accepted offer from
+                            the respective Master programme indicate
+                            their interest by contacting us via email.
+                        </p></li></ul>
+
+                    <p>&nbsp;</p>
+                    <p>For enquiries on the NCLS, please email
+                        <a href="mailto:aad.dcs@nus.edu.sg">aad.dcs@nus.edu.sg</a>
+                        or
+                        <a href="mailto:kalaivani@nus.edu.sg">kalaivani@nus.edu.sg</a> [Subject: Enquiry on NCLS].</p>
+
+                </div>
+            </div>
+            </section>
+        </main>
+</div>

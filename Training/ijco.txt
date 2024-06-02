@@ -1,0 +1,59 @@
+<div layout:fragment="content" id="ijco">
+<main id="main" class="mb-5">
+        <section class="py-4 py-md-5 py-xl-6"   style="background-color:#012169">
+            <div class="container " style="margin-top:5.5rem;">
+                <div class="row ">
+                    <div class="col-8">
+                        <p  style="color:#fff; font-size:26px;" >
+                            International Junior Cybersecurity Olympiad 2023 CTF Competition
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="py-3 py-md-4 py-xl-5 bg-light">
+            <div class="container">
+                <div class="col-12 ">
+                    <h2 class="train-sch-text mb-3">OVERVIEW</h2>
+                    <p>
+                        The <b>National Cybersecurity R&amp;D Lab (NCL)</b> supported
+                        the <b>STEAM AHEAD Global Finals 2023</b> (7-11 Dec 2023),
+                        organized by the <b>Singapore International Mastery Contests Centre (SIMCC)</b> in
+                        <b>Bali, Indonesia</b>. The event aimed to provide students with international exposure
+                        and education in the fields of Science,
+                        Technology, Engineering, Arts, and Mathematics (STEAM).
+                        The STEAM AHEAD Global Finals 2023 featured three categories,
+                        and NCL co-organized the <b>“International Junior Cybersecurity Olympiad 2023 CTF competition”</b>,
+                        collaborating with the NUS Centre for Nurturing Computer Excellence.
+                        <b>Notably, Professor Chang Ee Chien and Liu Yuancheng from NCL were honored
+                            to serve as judges for the International Junior Cybersecurity Olympiad 2023 CTF competition</b>.
+                    </p>
+                    <div  class="text-center mb-5 mt-5" >
+                        <img src="images/newui/ijco01.jpeg"  class="img-fluid" alt="Responsive image" />
+                    </div>
+                    <p>
+                        Prior to the Bali event, NCL conducted four cybersecurity training sessions
+                        and a pre-training session before the competition.
+                        These sessions covered a wide range of concepts,
+                        incorporating Multiple-Choice Questions (MCQs) presented in the form of riddles and puzzles,
+                        scenario-based questions on cyber incidents,
+                        and a meaningful storyline with quests to captivate the participating students.
+                        The training sessions also emphasized a higher points weightage assigned
+                        to more complex scenarios, ensuring a challenging learning environment.
+                    </p>
+                    <div  class="text-center mb-5 mt-5" >
+                        <img src="images/newui/ijco02.jpeg"  class="img-fluid" alt="Responsive image" />
+                    </div>
+                    <p>
+                        NCL set up the CTF challenges for the competition.
+                        The challenges spanned a diverse range of topics,
+                        including forensics and cryptography, to test and enhance participants'
+                        skills in various cybersecurity domains.
+                        The challenges added an extra layer of excitement to the competition
+                        but emphasized the importance of practical knowledge in the field of cybersecurity.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>

@@ -121,26 +121,7 @@
                </div>
            </section>
        </main>
-        <script type="text/javascript">
-               document.addEventListener('DOMContentLoaded', function() {
-               const cidexyearFilter = document.getElementById('cidexyearFilter');
-               const sections = document.querySelectorAll('section.event-cidex');
 
-               function showSelectedSection() {
-                   const selectedYear = cidexyearFilter.value;
-                   sections.forEach(section => {
-                       if (section.id === selectedYear) {
-                           section.style.display = 'block';
-                       } else {
-                           section.style.display = 'none';
-                       }
-                   });
-               }
-
-               cidexyearFilter.addEventListener('change', showSelectedSection);
-
-               // Initialize by showing the section corresponding to the default selected option
-               showSelectedSection();
-           });
-           </script>
 </div>
+
+

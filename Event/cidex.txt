@@ -122,7 +122,7 @@
            </section>
        </main>
         <script type="text/javascript">
-                 document.addEventListener('DOMContentLoaded', function() {
+               document.addEventListener('DOMContentLoaded', function() {
                const cidexyearFilter = document.getElementById('cidexyearFilter');
                const sections = document.querySelectorAll('section.event-cidex');
 

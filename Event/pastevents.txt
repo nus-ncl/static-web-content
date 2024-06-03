@@ -102,19 +102,14 @@
                         </div>
                     </div>
                     <div class="home-event-info event-bg-white">
-                        <a href="#"
-                           onclick="showModal('MoU - NCL and CyberXCenter Pte Ltd and Tegasus International Pte Ltd',
-                           'National Cybersecurity R&amp;D Lab (NCL) has signed a Memorandum of Understanding (MoU)
-                           with CyberXCenter and Tegasus INTERNATIONAL
-                            on the 1st of September 2022.&lt;br/&gt;&lt;br/&gt;
-                            The purpose of this MOU is to deepen and strengthen the strategic partnership
-                            between the Parties to provide effective capability-building,
-                            technical assistance, and support to developing the new cyber exercise capabilities,
-                            new tools to support cyber exercise activities and new research areas in
-                            deepening the understanding of OT cyber security.',
-                           'images/newui/mou-ncl-cyx-teg.jpg')" >
-                            MoU - NCL and CyberXCenter Pte Ltd and Tegasus International Pte Ltd
-                        </a>
+
+                        <a href="#" data-title="MoU - NCL and CyberXCenter Pte Ltd and Tegasus International Pte Ltd"
+                               data-content="National Cybersecurity R&amp;D Lab (NCL) has signed a Memorandum of Understanding (MoU)
+                               with CyberXCenter and Tegasus INTERNATIONAL
+                               on the 1st of September 2022.&lt;br/&gt;&lt;br/&gt;"
+                               data-image="images/newui/mou-ncl-cyx-teg.jpg">
+                                MoU - NCL and CyberXCenter Pte Ltd and Tegasus International Pte Ltd
+                            </a>
                     </div>
                 </div>
             </div>

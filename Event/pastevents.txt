@@ -101,7 +101,7 @@
                             <div class="fs-6 ps-2 text-uppercase">SEP</div>
                         </div>
                     </div>
-                    <div class="home-event-info event-bg-white">
+                    <div class="home-event-info event-modal event-bg-white">
 
                         <a href="#" data-title="MoU - NCL and CyberXCenter Pte Ltd and Tegasus International Pte Ltd"
                                data-content="National Cybersecurity R&amp;D Lab (NCL) has signed a Memorandum of Understanding (MoU)

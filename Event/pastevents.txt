@@ -788,6 +788,20 @@
             </div>
         </div>
     </div>
+    <script type="text/javascript">
+    function showModal(title, content, image) {
+        var eventModal = document.getElementById('eventDtlModal');
+        var modalTitle = eventModal.querySelector('.modal-title');
+        var modalBodyInput = eventModal.querySelector('.modal-body p');
+        var modalImage = eventModal.querySelector('.modal-body img')
+
+        modalTitle.textContent = title;
+        modalBodyInput.innerHTML = content;
+        modalImage.src = image;
+        $('#eventDtlModal').modal('show');
+
+    }
+    </script>
 
 </main>
 </div>

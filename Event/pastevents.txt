@@ -447,9 +447,7 @@
                            data-contnet="NCL is expanding its compute cluster to about 200 physical servers,
                            with a few high-end servers and GPU servers. &lt;br/&gt;
                            Users can run larger scale experiments, or experiments with special hardware requirements
-                           like GPU. &lt;br/&gt;
-                         It strengthens NCL\'s support to the local cybersecurity R&amp;D community.
-                         The new servers will be ready by this year end."
+                           like GPU. &lt;br/&gt;It strengthens NCL's support to the local cybersecurity R&amp;D community.The new servers will be ready by this year end."
                            data-image="images/newui/serverphoto.png"
                            >
                             More new servers arrive<br/><br/>

@@ -444,7 +444,7 @@
                     <div class="home-event-info event-modal event-bg-white">
                         <a href="#"
                            data-title="More new servers arrive"
-                           data-contnet="NCL is expanding its compute cluster to about 200 physical servers,
+                           data-content="NCL is expanding its compute cluster to about 200 physical servers,
                            with a few high-end servers and GPU servers. &lt;br/&gt;
                            Users can run larger scale experiments, or experiments with special hardware requirements
                            like GPU. &lt;br/&gt;It strengthens NCL's support to the local cybersecurity R&amp;D community.The new servers will be ready by this year end."

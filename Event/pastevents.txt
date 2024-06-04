@@ -531,11 +531,11 @@
                             This joint event aims to bring together representatives from Consortium member companies,
                             researchers and students in IHLs, RIs, government agencies as well as
                             NCL users to share and showcase recent cybersecurity research work and projects.
-                            &lt;br/&gt;Associate Professor Liang Zhenkai, one of the lead-PI\'s of NCL,
-                            was invited to give a talk titled &lt;b&gt;\'WannaCry Ransomware Analysis in NCL\'s
-                            Environment &amp; Demo\'&lt;/b&gt;. &lt;br/&gt;Prof Liang gave a comprehensive introduction to NCL and,
+                            &lt;br/&gt;Associate Professor Liang Zhenkai, one of the lead-PI's of NCL,
+                            was invited to give a talk titled &lt;b&gt;'WannaCry Ransomware Analysis in NCL's
+                            Environment &amp; Demo'&lt;/b&gt;. &lt;br/&gt;Prof Liang gave a comprehensive introduction to NCL and,
                             using the WannaCry ransomware as an example, demonstrated how NCL testbed could be used to simplify
-                            and facilitate researchers\' experimentation effort.&lt;br/&gt;
+                            and facilitate researchers' experimentation effort.&lt;br/&gt;
                             Following that, Dr. Zhang Chunwang, Programme Manager of NCL, gave an update on
                             the new capabilities and features available on the NCL testbed,
                             including vulnerability environment platform, virtual enterprise networking environment and

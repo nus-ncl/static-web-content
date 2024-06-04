@@ -73,7 +73,7 @@
                         </div>
                     </div>
                     <div class="home-event-info event-bg-white">
-                        <a href="https://ncl.sg/scholarship.html" target="new">
+                        <a href="/scholarship" th:href="@{/scholarship}" th: target="new">
                             CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS)
                         </a>
                     </div>

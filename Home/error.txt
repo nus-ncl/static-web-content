@@ -5,7 +5,7 @@
 			<div class="col-12">
 				<div class="text-center">
 					<img  class="mx-auto d-block mb-4"
-						 src="images/error-img1.png" th:src="@{~/images/newui/error-img.png}" width="200" height="250"/>
+						 src="images/newui/error-img.png" th:src="@{~/images/newui/error-img.png}" width="200" height="250"/>
 					<h3 class="h2 mb-2">Oops! You're lost.</h3>
 					<p class="mb-5">The page you are looking for was not found.</p>
 					<a class="btn bsb-btn-5xl btn-dark rounded-pill px-5 fs-6 m-0" href="/" th:href="@{/}" role="button">Back to Home</a>

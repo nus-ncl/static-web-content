@@ -649,7 +649,7 @@
                             <div class="fs-6 ps-2 text-uppercase">OCT</div>
                         </div>
                     </div>
-                    <div class="home-event-info event-modal event-bg-white ">
+                    <div class="home-event-info event-modal event-bg-white">
                         <a href="#"
                            data-title="User Forum for Cybersecurity R&amp;D Testbeds"
                            data-content="In collaboration with our partner from the United States,
@@ -659,8 +659,8 @@
                            speaker for this user forum. At the forum, participants are introduced to
                            ISI DeterLab and concept of cyber ranges.
                            They also get to interact with the team over from ISI."
-                           data-image"images/newui/uforum.jpg"
-                            >
+                           data-image="images/newui/uforum.jpg"
+                           >
 
                             User Forum for Cybersecurity R&amp;D Testbeds
                         </a>
@@ -685,7 +685,7 @@
                              as well as collaborations with government agencies, industries and academia.
                               In particular, he was very interested in our collaboration with USC ISI team
                               and commented on the good work we have been doing towards future testbeds."
-                           data-imge="images/newui/dhs.png"
+                           data-image="images/newui/dhs.png"
                         >
                             Visit by Director DHS (S&amp;T)<br/><br/>
                         </a>

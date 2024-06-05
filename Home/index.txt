@@ -70,7 +70,7 @@
         </section>
         <!--========== What We Do ==========-->
         <section class="py-5 row-bg wwd-section" id="whatwedo">
-            <div class="container wwd-section-t py-5">
+            <div class="wwd-section-t py-5">
                 <div class="row justify-content-md-center">
                     <div class="col-12 col-md-10 col-lg-8 col-xl-7">
                         <h3 class="fs-3 mb-2 text-center  wwd-title" >What We Do</h3>

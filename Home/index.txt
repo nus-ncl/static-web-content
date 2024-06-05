@@ -40,41 +40,37 @@
             </div>
         </section>
         <!--========== About ==========-->
-        <section class="py-5 " id="about" >
+        <section class="py-5 about-section" id="about" >
             <div class="container py-5" >
                 <div class="row gy-3 gy-md-4 gy-lg-0 align-items-lg-center">
                     <div class="col-12 col-lg-6 col-xl-6">
                         <div class="row justify-content-xl-center">
                             <div class="col-12 col-xl-11">
                                 <h2 class="mb-3 about-new-title">About Us</h2>
-                                <p class="lead fs-5 text-secondary mb-2 about-des">NCL’s Cybersecurity Compute Infrastructure (CCI) offers over 300 nodes and a range of security data and services,
-                                    providing a collaborative research platform for academia, government and industry.</p>
-                                <p class="mb-5">We offers a realistic , safe environment for testing and validating system before production deployment.</p>
-
-                                <h2 class="mb-3 about-new-title ">Our Mission</h2>
-
-                                <p class="lead fs-5 text-secondary mb-2 about-des">Our mission is to be a Central Hub for CyberSecurity R&amp;D,
-                                    facilitating the growth of the ecosystem in Singapore and
-                                    supporting the local research community with their experimentation and testings needs.</p>
-
+                                <p class="about-des lead fs-5 mb-2">NCL’s Cybersecurity Compute Infrastructure (CCI) offers over 300 nodes and a range of security data and services,
+                                    providing a collaborative research platform for academia, government and industry.
+                                    We offers a realistic , safe environment for testing and validating system before production deployment.</p>
                             </div>
                         </div>
                     </div>
-
                     <div class="col-12 col-lg-6 col-xl-6">
-                        <div class="ratio ratio-4x3 about-ncl-vd">
-                            <iframe src="https://player.vimeo.com/video/206349173?autoplay=1&amp;loop=1&amp;autopause=0&amp;title=0&amp;byline=0&amp;portrait=0"
-                                    frameborder="0" allow="autoplay"  allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"
-                                    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+                        <div class="row justify-content-xl-center">
+                            <div class="col-12 col-xl-11">
+                                <h2 class="mb-3 about-new-title">Our Mission</h2>
 
+                                <p class="about-des lead fs-5 mb-2">Our mission is to be a Central Hub for CyberSecurity R&amp;D,
+                                    facilitating the growth of the ecosystem in Singapore and
+                                    supporting the local research community with their experimentation and testings needs.<br/><br/></p>
+
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!--========== What We Do ==========-->
-        <section class="py-5 row-bg " id="whatwedo">
-            <div class="container py-5 row-mg">
+        <section class="py-5 row-bg wwd-section" id="whatwedo">
+            <div class="container wwd-section-t py-5">
                 <div class="row justify-content-md-center">
                     <div class="col-12 col-md-10 col-lg-8 col-xl-7">
                         <h3 class="fs-3 mb-2 text-center  wwd-title" >What We Do</h3>
@@ -82,55 +78,133 @@
                     </div>
                 </div>
             </div>
+            <div class="container wwd-section-sec">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="container-fluid bsb-service-8 bsb-overlay ">
+                            <div class="row justify-content-lg-around align-items-md-center">
+                                <div class="col-12 col-lg-4">
+                                    <div class="card border-0 bg-transparent text-center">
+                                        <div class="card-body text-center">
+                                            <img src="images/newui/tservice.png" width="80" height="80"  />
+                                            <h4 class="text-shadow-head mb-4 wwd-card-title">Services</h4>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                        <span class="wwd-card-ch">
+                                                            <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                        </span>
+                                                        <span style="margin-left:5px;" >Cyber-Range</span>
+                                                    </li>
 
-            <div class="wwd-section container row-mg " >
-                <div class=" row justify-content-md-center " >
-                    <div class="col-11">
-                        <div class="container-fluid shadow row-bg container-fluid-mg">
-                            <div class="row justify-content-md-center">
-                                <div class="col-11 col-md-4 p-0">
-                                    <div class="card border-0 bg-transparent">
-                                        <div class="card-body text-center p-3">
-                                            <img src="images/newui/tservice.png" width="80" height="80" class ="wwd-card-img" />
-                                            <h2 class="fw-bold fs-6 text-uppercase text-center mb-3 wwd-card-title">Services</h2>
-                                            <p class="mb-3 text-secondary">
-                                            <ul style="text-align: center; " class="wwd-card-des">
-                                                <li>Cyber-Range</li>
-                                                <li>Traffic generation service</li>
-                                            </ul>
-                                            </p>
+                                                </ul>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">Traffic Generation Service</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-12 col-lg-4">
+                                    <div class="card border-0 bg-transparent text-center">
+                                        <div class="card-body text-center ">
+                                            <img src="images/newui/netdia.png" width="80" height="80"  />
+                                            <h4 class="text-shadow-head mb-4 wwd-card-title">Infrastructure</h4>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                        <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                        </span>
+                                                        <span style="margin-left:5px;">GPU Specification</span>
+                                                    </li>
 
-                                <div class="col-11 col-md-4 p-0 ">
-                                    <div class="card border-0 bg-transparent">
-                                        <div class="card-body text-center  p3">
-                                            <img src="images/newui/netdia.png" width="80" height="80" class ="wwd-card-img" />
-                                            <h2 class="fw-bold fs-6 text-uppercase text-center mb-3 wwd-card-title">Infrastructure</h2>
-                                            <p class="mb-3 text-secondary">
-                                            <ul style="text-align: center; " class="wwd-card-des">
-                                                <li>GPU Specification</li>
-                                                <li>Node Specification</li>
-                                                <li>Openstack Provisioning System</li>
-                                                <li>SCION Network</li>
-                                                <li>Customized Computing Architecture </li>
-                                            </ul>
-                                            </p>
+                                                </ul>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">Node Specification</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">SCION Network</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">Openstack Provisioning System</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">Customized Computing Architecture</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-11 col-md-4 p-0">
-                                    <div class="card border-0 bg-transparent">
-                                        <div class="card-body text-center  p-3">
-                                            <img src="images/newui/cyber.png" width="80" height="80" class ="wwd-card-img" />
-                                            <h2 class="fw-bold fs-6 text-uppercase mb-3 wwd-card-title">Training</h2>
-                                            <div style="text-align: center;">
-                                                <ul style="text-align: center;" class="wwd-card-des">
-                                                    <li>DFIR Related</li>
-                                                    <li>Capture-the-Flag</li>
-                                                    <li>Cyber Exercise</li>
+                                <div class="col-12 col-lg-4">
+                                    <div class="card border-0 bg-transparent text-center">
+                                        <div class="card-body text-center">
+                                            <img src="images/newui/cyber.png" width="70" height="70" class="mb-1"  />
+                                            <h4 class="text-shadow-head mb-4 wwd-card-title">Training</h4>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;"> DFIR Related</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">Cyber Exercise</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                                        <span style="margin-left:5px;">Capture-the-Flag</span>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -142,6 +216,7 @@
                 </div>
             </div>
         </section>
+
         <!--========== Our Team ==========-->
         <section class="py-3 py-md-5 team-body " id="ourteam">
             <div class="container text-center py-5 ">
@@ -220,7 +295,7 @@
                     <div class="col-12 ">
                         <h2 class="fs-3 mb-4 colla-title display-5  text-center">Our Collaborators</h2>
                         <div class="line"></div>
-                        <p class="fs-10 colla-subtitle  mb-5 text-center">
+                        <p class="fs-9 colla-subtitle lead mb-5 text-center">
                             We partner with other institutions of higher learning and scientific computing facilities
                             to deliver myriad opportunities for our clients, students, faculty, partners,
                             and staff. Collaborations cover the areas of developing and providing

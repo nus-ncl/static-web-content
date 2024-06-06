@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="col-12 ">
                     <h2 class="train-sch-text mb-3">Locked Shields 2023</h2>
-                    <p>
+                    <p class="cidex-p-text">
                         The <b>National Cybersecurity R&amp;D Laboratory (NCL)</b> participated
                         in <b>Locked Shields 2023</b>, which took place in Estonia from April 18 to 21, 2023.
                         Locked Shields 2023 is the <b>world's largest live-fire cyber defense exercise</b>
@@ -49,7 +49,7 @@
                         creating more than <b>5,500 virtual systems</b> for its purpose.
                     </p>
 
-                    <p>
+                    <p class="cidex-p-text">
                         Locked Shield enables cybersecurity experts to enhance their skills in defending
                         national IT systems and critical infrastructure under real-time attacks.
                         The focus is on realistic scenarios, cutting-edge technologies,
@@ -60,7 +60,7 @@
                         <img src="images/newui/ls2023.png" class="img-fluid" alt="Responsive image"  />
                     </div>
 
-                    <p>
+                    <p class="cidex-p-text">
                         <b>Mr. Heng Chee How, the Senior Minister of State for Defence, and Dr. Janil Puthucheary,
                             the Senior Minister of State for Communications and Information and Health,</b>
                         attended the Critical Infrastructure Defence Exercise (CIDeX)
@@ -71,21 +71,21 @@
                         that control the operations of critical infrastructure.
                     </p>
 
-                    <p>
+                    <p class="cidex-p-text">
                         The team, consisting of <b>Ivan, Felix, and Niklaus,</b> is part of the <b>Green Team DFIR (Digital Forensic and Incident Response)</b>.
                         As part of their responsibilities, NCL is responsible for crafting an attack scenario on an enterprise network,
                         building up the networks and servers, and generating the digital forensic evidence files
                         to be used in the exercise. The NCL team is part of the Singapore contingent together
                         with participants from iTrust SUTD and Ministry of Defence.
                     </p>
-                    <p>
+                    <p class="cidex-p-text">
                         During the exercise, the team in Tallinn, Estonia, is responsible
                         for responding to and providing guidance to 24 international
                         teams on queries related to the evidence generated.
                         The exercise is designed to test the teams' ability to identify
                         and respond to cyberattacks, using a simulated enterprise network environment.
                     </p>
-                    <p class="mb-5">
+                    <p class="class="cidex-p-text" mb-5">
                         Locked Shields 2023 is an excellent opportunity for cybersecurity professionals
                         to showcase their skills and knowledge,
                         as well as to learn from their peers.

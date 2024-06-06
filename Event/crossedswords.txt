@@ -13,8 +13,8 @@
     <section class="py-3 py-md-4 py-xl-5 bg-light">
         <div class="container">
             <div class="col-12 ">
-                <h2 class="train-sch-text mb-2">OVERVIEW</h2>
-                <p>
+                <h2 class="train-sch-text mb-3">OVERVIEW</h2>
+                <p class="cidex-p-text">
                     The National Cybersecurity R&amp;D Laboratory (NCL) participated in Crossed Swords 2023,
                     which took place in Estonia from December 11 to 14, 2023. Crossed Swords 23 (XS23)
                     is an exercise designed to train the cyber specialists
@@ -24,7 +24,7 @@
                     <div  class="text-center mb-5 mt-5" >
                         <img src="images/newui/lockedshield.jpg"  class="img-fluid" alt="Responsive image" />
                     </div>
-                <p>
+                <p class="cidex-p-text">
                     NATO CCDCOE has been organizing the exercise since 2016 and the first red teaming workshop
                     was conducted in 2014. Starting in 2019,
                     the exercise included a designated cyber command element in its training.
@@ -39,7 +39,7 @@
                     The exercise is co-organized by the NATO CCDCOE and its partners.
                     The exercise benefits considerably from having academia and industry partners in developing exercise.
                 </p>
-                <p>
+                <p class="cidex-p-text">
                     NCL supported Cross Sword 2023 with an in house-built Operation Technology system
                     that simulated a Rail system with multiple sensors and signals.
                     Trains moved along virtual tracks lines with sensors and respond to the various

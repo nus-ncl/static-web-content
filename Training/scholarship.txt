@@ -14,7 +14,7 @@
                 <div class="container overflow-hidden mt-3">
                 <div class="col-12 ">
                     <h2 class="train-sch-text mb-2">OVERVIEW</h2>
-                    <p>The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims
+                    <p class="ijco-p-text">The CSA-National Cybersecurity R&amp;D Lab Scholarship (NCLS) aims
                         to drive and support the development of professionals in Singapore’s
                         cybersecurity sector and support the National Cybersecurity R&amp;D Lab (NCL) initiative.
                         This scholarship (funded by the <a href="https://www.csa.gov.sg/">
@@ -23,7 +23,7 @@
                         programmes focusing on cybersecurity.</p>
                     <p>&nbsp;</p>
                     <h2 class="train-sch-text mb-2">ELIGIBILITY</h2>
-                    <p>This scholarship is open to students who:</p>
+                    <p class="ijco-p-text">This scholarship is open to students who:</p>
                     <ul>
                         <li class="train-sch-li">Are Singaporeans or Singapore Permanent Residents.</li>
                         <li class="train-sch-li">Are admitted into NUS Masters programme with emphasis on cybersecurity (full-time or part-time).</li>
@@ -38,7 +38,7 @@
                     <p>&nbsp;</p>
 
                     <h2 class="train-sch-text mb-2">CONDITIONS OF NCLS</h2>
-                    <p>Students who are awarded the scholarship must:</p>
+                    <p class="ijco-p-text">Students who are awarded the scholarship must:</p>
                     <ul>
                         <li class="train-sch-li">Maintain their Cumulative Average Point (CAP) at average 4.0 and have good academic standing.</li>
                         <li class="train-sch-li">Post-graduation, be employed at NCL for a period of at least 1 year,
@@ -93,13 +93,13 @@
                     <p>&nbsp;</p>
                     <h2 class="train-sch-text mb-2">APPLICATION PROCESS (For Master by Research)</h2>
                     <ul><li class="train-sch-li">
-                        <p>Applicants who have accepted offer from
+                        <p class="ijco-p-text">Applicants who have accepted offer from
                             the respective Master programme indicate
                             their interest by contacting us via email.
                         </p></li></ul>
 
                     <p>&nbsp;</p>
-                    <p>For enquiries on the NCLS, please email
+                    <p class="ijco-p-text">For enquiries on the NCLS, please email
                         <a href="mailto:aad.dcs@nus.edu.sg">aad.dcs@nus.edu.sg</a>
                         or
                         <a href="mailto:kalaivani@nus.edu.sg">kalaivani@nus.edu.sg</a> [Subject: Enquiry on NCLS].</p>

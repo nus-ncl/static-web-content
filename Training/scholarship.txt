@@ -24,13 +24,13 @@
                     <p>&nbsp;</p>
                     <h2 class="train-sch-text mb-2">ELIGIBILITY</h2>
                     <p class="ijco-p-text">This scholarship is open to students who:</p>
-                    <ul>
+                    <ul >
                         <li class="train-sch-li">Are Singaporeans or Singapore Permanent Residents.</li>
                         <li class="train-sch-li">Are admitted into NUS Masters programme with emphasis on cybersecurity (full-time or part-time).</li>
                     </ul>
                     <p>&nbsp;</p>
                     <h2 class="train-sch-text mb-2">BENEFITS OF NCLS PROGRAMME</h2>
-                    <ul>
+                    <ul >
                         <li class="train-sch-li">Tuition fees (after MOE Tuition Fee Grant) of NUS Master of Computing or related course programme.</li>
                         <li class="train-sch-li">Full-time students are eligible for monthly stipends capped at 18 months. The monthly stipend amount is $3500 for Singapore Citizens and $2700 for Singapore Permanent Residents.</li>
                         <li class="train-sch-li">A project grant of $5,000 to the academic supervisors of the students’ cybersecurity projects or dissertations.</li>
@@ -39,7 +39,7 @@
 
                     <h2 class="train-sch-text mb-2">CONDITIONS OF NCLS</h2>
                     <p class="ijco-p-text">Students who are awarded the scholarship must:</p>
-                    <ul>
+                    <ul class="ijco-p-text">
                         <li class="train-sch-li">Maintain their Cumulative Average Point (CAP) at average 4.0 and have good academic standing.</li>
                         <li class="train-sch-li">Post-graduation, be employed at NCL for a period of at least 1 year,
                             or embark on their PhD studies in a Singapore University,

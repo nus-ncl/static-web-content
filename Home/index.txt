@@ -1,5 +1,5 @@
 <div layout:fragment="content" id="index">
-    <main >
+ <main >
         <!--========== Home ==========-->
         <section id="home">
             <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -69,150 +69,146 @@
             </div>
         </section>
         <!--========== What We Do ==========-->
-        <section class="py-5 row-bg wwd-section" id="whatwedo">
-            <div class="wwd-section-t py-5">
+        <section class="py-5  wwd-section" id="whatwedo" style="background-color:#012169;">
+            <div class="container wwd-section-t" style="margin-top:30px;">
                 <div class="row justify-content-md-center">
-                    <div class="col-12 col-md-10 col-lg-8 col-xl-7">
-                        <h3 class="fs-3 mb-2 text-center  wwd-title" >What We Do</h3>
+                    <div class="col-12 mb-5 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
+                        <h2 class="mb-4 text-center text-uppercase train-text-white-title" >What We Do</h2>
                         <div class="line"></div>
                     </div>
                 </div>
             </div>
-            <div class="container wwd-section-sec">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="container-fluid bsb-service-8 bsb-overlay ">
-                            <div class="row justify-content-lg-around align-items-md-center">
-                                <div class="col-12 col-lg-4">
-                                    <div class="card border-0 bg-transparent text-center">
-                                        <div class="card-body text-center">
-                                            <img src="images/newui/tservice.png" width="80" height="80"  />
-                                            <h4 class="text-shadow-head mb-4 wwd-card-title">Services</h4>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                        <span class="wwd-card-ch">
-                                                            <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                        </span>
-                                                        <span style="margin-left:5px;" >Cyber-Range</span>
-                                                    </li>
-
-                                                </ul>
-                                            </div>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;">Traffic Generation Service</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-lg-4">
-                                    <div class="card border-0 bg-transparent text-center">
-                                        <div class="card-body text-center ">
-                                            <img src="images/newui/netdia.png" width="80" height="80"  />
-                                            <h4 class="text-shadow-head mb-4 wwd-card-title">Infrastructure</h4>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
+            <div class="container overflow-hidden wwd-section-sec">
+                <div class="row gy-5 gy-md-6 gy-lg-0">
+                    <div class="col-12 col-lg-4">
+                        <div class="text-center">
+                            <h5 class=" m-1 train-text-white-title" >Services</h5>
+                            <div class="d-flex align-items-center justify-content-center mb-3 mx-auto ">
+                                <img class="img-fluid rounded " width="170" height="170" loading="lazy" src="images/newui/services.png" alt="cueicon01" />
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
                                                         <span class="wwd-card-ch">
                                                         <i class="bi bi-check-all" width="24" height="24" ></i>
                                                         </span>
-                                                        <span style="margin-left:5px;">GPU Specification</span>
-                                                    </li>
+                                        <span style="margin-left:5px;" class="wwd-card-des">Cyber-Range</span>
+                                    </li>
 
-                                                </ul>
-                                            </div>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
                                                 <span class="wwd-card-ch">
                                                         <i class="bi bi-check-all" width="24" height="24" ></i>
                                                 </span>
-                                                        <span style="margin-left:5px;">Node Specification</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;">SCION Network</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;">Openstack Provisioning System</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;">Customized Computing Architecture</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-lg-4">
-                                    <div class="card border-0 bg-transparent text-center">
-                                        <div class="card-body text-center">
-                                            <img src="images/newui/cyber.png" width="70" height="70" class="mb-1"  />
-                                            <h4 class="text-shadow-head mb-4 wwd-card-title">Training</h4>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;"> DFIR Related</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;">Cyber Exercise</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="d-flex justify-content-center">
-                                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
-                                                    <li class="d-flex align-items-center justify-content-center text-center">
-                                                <span class="wwd-card-ch">
-                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
-                                                </span>
-                                                        <span style="margin-left:5px;">Capture-the-Flag</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                        <span style="margin-left:5px;">Traffic Generation Service</span>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>
+                    <div class="col-12 col-lg-4">
+                        <div class="text-center">
+                            <h5 class="m-1 train-text-white-title"  >Infrastructure</h5>
+                            <div class="d-flex align-items-center justify-content-center mb-3 mx-auto ">
+                                <img class="img-fluid rounded " width="170" height="170" loading="lazy" src="images/newui/newinfra.png" alt="cueicon2" />
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                        <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                        </span>
+                                        <span style="margin-left:5px;">GPU Specification</span>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;">Node Specification</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;">SCION Network</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;">Openstack Provisioning System</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;">Customized Computing Architecture</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <div class="text-center">
+
+                            <h5 class="m-1 train-text-white-title"  >Training</h5>
+                            <div class="d-flex align-items-center justify-content-center  mb-3 mx-auto ">
+                                <img class="img-fluid rounded " width="170" height="170" loading="lazy" src="images/newui/newtraining.png" alt="cueicon2" />
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;"> DFIR Related</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;">Cyber Exercise</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <ul class="list-unstyled m-0 p-0 d-sm-flex flex-sm-wrap justify-content-center text-center wwd-card-des">
+                                    <li class="d-flex align-items-center justify-content-center text-center">
+                                                <span class="wwd-card-ch">
+                                                        <i class="bi bi-check-all" width="24" height="24" ></i>
+                                                </span>
+                                        <span style="margin-left:5px;">Capture-The-Flag</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </section>
@@ -326,7 +322,7 @@
                     </div>
                     <div class=" col-5 col-md-4 col-xl-3 text-center">
                         <div class="rounded colla-img text-secondary bg-light px-3 py-3 px-md-4 py-md-4 px-lg-8 py-lg-5">
-                            <a href="https://iarcs.illinois.edu/" target="_blank"><img src="images/newui/colla-logo/mindef-logo.png" width="160" height="80" /></a>
+                            <a href="https://www.mindef.gov.sg/web/portal/mindef/home" target="_blank"><img src="images/newui/colla-logo/mindef-logo.png" width="160" height="80" /></a>
                         </div>
                     </div>
                     <div class="col-5 col-md-4 col-xl-3 text-center">
@@ -344,7 +340,7 @@
                     <div class=" col-5 col-md-4 col-xl-3 text-center">
                         <div class="rounded colla-img text-secondary bg-light px-3 py-3 px-md-4 py-md-4 px-lg-8 py-lg-5">
                             <a href="https://itrust.sutd.edu.sg/" target="_blank">
-                                <img src="images/newui/colla-logo/itrust-logo.png" width="160" height="80" /></a>
+                            <img src="images/newui/colla-logo/itrust-logo.png" width="160" height="80" /></a>
                         </div>
                     </div>
 

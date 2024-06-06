@@ -84,7 +84,7 @@
                <div class="container">
                    <div class="col-12 ">
                        <h2 class="train-sch-text mb-2">Critical Infrastructure Defence Exercise (CIDeX) 2022</h2>
-                       <p>
+                       <p class="cidex-p-text">
                            We were thankful and elevated for the opportunity to support and host the inaugural
                            <b>Critical Infrastructure Defence Exercise (CIDeX) 2022</b> from 15 to 16 November
                            at the National University of Singapore (NUS) School of Computing.
@@ -92,7 +92,7 @@
                        <div  class="text-center mb-5 mt-5" >
                            <img src="images/newui/cidex2201.jpeg"  class="img-fluid" alt="Responsive image"  />
                        </div>
-                       <p>
+                       <p class="cidex-p-text">
                            The cyber defence exercise involved over <b><u>100 participants</u></b>
                            from the Digital and Intelligence Service (DIS) and 16 other national agencies across
                            the Critical Information Infrastructure (CII) sectors.
@@ -106,13 +106,13 @@
                                </div>
                        </div>
 
-                       <p>
+                       <p class="cidex-p-text">
                            CIDeX is the largest Operational Technology (OT) Critical Infrastructure defence exercise
                            focused on training and strengthening Whole-Of-Government (WoG)
                            cyber capabilities to detect and tackle cyber security threats to Information Technology (IT)
                            and OT networks that control the operations of critical infrastructure.
                        </p>
-                       <p class="mb-5">
+                       <p class="cidex-p-text mb-5">
                            Read more at: <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/November/16nov22_nr" target="new">
                            https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/November/16nov22_nr</a>
                        <br/>

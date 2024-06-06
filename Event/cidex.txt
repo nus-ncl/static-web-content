@@ -33,7 +33,7 @@
            <section id="2023" class="bg-light event-section event-cidex mb-5" style="display: none;">
                <div class="container">
                    <div class="col-12 ">
-                       <h2 class="train-sch-text mb-2">Critical Infrastructure Defence Exercise (CIDeX) 2023</h2>
+                       <h2 class="train-sch-text mb-3">Critical Infrastructure Defence Exercise (CIDeX) 2023</h2>
                        <p class="cidex-p-text">
                            National Cybersecurity R&amp;D Lab (NCL)
                            had the opportunity to support <b>Critical Infrastructure

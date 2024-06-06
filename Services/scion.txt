@@ -1,0 +1,101 @@
+<div layout:fragment="content" id="scion">
+   <main id="main" >
+        <section class="py-4 py-md-5 py-xl-6"   style="background-color:#012169">
+            <div class="container " style="margin-top:5.5rem;">
+                <div class="row ">
+                    <div class="col-8">
+                        <p  style="color:#fff; font-size:26px;" >
+                            SCION Network: Scalability, Control, and Isolation for Next-Generation Networks
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="py-3 py-md-4 py-xl-5 bg-light">
+            <div class="container">
+                <div class="col-12 ">
+                    <h2 class="train-sch-text mb-3">OVERVIEW</h2>
+                    <p class="train-p-text lead">
+                        The SCION (Scalability, Control, and Isolation on Next-Generation Networks)
+                        architecture represents a groundbreaking approach to internet design.</p>
+                    <p class="train-p-text lead"> SCION’s clean-slate approach is a departure from incremental security patches.
+                        By starting anew, SCION addresses the limitations of the traditional internet infrastructure.
+                        This design choice allows for fundamental security enhancements that are unlikely through gradual changes.
+                    </p>
+                    <br/>
+                    <h2 class="train-sch-text mb-3">Key Features:</h2>
+                    <p class="train-p-text lead "><b>1. Route Control and Failure Isolation:</b>
+                    <ul class="scion-text " style="list-style:disc">
+                    <li class="scion-text " >SCION organizes Autonomous Systems (ASes) into isolation domains, each acting as an independent routing plane.</li>
+                    <li>These isolation domains provide natural isolation against routing failures and misconfigurations.</li>
+                    <li>Endpoints gain strong control over both inbound and outbound traffic.</li>
+                    </ul>
+                    </p>
+                    <p class="train-p-text lead ">
+
+                    <b >2. Explicit Trust Information:</b>
+                    <ul class="scion-text " style="list-style:disc">
+                        <li>SCION ensures meaningful and enforceable trust.</li>
+                        <li>Trust information is embedded in the architecture, allowing secure communication end-to-end.</li>
+                    </ul>
+                    </p>
+                    <p class="train-p-text lead ">
+                    <b >3. Scalable Routing Updates:</b>
+                    <ul class="scion-text" style="list-style:disc">
+                        <li>Isolation domains enable efficient and scalable routing updates with high path freshness.</li>
+                        <li>This results in a robust and resilient network.</li>
+                    </ul>
+
+                    </p>
+                    <p class="train-p-text lead ">
+                    <b >4. Security as an Intrinsic Consequence:</b>
+                    <ul class="scion-text " style="list-style:disc">
+                        <li>SCION’s design inherently provides strong resilience and security properties.</li>
+                        <li>Unlike incremental security patches, SCION’s clean-slate approach achieves a level of security unlikely through gradual changes.
+
+                        </li>
+                        </ul>
+                    </p>
+                    <br/>
+                    <h2 class="train-sch-text mb-3">Efficiency and Path-Aware Communication:</h2>
+                    <p >
+                    <ul class="scion-text " style="list-style:disc">
+                    <li>SCION end hosts construct end-to-end paths using available network path segments.</li>
+                    <li>Embedded cryptographic mechanisms ensure that path construction adheres to route policies set by ISPs and receivers.</li>
+                    <li>Path-aware communication allows all parties—senders, receivers, and ISPs—to make informed path choices.</li>
+                    </ul>
+                    </p>
+                    <br/>
+                    <h2 class="train-sch-text mb-3">Multi-Path Communication:</h2>
+                    <p>
+                    <ul class="scion-text " style="list-style:disc">
+                    <li>SCION supports multi-path communication, offering benefits such as:</li>
+                    <ul class="scion-text" style=" list-style:disc">
+                        <li>High availability</li>
+                        <li>Rapid failover during network failures</li>
+                        <li>Increased end-to-end bandwidth</li>
+                        <li>Dynamic traffic optimization</li>
+                        <li>Resilience against DDoS attacks</li>
+                    </ul>
+                    </ul>
+                    </p> <br/>
+                    <h2 class="train-sch-text mb-3">Why a Clean-Slate Design?</h2>
+                    <p> <ul class="scion-text " style="list-style:disc"><li>
+                    The traditional internet lacks inherent security and high availability.</li>
+                    <li>Incremental improvements address specific attacks but introduce new challenges.</li>
+                    <li>SCION’s clean-slate design allows fundamental security enhancements beyond what incremental changes can achieve.</li>
+                </ul>
+
+                    </p><br/>
+
+                    <h2 class="train-sch-text mb-3">Deployment and Global Reach:</h2>
+                    <p><ul class="scion-text " style="list-style:disc"><li>
+                        SCION is already operational on nodes worldwide.</li>
+                    <li>If you’re interested in setting up your SCION node, feel free to reach out to us!</li>
+                    </ul></p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+</div>

@@ -1,0 +1,138 @@
+<div layout:fragment="content" id="howtoapply">
+<!-- Main -->
+<main id="main">
+    <section class="bg-light" style="margin-top:5.5rem;" >
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6 mt-3">
+                <h2 class="display-8 mt-4 mb-3 mb-md-4 text-center infraserver-title">How To Apply</h2>
+                <hr class="w-30 mx-auto border-dark-subtle line" />
+            </div>
+        </div>
+    </div>
+    </section>
+    <!-- Section - Bootstrap Brain Component -->
+    <section class="bsb-faq-3 pb-3 pb-md-4 pb-xl-5 bg-light">
+        <!-- FAQs: My Account -->
+        <div class="mb-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-11 col-xl-10">
+                        <div class="d-flex align-items-end mb-3">
+                            <i class="bi bi-person-gear me-3 lh-1 display-5 mt-3"></i>
+                            <h3 class=" m-0 howtoapply-title" >Account Registration</h3>
+                        </div>
+                    </div>
+                    <div class="col-11 col-xl-10">
+                        <div class="accordion accordion-flush" id="faqAccount">
+                            <div class="accordion-item bg-transparent border-top border-bottom py-3">
+                                <h2 class="accordion-header" id="faqAccountHeading1">
+                                    <button class="accordion-button
+                                    collapsed bg-transparent howtoapply-subtitle
+                                    shadow-none link-primary"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#faqAccountCollapse1"
+                                            aria-expanded="false"
+                                            aria-controls="faqAccountCollapse1">
+                                        How to register for an NCL member account?
+                                    </button>
+                                </h2>
+                                <div id="faqAccountCollapse1" class="accordion-collapse collapse" aria-labelledby="faqAccountHeading1">
+                                    <div class="accordion-body">
+                                        <ul class="howtoapply-text lead" style="list-style:disc">
+                                            <li>Create a member account,
+                                            visit our website and look for a "Sign Up" under "Account" section.</li>
+                                            <li>Click on "Sign Up" and follow the instructions to enter your information.</li>
+                                            <li>Check your email for a verification message and follow the instructions to verify your account.</li>
+                                            <li>Once your account is verified, you can log in to access the dashboard.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- FAQs: Refunds and Exchanges -->
+        <div class="mb-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-11 col-xl-10">
+                        <div class="d-flex align-items-end mb-3">
+                            <i class="bi bi-database-fill-lock me-3 lh-1 display-5"></i>
+                            <h3 class="m-0 howtoapply-title">Cyberattack Data Repository</h3>
+                        </div>
+                    </div>
+                    <div class="col-11 col-xl-10">
+                        <div class="accordion accordion-flush" id="faqRefund">
+                            <div class="accordion-item bg-transparent border-top border-bottom py-3">
+                                <h2 class="accordion-header" id="faqRefundHeading1">
+                                    <button class="accordion-button collapsed bg-transparent
+                                    howtoapply-subtitle shadow-none link-primary" type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#faqRefundCollapse1"
+                                            aria-expanded="false" aria-controls="faqRefundCollapse1">
+                                        How to access the NCL Synthetic Security Experimentation APT dataset?
+                                    </button>
+                                </h2>
+                                <div id="faqRefundCollapse1" class="accordion-collapse collapse" aria-labelledby="faqRefundHeading1">
+                                    <div class="accordion-body">
+                                        <p class="howtoapply-text lead">The collected dataset is based on a simulated environment and events designed
+                                            to replicate specific APT campaigns or security vulnerabilities.
+                                        </p>
+                                        <p class="howtoapply-text lead">
+                                            To access the APT dataset, please send an email to <a href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- FAQs: Placing an Order -->
+        <div class="mb-0">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-11 col-xl-10">
+                        <div class="d-flex align-items-end mb-3">
+                            <i class="bi bi-cart-plus me-3 lh-1 display-6"></i>
+                            <h3 class="m-0 howtoapply-title">Request Access to an Infra Server and Services Order</h3>
+                        </div>
+                    </div>
+                    <div class="col-11 col-xl-10">
+                        <div class="accordion accordion-flush" id="faqOrder">
+                            <div class="accordion-item bg-transparent border-top border-bottom py-3">
+                                <h2 class="accordion-header" id="faqOrderHeading1">
+                                    <button class="accordion-button collapsed bg-transparent howtoapply-subtitle
+                                     shadow-none link-primary" type="button" data-bs-toggle="collapse" data-bs-target="#faqOrderCollapse1" aria-expanded="false" aria-controls="faqOrderCollapse1">
+                                        How to Access Infra Server and NCL Testbed Services
+                                    </button>
+                                </h2>
+                                <div id="faqOrderCollapse1" class="accordion-collapse collapse" aria-labelledby="faqOrderHeading1">
+                                    <div class="accordion-body">
+                                        <p class="howtoapply-text lead">To request access to an Infra Server and to place a Services Order, follow these steps:
+                                        <ul class="howtoapply-text lead" style="list-style:disc">
+                                        <li><b>Infra Server Pricing and Orders:</b> You can request pricing information and
+                                                place orders via the "Pricelist" under the Services section.</li>
+                                        <li><b>Inquiries:</b> For any inquiries, please contact us through the "Contact Us" section.</li>
+                                        <li><b>Support:</b> For more efficient and faster assistance, please write to us at <a href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a></li>
+                                        </ul>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+</main>
+</div>

@@ -122,7 +122,7 @@
   <div class="container mt-3">
     <div class="row justify-content-md-center">
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
-        <h2 class="display-8 mt-4 mb-3 mb-md-4 text-center service-tools-title">Data</h2>
+        <h2 class="display-8 mt-4 mb-3 mb-md-4 text-center service-tools-title">Cyberattack Data Repository</h2>
         <hr class="w-50 mx-auto mb-4 mb-xl-5 border-dark-subtle line" />
       </div>
     </div>
@@ -137,7 +137,7 @@
             <figure class="card-img-top mb-2 overflow-hidden bsb-overlay-hover">
               <a href="#!">
                 <img class="img-fluid bsb-scale bsb-hover-scale-up" loading="lazy" src="/images/newui/data.png" alt="ckan" />
-                <span class="st-image-text text-content-center" >CKAN <br/>[Coming Soon]</span>
+                <span class="st-image-text text-content-center" >APT DataSet <br/>[Coming Soon]</span>
               </a>
               <figcaption>
               </figcaption>

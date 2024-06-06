@@ -24,7 +24,7 @@
             <figure class="card-img-top mb-2 overflow-hidden bsb-overlay-hover">
               <a href="../railway.html" th:href="@{~/railway}">
                 <img class="img-fluid bsb-scale bsb-hover-scale-up" loading="lazy" src="/images/newui/railway.png" alt="railway" />
-                <span class="st-image-text text-content-center" >Railway [Metro] System</span>
+                <span class="st-image-text text-content-center" >Railway [Metro] IT-OT System Cyber Security</span>
               </a>
 
               <figcaption>

@@ -34,7 +34,7 @@
                <div class="container">
                    <div class="col-12 ">
                        <h2 class="train-sch-text mb-2">Critical Infrastructure Defence Exercise (CIDeX) 2023</h2>
-                       <p>
+                       <p class="cidex-p-text">
                            National Cybersecurity R&amp;D Lab (NCL)
                            had the opportunity to support <b>Critical Infrastructure
                            Defence Exercise (CIDeX) 2023</b> from 22nd November to 24th November 2023 held
@@ -48,7 +48,7 @@
                                <img src="images/newui/cidex202301.jpeg" class="img-fluid" alt="Responsive image"  />
                            </div>
 
-                       <p>
+                       <p class="cidex-p-text">
                            <b>Mr. Heng Chee How, the Senior Minister of State for Defence, and Dr. Janil Puthucheary,
                                the Senior Minister of State for Communications and Information and Health,</b>
                            attended the Critical Infrastructure Defence Exercise (CIDeX)
@@ -63,13 +63,13 @@
                                <img src="images/newui/cidex202302.jpeg" class="img-fluid" alt="Responsive image"  />
                            </div>
 
-                       <p>
+                      <p class="cidex-p-text">
                            NCL would like to express gratitude to MINDEF and Cybersecurity Agency of Singapore (CSA)
                            for providing this opportunity. Additionally,
                            NCL extends its thanks to iTRUST (Centre for Research in Cyber Security)
                            and other technical partners for their contributions in making the event a success.
                        </p>
-                       <p class="mb-5">
+                       <p class="cidex-p-text mb-5">
                            To Read More: <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2023/November/24nov23_nr" target="new">
                            https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2023/November/24nov23_nr
                            </a>

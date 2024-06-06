@@ -83,7 +83,7 @@
            <section id="2022" class="bg-light event-section event-cidex mb-5" style="display: none;">
                <div class="container">
                    <div class="col-12 ">
-                       <h2 class="train-sch-text mb-2">Critical Infrastructure Defence Exercise (CIDeX) 2022</h2>
+                       <h2 class="train-sch-text mb-3">Critical Infrastructure Defence Exercise (CIDeX) 2022</h2>
                        <p class="cidex-p-text">
                            We were thankful and elevated for the opportunity to support and host the inaugural
                            <b>Critical Infrastructure Defence Exercise (CIDeX) 2022</b> from 15 to 16 November

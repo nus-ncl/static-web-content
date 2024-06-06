@@ -1,0 +1,117 @@
+<div layout:fragment="content" id="railway">
+   <main id="main" >
+            <section class="py-4 py-md-5 py-xl-6"   style="background-color:#012169">
+                <div class="container " style="margin-top:5.5rem;">
+                    <div class="row ">
+                        <div class="col-8">
+                            <p  style="color:#fff; font-size:26px;" >
+                                Mini Railway Cyber Range
+                            </p>
+                            <p  style="color:#fff; font-size:26px;" >
+                                Railway [Metro] IT-OT System Cyber Security Test Platform
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="py-3 py-md-4 py-xl-5 bg-light">
+                <div class="container">
+                    <div class="col-12 ">
+                        <h2 class="train-sch-text mb-3">OVERVIEW</h2>
+                        <p class="train-p-text lead">
+                            <b>Railway Systems play a crucial role in modern transportation networks,
+                                facilitating the efficient movement of people and goods across vast distances.</b>
+                            With the increasing reliance on technology, railway systems have evolved to
+                            incorporate complex operational technology (OT) components,
+                            such as track signaling systems, train control systems,
+                            and station management systems.
+                            While these advancements have enhanced safety,
+                            reliability, and efficiency, they have also introduced new cybersecurity challenges.
+                        </p>
+                        <p class="train-p-text lead">
+                            <b>Our mini railway cyber range capable of simulating the IT-OT environment
+                                of the railway company/system</b>. Also provide a simplified and straightforward
+                            <b>digital-twin style Operational Technology (OT) environments emulation solution</b> for
+                            the railway signaling systems ( such as simulating the operations of multiple trains on various tracks,
+                            each equipped with distinct sensor-signal controls).
+                            Additionally, our system simulate a normal corporate network with various user activities
+                            to simulate the Information Technology (IT) environment.
+                        </p>
+                        <p class="train-p-text lead">The platform comprises <b><u>Four primary components</u></b> which cover different levels of the system requirement:
+                        <p class="train-p-text lead">1. <b><u>Level 0</u></b> : 2D Railway [Metro] System Physical-world Simulation Program.</p>
+                        <p class="train-p-text lead">2. <b><u>Level 1</u></b> : Railway OT-Field-Controller Simulation (PLC &amp; RTU) Programs. </p>
+                        <p class="train-p-text lead">3. <b><u>Level 2 -3</u></b> : Railway Supervisory Control and Data Acquisition (SCADA) System. </p>
+                        <p class="train-p-text lead">4. <b><u>Level 4 -5</u></b> : Railway Company's Corporate Environment Simulation System. </p>
+                        </p>
+                        <div  class="text-center mb-5 mt-5" >
+                            <img src="images/newui/railwayn01.png"  class="img-fluid" alt="Responsive image" height="400px" />
+                        </div>
+
+                        <div  class="text-center mb-5 mt-5" >
+                            <img src="images/newui/railwayn02.png"  class="img-fluid" alt="Responsive image" height="300px"/>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+            <!-- section 5  Why Railway -->
+            <section class="py-5 py-xl-8"  style="background-color:#012169">
+                <div class="container">
+                    <div class="row justify-content-md-center">
+                        <div class="col-12 mb-5 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
+                            <h2 class="mb-4 text-center text-uppercase train-text-white-title" >Where do we serves?</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="container overflow-hidden">
+                    <div class="row gy-5 gy-md-6 gy-lg-0">
+                        <div class="col-6 col-lg-3">
+                            <div class="text-center">
+                                <h5 class=" m-1 train-text-white" >Training and Education</h5>
+                                <div class="d-flex align-items-center justify-content-center mb-3 mx-auto ">
+                                    <img class="img-fluid rounded" width="180" height="180" loading="lazy" src="images/newui/rwtraining.png" alt="cueicon01" />
+                                </div>
+                                <p class=" m-0 cue-text-white-subtitle" >This system serves as an invaluable tool for educating students about
+                                    Rilway Systems, their components, and operational processes.</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-3">
+                            <div class="text-center">
+                                <h5 class="m-1 train-text-white"  >Testing and Demonstration</h5>
+                                <div class="d-flex align-items-center justify-content-center mb-3 mx-auto ">
+                                    <img class="img-fluid rounded" width="180" height="180" loading="lazy" src="images/newui/rwtesting.png" alt="cueicon2" />
+                                </div>
+                                <p class=" m-0 cue-text-white-subtitle" >
+                                    The system can be employed to rigorously test and demostrate effectiveness
+                                    of products or assess the credibility of logical processes.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-3">
+                            <div class="text-center">
+                                <h5 class="m-1 train-text-white"  >Cyber Exercises</h5>
+                                <div class="d-flex align-items-center justify-content-center  mb-3 mx-auto ">
+                                    <img class="img-fluid rounded"  width="180" height="180"  loading="lazy" src="images/newui/rwcyber.png" alt="cueicon3" />
+                                </div>
+                                <p class=" m-0 cue-text-white-subtitle" >
+                                    For those interested in cyber exercises to test their skills at identifying vulnerebilities in railway systems,
+                                    we offer a secure environment where you can engage in ethical hacking exercises.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-3">
+                            <div class="text-center">
+                                <h5 class="m-1 train-text-white">Research and Development</h5>
+                                <div class="d-flex align-items-center justify-content-center mb-3 mx-auto ">
+                                    <img class="img-fluid rounded" width="180" height="180"  loading="lazy" src="images/newui/rwresarch.png" alt="cueicon4" />
+                                </div>
+                                <p class=" m-0 cue-text-white-subtitle" >NCL also provides a diverse range of GPUs available for rent,
+                                    enhancing the quality of
+                                    your research and development efforts in the field of Railway Systems.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+</div>

@@ -152,19 +152,19 @@
                                                           <strong >H100</strong>
                                                       </th>
                                                       <td>
-                                                          <div class="tr-td-value justify-content-md-center" >2</div>
+                                                          <div class="tr-td-value justify-content-md-center" >4</div>
                                                       </td>
                                                       <td>
                                                           <div class="tr-td-value">80</div>
                                                       </td>
                                                       <td>
-                                                          <div class="tr-td-value">480</div>
+                                                          <div class="tr-td-value">3840</div>
                                                       </td>
                                                       <td>
-                                                          <div class="tr-td-value">12</div>
+                                                          <div class="tr-td-value">32</div>
                                                       </td>
                                                       <td>
-                                                          <div class="tr-td-value">200</div>
+                                                          <div class="tr-td-value">1180</div>
                                                       </td>
                                                   </tr>
                          <tr >
@@ -321,7 +321,7 @@
                          <strong class ="reserve-text" >To reserve or book for nodes/VMs</strong>
                      </p> -->
                  </div>
-                 <div class="col-4">
+                 <div class="col-auto">
                      <a href="#"  class="btn price-btn btn-lg active" width = "100px"
                         role="button" aria-pressed="true"
                         data-bs-toggle="modal"

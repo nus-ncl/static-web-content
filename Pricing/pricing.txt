@@ -15,7 +15,7 @@
              <div class="row justify-content-md-center">
 
                  <p class="col-10 p-server-title mb-3 ">
-                     Compute Server offer:
+                     Compute [Virtual Machine] offer:
                  </p>
 
                  <div class="col-10 table-responsive">
@@ -34,14 +34,7 @@
                              <p class="th-value"><strong>HDD(GB)</strong>
                              </p>
                          </th>
-                         <th >
-                             <p class="th-value"><strong>SSD(GB)</strong>
-                             </p>
-                         </th>
-                         <th >
-                             <p class="th-value"><strong>GPU(Nvidia v100)</strong>
-                             </p>
-                         </th>
+
                          <th >
                              <p class="th-value"><strong>Price*(S$/day)</strong>
                              </p>
@@ -60,12 +53,7 @@
                              <td>
                                  <div class="tr-td-value">80</div>
                              </td>
-                             <td>
-                                 <div class="tr-td-value">0</div>
-                             </td>
-                             <td>
-                                 <div class="tr-td-value">0</div>
-                             </td>
+
                              <td>
                                  <div class="tr-td-value">1.11</div>
                              </td>
@@ -83,12 +71,7 @@
                              <td>
                                  <div class="tr-td-value">120</div>
                              </td>
-                             <td>
-                                 <div class="tr-td-value">0</div>
-                             </td>
-                             <td>
-                                 <div class="tr-td-value">0</div>
-                             </td>
+
                              <td>
                                  <div class="tr-td-value">1.95</div>
                              </td>
@@ -106,12 +89,7 @@
                              <td>
                                  <div class="tr-td-value">120</div>
                              </td>
-                             <td>
-                                 <div class="tr-td-value">0</div>
-                             </td>
-                             <td>
-                                 <div class="tr-td-value">0</div>
-                             </td>
+
                              <td>
                                  <div class="tr-td-value"></div>
                              </td>
@@ -122,9 +100,9 @@
 
              <div class="row justify-content-end col-11">
                  <div class="col-auto">
-                     <p class="text-center reserve-p">
+                    <!-- <p class="text-center reserve-p">
                          <strong class ="reserve-text">To reserve or book for nodes/VMs</strong>
-                     </p>
+                     </p> -->
                  </div>
                  <div class="col-auto">
                      <a href="#"  class="btn price-btn btn-lg active"
@@ -133,7 +111,7 @@
                         data-bs-target="#BRModal"
                         data-bs-whatever="com"
                      >
-                         click here <i class="bi bi-chevron-double-right"></i></a></div>
+                         Book for Nodes/VMs <i class="bi bi-chevron-double-right"></i></a></div>
              </div>
 
              <br/>
@@ -318,9 +296,9 @@
 
              <div class="row justify-content-end col-11">
                  <div class="col-auto">
-                     <p class="text-center reserve-p">
+                     <!-- <p class="text-center reserve-p">
                          <strong class ="reserve-text" >To reserve or book for nodes/VMs</strong>
-                     </p>
+                     </p> -->
                  </div>
                  <div class="col-auto">
                      <a href="#"  class="btn price-btn btn-lg active"
@@ -328,7 +306,7 @@
                         data-bs-toggle="modal"
                         data-bs-target="#BRModal"
                         data-bs-whatever="gup"
-                     >click here <i class="bi bi-chevron-double-right"></i></a>
+                     >Book for Nodes/VMs <i class="bi bi-chevron-double-right"></i></a>
 
                  </div>
 

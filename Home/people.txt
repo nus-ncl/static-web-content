@@ -78,16 +78,6 @@
                 </div>
                 <br/><br/><br/>
                 <div class="row row-cols-1 row-cols-md-3 g-4 " >
-                    <div class="col">
-                        <div >
-                            <img src="/images/newui/teams/fa.png" class="team-dl-card-img-top" alt="..." />
-                            <div >
-                                <h5 class="card-title team-title">Farah Ameerah</h5>
-                                <p class="card-text team-subtitle">Senior Executive</p>
-                            </div>
-
-                        </div>
-                    </div>
 
                     <div class="col">
                         <div >
@@ -111,21 +101,22 @@
                         </div>
                     </div>
 
+                     <div class="col">
+                         <div >
+                         <img src="/images/newui/teams/avma.png" class="team-dl-card-img-top" alt="..." />
+                                                <div >
+                                                    <h5 class="card-title team-title">Seen Wei Jie</h5>
+                                                    <p class="card-text team-subtitle">Infrastructure Engineer</p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
                 </div>
                 <br/><br/><br/>
 
                 <div class="row row-cols-1 row-cols-md-3 g-4 " >
 
-                    <div class="col">
-                        <div >
-                            <img src="/images/newui/teams/avma.png" class="team-dl-card-img-top" alt="..." />
-                            <div >
-                                <h5 class="card-title team-title">Seen Wei Jie</h5>
-                                <p class="card-text team-subtitle">Infrastructure Engineer</p>
-                            </div>
-
-                        </div>
-                    </div>
 
                     <div class="col">
                         <div >

@@ -146,6 +146,26 @@
                              </p>
                          </th>
                          </thead>
+                          <tr >
+                                                      <th class="th-value bg-light">
+                                                          <strong >H100</strong>
+                                                      </th>
+                                                      <td>
+                                                          <div class="tr-td-value justify-content-md-center" >2</div>
+                                                      </td>
+                                                      <td>
+                                                          <div class="tr-td-value">80</div>
+                                                      </td>
+                                                      <td>
+                                                          <div class="tr-td-value">480</div>
+                                                      </td>
+                                                      <td>
+                                                          <div class="tr-td-value">12</div>
+                                                      </td>
+                                                      <td>
+                                                          <div class="tr-td-value">200</div>
+                                                      </td>
+                                                  </tr>
                          <tr >
                              <th class="th-value bg-light">
                                  <strong >A100</strong>
@@ -300,8 +320,8 @@
                          <strong class ="reserve-text" >To reserve or book for nodes/VMs</strong>
                      </p> -->
                  </div>
-                 <div class="col-auto">
-                     <a href="#"  class="btn price-btn btn-lg active"
+                 <div class="col-4">
+                     <a href="#"  class="btn price-btn btn-lg active" width = "100px"
                         role="button" aria-pressed="true"
                         data-bs-toggle="modal"
                         data-bs-target="#BRModal"

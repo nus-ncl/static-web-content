@@ -192,7 +192,7 @@
                         <div >
                             <div >
                                 <h5 class="card-title team-title">Zhang JiyI</h5>
-                                <p class="card-text team-subtitle">PHD Student</p>
+                                <p class="card-text team-subtitle">Phd Student</p>
                             </div>
 
                         </div>
@@ -202,7 +202,7 @@
                         <div >
                             <div >
                                 <h5 class="card-title team-title">Ahmad Soltani </h5>
-                                <p class="card-text team-subtitle">PHD Student</p>
+                                <p class="card-text team-subtitle">Phd Student</p>
                             </div>
 
                         </div>

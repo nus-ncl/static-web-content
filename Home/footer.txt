@@ -8,7 +8,7 @@
 							  <h4 class="widget-title footer-get-title mb-4">Get in Touch</h4>
 							  <address class="mb-4 footer-get-addresstitle">
 								  <i class="fa fa-map-marker fa-sm fa-lg" ></i>
-								  NUS School of Computing, COM3 <br/>B1-09 || 11 Research link,<br/>Singapore 119391</address>
+								  NUS School of Computing,<br/>COM3 B1-09, 11 Research link,<br/>Singapore 119391</address>
 							  <p class="mb-1">
 							  </p>
 							  <p class="mb-0 ">

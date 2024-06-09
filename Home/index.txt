@@ -241,7 +241,7 @@
                     <div class="col "></div>
                 </div>
 
-                <a href="../people.html" th:href="@{~/people}"  class="btn team-btn btn-lg active" role="button" aria-pressed="true" target="_blank" >
+                <a href="../people.html" th:href="@{~/people}"  class="btn team-btn btn-lg active" role="button" aria-pressed="true" target="new" >
                     Find Out More <i class="bi bi-chevron-double-right"></i></a>
 
                 <div class="team-leader">
@@ -279,7 +279,7 @@
                     </div>
                 </div>
 
-                <a href="../people.html" th:href="@{~/people}"  class="btn team-btn btn-lg active" role="button" aria-pressed="true" target="_blank" >
+                <a href="../people.html" th:href="@{~/people}"  class="btn team-btn btn-lg active" role="button" aria-pressed="true" target="new" >
                     Find Out More <i class="bi bi-chevron-double-right"></i></a>
             </div>
         </section>

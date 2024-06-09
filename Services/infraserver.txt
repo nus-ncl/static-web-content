@@ -23,25 +23,46 @@
                         <a href="#comarch" >Customized Computing Architecture</a></li>
                 </ul>
             </div>
-
             <div class="col-md-9 "  >
                 <section id="gpu" >
                     <div class="card widget-card border-light shadow-sm " >
                         <div class="card-header bg-transparent p-4 border-light-subtle">
                             <h5 class="card-title widget-card-title m-0 infra-item-card-title" >GPU Specification</h5>
                             <br/>
-                            <h5 class="card-title widget-card-title m-0 infra-item-card-subtitle" >NCL currently owns 7 types of GPU Servers:</h5>
+                            <h5 class="card-title widget-card-title m-0 infra-item-card-subtitle" >NCL currently owns 8 types of GPU Servers:</h5>
                         </div>
                         <div class="card-body p-4">
                             <div class="accordion accordion-flush" id="accordionGUP">
-
+                                 <div class="accordion-item">
+                                       <h2 class="accordion-header">
+                                                                        <button class="accordion-button collapsed infra-item-card-subtitle" type="button" data-bs-toggle="collapse"
+                                                                                data-bs-target="#flush-gupOne"
+                                                                                aria-expanded="false" aria-controls="flush-gupOne"
+                                                                        >
+                                                                            1. NVIDIA H100 with 4 GPU Card - ASUS ESC4000A-E12 GPU server
+                                                                        </button>
+                                                                    </h2>
+                                                                    <div id="flush-gupOne" class="accordion-collapse collapse" data-bs-parent="#accordionGUP">
+                                                                        <div class="accordion-body">
+                                                                            <ul class="gup-li" >
+                                                                                <li >Processor: AMD EPYC 9554 ( 64-core / 3.10GHz / 280W / 256MB L3 / DDR5-4800 )</li>
+                                                                                <li>Ethernet Ports:  10GBASE-T Dual Port adapter</li>
+                                                                                <li>Memory: GB DDR5-4800 ECC RDIMM - 96GB x 12pcs ( 1152GB )</li>
+                                                                                <li>SSD: 3.84TB Enterprise NVMe Gen4 SSD, 2.5", 1DWPD, powerloss protect., 2M MTBF x 1pcs</li>
+                                                                                <li>HDD:  16TB Enterprise SATA HDD, 7.2K RPM 512MB cache, 2.5M MTBF x 2pcs</li>
+                                                                                <li>GPU: NVIDIA H100 Tensor Core GPU, PCIe Gen5, 80GB HBM2e x 4 pcs</li>
+                                                                                <li>Thermal Design Power: 350W per card</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button collapsed infra-item-card-subtitle" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#flush-gupOne"
                                                 aria-expanded="false" aria-controls="flush-gupOne"
                                         >
-                                            1.NVIDIA Ampere A100 with 2 GPU Card - Dell PowerEdge R750
+                                            2. NVIDIA Ampere A100 with 2 GPU Card - Dell PowerEdge R750
                                         </button>
                                     </h2>
                                     <div id="flush-gupOne" class="accordion-collapse collapse" data-bs-parent="#accordionGUP">
@@ -65,7 +86,7 @@
                                                 data-bs-toggle="collapse" data-bs-target="#flush-gupTwo"
                                                 aria-expanded="false" aria-controls="flush-gupTwo"
                                         >
-                                            2.NVIDIA Ampere A100 with 1 GPU Card - Dell PowerEdge R750
+                                            3. NVIDIA Ampere A100 with 1 GPU Card - Dell PowerEdge R750
                                         </button>
                                     </h2>
                                     <div id="flush-gupTwo" class="accordion-collapse collapse" data-bs-parent="#accordionGUP">
@@ -89,7 +110,7 @@
                                                 data-bs-target="#flush-gupThree"
                                                 aria-expanded="false" aria-controls="flush-gupThree"
                                         >
-                                            3.NVIDIA A40 with 8 GPU Card - ASUS ESC8000A-E11 GPU server
+                                            4. NVIDIA A40 with 8 GPU Card - ASUS ESC8000A-E11 GPU server
                                         </button>
                                     </h2>
                                     <div id="flush-gupThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushGUP">
@@ -112,7 +133,7 @@
                                                 data-bs-target="#flush-gupFour"
                                                 aria-expanded="false" aria-controls="flush-gupFour"
                                         >
-                                            4.NVIDIA A40 with 4 GPU Card - ASUS ESC4000A-E10 GPU server
+                                            5. NVIDIA A40 with 4 GPU Card - ASUS ESC4000A-E10 GPU server
                                         </button>
                                     </h2>
                                     <div id="flush-gupFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushGUP">
@@ -137,7 +158,7 @@
                                                 data-bs-target="#flush-gupFive"
                                                 aria-expanded="false" aria-controls="flush-gupFive"
                                         >
-                                            5.NVIDIA RTX A5000 with 4 GPU Card - ASUS ESC4000-E10 2U GPU Server
+                                            6. NVIDIA RTX A5000 with 4 GPU Card - ASUS ESC4000-E10 2U GPU Server
                                         </button>
                                     </h2>
                                     <div id="flush-gupFive" class="accordion-collapse collapse" data-bs-parent="#accordionFlushGUP">
@@ -163,7 +184,7 @@
                                                 data-bs-target="#flush-gupSix"
                                                 aria-expanded="false" aria-controls="flush-gupSix"
                                         >
-                                            6.NVIDIA Tesla V100 - Huawei RH2288 V3
+                                            7. NVIDIA Tesla V100 - Huawei RH2288 V3
                                         </button>
                                     </h2>
                                     <div id="flush-gupSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushGUP">
@@ -187,7 +208,7 @@
                                                 data-bs-target="#flush-gupSeven"
                                                 aria-expanded="false" aria-controls="flush-gupSeven"
                                         >
-                                            7.NVIDIA Tesla P100 - Huawei RH2288 V3
+                                            8. NVIDIA Tesla P100 - Huawei RH2288 V3
                                         </button>
                                     </h2>
 

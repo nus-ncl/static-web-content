@@ -106,7 +106,7 @@
                  </div>
                  <div class="col-auto">
                      <a href="#"  class="btn price-btn btn-lg active"
-                        role="button" aria-pressed="true" width="100px"
+                        role="button" aria-pressed="true"
                         data-bs-toggle="modal"
                         data-bs-target="#BRModal"
                         data-bs-whatever="com"

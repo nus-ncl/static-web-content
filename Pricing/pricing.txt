@@ -104,12 +104,13 @@
                          <strong class ="reserve-text">To reserve or book for nodes/VMs</strong>
                      </p> -->
                  </div>
-                 <div class="col-4">
+                 <div class="col-auto">
                      <a href="#"  class="btn price-btn btn-lg active"
-                        role="button" aria-pressed="true"
+                        role="button" aria-pressed="true" width="100px"
                         data-bs-toggle="modal"
                         data-bs-target="#BRModal"
                         data-bs-whatever="com"
+      
                      >
                          Book for Nodes/VMs <i class="bi bi-chevron-double-right"></i></a></div>
              </div>

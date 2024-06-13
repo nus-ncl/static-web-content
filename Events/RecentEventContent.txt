@@ -21,7 +21,7 @@
                     <img id="LOCKEDSHIELD2024" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
-                    <h3 class="news-header">Locked Shield 2024 at Estonia, Tallin</h3>
+                    <h3 class="news-header">Locked Shield 2024</h3>
                     <div class="row">
                         <ul>
                             <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) participated in Locked Shield 2024, the world’s most advanced live-fire cyber defense exercise hosted by the NATO Cooperative Cyber Defense Center of Excellence (CCDCOE). Over 4000 experts from more than 40 nations trained to protect the infrastructure of a fictional nation in a simulated environment.</p></li>

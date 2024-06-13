@@ -24,7 +24,7 @@
                     <h3 class="news-header">Locked Shield 2024 at Estonia, Tallin</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) was in Estonia from April 22 to 26 2024 to participate in Locked Shield 2024, the world’s most advanced live-fire cyber defense exercise hosted by the NATO Cooperative Cyber Defense Center of Excellence (CCDCOE). Over 4000 experts from more than 40 nations participated in Locked Shield 2024, training to protect the infrastructure of a fictional nation in a simulated environment.</p></li>
+                            <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) participated in Locked Shield 2024, the world’s most advanced live-fire cyber defense exercise hosted by the NATO Cooperative Cyber Defense Center of Excellence (CCDCOE). Over 4000 experts from more than 40 nations trained to protect the infrastructure of a fictional nation in a simulated environment.</p></li>
 
 <li><p align="justify">As part of the DFIR development team, NCL developed a set of evidence and CTF questions based on NCL's RAIL SYSTEM Cyber Range.</p></li>
 

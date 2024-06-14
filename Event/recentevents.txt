@@ -44,7 +44,7 @@
                                                </a>
                                            </figure>
                                            <div class="card-body border-0 bg-white p-4">
-                                               <div class="entry-header">
+                                               <div class="entry-header event-modal">
                                                    <ul class="entry-meta list-unstyled d-flex mb-3">
                                                        <li>
                                                            <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">

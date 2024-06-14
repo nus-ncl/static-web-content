@@ -21,8 +21,9 @@
                             </div>
                             <div class ="mr-5">
                                 <select id="yearFilter" class="form-select text-secondary border-light-subtle" width="100px">
-                                    <option value="2023" selected="selected">2023</option>
-                                    <option value="re_event">recent events</option>
+                                     <option value="re_event" selected="selected">recent events</option>
+                                    <option value="2023" >2023</option>
+
                                 </select>
                             </div>
                         </div>

@@ -31,325 +31,630 @@
             </div>
         </section>
 
-        <section class="bg-light event-section" id="2023" style="display: none;">
-            <div class="event-container">
-                <div class="row home-event gx-5 event-row-mg">
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                11
-                                <div class="fs-6 ps-2 text-uppercase">DEC</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white ">
-                            <a href="https://ncl-sg.blogspot.com/2023/12/international-junior-cybersecurity.html"  target="new">
-                                International Junior Cybersecurity Olympiad 2023 CTF competition
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                11-14
-                                <div class="fs-6 ps-2 text-uppercase">DEC</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/12/the-national-cybersecurity-r-laboratory.html" target="new">
-                                NCL participated in Crossed Swords 2023, hosted by CCDCOE
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">02:00 pm<span class="txt-lightgray px-1">•</span>MR2, COM1-04-20</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                24
-                                <div class="fs-6 ps-2 text-uppercase">NOV</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/11/critical-infrastructure-defence.html"  target="new">
-                                Critical Infrastructure Defence Exercise (CIDeX) 2023
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">04:00 pm<span class="txt-lightgray px-1">•</span>MR1, COM1-03-19</span>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="row home-event gx-5 event-row-mg">
 
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                20
-                                <div class="fs-6 ps-2 text-uppercase">OCT</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-modal event-bg-white">
-                            <a href="#"
-                                data-title="CZech Delegates visit to NCL"
-                                data-content="On October 20, 2023, the National Cybersecurity R&amp;D Lab (NCL)
-                               had the privilege of hosting a delegation
-                               from the Czech Republic, including Mr. Petr Manoušek, Deputy Ambassador at the Embassy
-                               of the Czech Republic, Mr. Tomáš Martynek
-                               from the CERT Unit at the National Cyber and Information Security Agency,
-                               and Mr. Martin Jírovec, a Technology Transfer Consultant
-                               from the Faculty of IT at Brno University of Technology."
-                               data-image="images/newui/czechdelevisit.jpg"
-                            >
-                                CZech Delegates visit to NCL<br/><br/>
-                            </a>
-                            <span class="mb-5"></span>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                17-19
-                                <div class="fs-6 ps-2 text-uppercase">OCT</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/10/honored-to-have-deputy-prime-minister.html"  target="new">
-                                GovWare 2023 - Conference &amp; Exhibition
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">04:00 pm<span class="txt-lightgray px-1">•</span>MR1, COM1-03-19</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                29
-                                <div class="fs-6 ps-2 text-uppercase">SEP</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/10/cybersecurity-innovation-day-2023.html"  target="new">
-                                CSA Innovation Day 2023<br/><br/>
-                            </a>
-                            <span class="mb-5"></span>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
+         <section class="bg-light event-section" id="2023"  style="display: none;">
+                       <div class="container overflow-hidden">
+                           <div class="row gy-4 gy-xxl-5 mb-3">
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid bsb-scale bsb-hover-scale-up fixed-height-img " loading="lazy" src="images/newui/nclkoreavisit.jpg" ></img>
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-3">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7" >FEB 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size: 1.1rem;">
+                                                       <a class=""
+                                                          href="#"
+                                                          data-title="Mr. Sukwoo Lin, a Visiting Researcher to National Cybersecurity R&amp;D Lab (NCL)"
+                                                          data-content="National Cybersecurity R&amp;D Lab (NCL) is very happy to host Mr. Sukwoo Lin as a Visiting Researcher, who have been selected for overseas training program sponsored by Korean Government. He is a Superintendent of the Korean National Police Agency (KNPA). &lt;br/&gt;&lt;br/&gt; His research topics focus on the cybersecurity law of Singapore, the role of the Cyber Security Agency as well as the cooperative relationship between the Cyber Security Agency and the Singapore Police Force in cyber-terrorism investigations."
+                                                          data-image="images/newui/nclkoreavisit.jpg">
+                                                           <u>Mr. Sukwoo Lin, a Visiting Researcher to NCL</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img  bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/zerotrustcs.jpg" ></img>
+                                               </a>
 
-                </div>
-                <div class="row home-event gx-5 event-row-mg">
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                25
-                                <div class="fs-6 ps-2 text-uppercase">JUL</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/07/the-youth-cyber-exploration-programme.html"  target="new">
-                                YCEP Central CTF 2023<br/><br/>
-                            </a>
-                            <span class="mb-5"></span>
-                            <!--                        <span class="fs-6 d-block pt-4">04:00 pm<span class="txt-lightgray px-1">•</span>MR1, COM1-03-19</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                15-16
-                                <div class="fs-6 ps-2 text-uppercase">JUL</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/07/greyhats-ctf-2023.html"  target="new">
-                                NCL - GreyHats CTF 2023<br/><br/>
-                            </a>
-                            <span class="mb-5"></span>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                06-07
-                                <div class="fs-6 ps-2 text-uppercase">JUN</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/06/ncl-csa-advanced-youth-cyber.html"  target="new">
-                                NCL - CSA - Advanced Youth Cyber Exploration Programme (AYCEP) 2023
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="row home-event gx-5 event-row-mg">
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                17-21
-                                <div class="fs-6 ps-2 text-uppercase">APR</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white">
-                            <a href="https://ncl-sg.blogspot.com/2023/05/national-cybersecurity-r-laboratory-ncl.html"  target="new">
-                                National Cybersecurity R&amp;D Laboratory (NCL) at LockShield 2023
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">04:00 pm<span class="txt-lightgray px-1">•</span>MR1, COM1-03-19</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                24
-                                <div class="fs-6 ps-2 text-uppercase">MAR</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-modal event-bg-white">
-                            <a href="#"
-                               data-title="China Unicom (Singapore) Operations Pte Ltd.
-                                Explores Collaboration Opportunities with National Cybersecurity R&amp;D Lab (NCL) at NUS"
-                                data-content="On 24 March 2023, a delegation of visitors, Mr. Bai Jian (Deputy General Manager)
-                                and Mr. Adam Cheung (Senior Product Manager) from China Unicom (Singapore) Operations Pte. Ltd.,
-                                visited the National Cybersecurity R&amp;D Lab (NCL), NUS to explore the potential collaboration opportunities.
-                                &lt;br/&gt;&lt;br/&gt;The visitors were given a briefing on NCL facilities and
-                                Cybersecurity compute Infrastructure."
-                                data-image="images/newui/ncl_chinaunicom.jpg"
-                                >
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
 
-                                China Unicom (Singapore) Operations Pte Ltd.
-                                Explores Collaboration Opportunities with National Cybersecurity R&amp;D Lab (NCL) at NUS
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                21
-                                <div class="fs-6 ps-2 text-uppercase">MAR</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-modal event-bg-white">
-                            <a href="#"
-                               data-title ="Visitors from United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre"
-                               data-content="National Cybersecurity R&amp;D Lab (NCL) is pleased to have hosted Professor Abhik Roychoudhury from NUS,
-                                Ms. Akvilė Giniotienė, Head of Cyber and New Technologies Unit,
-                                Programme Management Officer at United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre,
-                                and Rayson Ng, Assistant Manager at NUS Enterprise.
-                                &lt;br/&gt;&lt;br/&gt;
-                                They visited NCL on 21st March 2024 to explore NCLs services, facilities,
-                                and discuss potential collaboration opportunities."
-                                data-image="images/newui/nclvisitors.jpg">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">01 FEB 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size: 1.1rem;">
+                                                       <a class="" href="#"
+                                                          data-title="Seminar on 'Zero Trust in Zero Trust?'"
+                                                          data-content="Speaker: &lt;span&gt; &lt;a href=&quot;https://events.comp.nus.edu.sg/view/20279&quot; target=new &gt;
+                                                  Professor Virgil D. Gligor&lt;/a&gt;&lt;/span&gt;,
+                                                  Carnegie Mellon University;Chaired by: Associate Professor LIANG Zhenkai,
+                                                  National Cybersecurity R&amp;D Lab, School of Computing, NUS.
+                                                  &lt;br/&gt;&lt;br/&gt;
+                                                 Abstract: We review the standard definitions of trust,
+                                                 zero trust, trusted service, and trust establishment,
+                                                 and show that zero trust is unachievable in any enterprise network;
+                                                 i.e., at least one security property is impossible to establish unconditionally
+                                                 with confidence for some devices and many others are impractical
+                                                 to establish for other devices."
+                                                          data-image="images/newui/zerotrustcs.jpg"
+                                                       >
+                                                           <u>Seminar on 'Zero Trust in Zero Trust?'</u>
+                                                       </a>   </h2>
+                                               </div>
 
-                                Visitors from United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">04:00 pm<span class="txt-lightgray px-1">•</span>MR1, COM1-03-19</span>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="row home-event gx-5 event-row-mg">
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                7
-                                <div class="fs-6 ps-2 text-uppercase">MAR</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-modal event-bg-white">
-                            <a href="#"
-                               data-title="Dr. Norrathep Rattanavipanon\'s Techincal Visit to NCL"
-                                data-content="On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy,
-                                Phuket Campus, Thailand visited National Cybersecurity R&amp;D Laboratory (NCL).
-                                &lt;br/&gt;&lt;br/&gt;
-                               The purpose of the visit was to explore the cutting-edge technologies and projects
-                               being developed in the lab and to gain more knowledge about
-                               Cyber security services offered by NCL."
-                               data-image="images/newui/nclthaivisit.jpg"
-                            >
-                                Dr. Norrathep Rattanavipanon's Techincal Visit to NCL
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img  bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/nclthaivisit.jpg" alt="Saddles"></img>
+                                               </a>
 
-                                <div class="fs-6 ps-2 text-uppercase">FEB</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-modal event-bg-white">
-                            <a href="#"
-                               data-title="Mr. Sukwoo Lin, a Visiting Researcher to National Cybersecurity R&amp;D Lab (NCL)"
-                               data-content="National Cybersecurity R&amp;D Lab (NCL) is very happy to host
-                                Mr. Sukwoo Lin as a Visiting Researcher, who have been selected for overseas
-                                training program sponsored by Korean Government.
-                                He is a Superintendent of the Korean National Police Agency (KNPA).
-                                &lt;br/&gt;&lt;br/&gt;
-                               His research topics focus on the cybersecurity law of Singapore,
-                               the role of the Cyber Security Agency as well as the cooperative relationship
-                               between the Cyber Security Agency and the Singapore Police Force
-                               in cyber-terrorism investigations."
-                               data-image="images/newui/nclkoreavisit.jpg"
-                            >
-                                Mr. Sukwoo Lin, a Visiting Researcher to National Cybersecurity R&amp;D Lab (NCL)
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">04:00 pm<span class="txt-lightgray px-1">•</span>MR1, COM1-03-19</span>-->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                01
-                                <div class="fs-6 ps-2 text-uppercase">FEB</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-modal event-bg-white">
-                            <a href="#"
-                               data-title="Seminar on 'Zero Trust in Zero Trust?'"
-                                data-content="Speaker: &lt;span&gt; &lt;a href=&quot;https://events.comp.nus.edu.sg/view/20279&quot; target=new &gt;
-                                Professor Virgil D. Gligor&lt;/a&gt;&lt;/span&gt;,
-                                Carnegie Mellon University;Chaired by: Associate Professor LIANG Zhenkai,
-                                National Cybersecurity R&amp;D Lab, School of Computing, NUS.
-                                &lt;br/&gt;&lt;br/&gt;
-                               Abstract: We review the standard definitions of trust,
-                               zero trust, trusted service, and trust establishment,
-                               and show that zero trust is unachievable in any enterprise network;
-                               i.e., at least one security property is impossible to establish unconditionally
-                               with confidence for some devices and many others are impractical
-                               to establish for other devices."
-                               data-image="images/newui/zerotrustcs.jpg"
-                            >
-                                Seminar on 'Zero Trust in Zero Trust?'
-                            </a>
-                            <!--                        <span class="fs-6 d-block pt-4">10:30 am<span class="txt-lightgray px-1">•</span>MR3, COM2-02-26</span>-->
-                        </div>
-                    </div>
-                </div>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">7 MAR 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size: 1.1rem;">
+                                                       <a class=""
 
-            </div>
-        </section>
+                                                          data-title="Dr. Norrathep Rattanavipanon\'s Techincal Visit to NCL"
+                                                          data-content="On 07th of March 2023, Assistant Professor Norrathep Rattanavipanon from Prince of Songkla Univeristy,
+                                                  Phuket Campus, Thailand visited National Cybersecurity R&amp;D Laboratory (NCL).
+                                                  &lt;br/&gt;&lt;br/&gt;
+                                                 The purpose of the visit was to explore the cutting-edge technologies and projects
+                                                 being developed in the lab and to gain more knowledge about
+                                                 Cyber security services offered by NCL."
+                                                          data-image="images/newui/nclthaivisit.jpg"
+                                                       >
+                                                           <u>Dr. Norrathep Rattanavipanon's Techincal Visit to NCL</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
 
-        <section class="bg-light event-section" id="re_event" style="display: none;">
-            <div class="event-container" >
-                <div class="row home-event gx-5 event-row-mg mb-5">
-                    <div class="col-lg-4 col-md-6 event-slideRight">
-                        <div class="home-event-date event-bg-orange d-inline-block p-2 px-2 mt-4">
-                            <div class="d-flex align-items-center justify-content-center fw-bold event-text-white event-fs-4">
-                                16
-                                <div class="fs-6 ps-2 text-uppercase">MAR</div>
-                            </div>
-                        </div>
-                        <div class="home-event-info event-bg-white ">
-                            <a href="https://ncl-sg.blogspot.com/2024/03/hackbash-aycep-2024.html"  target="new">
-                                HackBash (A.YCEP)
-                            </a>
-                        </div>
-                    </div>
-                </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid bsb-scale bsb-hover-scale-up fixed-height-img " loading="lazy" src="images/newui/nclvisitors.jpg" ></img>
+                                               </a>
 
-                <div class="row home-event gx-5 event-row-mg mb-5 event-row-height"> <!-- remove event-row-height if you want to add another row-->
-                </div>
-            </div>
-        </section>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">21 MAR 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size: 1.1rem;">
+                                                       <a class=""
+                                                          href="#"
+                                                          data-title ="Visitors from United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre"
+                                                          data-content="National Cybersecurity R&amp;D Lab (NCL) is pleased to have hosted Professor Abhik Roychoudhury from NUS,
+                                                  Ms. Akvilė Giniotienė, Head of Cyber and New Technologies Unit,
+                                                  Programme Management Officer at United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre,
+                                                  and Rayson Ng, Assistant Manager at NUS Enterprise.
+                                                  &lt;br/&gt;&lt;br/&gt;
+                                                  They visited NCL on 21st March 2024 to explore NCLs services, facilities,
+                                                  and discuss potential collaboration opportunities."
+                                                          data-image="images/newui/nclvisitors.jpg">
+
+                                                          <u> Visitors from United Nation Office of Counter-Terrorism Centre</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+
+                           </div>
+                           <div class="row gy-4 gy-xxl-5 mb-3">
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid bsb-scale bsb-hover-scale-up fixed-height-img" loading="lazy" src="images/newui/ncl_chinaunicom.jpg"></img>
+                                               </a>
+
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">24 MAR 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size: 1.1rem;">
+                                                       <a class=""
+                                                          href="#"
+                                                          data-title="China Unicom (Singapore) Operations Pte Ltd.
+                                                  Explores Collaboration Opportunities with National Cybersecurity R&amp;D Lab (NCL) at NUS"
+                                                          data-content="On 24 March 2023, a delegation of visitors, Mr. Bai Jian (Deputy General Manager)
+                                                  and Mr. Adam Cheung (Senior Product Manager) from China Unicom (Singapore) Operations Pte. Ltd.,
+                                                  visited the National Cybersecurity R&amp;D Lab (NCL), NUS to explore the potential collaboration opportunities.
+                                                  &lt;br/&gt;&lt;br/&gt;The visitors were given a briefing on NCL facilities and
+                                                  Cybersecurity compute Infrastructure."
+                                                          data-image="images/newui/ncl_chinaunicom.jpg"
+                                                       >
+                                                           <u>China Unicom Operations Pte Ltd, visiting to NCL</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div  class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100" >
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up " loading="lazy" src="images/newui/ls2023.png"></img>
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">17-21 APR 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size: 1.1rem;">
+                                                       <a class=""
+                                                          href="https://ncl-sg.blogspot.com/2023/05/national-cybersecurity-r-laboratory-ncl.html"  target="new">
+                                                           <u> Cybersecurity R&amp;D Laboratory (NCL) at LockShield 2023</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up " loading="lazy"  src="images/newui/aycep-ncl.jpeg" ></img>
+                                               </a>
+
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">06-07 JUN 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem;">
+                                                       <a class=""
+                                                          href="https://ncl-sg.blogspot.com/2023/06/ncl-csa-advanced-youth-cyber.html"  target="new">
+                                                           <u>NCL - CSA - Advanced Youth Cyber Exploration Programme(AYCEP)</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid bsb-scale bsb-hover-scale-up fixed-height-img" loading="lazy" src="images/newui/microteams-img.png" ></img>
+
+                                               </a>
+
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none"
+                                                              href="#!">
+                                                               <span class="fs-7"> 15-16 JUL 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem">
+                                                       <a class=""
+                                                          href="https://ncl-sg.blogspot.com/2023/07/greyhats-ctf-2023.html"  target="new">
+                                                           <u> NCL - GreyHats CTF</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                           </div>
+                           <div class="row gy-4 gy-xxl-5 mb-3">
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixedspec-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/ctf03.jpeg"></img>
+
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">25 JUL 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem;">
+                                                       <a
+                                                          href="https://ncl-sg.blogspot.com/2023/07/the-youth-cyber-exploration-programme.html"  target="new">
+                                                           <u>YCEP Central CTF</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100" >
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img  bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/csainno23.jpg"></img>
+
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">29 SEP 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem;">
+                                                       <a class=""
+                                                          href="https://ncl-sg.blogspot.com/2023/10/cybersecurity-innovation-day-2023.html"  target="new">
+                                                           <u>CSA Innovation Day 2023</u></a>
+                                                   </h2>
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/czechdelevisit.jpg"></img>
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">20 OCT 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class=" mb-0" style="font-size:1.1rem;">
+                                                       <a class=""
+                                                          href="#"
+                                                          data-title="CZech Delegates visit to NCL"
+                                                          data-content="On October 20, 2023, the National Cybersecurity R&amp;D Lab (NCL)
+                                      had the privilege of hosting a delegation
+                                      from the Czech Republic, including Mr. Petr Manoušek, Deputy Ambassador at the Embassy
+                                      of the Czech Republic, Mr. Tomáš Martynek
+                                      from the CERT Unit at the National Cyber and Information Security Agency,
+                                      and Mr. Martin Jírovec, a Technology Transfer Consultant
+                                      from the Faculty of IT at Brno University of Technology."
+                                                          data-image="images/newui/czechdelevisit.jpg"
+                                                       >
+                                                           <u>CZech Delegates visit to NCL</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img  bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/nclgovware23.jpg"></img>
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">17-19 OCT 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem;">
+                                                       <a class=""
+                                                          href="https://ncl-sg.blogspot.com/2023/10/honored-to-have-deputy-prime-minister.html"  target="new">
+                                                           <u>GovWare 2023 - Conference &amp; Exhibition</u> </a>
+                                                   </h2>
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                           </div>
+                           <div class="row gy-4 gy-xxl-5 mb-3">
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/cidex23.jpg"></img>
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">24 NOV 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem;">
+                                                       <a
+                                                          href="https://ncl-sg.blogspot.com/2023/11/critical-infrastructure-defence.html"  target="new">
+                                                           <u>Critical Infrastructure Defence Exercise (CIDeX) 2023</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                                   <article class="d-flex w-100">
+                                       <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                           <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                               <a href="#!">
+                                                   <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/ijco01.jpeg"></img>
+                                               </a>
+                                           </figure>
+                                           <div class="card-body border-0 bg-white p-4">
+                                               <div class="entry-header mb-3">
+                                                   <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                       <li>
+                                                           <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                               <span class="fs-7">11 DEC 2023</span>
+                                                           </a>
+                                                       </li>
+                                                   </ul>
+                                                   <h2 class="mb-0" style="font-size:1.1rem;">
+                                                       <a class=""
+                                                          href="https://ncl-sg.blogspot.com/2023/12/international-junior-cybersecurity.html"  target="new">
+                                                           <u>International Junior Cybersecurity Olympiad 2023 CTF competition</u>
+                                                       </a>
+                                                   </h2>
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </article>
+                               </div>
+                               <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                               <article class="d-flex w-100">
+                                   <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                       <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                           <a href="#!">
+                                               <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/lockedshield.jpg"></img>
+                                           </a>
+                                       </figure>
+                                       <div class="card-body border-0 bg-white p-4">
+                                           <div class="entry-header mb-3">
+                                               <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                   <li>
+                                                       <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                           <span class="fs-7">11-14 DEC 2023</span>
+                                                       </a>
+                                                   </li>
+                                               </ul>
+                                               <h2 class="mb-0" style="font-size:1.1rem;">
+                                                   <a class=""
+                                                      href="https://ncl-sg.blogspot.com/2023/12/the-national-cybersecurity-r-laboratory.html" target="new">
+                                                       <u>NCL participated in Crossed Swords 2023, hosted by CCDCOE</u>
+                                                   </a>
+                                               </h2>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </article>
+                           </div>
+                           </div>
+                       </div>
+               </section>
+
+               <section class="bg-light event-section" id="re_event" style="display: none;">
+                   <div class="container overflow-hidden" >
+                       <div class="row gy-4 gy-xxl-5 mb-3">
+                           <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                               <article class="d-flex w-100">
+                                   <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                       <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                           <a href="#!">
+                                               <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/ctf01.png"></img>
+                                           </a>
+                                       </figure>
+                                       <div class="card-body border-0 bg-white p-4">
+                                           <div class="entry-header mb-3">
+                                               <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                   <li>
+                                                       <a class="link-dark link-opacity-75 link-opacity-100-hover" href="#!">
+                                                           <span class="fs-7 ">16 MAR 2024</span>
+                                                       </a>
+                                                   </li>
+                                               </ul>
+                                               <h2 class="mb-0" style="font-size:1.1rem;">
+                                                   <a class=""
+                                                      href="https://ncl-sg.blogspot.com/2024/03/hackbash-aycep-2024.html"  target="new">
+                                                       <u>HackBash (A.YCEP)</u>
+                                                   </a>
+                                               </h2>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </article>
+                           </div>
+                           <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                               <article class="d-flex w-100">
+                                   <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                       <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                           <a href="#!">
+                                               <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/lockedshield.jpg"></img>
+                                           </a>
+                                       </figure>
+                                       <div class="card-body border-0 bg-white p-4">
+                                           <div class="entry-header mb-3">
+                                               <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                   <li>
+                                                       <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                           <span class="fs-7">11-14 DEC 2023</span>
+                                                       </a>
+                                                   </li>
+                                               </ul>
+                                               <h2 class="mb-0" style="font-size:1.1rem;">
+                                                   <a
+                                                      href="https://ncl-sg.blogspot.com/2023/12/the-national-cybersecurity-r-laboratory.html" target="new">
+                                                       <u>NCL participated in Crossed Swords 2023, hosted by CCDCOE</u>
+                                                   </a>
+                                               </h2>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </article>
+                           </div>
+                           <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                               <article class="d-flex w-100">
+                                   <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                       <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                           <a href="#!">
+                                               <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/ijco01.jpeg"></img>
+                                           </a>
+                                       </figure>
+                                       <div class="card-body border-0 bg-white p-4">
+                                           <div class="entry-header mb-3">
+                                               <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                   <li>
+                                                       <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                           <span class="fs-7">11 DEC 2023</span>
+                                                       </a>
+                                                   </li>
+                                               </ul>
+                                               <h2 class="mb-0" style="font-size:1.1rem;">
+                                                   <a
+                                                      href="https://ncl-sg.blogspot.com/2023/12/international-junior-cybersecurity.html"  target="new">
+                                                       <u>International Junior Cybersecurity Olympiad 2023 CTF competition</u>
+                                                   </a>
+                                               </h2>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </article>
+                           </div>
+                           <div class="col-12 col-sm-6 col-lg-3 d-flex">
+                               <article class="d-flex w-100">
+                                   <div class="card w-100 border border-dark" style="--bs-card-border-radius: 0; --bs-card-inner-border-radius: 0;">
+                                       <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
+                                           <a href="#!">
+                                               <img class="img-fluid fixed-height-img bsb-scale bsb-hover-scale-up" loading="lazy" src="images/newui/cidex23.jpg"></img>
+                                           </a>
+                                       </figure>
+                                       <div class="card-body border-0 bg-white p-4">
+                                           <div class="entry-header mb-3">
+                                               <ul class="entry-meta list-unstyled d-flex mb-2">
+                                                   <li>
+                                                       <a class="link-dark link-opacity-75 link-opacity-100-hover text-decoration-none" href="#!">
+                                                           <span class="fs-7">24 NOV 2023</span>
+                                                       </a>
+                                                   </li>
+                                               </ul>
+                                               <h2 class="mb-0" style="font-size:1.1rem;">
+                                                   <a
+                                                      href="https://ncl-sg.blogspot.com/2023/11/critical-infrastructure-defence.html"  target="new">
+                                                       <u>Critical Infrastructure Defence Exercise (CIDeX) 2023</u>
+                                                   </a>
+                                               </h2>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </article>
+                           </div>
+                       </div>
+                   </div>
+               </section>
+
 
         <!-- start Modal -->
         <div class="modal fade" id="eventDtlModal" tabindex="-1" aria-labelledby="eventModalLabel" aria-hidden="true">

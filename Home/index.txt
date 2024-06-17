@@ -11,7 +11,7 @@
                 <!-- item 1 -->
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="images/newui/home_bg.png" class="bd-placeholder-img" />
+                        <img src="images/newui/home_bg.png" class="bd-placeholder-img" loading="lazy" />
                         <div class="container ">
                             <div class="carousel-caption">
                                 <div class="carousel-content">

@@ -11,7 +11,7 @@
         </div>
     </div>
     </section>
-    <!-- Section - Bootstrap Brain Component -->
+
     <section class="bsb-faq-3 pb-3 pb-md-4 pb-xl-5 bg-light">
         <!-- FAQs: My Account -->
         <div class="mb-5">

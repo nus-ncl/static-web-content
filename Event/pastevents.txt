@@ -344,7 +344,7 @@
             </div>
         </section>
 
-        <section class="bg-light event-section" id="2020-2019" style="display: none;">
+        <section class="bg-light event-section" id="2020_2019" style="display: none;">
             <div class="container overflow-hidden" >
 
                 <div class="row home-event event-row-mg">
@@ -581,7 +581,7 @@
         </section>
 
 
-        <section class="bg-light event-section" id="2018-2017" style="display: none;">
+        <section class="bg-light event-section" id="2018_2017" style="display: none;">
             <div class="container overflow-hidden" >
                 <div class="row home-event event-row-mg">
                     <p  style="color:#000; font-size:26px;color:#003d7c;" >

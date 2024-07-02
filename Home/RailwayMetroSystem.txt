@@ -40,7 +40,7 @@
             <h3>What might this system be useful for: </h3>
             </br>
             <ul>
-             <li> <strong>Training and Education: </strong> This system serves as an invaluable tool for educating students about Rilway Systems, their components, and operational processes.</li>
+             <li> <strong>Training and Education: </strong> This system serves as an invaluable tool for educating students about Railway Systems, their components, and operational processes.</li>
              <li> <strong>Testing and Validation: </strong> The system can be employed to rigorously test and validatethe effectiveness of products or assess the credibility of logical processes.</li>
              <li> <strong> Security Testing: </strong> For those interested in testing their skills st identifying vulnerebilities in railway systems, we offer a secure environment where you can engage in ethical hacking exercises.</li>
              <li> <strong>Research and Development: </strong> NCL also provides a diverse range of GPUs available for rent, enhancing the quality of your research and developemnt efforts in the field of Railway Systems.</li>

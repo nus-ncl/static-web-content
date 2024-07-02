@@ -39,7 +39,7 @@
 
       <!-- <div class="col-sm-8 col-sm-offset-3">-->
       <div class="row">
-        <!-- <h2><b><font color="#0d6dba">Railway [ Metro ] System</font></b></h2>-->
+        <!-- <h2><b><font color="#0d6dba">Land based Railway System</font></b></h2>-->
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Railway [ Metro ] System</font></b></h2>
       </div>
 
@@ -68,7 +68,7 @@
         <div class="row">
           <p><font color="#050505"></font> </p>
           <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Railway [Metro] System or collaboration, please reach out to us at support@ncl.sg for more information!</font></p>
+          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Land based Railway System or collaboration, please reach out to us at support@ncl.sg for more information!</font></p>
         </div>
       </div>    
     </div><!-- Railway Container Ends here-->

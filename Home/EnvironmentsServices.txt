@@ -40,7 +40,7 @@
       <!-- <div class="col-sm-8 col-sm-offset-3">-->
       <div class="row">
         <!-- <h2><b><font color="#0d6dba">Land based Railway System</font></b></h2>-->
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Railway [ Metro ] System</font></b></h2>
+        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Land based Railway System</font></b></h2>
       </div>
 
 

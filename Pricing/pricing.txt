@@ -352,26 +352,7 @@
                   </td>
                 </tr>
 
-<tr BGCOLOR="#fff">
-                  <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#H100">H100</a></strong></h5>
-                  </th>
-                  <td>
-                    <div align="center">4</div>
-                  </td>
-                  <td>
-                    <div align="center">80</div>
-                  </td>
-                  <td>
-                    <div align="center">3840</div>
-                  </td>
-                  <td>
-                    <div align="center">32</div>
-                  </td>
-                  <td>
-                    <div align="center"><strong>1180</strong></div>
-                  </td>
-                </tr>
+
 
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">

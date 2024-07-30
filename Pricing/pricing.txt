@@ -354,7 +354,7 @@
 
 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
-                    <h5><strong><a href="testbedInformation.html#A500">H100</a></strong></h5>
+                    <h5><strong><a href="testbedInformation.html#H100">H100</a></strong></h5>
                   </th>
                   <td>
                     <div align="center">4</div>

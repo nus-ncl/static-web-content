@@ -86,7 +86,7 @@
                 <p><b>NVIDIA H100 with 4 GPU Card - ASUS ESC4000A-E12 GPU server</b></p>
                 <ul>
                   <li>CPU: (1) AMD EPYC 9554 (64-core / 3.10GHz / 280W / 256MB L3 / DDR5-4800)</li>
-                  <li>Memory: 1152 GB DDR5-4800 ECC RDIMM, </li>
+                  <li>Memory: 1152 GB DDR5-4800 ECC RDIMM </li>
                   <li>NIC: (1) 10GBASE-T Dual Port Adapter
                   <li>SSD: (1) 3.84TB Enterprise NVMe Gen4 SSD, 2.5", 1DWPD, powerloss protect., 2M MTBF</li>
                   <li>HDD: (2) 16TB Enterprise SATA HDD, 7.2K RPM 512MB cache, 2.5M MTBF</li>

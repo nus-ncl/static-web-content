@@ -18,7 +18,7 @@
         <tr>
         <td> <p>&nbsp;</p>
                     <p onclick="myFunction('NCLS')"><h24>Internship at National Cybersecurity R&D Lab (NCL), School of Computing, NUS</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
-                    <div id="NCLS" class="hide position">
+                    <div id="Internship" class="hide position">
 <p>&nbsp;</p>
                         <strong><u>Job Description:</u></strong>
                         <p align="justify">
@@ -33,8 +33,8 @@
                         <strong><u>Job Scope:</u></strong>
                         <p align="justify">
                         <ol>
-                        <li><strong>Learn about NCL Server Setup & Network Connectivity:</strong> Gain hands-on experience in setting up and maintaining NCL servers, including configuring network connections and ensuring they meet security protocols.</li>
-                        <li><strong>System & Network Maintenance:</strong> Perform daily tests to monitor the operational status of NCL's network and systems, identifying and troubleshooting any issues that arise.</li>
+                        <li><strong>Learn about NCL Server Setup & Network Connectivity:</strong> Gain hands-on experience in setting up and maintaining NCL servers, including configuring network connections and ensuring they meet security protocols.</li><p>&nbsp;</p>
+                        <li><strong>System & Network Maintenance:</strong> Perform daily tests to monitor the operational status of NCL's network and systems, identifying and troubleshooting any issues that arise.</li><p>&nbsp;</p>
                         <li><strong>Capture The Flag (CTF) Activities:</strong></li></ol>
                         <ul>
                             <li margin-left: 40px;>Learn about Capture The Flag (CTF) challenges and cybersecurity competitions.</li>

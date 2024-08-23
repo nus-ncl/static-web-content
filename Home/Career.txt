@@ -19,8 +19,7 @@
         <td> <p>&nbsp;</p>
                     <p onclick="myFunction('NCLS')"><h24>Internship at National Cybersecurity R&D Lab (NCL), School of Computing, NUS</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
                     <div id="NCLS" class="hide position">
-                        <p>&nbsp;</p>
-                        <strong>Job Description:</strong>
+                        <strong><u>Job Description:</u></strong>
                         <p align="justify">
                         <ul>
                         <li>Position: Cyber Intern.</li>
@@ -30,8 +29,7 @@
 </ul>
 </p>
 
- <p>&nbsp;</p>
-                        <strong>Job Scope:</strong>
+                        <strong><u>Job Scope:</u></strong>
                         <p align="justify">
                         <ol>
                         <li><strong>Learn about NCL Server Setup & Network Connectivity:</strong> Gain hands-on experience in setting up and maintaining NCL servers, including configuring network connections and ensuring they meet security protocols.</li><p>&nbsp;</p>
@@ -43,8 +41,7 @@
                             <li>Provide online and onsite technical support during CTF competitions and other cybersecurity events hosted by NCL.</li>
                             <li>Suggest improvements to the CTF program, including the design, deployment, and user experience of challenges.</li>
 </ul></p>
-<p>&nbsp;</p>
-                        <strong>How to Apply:</strong>
+                        <strong><u>How to Apply:</u></strong>
                         <p align="justify">If you're passionate about cybersecurity and eager to gain practical experience, we'd love to hear from you! Please send your CV along with a short introduction to: <a target="_blank" href="mailto:support@ncl.sg" class="btn btn-default" >support@ncl.sg</a>
                   </div>
                 </td>

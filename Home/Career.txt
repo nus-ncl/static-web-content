@@ -25,7 +25,7 @@
                         <ul>
                         <li>Position: Cyber Intern.</li>
                         <li>Location: National Cybersecurity R&D Lab (NCL), COM3-B1-09, School of Computing, NUS.</li>
-                        <li>Duration: 2-3 months.</li>
+                        <li>Duration: 20 weeks.</li>
                         <li>Eligibility: Students pursuing a Diploma in IT or Computer Science.</li>
 </ul>
 </p>

@@ -17,8 +17,8 @@
         <table class="table2">
         <tr>
         <td> <p>&nbsp;</p>
-                    <p onclick="myFunction('NCLS')"><h24>Internship at National Cybersecurity R&D Lab (NCL), School of Computing, NUS</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
-                    <div id="NCLS" class="hide position">
+                    <p onclick="myFunction('Internship')"><h24>Internship at National Cybersecurity R&D Lab (NCL), School of Computing, NUS</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
+                    <div id="Internship" class="hide position">
 <p>&nbsp;</p>
                         <strong><u>Job Description:</u></strong>
                         <p align="justify">

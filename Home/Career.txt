@@ -23,10 +23,10 @@
                         <strong>Job Description:</strong>
                         <p align="justify">
                         <ul>
-                        <li>Position: Cyber Intern</li>
-                        <li>Location: National Cybersecurity R&D Lab (NCL), COM3-B1-09, School of Computing, NUS</li>
-                        <li>Duration: 2-3 months</li>
-                        <li>Eligibility: Students pursuing a Diploma in IT or Computer Science</li>
+                        <li>Position: Cyber Intern.</li>
+                        <li>Location: National Cybersecurity R&D Lab (NCL), COM3-B1-09, School of Computing, NUS.</li>
+                        <li>Duration: 2-3 months.</li>
+                        <li>Eligibility: Students pursuing a Diploma in IT or Computer Science.</li>
 </ul>
 </p>
 
@@ -34,8 +34,8 @@
                         <strong>Job Scope:</strong>
                         <p align="justify">
                         <ol>
-                        <li><strong>Learn about NCL Server Setup & Network Connectivity:</strong> Gain hands-on experience in setting up and maintaining NCL servers, including configuring network connections and ensuring they meet security protocols.</li>
-                        <li><strong>System & Network Maintenance:</strong> Perform daily tests to monitor the operational status of NCL's network and systems, identifying and troubleshooting any issues that arise.</li>
+                        <li><strong>Learn about NCL Server Setup & Network Connectivity:</strong> Gain hands-on experience in setting up and maintaining NCL servers, including configuring network connections and ensuring they meet security protocols.</li><p>&nbsp;</p>
+                        <li><strong>System & Network Maintenance:</strong> Perform daily tests to monitor the operational status of NCL's network and systems, identifying and troubleshooting any issues that arise.</li><p>&nbsp;</p>
                         <li><strong>Capture The Flag (CTF) Activities:</strong></li></ol>
                         <ul>
                             <li>Learn about Capture The Flag (CTF) challenges and cybersecurity competitions.</li>
@@ -45,7 +45,7 @@
 </ul></p>
 <p>&nbsp;</p>
                         <strong>How to Apply:</strong>
-                        <p align="justify">If you're passionate about cybersecurity and eager to gain practical experience, we'd love to hear from you! Please send your CV along with a short introduction to:<a target="_blank" href="mailto:support@ncl.sg" class="btn btn-default" >support@ncl.sg</a>
+                        <p align="justify">If you're passionate about cybersecurity and eager to gain practical experience, we'd love to hear from you! Please send your CV along with a short introduction to: <a target="_blank" href="mailto:support@ncl.sg" class="btn btn-default" >support@ncl.sg</a>
                   </div>
                 </td>
                 </tr>

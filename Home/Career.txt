@@ -18,7 +18,7 @@
         <tr>
         <td> <p>&nbsp;</p>
                     <p onclick="myFunction('NCLS')"><h24>Internship at National Cybersecurity R&D Lab (NCL), School of Computing, NUS</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
-                    <div id="Internship" class="hide position">
+                    <div id="NCLS" class="hide position">
 <p>&nbsp;</p>
                         <strong><u>Job Description:</u></strong>
                         <p align="justify">
@@ -44,7 +44,7 @@
 </ul></p>
 <p>&nbsp;</p>
                         <strong><u>How to Apply:</u></strong>
-                        <p align="justify"><ul><li>If you're passionate about cybersecurity and eager to gain practical experience, we'd love to hear from you! Please send your CV along with a short introduction to: <a target="_blank" href="mailto:support@ncl.sg" class="btn btn-default" ><strong><u>support@ncl.sg</u></strong</a></li></ul>
+                        <p align="justify"><ul><li>If you're passionate about cybersecurity and eager to gain practical experience, we'd love to hear from you! Please send your CV along with a short introduction to: <a target="_blank" href="mailto:support@ncl.sg" class="btn btn-default" >support@ncl.sg</a></li></ul>
                   </div>
                 </td>
                 </tr>

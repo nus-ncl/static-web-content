@@ -17,6 +17,41 @@
         <table class="table2">
         <tr>
         <td> <p>&nbsp;</p>
+                    <p onclick="myFunction('NCLS')"><h24>Internship at National Cybersecurity R&D Lab (NCL), School of Computing, NUS</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
+                    <div id="NCLS" class="hide position">
+                        <p>&nbsp;</p>
+                        <strong>Job Description:</strong>
+                        <p align="justify">
+                        <ul>
+                        <li>Position: Cyber Intern</li>
+                        <li>Location: National Cybersecurity R&D Lab (NCL), COM3-B1-09, School of Computing, NUS</li>
+                        <li>Duration: 2-3 months</li>
+                        <li>Eligibility: Students pursuing a Diploma in IT or Computer Science</li>
+</ul>
+</p>
+
+ <p>&nbsp;</p>
+                        <strong>Job Scope:</strong>
+                        <p align="justify">
+                        <ol>
+                        <li><strong>Learn about NCL Server Setup & Network Connectivity:</strong> Gain hands-on experience in setting up and maintaining NCL servers, including configuring network connections and ensuring they meet security protocols.</li>
+                        <li><strong>System & Network Maintenance:</strong> Perform daily tests to monitor the operational status of NCL's network and systems, identifying and troubleshooting any issues that arise.</li>
+                        <li><strong>Capture The Flag (CTF) Activities:</strong></li></ol>
+                        <ul>
+                            <li>Learn about Capture The Flag (CTF) challenges and cybersecurity competitions.</li>
+                            <li>Assist in testing and debugging CTF questions to ensure accuracy and functionality.</li>
+                            <li>Provide online and onsite technical support during CTF competitions and other cybersecurity events hosted by NCL.</li>
+                            <li>Suggest improvements to the CTF program, including the design, deployment, and user experience of challenges.</li>
+</ul></p>
+<p>&nbsp;</p>
+                        <strong>How to Apply:</strong>
+                        <p align="justify">If you're passionate about cybersecurity and eager to gain practical experience, we'd love to hear from you! Please send your CV along with a short introduction to:<a target="_blank" href="mailto:support@ncl.sg" class="btn btn-default" >support@ncl.sg</a>
+                  </div>
+                </td>
+                </tr>
+
+ <tr>
+        <td> <p>&nbsp;</p>
                     <p onclick="myFunction('NCLS')"><h24>NCL Scholarship</h24><h25>&nbsp;&nbsp; + &nbsp;&nbsp;</h25>  </p>
                     <div id="NCLS" class="hide position">
                         <p>&nbsp;</p>

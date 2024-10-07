@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">GreyHats CTF 2024, a Capture The Flag competition hosted jointly by NUS Greyhats and Division Zero (Div0), supported by the National Cybersecurity R&D Lab, was held on July 27th and 28th, 2024, at the School of Computing, National University of Singapore (NUS). Over 80 participants from the top 20 teams of the GreyHats online qualifier competed in the onsite finals.</p></li>
 
-<li><p align="justify">The CTF featured challenges from various categories such as Web Exploitation, Binary Exploitation, Reverse Engineering, Blockchain, Cryptography, and Miscellaneous.</p></li>
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2024/10/greyhats-ctf-and-summit-2024.html">Read More</a>.</p></li>
                             </ul>
                     </div>
                 </div>

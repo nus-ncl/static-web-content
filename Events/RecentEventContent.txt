@@ -26,7 +26,7 @@
                         <ul>
                             <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) participated in the ninth edition of the Singapore International Cyber Week (SICW) – GovWare Exhibition & Conference, which took place from 15-17 October 2024, at the Sands Expo and Convention Centre in Singapore.</p></li>
 
-                            <li><p align="justify">The Singapore International Cyber Week (SICW) is the Asia-Pacific’s most established cybersecurity event organised by the Cyber Security Agency of Singapore (CSA). Under the theme of “Trust and Security in the Digital Era”, SICW 2024 aimed to drive critical conversations and partnerships to foster trust and enhance security in the digital and cyber domain.</p></li>
+                            <li><p align="justify">Additionally, the NCL team attended the “Empowering Research, Innovation & Enterprise (RIE)” Forum, organized in partnership with CSA and the CyberSG R&D Programme Office (CRPO), a national center at Nanyang Technological University (NTU).</p></li>
 
 <li><p><a target="_blank" href="">Read More</a>.</p></li>
                             </ul>

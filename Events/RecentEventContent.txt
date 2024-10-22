@@ -21,7 +21,7 @@
                     <img id="GOVWARE2024" width="300" height="200" border="0" align="left"/>
                 </div>
                 <div class="col-sm-8">
-                    <h3 class="news-header">NCL @ SICW - GovWare 2024 Exhibition & COnference</h3>
+                    <h3 class="news-header">NCL @ SICW - GovWare 2024 Exhibition & Conference</h3>
                     <div class="row">
                         <ul>
                             <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) participated in the ninth edition of the Singapore International Cyber Week (SICW) – GovWare Exhibition & Conference, which took place from 15-17 October 2024, at the Sands Expo and Convention Centre in Singapore.</p></li>

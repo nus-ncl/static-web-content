@@ -28,7 +28,7 @@
 
                             <li><p align="justify">Additionally, the NCL team attended the “Empowering Research, Innovation & Enterprise (RIE)” Forum, organized in partnership with CSA and the CyberSG R&D Programme Office (CRPO), a national center at Nanyang Technological University (NTU).</p></li>
 
-<li><p><a target="_blank" href="">Read More</a>.</p></li>
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2024/10/ncl-at-singapore-international-cyber.html">Read More</a>.</p></li>
                             </ul>
                     </div>
                 </div>

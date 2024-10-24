@@ -8,7 +8,7 @@
             <h2 class="news-header"><font color="#0d6dba">Introduction</font></h2>
             <p>Land based Railway System was built in 2023 by NCL development team, for research in cyber security. Its purpose is to help ICS researchers and instructors test IT/OT attack and defense solutions and provide a platform for ICS security training and education.</p>
             <br/>
-            <p>Our idea on creating a digital version of the railway system simulation platform, designed to replicate the operation of multiple trains traversing distinct tracks, each equipped with unique sensor-signal controls. This platform is intended to serve as a valuable resource for cybersecurity researchers, enabling them to demonstrate and assess the impact of various types of IT attacks on operational technology (OT) systems. The platform comprises six primary components(programs):</p>
+            <p>Our idea on creating a digital version of the railway system simulation platform, designed to replicate the operation of multiple trains traversing distinct tracks, each equipped with unique sensor-signal controls. This platform is intended to serve as a valuable resource for cybersecurity researchers, enabling them to demonstrate and assess the impact of various types of IT attacks on operational technology (OT) systems. The platform comprises six primary components (programs):</p>
             <br/>
             <ul>
                 <li> Land based Railway System </font></li>
@@ -55,8 +55,8 @@
             <p>we have meticulously prepared a set of compelling attack scenarios. primed for demonstration. If you are intrigued and eager to learn more information, please feel free to reach out to us at:</p>
             </br>
 
-             <p style="display: block; margin: 0 auto; text-align: center;">Email: support@ncl.sg</p>
-             <p style="display: block; margin: 0 auto; text-align: center;">Address: National Cybersecurity R&D Lab (NCL), School of Computing, National University of Singapore, COM3-B1-09, Research Link, Singapore 119391</p>
+             <p style="display: block; margin: 0 auto; text-align: center;">Email: <a href="mailto:support@ncl.sg">support@ncl.sg</a></p>
+             <p style="display: block; margin: 0 auto; text-align: center;">Address: National Cybersecurity R&D Lab (NCL), School of Computing, National University of Singapore, COM3-B1-09, Research Link, Singapore 119391.</p>
             <p></p>
  
             </div>

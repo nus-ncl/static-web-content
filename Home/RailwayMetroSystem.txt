@@ -52,7 +52,7 @@
             </br>
             <p>NCL is engaged in an international cyber security exercise, presenting our Railway System. Our railway infrastructure will serve as a live operational technology (OT) target for red team to exploit.</p>
             </br>
-            <p>we have meticulously prepared a set of compelling attack scenarios. primed for demonstration. If you are intrigued and eager to learn more information, please feel free to reach out to us at:</p>
+            <p>we have meticulously prepared a set of compelling attack scenarios, primed for demonstration. If you are intrigued and eager to learn more information, please feel free to reach out to us at:</p>
             </br>
 
              <p style="display: block; margin: 0 auto; text-align: center;">Email: <a href="mailto:support@ncl.sg">support@ncl.sg</a></p>

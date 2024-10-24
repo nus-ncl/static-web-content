@@ -68,7 +68,7 @@
         <div class="row">
           <p><font color="#050505"></font> </p>
           <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Land based Railway System or collaboration, please reach out to us at support@ncl.sg for more information!</font></p>
+          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Land based Railway System or collaboration, please reach out to us at support@ncl.sg</font></p>
         </div>
       </div>    
     </div><!-- Railway Container Ends here-->
@@ -105,7 +105,7 @@
         <div class="row">
           <p><font color="#050505"></font> </p>
           <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the CUE System or collaboration, please reach out to us at support@ncl.sg for more information!</font></p>
+          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the CUE System or collaboration, please reach out to us at support@ncl.sg</font></p>
         </div>
       </div>    
 

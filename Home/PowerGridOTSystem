@@ -1,0 +1,60 @@
+<div layout:fragment="content" id="PowerGridOTSystem">
+ <p></p><br></br>
+    <p></p>
+
+    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+        <div class="row">
+            <h2 class="news-header"><font color="#0d6dba">Introduction:</font></h2>
+            <p>The primary objective of the project is to develop a scaled-down Operational Technology (OT) digital twin/equivalent — the Mini OT-Energy-System Cyber Security Test Platform is a comprehensive software platform designed to simulate the essential operations of a small-scale hybrid power grid. This system will meet the requirements for cybersecurity training, exercises, and research, serving as an essential platform for assessing the resilience and security of OT environments in power systems.</p>
+            <br/>
+            <p>This digital twin provides a dynamic environment for simulating power generation from multiple sources, including natural gas power plants, solar farms, and wind turbine farms. It also simulates high-voltage power transmission and a three-level step-down distribution system.</p>
+            
+              <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
+              <img id="Railway1" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center;">Real-world Railway System Simulator</p>
+
+            </br>
+
+<br/>
+
+              <h2 class="news-header"><font color="#0d6dba">System Overview & Design:</font></h2>
+             <p>The system architecture consists of three primary modules:</p>
+<ul>
+                <li> <b>2D Visualization Program:</b> Simulates the physical-world devices and components of the power grid, providing a clear visual representation of grid operations.</li>
+                <li> <b>OT Field Controller Simulation:</b> Includes simulation programs for PLCs, sensors, Metering Units (MUs), and Remote-Control Units (RTUs) that enable interaction between the grid’s physical elements and the control systems</li>
+                <li> <b>SCADA-HMI System:</b> Provides supervisory control and real-time monitoring of the simulated power grid, allowing for detailed oversight of grid performance and operations.</li>
+            </ul>
+            <br/>
+
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')"/>
+              <img id="Railway2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center;">Railway System Train Controller HMI</p>
+
+            </br>
+
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (18).png','Railway3','PNG')"/>
+              <img id="Railway3" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center;">Railway System SCADA HMI</p>
+
+            </br>
+
+            <h2 class="news-header"><font color="#0d6dba">What might this system be useful for:</font></h2>
+            </br>
+            <ul>
+             <li> <strong>Cybersecurity Training & Exercises:</strong> The platform will enable hands-on cybersecurity exercises, allowing professionals to explore and mitigate the effects of various cyber-attacks on OT systems.</li>
+             <li> <strong>OT System Simulation:</strong> Simulating power grid operations with components that follow the International Electrotechnical Commission standards, particularly IEC 61850 (communication networks and systems for power utility automation) and IEC 60617 (graphical symbols for diagrams), ensuring adherence to industry protocols.</li>
+             <li> <strong>Research & Development (R&D):</strong> Providing a research platform to explore and develop novel cybersecurity strategies, protocols, and solutions specifically for OT systems in the energy sector.</li>
+             <li> <strong>Training for ICS Professionals:</strong> Offering a realistic environment for industrial control system (ICS) professionals to enhance their understanding of OT operations and cyberattack scenarios in a controlled, risk-free setting.</li>
+            <li> <strong>Training for ICS Professionals:</strong> Facilitating the testing of new OT security tools and protocols, as well as demonstrating the impact of cyber-attacks on critical infrastructures, such as power generation and distribution networks.</li>
+            </ul>
+
+            <br/>
+
+            <h2 class="news-header"><font color="#0d6dba">Collaboration:</font></h2>
+            </br>
+            <p>If anyone interested to learn more about the NCL’s Power Grid OT Simulation system or collaboration, please reach out to us at <a href="mailto:support@ncl.sg">support@ncl.sg</a>  for more information!</p>
+ 
+            </div>
+        </div>
+    </div>
+</div>

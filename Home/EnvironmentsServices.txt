@@ -78,8 +78,8 @@
 
       <!-- <div class="col-sm-8 col-sm-offset-3">-->
       <div class="row">
-        <!-- <h2><b><font color="#0d6dba">Land based Railway System</font></b></h2>-->
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Land based Railway System</font></b></h2>
+        <!-- <h2><b><font color="#0d6dba">Power Grid OT Simulation System</font></b></h2>-->
+        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Power Grid OT Simulation System</font></b></h2>
       </div>
 
 
@@ -107,7 +107,7 @@
         <div class="row">
           <p><font color="#050505"></font> </p>
           <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Land based Railway System or collaboration, please reach out to us at support@ncl.sg</font></p>
+          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the Power Grid OT Simulation System System or collaboration, please reach out to us at support@ncl.sg</font></p>
         </div>
       </div>    
     </div><!-- PowerGrid OT Container Ends here-->

@@ -86,7 +86,7 @@
       <div class="col-sm-12">
         <div class="col-sm-6">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
-          <img id="PowerGridEnvironment.jpg" width="550" height="350" border="0" align="left"/>
+          <img id="PowerGridEnvironment.jpg" width="550" height="300" border="0" align="left"/>
         </div>
 
         <div class="col-sm-6">

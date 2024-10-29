@@ -51,8 +51,8 @@
             <br/>
 
             <h2 class="news-header"><font color="#0d6dba">Collaboration:</font></h2>
-            </br>
             <p>If anyone interested to learn more about the NCL’s Power Grid OT Simulation system or collaboration, please reach out to us at <a href="mailto:support@ncl.sg">support@ncl.sg</a>  for more information!</p>
+            </br>
  
             </div>
         </div>

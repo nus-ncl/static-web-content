@@ -98,7 +98,7 @@
               <li><p><font color="#050505">Enable hands-on cybersecurity exercises, training, and research to test resilience against cyber-attacks.</font></p></li>
               <li><p><font color="#050505">Research and development platform for exploring and testing of new OT security tools and protocols.</font></p></li>
               <li><p><font color="#050505">Ideal for researchers, cybersecurity professionals, and ICS experts.</font></p></li>
-              <li><a target="_blank" href="PowerGridOTSystem.txt">Learn More</a></li>
+              <li><a target="_blank" href="PowerGridOTSystem.html">Learn More</a></li>
             </ul>
           </div>
         </div>

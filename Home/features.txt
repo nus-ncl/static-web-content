@@ -1,4 +1,5 @@
 <div layout:fragment="content" id="features">
+<section id="team">
  <p></p><br></br>
     <p></p>
 
@@ -95,8 +96,8 @@
         </div>
       </div>  <!-- part 4 ends-->
     <br />
-    <br />
     </div>
+</section>
 </div>
 
 

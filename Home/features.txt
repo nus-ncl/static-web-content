@@ -92,10 +92,10 @@
             <p>-With datasets ranging from internet traffic data to mobile app data,find and use the one most suitable for you and validate your research.</p>
 
          --> </div>
-         </br>
-         </br>
         </div>
       </div>  <!-- part 4 ends-->
+    <br />
+    <br />
     </div>
 </div>
 

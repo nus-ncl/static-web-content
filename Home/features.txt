@@ -86,13 +86,14 @@
             <ul>
               <li><p>Browse,search and contribute to our collection of datasets contributed by other researchers like you.</p></li>
               <li><p>With datasets ranging from internet traffic data to mobile app data,find and use the one most suitable for you and validate your research.</p></li>
-           </br>
-           </br>
             </ul>
+           
 <!--            <p>-Browse,search and contribute to our collection of datasets contributed by other researchers like you.</p>
             <p>-With datasets ranging from internet traffic data to mobile app data,find and use the one most suitable for you and validate your research.</p>
 
          --> </div>
+         </br>
+         </br>
         </div>
       </div>  <!-- part 4 ends-->
     </div>

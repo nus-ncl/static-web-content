@@ -27,7 +27,7 @@
               <li><p>NCL facilitates in faster research by providing necessary infrastructure,environments and resources to conduct the experiments in the cloud.</p></li>
               <li><p>We provide compute cluster of 200+ nodes,GPU's and High end servers on demand.</p></li>
               <li><p>For nodes reservation/booking please write to us at support@ncl.sg</p></li>
-              <li><p><a href="testbed_information.html" th:href="@{~/testbedInformation}">Click here for more information on nodes</a></p></li>
+              <li><p><a href="../testbedInformation.html" th:href="@{~/testbedInformation}">Click here for more information on nodes</a></p></li>
               <li><p><a href="../pricing.html" th:href="@{~/pricing}">Click here for information on nodes pricing and reservation</a></p></li>
           </ul>
           </div>

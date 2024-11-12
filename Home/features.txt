@@ -21,11 +21,11 @@
           <img id="features1" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
         </div>
       <div class="col-sm-8">
-          <h3 class="news-header">Infrastructure with 200+ nodes,GPU's and High end servers</h3>
+          <h3 class="news-header">Infrastructure with 300+ nodes,GPU's and High end servers</h3>
           <div class="row">
             <ul>
               <li><p>NCL facilitates in faster research by providing necessary infrastructure,environments and resources to conduct the experiments in the cloud.</p></li>
-              <li><p>We provide compute cluster of 200+ nodes,GPU's and High end servers on demand.</p></li>
+              <li><p>We provide compute cluster of 300+ nodes,GPU's and High end servers on demand.</p></li>
               <li><p>For nodes reservation/booking please write to us at support@ncl.sg</p></li>
               <li><p><a href="../testbedInformation.html" th:href="@{~/testbedInformation}">Click here for more information on nodes</a></p></li>
               <li><p><a href="../pricing.html" th:href="@{~/pricing}">Click here for information on nodes pricing and reservation</a></p></li>
@@ -34,28 +34,7 @@
         </div>
       </div>  <!-- part 1 ends-->
 
-      <div class="col-sm-12">
-        <div class="col-sm-4">
-          <p></p>
-          <p></p>
-          <p></p>
-          <img src="images/cloud-computing9.jpg" style="display: none" onload="loadImage('cloud-computing9.jpg', 'features2', 'JPG')">
-          <img id="features2" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
-        </div>
-       <!-- <h3 class="news-header">Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</h3>-->
-        <div class="col-sm-8">
-          <h3 class="news-header">Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</h3>
-          <div class="row">
-            <ul>
-              <li><p>Expedite R&amp;D,translation &amp; delivery of new solutions by saving time on tedious experiment setups.</p></li>
-              <li><p>We provide a set of virtual networks,vulnerability environments(50+ CVE’s).</p></li>
-              <li><p>Hard to simulate and controlled environments with common components supporting wide range of activities.</p></li>
-              <li><p>From replicating an experiment to reusing a particular network topology,it can be easily done on NCL testbed.</p></li>
-            </ul>
-          </div>
-        </div>
-
-      </div>  <!-- part 2 ends-->
+       <!-- part 2 ends-->
 
       <div class="col-sm-12">
         <div class="col-sm-4">
@@ -99,6 +78,29 @@
          --> </div>
         </div>
       </div>  <!-- part 4 ends-->
+
+<div class="col-sm-12">
+        <div class="col-sm-4">
+          <p></p>
+          <p></p>
+          <p></p>
+          <img src="images/cloud-computing9.jpg" style="display: none" onload="loadImage('cloud-computing9.jpg', 'features2', 'JPG')">
+          <img id="features2" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+        </div>
+       <!-- <h3 class="news-header">Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</h3>-->
+        <div class="col-sm-8">
+          <h3 class="news-header">Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</h3>
+          <div class="row">
+            <ul>
+              <li><p>Expedite R&amp;D,translation &amp; delivery of new solutions by saving time on tedious experiment setups.</p></li>
+              <li><p>We provide a set of virtual networks,vulnerability environments(50+ CVE’s).</p></li>
+              <li><p>Hard to simulate and controlled environments with common components supporting wide range of activities.</p></li>
+              <li><p>From replicating an experiment to reusing a particular network topology,it can be easily done on NCL testbed.</p></li>
+            </ul>
+          </div>
+        </div>
+
+      </div> <!-- part 5 ends-->
     <br />
     </div>
 </section>

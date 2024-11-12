@@ -38,8 +38,8 @@
         <div class="col-sm-4">
           <p></p>
           <p></p>
-          <img src="images/data-center4.jpg" style="display: none" onload="loadImage('data-center4.jpg', 'features1', 'JPG')">
-          <img id="features1" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+          <img src="images/PowerGridEnvironment.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg', 'features2', 'JPG')">
+          <img id="features2" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Power Grid OT Simulation System</h3>
@@ -106,7 +106,7 @@
           <p></p>
           <p></p>
           <p></p>
-          <img src="images/cloud-computing9.jpg" style="display: none" onload="loadImage('cloud-computing9.jpg', 'features2', 'JPG')">
+          <img src="images/cloud-computing9.jpg" style="display: none" onload="loadImage('cloud-computing9.jpg', 'features5', 'JPG')">
           <img id="features2" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
         </div>
        <!-- <h3 class="news-header">Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</h3>-->

@@ -34,6 +34,28 @@
         </div>
       </div>  <!-- part 1 ends-->
 
+<div class="col-sm-12">
+        <div class="col-sm-4">
+          <p></p>
+          <p></p>
+          <img src="images/data-center4.jpg" style="display: none" onload="loadImage('data-center4.jpg', 'features1', 'JPG')">
+          <img id="features1" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+        </div>
+      <div class="col-sm-8">
+          <h3 class="news-header">Power Grid OT Simulation System</h3>
+          <div class="row">
+            <ul>
+              <li><p>Dynamic environment for simulating small-scale hybrid power grid operations.</p></li>
+              <li><p>Enable hands-on cybersecurity exercises, training, and research to test resilience against cyber-attacks.</p></li>
+              <li><p>Research and development platform for exploring and testing of new OT security tools and protocols.</p></li>
+<li><p>Ideal for researchers, cybersecurity professionals, and ICS experts.</p></li>
+              <li><p><a target="_blank" href="https://ncl.sg/PowerGridOTSystem.html">Learn More</a></p></li>
+          </ul>
+          </div>
+        </div>
+      </div> 
+
+
        <!-- part 2 ends-->
 
       <div class="col-sm-12">

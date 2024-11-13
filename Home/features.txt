@@ -38,8 +38,8 @@
         <div class="col-sm-4">
           <p></p>
           <p></p>
-          <img src="images/PowerGridEnvironment.jpg" onload="loadImage('PowerGridEnvironment.jpg', 'features5', 'JPG')">
-          <img id="features5" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+          <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
+          <img id="PowerGridEnvironment.jpg" width="550" height="300" border="0" align="left"/>
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Power Grid OT Simulation System</h3>

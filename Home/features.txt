@@ -38,7 +38,7 @@
         <div class="col-sm-4">
           <p></p>
           <p></p>
-          <img src="images/PowerGridEnvironment.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg', 'features5', 'JPG')">
+          <img src="images/PowerGridEnvironment.jpg" onload="loadImage('PowerGridEnvironment.jpg', 'features5', 'JPG')">
           <img id="features5" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
         </div>
       <div class="col-sm-8">

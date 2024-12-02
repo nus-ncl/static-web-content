@@ -23,6 +23,8 @@
                 <a >
                     Download: ICO2025-InfoPack
                 </a>
+                </br>
+
 
                 <p><strong><u>Event Schedule:</u></strong> </p>
                 <p>All dates/time in Singapore Standard Time (GMT+8)</p>

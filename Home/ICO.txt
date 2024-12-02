@@ -23,7 +23,7 @@
                 <a >
                     Download: ICO2025-InfoPack
                 </a>
-                </br>
+                <p></p>
 
 
                 <p><strong><u>Event Schedule:</u></strong> </p>

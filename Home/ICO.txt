@@ -165,19 +165,19 @@
             
         <p><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </p>
         <ul>
-            <li><strong><font color="#050505"Session 1: Cryptography </font></strong></li>
-            <li><strong><font color="#050505"Session 2: Networking Fundamentals</font></strong></li>
-            <li><strong><font color="#050505"Session 3: Red Teaming & Introduction to CTF </font></strong></li>
-            <li><strong><font color="#050505"Session 4: Digital Forensics</font></strong></li>
+            <li><strong><font color="#050505">Session 1: Cryptography </font></strong></li>
+            <li><strong><font color="#050505">Session 2: Networking Fundamentals</font></strong></li>
+            <li><strong><font color="#050505">Session 3: Red Teaming & Introduction to CTF </font></strong></li>
+            <li><strong><font color="#050505">Session 4: Digital Forensics</font></strong></li>
         </ul>
         
         </br>
 
-        <p><strong><u><font color="#050505"Organised by:</font></u></strong> </p>
+        <p><strong><u><font color="#050505">Organised by:</font></u></strong> </p>
 
-        <p><strong><u><font color="#050505"Supported by:</font></u></strong> </p>
+        <p><strong><u><font color="#050505">Supported by:</font></u></strong> </p>
 
-        <p><strong><u><font color="#050505"Sponsors:</font></u></strong> </p>        
+        <p><strong><u><font color="#050505">Sponsors:</font></u></strong> </p>        
         
         </div>
         </div>

@@ -2,32 +2,30 @@
 
        <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
            <div class="row">
-               <h2 class="news-header"><font color="#0d6dba">International Cybersecurity Olympiad 2025</font></h2>
-               <p>The International Cybersecurity Olympiad (ICO) is a prestigious global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). ICO is led by university professors, cybersecurity practitioners, and industry professionals, including Associate Professor Tan Sun Teck, the current President of IOI.</p>
+               <h2 class="news-header"><font color="#050505">International Cybersecurity Olympiad 2025</font></h2>
+               <p><font color="#050505">The International Cybersecurity Olympiad (ICO) is a prestigious global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). ICO is led by university professors, cybersecurity practitioners, and industry professionals, including Associate Professor Tan Sun Teck, the current President of IOI.</font></p>
                <br/>
-               <p>The School of Computing at the National University of Singapore (NUS-SoC) is proud to host the inaugural International Cybersecurity Olympiad (ICO 2025) from June 22 to June 28, 2025.</p>
+               <p><font color="#050505">The School of Computing at the National University of Singapore (NUS-SoC) is proud to host the inaugural International Cybersecurity Olympiad (ICO 2025) from June 22 to June 28, 2025.</font></p>
                </br>
-               <p> As a truly global platform, the event will invite participants from 45 countries. Each country will be represented by a delegation comprising two team leaders and four outstanding students, selected through rigorous national qualification processes that align with the Olympiad's stringent standards. Additionally, students from Singaporean schools will undergo training, with the top eight selected to represent Singapore at ICO 2025.</p>   
+               <p><font color="#050505"> As a truly global platform, the event will invite participants from 45 countries. Each country will be represented by a delegation comprising two team leaders and four outstanding students, selected through rigorous national qualification processes that align with the Olympiad's stringent standards. Additionally, students from Singaporean schools will undergo training, with the top eight selected to represent Singapore at ICO 2025.</font></p>   
                </br>
-               <p>Each participating country selects a team of up to four contestants to represent their nation. The team, accompanied by a team leader and deputy leader, will compete in a two-day competition. Contestants will individually compete to achieve the highest scores by solving complex cybersecurity problems within a set time frame</p>
+               <p><font color="#050505">Each participating country selects a team of up to four contestants to represent their nation. The team, accompanied by a team leader and deputy leader, will compete in a two-day competition. Contestants will individually compete to achieve the highest scores by solving complex cybersecurity problems within a set time frame. </font></p>
                 <br/>
-                <p>The International Cybersecurity Olympiad (ICO) aims to achieve several key goals, including the following:</p>
+                <p><font color="#050505">The International Cybersecurity Olympiad (ICO) aims to achieve several key goals, including the following:</font></p>
                 <ul>
-                    <li><strong>Raise Global Awareness:</strong> Promote global awareness of the importance of cybersecurity and highlight the urgent need for skilled professionals in this critical field.</li>
-                    <li><strong>Nurture Young Talent:</strong> Inspire students to explore cybersecurity as a career path, developing a future pipeline of skilled cybersecurity professionals.</li>
-                    <li><strong>Facilitate Global Networking:</strong> Offer participants and team leaders a platform to engage, exchange knowledge, and build international connections.</li>
-                    <li><strong>Encourage Collaboration:</strong> Foster cooperation and cultural exchange among students and educators, contributing to the growth of a global cybersecurity community.</li>
+                    <li><strong><font color="#050505">Raise Global Awareness:</strong> Promote global awareness of the importance of cybersecurity and highlight the urgent need for skilled professionals in this critical field.</font></li>
+                    <li><strong><font color="#050505">Nurture Young Talent:</strong> Inspire students to explore cybersecurity as a career path, developing a future pipeline of skilled cybersecurity professionals.</font></li>
+                    <li><strong><font color="#050505">Facilitate Global Networking:</strong> Offer participants and team leaders a platform to engage, exchange knowledge, and build international connections.</font></li>
+                    <li><strong><font color="#050505">Encourage Collaboration:</strong> Foster cooperation and cultural exchange among students and educators, contributing to the growth of a global cybersecurity community.</font></li>
                 </ul>
-                <p>Furthermore, ICO has separate Cybersecurity Workshop sessions for Teachers during the Olympiad, providing educators with foundational cybersecurity knowledge that they can pass on to students in their schools. Refer to ICO2025-InfoPack for the workshop topics.</p>
+                <p><font color="#050505">Furthermore, ICO has separate Cybersecurity Workshop sessions for Teachers during the Olympiad, providing educators with foundational cybersecurity knowledge that they can pass on to students in their schools. Refer to ICO2025-InfoPack for the workshop topics.</font></p>
                 
                 <a >
                     Download: ICO2025-InfoPack
                 </a>
-                <p></p>
 
-
-                <p><strong><u>Event Schedule:</u></strong> </p>
-                <p>All dates/time in Singapore Standard Time (GMT+8)</p>
+                <p><strong><u><font color="#050505"></font>Event Schedule:</font></u></strong> </p>
+                <p><font color="#050505">All dates/time in Singapore Standard Time (GMT+8)</font></p>
                 </br>
 
         <div class="table-responsive">
@@ -165,21 +163,21 @@
             </table>   
             </br> 
             
-        <p><strong><u>Links to access Training Materials for the Qualifier:</u></strong> </p>
+        <p><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </p>
         <ul>
-            <li><strong>Session 1: Cryptography </strong></li>
-            <li><strong>Session 2: Networking Fundamentals</strong></li>
-            <li><strong>Session 3: Red Teaming & Introduction to CTF </strong></li>
-            <li><strong>Session 4: Digital Forensics</strong></li>
+            <li><strong><font color="#050505"Session 1: Cryptography </font></strong></li>
+            <li><strong><font color="#050505"Session 2: Networking Fundamentals</font></strong></li>
+            <li><strong><font color="#050505"Session 3: Red Teaming & Introduction to CTF </font></strong></li>
+            <li><strong><font color="#050505"Session 4: Digital Forensics</font></strong></li>
         </ul>
         
         </br>
 
-        <p><strong><u>Organised by:</u></strong> </p>
+        <p><strong><u><font color="#050505"Organised by:</font></u></strong> </p>
 
-        <p><strong><u>Supported by:</u></strong> </p>
+        <p><strong><u><font color="#050505"Supported by:</font></u></strong> </p>
 
-        <p><strong><u>Sponsors:</u></strong> </p>        
+        <p><strong><u><font color="#050505"Sponsors:</font></u></strong> </p>        
         
         </div>
         </div>

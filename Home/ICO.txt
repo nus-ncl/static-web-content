@@ -19,43 +19,167 @@
                     <li><strong>Encourage Collaboration:</strong> Foster cooperation and cultural exchange among students and educators, contributing to the growth of a global cybersecurity community.</li>
                 </ul>
                 <p>Furthermore, ICO has separate Cybersecurity Workshop sessions for Teachers during the Olympiad, providing educators with foundational cybersecurity knowledge that they can pass on to students in their schools. Refer to ICO2025-InfoPack for the workshop topics.</p>
-   
+                
+                <a >
+                    Download: ICO2025-InfoPack
+                </a>
+
                 <p><strong><u>Event Schedule:</u></strong> </p>
                 <p>All dates/time in Singapore Standard Time (GMT+8)</p>
+                </br>
 
-               <div class="table-responsive">
-                    <table class="table1" style="width:50%" align="center" >
-                      <thead BGCOLOR="#E0E0E0">
-                        <th width="15%">
-                          <p>
-                            <h5><strong>DATE:</strong></h5>
-                          </p>
-                        </th>
-                        <th width="15%">
-                          <p>
-                            <h5><strong>PROGRAMME:</strong></h5>
-                          </p>
-                        </th>
-                      </thead>
-                      <tr BGCOLOR="#fff"  >
-                        <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
-                          <div align="center">Sunday, 22 June 2025</div>
-                        </td>
-                        <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
-                          <div align="center">Arrival and Registration and Tour of NUS facilities</div>
-                        </td>
-                      </tr>
-                      <tr BGCOLOR="#fff" >
-                        <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
-                          <div align="center">Monday, 23 June 2025</div>
-                        </td>
-                        <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
-                          <div align="center">Opening ceremony and Practice session</div>
-                        </td>
-                      </tr>          
+        <div class="table-responsive">
+            <table class="table1" style="width:50%" style="border: 1px solid black; border-collapse: collapse;">
+                <thead BGCOLOR="#E0E0E0">
+                <th width="15%">
+                    <p>
+                    <h5><strong>DATE:</strong></h5>
+                    </p>
+                </th>
+                <th width="15%">
+                    <p>
+                    <h5><strong>PROGRAMME:</strong></h5>
+                    </p>
+                </th>
+                </thead>
+                <tr BGCOLOR="#fff"  >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Sunday, 22 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Arrival and Registration and Tour of NUS facilities</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Monday, 23 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Opening ceremony and Practice session</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Tuesday, 24 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">1st Contest Day and Teachers’ workshop 1</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Wednesday, 25 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Excursion Day 1 and Teachers’ workshop 2</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Thursday, 26 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">2nd Contest Day, Teachers’ workshop 3 and Award Ceremony</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Friday, 27 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Excursion Day 2</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Saturday, 28 June 2025</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Departure, programmes at Jewel, Changi Airport.</div>
+                </td>
+                </tr>
+            </table>  
+            </br>
+            
+        <p><strong><u>Proposed Event Details & Fee:</u></strong> </p>
+        <div class="table-responsive">
+            <table class="table2" style="width:50%" style="border: 1px solid black; border-collapse: collapse;">
+                <tr BGCOLOR="#fff"  >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Proposed dates:</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">22 June – 28 June 2025 (7 days)</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Event venue:</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">National University of Singapore (NUS)</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Main accommodation for delegates:</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">NUS U-Town Residences</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Point of Entry:</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">Singapore Changi Airport</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Team Registration Fee:</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">US$1000 per team</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Guest Registration Fee:</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">US$1500 per pax</div>
+                </td>
+                </tr>
+                <tr BGCOLOR="#fff" >
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                    <div align="center">Teacher’s Workshop Fee (3 sessions):</div>
+                </td>
+                <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                    <div align="center">US$1500 per pax</div>
+                </td>
+                </tr>
+            </table>   
+            </br> 
+            
+        <p><strong><u>Links to access Training Materials for the Qualifier:</u></strong> </p>
+        <ul>
+            <li><strong>Session 1: Cryptography </strong></li>
+            <li><strong>Session 2: Networking Fundamentals</strong></li>
+            <li><strong>Session 3: Red Teaming & Introduction to CTF </strong></li>
+            <li><strong>Session 4: Digital Forensics</strong></li>
+        </ul>
+        
+        </br>
 
-    
-               </div>
-           </div>
+        <p><strong><u>Organised by:</u></strong> </p>
+
+        <p><strong><u>Supported by:</u></strong> </p>
+
+        <p><strong><u>Sponsors:</u></strong> </p>        
+        
+        </div>
+        </div>
        </div>
    </div>

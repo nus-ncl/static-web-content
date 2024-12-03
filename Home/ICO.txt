@@ -1,10 +1,10 @@
 <div layout:fragment="content" id="ICO">
- <p></p><br></br>
+    <p></p><br></br>
     <p></p>
-
-       <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+    
+       <!--<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;"> -->
            <div class="row">
-               <h2 class="news-header"><font color="#050505">International Cybersecurity Olympiad 2025</font></h2>
+            <h2 align="center"><b><font color="#0d6dba"  size="6.5px">International Cybersecurity Olympiad 2025</font></b></h2>
                <p><font color="#050505">The International Cybersecurity Olympiad (ICO) is a prestigious global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). ICO is led by university professors, cybersecurity practitioners, and industry professionals, including Associate Professor Tan Sun Teck, the current President of IOI.</font></p>
                <br/>
                <p><font color="#050505">The School of Computing at the National University of Singapore (NUS-SoC) is proud to host the inaugural International Cybersecurity Olympiad (ICO 2025) from June 22 to June 28, 2025.</font></p>
@@ -27,6 +27,7 @@
                     Download: ICO2025-InfoPack
                 </a>
                 -->
+
                 <p><strong><u><font color="#050505"></font>Event Schedule:</font></u></strong> </p>
                 <p><font color="#050505">All dates/time in Singapore Standard Time (GMT+8)</font></p>
                 <br/>
@@ -112,7 +113,7 @@
                     <div align="center">Proposed dates:</div>
                 </td>
                 <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
-                    <div align="center">22 June – 28 June 2025 (7 days)</div>
+                    <div align="center">22 June to 28 June 2025 (7 days)</div>
                 </td>
                 </tr>
                 <tr BGCOLOR="#fff" >
@@ -155,16 +156,22 @@
                     <div align="center">US$1500 per pax</div>
                 </td>
                 </tr>
-                <!--
                 <tr BGCOLOR="#fff" >
                 <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
-                    <div align="center">Teacher’s Workshop Fee (3 sessions):</div>
+                    <div align="center">Teacher’s Workshop Fee (3 sessions) - Overseas participant:</div>
                 </td>
                 <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
                     <div align="center">US$1500 per pax</div>
                 </td>
                 </tr>
-                -->
+                <tr BGCOLOR="#fff" >
+                    <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;" >
+                        <div align="center">Teacher’s Workshop Fee (3 sessions) - Local participant:</div>
+                    </td>
+                    <td style="border: 1px solid black; border-collapse: collapse; text-align: center; background-color: #fff;">
+                        <div align="center">SG$500 per pax</div>
+                    </td>
+                    </tr>
             </table>   
             <br/>
             
@@ -184,6 +191,7 @@
 
         <p><strong><u><font color="#050505">Sponsors:</font></u></strong> </p>        
         -->
+        
         </div>
         </div>
        </div>

@@ -5,7 +5,9 @@
        <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: contain;object-position: 50% 50%;">
            <div class="row">
             <h2 align="center"><b><font color="#0d6dba"  size="6.5px">International Cybersecurity Olympiad 2025</font></b></h2>
-               <p><font color="#050505">The International Cybersecurity Olympiad (ICO) is a prestigious global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). ICO is led by university professors, cybersecurity practitioners, and industry professionals, including Associate Professor Tan Sun Teck, the current President of IOI.</font></p>
+               <p><font color="#050505">The International Cybersecurity Olympiad (ICO) is a global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). </font></p>
+
+        <p><font color="#050505"><b>Why the ICO?</b> - Cybersecurity is a growing global concern, with cyber threats evolving faster than the supply of skilled professionals. Despite the rising demand, a significant gap persists in cybersecurity education and talent development worldwide. The ICO aims to address this challenge by providing a competitive platform to identify and nurture the brightest young minds in cybersecurity. The ICO also offers a structured and prestigious environment where students can showcase their skills and gain international recognition. Led by university professors, cybersecurity practitioners, and professionals including Associate Professor Tan Sun Teck, the current President of the IOI, the ICO is designed to push the boundaries of cybersecurity education and innovation.</font></p>
                <br/>
                <p><font color="#050505">The School of Computing at the National University of Singapore (NUS-SoC) is proud to host the inaugural International Cybersecurity Olympiad (ICO 2025) from June 22 to June 28, 2025.</font></p>
                </br>
@@ -187,6 +189,8 @@
             <br/>
             <li><strong><font color="#050505">Session 4: Digital Forensics</font></strong></li>
         </ul>
+
+<h3><strong><u><font color="#050505">Event Support</font></u></strong> </h3>
         
         <br/>
         <!--

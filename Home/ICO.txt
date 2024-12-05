@@ -28,7 +28,7 @@
                 </a>
                 -->
 
-                <p><strong><u><font color="#050505"></font>Event Schedule:</font></u></strong> </p>
+                <h3><strong><u><font color="#050505">Event Schedule:</font></u></strong> </h3>
                 <p><font color="#050505">All dates/time in Singapore Standard Time (GMT+8)</font></p>
                 <br/>
 
@@ -105,7 +105,7 @@
             </table>  
             </br>
             
-        <p><strong><u><font color="#050505">Proposed Event Details & Fee:</font></u></strong> </p>
+        <h3><strong><u><font color="#050505">Proposed Event Details & Fee:</font></u></strong> </h3>
         <div class="table-responsive">
             <table class="table2" style="width:60%; color:black; border: 2px solid black; border-collapse: collapse;">
                 <tr BGCOLOR="#fff"  >
@@ -175,11 +175,16 @@
             </table>   
             <br/>
             
-        <p><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </p>
+        <h2><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </h2>
         <ul>
-            <li><strong><font color="#050505">Session 1: Cryptography </font></strong></li>
+            <li><strong><font color="#050505">Session 1: Cryptography</font></strong>
+            <!--    <a href="https://www.youtube.com/watch?v=JoeiLuFNBc4&list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII" target="_blank">--></a>
+            </li>
+            <br/>
             <li><strong><font color="#050505">Session 2: Networking Fundamentals</font></strong></li>
+            <br/>
             <li><strong><font color="#050505">Session 3: Red Teaming & Introduction to CTF </font></strong></li>
+            <br/>
             <li><strong><font color="#050505">Session 4: Digital Forensics</font></strong></li>
         </ul>
         

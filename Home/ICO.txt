@@ -175,7 +175,7 @@
             </table>   
             <br/>
             
-        <h2><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </h2>
+        <h3><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </h3>
         <ul>
             <li><strong><font color="#050505">Session 1: Cryptography</font></strong>
             <!--    <a href="https://www.youtube.com/watch?v=JoeiLuFNBc4&list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII" target="_blank">--></a>

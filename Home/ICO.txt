@@ -5,22 +5,22 @@
        <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: contain;object-position: 50% 50%;">
            <div class="row">
             <h2 align="center"><b><font color="#0d6dba"  size="6.5px">International Cybersecurity Olympiad 2025</font></b></h2>
-               <p align="justify"><font color="#050505">The International Cybersecurity Olympiad (ICO) is a global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). </font></p>
+               <p align="justify"><font color="#050505"><b>The International Cybersecurity Olympiad (ICO)</b> is a global event inspired by renowned competitions such as the International Olympiad in Informatics (IOI) and the International Mathematical Olympiad (IMO). </font></p>
 
-        <p align="justify"><font color="#050505"><b>Why the ICO?</b> - Cybersecurity is a growing global concern, with cyber threats evolving faster than the supply of skilled professionals. Despite the rising demand, a significant gap persists in cybersecurity education and talent development worldwide. The ICO aims to address this challenge by providing a competitive platform to identify and nurture the brightest young minds in cybersecurity. The ICO also offers a structured and prestigious environment where students can showcase their skills and gain international recognition. Led by university professors, cybersecurity practitioners, and professionals including Associate Professor Tan Sun Teck, the current President of the IOI, the ICO is designed to push the boundaries of cybersecurity education and innovation.</font></p>
+        <p align="justify"><font color="#050505"><b>Why the ICO?</b> - Cybersecurity is a growing global concern, with cyber threats evolving faster than the supply of skilled professionals. Despite the rising demand, a significant gap persists in cybersecurity education and talent development worldwide. The ICO aims to address this challenge by providing a competitive platform to identify and nurture the brightest young minds in cybersecurity. The ICO also offers a structured and prestigious environment where students can showcase their skills and gain international recognition. Led by university professors, cybersecurity practitioners, and professionals including <b>Associate Professor Tan Sun Teck</b>, the current President of the IOI, the ICO is designed to push the boundaries of cybersecurity education and innovation.</font></p>
            
-               <p align="justify"><font color="#050505">The School of Computing at the National University of Singapore (NUS-SoC) is proud to host the inaugural International Cybersecurity Olympiad (ICO 2025) from June 22 to June 28, 2025.</font></p>
+               <p align="justify"><font color="#050505">The <b>School of Computing at the National University of Singapore (NUS-SoC)</b> is proud to host the inaugural International Cybersecurity Olympiad (ICO 2025) from June 22 to June 28, 2025.</font></p>
             
                <p align="justify"><font color="#050505"> As a truly global platform, the event will invite participants from 45 countries. Each country will be represented by a delegation comprising two team leaders and four outstanding students, selected through rigorous national qualification processes that align with the Olympiad's stringent standards. Additionally, students from Singaporean schools will undergo training, with the top eight selected to represent Singapore at ICO 2025.</font></p>   
           
                <p align="justify"><font color="#050505">Each participating country selects a team of up to four contestants to represent their nation. The team, accompanied by a team leader and deputy leader, will compete in a two-day competition. Contestants will individually compete to achieve the highest scores by solving complex cybersecurity problems within a set time frame. </font></p>
 
                 <p align="justify"><font color="#050505">The International Cybersecurity Olympiad (ICO) aims to achieve several key goals, including the following:</font></p>
-                <ul>
-                    <li><strong><font color="#050505">Raise Global Awareness:</strong> Promote global awareness of the importance of cybersecurity and highlight the urgent need for skilled professionals in this critical field.</font></li>
-                    <li><strong><font color="#050505">Nurture Young Talent:</strong> Inspire students to explore cybersecurity as a career path, developing a future pipeline of skilled cybersecurity professionals.</font></li>
-                    <li><strong><font color="#050505">Facilitate Global Networking:</strong> Offer participants and team leaders a platform to engage, exchange knowledge, and build international connections.</font></li>
-                    <li><strong><font color="#050505">Encourage Collaboration:</strong> Foster cooperation and cultural exchange among students and educators, contributing to the growth of a global cybersecurity community.</font></li>
+                <ul align="justify">
+                    <li align="justify"><strong><font color="#050505">Raise Global Awareness:</strong> Promote global awareness of the importance of cybersecurity and highlight the urgent need for skilled professionals in this critical field.</font></li>
+                    <li align="justify"><strong><font color="#050505">Nurture Young Talent:</strong> Inspire students to explore cybersecurity as a career path, developing a future pipeline of skilled cybersecurity professionals.</font></li>
+                    <li align="justify"><strong><font color="#050505">Facilitate Global Networking:</strong> Offer participants and team leaders a platform to engage, exchange knowledge, and build international connections.</font></li>
+                    <li align="justify"><strong><font color="#050505">Encourage Collaboration:</strong> Foster cooperation and cultural exchange among students and educators, contributing to the growth of a global cybersecurity community.</font></li>
                 </ul>
                 <p align="justify"><font color="#050505">Furthermore, ICO has separate Cybersecurity Workshop sessions for Teachers during the Olympiad, providing educators with foundational cybersecurity knowledge that they can pass on to students in their schools.</font></p>
                 <!--
@@ -178,14 +178,14 @@
             
         <h3><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </h3>
         <ul>
-            <li><strong><font color="#050505">Session 1: Cryptography</font></strong><a href="https://youtu.be/YPRf6YWL_0g?si=Pmzf_mYjQh0XEPfG" target="_blank">https://youtu.be/YPRf6YWL_0g?si=Pmzf_mYjQh0XEPfG</a>
+            <li><strong><font color="#050505">Session 1: Cryptography - </font></strong><a href="https://youtu.be/YPRf6YWL_0g?si=Pmzf_mYjQh0XEPfG" target="_blank">https://youtu.be/YPRf6YWL_0g?si=Pmzf_mYjQh0XEPfG</a>
             </li>
             <br/>
-            <li><strong><font color="#050505">Session 2: Networking Fundamentals</font></strong><a href="https://youtu.be/W_hxzKrbedM?si=gsH7J_UUAQtEKylM" target="_blank">https://youtu.be/W_hxzKrbedM?si=gsH7J_UUAQtEKylM</a></li>
+            <li><strong><font color="#050505">Session 2: Networking Fundamentals - </font></strong><a href="https://youtu.be/W_hxzKrbedM?si=gsH7J_UUAQtEKylM" target="_blank">https://youtu.be/W_hxzKrbedM?si=gsH7J_UUAQtEKylM</a></li>
             <br/>
-            <li><strong><font color="#050505">Session 3: Red Teaming & Introduction to CTF </font></strong><a href="https://youtu.be/nJ-pJv7EbYQ?si=B9NVq_6Wyxc2ZTWd" target="_blank">https://youtu.be/nJ-pJv7EbYQ?si=B9NVq_6Wyxc2ZTWd</a></li>
+            <li><strong><font color="#050505">Session 3: Red Teaming & Introduction to CTF - </font></strong><a href="https://youtu.be/nJ-pJv7EbYQ?si=B9NVq_6Wyxc2ZTWd" target="_blank">https://youtu.be/nJ-pJv7EbYQ?si=B9NVq_6Wyxc2ZTWd</a></li>
             <br/>
-            <li><strong><font color="#050505">Session 4: Digital Forensics</font></strong><a href="https://youtu.be/uqLoMIYHIiw?si=eEF8lqsljgaRpADP" target="_blank">https://youtu.be/uqLoMIYHIiw?si=eEF8lqsljgaRpADP</a></li>
+            <li><strong><font color="#050505">Session 4: Digital Forensics - </font></strong><a href="https://youtu.be/uqLoMIYHIiw?si=eEF8lqsljgaRpADP" target="_blank">https://youtu.be/uqLoMIYHIiw?si=eEF8lqsljgaRpADP</a></li>
         </ul>
 
  <p align="justify"><font color="#050505">The International Cybersecurity Olympiad (ICO) has received in-principle support from the <b> National University of Singapore (NUS), the Cyber Security Agency of Singapore (CSA), and the Singapore Exhibition and Convention Bureau (SECB)</b>. Several other agencies have expressed interest in the ICO and are currently in the process of obtaining approval.</font></p>

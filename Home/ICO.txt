@@ -177,6 +177,7 @@
             <br/>
             
         <h3><strong><u><font color="#050505">Links to access Training Materials for the Qualifier:</font></u></strong> </h3>
+<p>
         <ul>
             <li><strong><font color="#050505">Session 1: Cryptography - </font></strong><a href="https://youtu.be/YPRf6YWL_0g?si=Pmzf_mYjQh0XEPfG" target="_blank">https://youtu.be/YPRf6YWL_0g?si=Pmzf_mYjQh0XEPfG</a>
             </li>
@@ -187,7 +188,7 @@
             <br/>
             <li><strong><font color="#050505">Session 4: Digital Forensics - </font></strong><a href="https://youtu.be/uqLoMIYHIiw?si=eEF8lqsljgaRpADP" target="_blank">https://youtu.be/uqLoMIYHIiw?si=eEF8lqsljgaRpADP</a></li>
         </ul>
-
+</p>
  <p align="justify"><font color="#050505">The International Cybersecurity Olympiad (ICO) has received in-principle support from the <b> National University of Singapore (NUS), the Cyber Security Agency of Singapore (CSA), and the Singapore Exhibition and Convention Bureau (SECB)</b>. Several other agencies have expressed interest in the ICO and are currently in the process of obtaining approval.</font></p>
         
         <br/>

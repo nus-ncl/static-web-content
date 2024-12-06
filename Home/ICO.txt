@@ -177,16 +177,17 @@
             <br/>
             
         <h3><strong><u><font color="#050505">Links to access training materials for the qualifier:</font></u></strong> </h3>
+<br/>
 <p>
         <ul>
-            <li><strong><font color="#050505">Session 1: Cryptography - </font></strong><a href="https://www.youtube.com/watch?v=YPRf6YWL_0g&list=PL5mmotniLP891qCJ8zj1tHIxv5UDRph6M" target="_blank">Videos</a>
+            <li><strong><font color="#050505">Session 1: Cryptography - </font></strong><a href="https://www.youtube.com/watch?v=YPRf6YWL_0g&list=PL5mmotniLP891qCJ8zj1tHIxv5UDRph6M" target="_blank"><b><u>Videos</u></b></a>
             </li>
             <br/>
-            <li><strong><font color="#050505">Session 2: Networking Fundamentals - </font></strong><a href="https://www.youtube.com/watch?v=W_hxzKrbedM&list=PL5mmotniLP8-PQQepNHbPL1FEzzVEXVax" target="_blank">Videos</a></li>
+            <li><strong><font color="#050505">Session 2: Networking Fundamentals - </font></strong><a href="https://www.youtube.com/watch?v=W_hxzKrbedM&list=PL5mmotniLP8-PQQepNHbPL1FEzzVEXVax" target="_blank"><b><u>Videos</u></b></a></li>
             <br/>
-            <li><strong><font color="#050505">Session 3: Red Teaming & Introduction to CTF - </font></strong><a href="https://www.youtube.com/watch?v=nJ-pJv7EbYQ&list=PL5mmotniLP88W76k8Ms25xls0li1-XgkW" target="_blank">Videos</a></li>
+            <li><strong><font color="#050505">Session 3: Red Teaming & Introduction to CTF - </font></strong><a href="https://www.youtube.com/watch?v=nJ-pJv7EbYQ&list=PL5mmotniLP88W76k8Ms25xls0li1-XgkW" target="_blank"><b><u>Videos</u></b></a></li>
             <br/>
-            <li><strong><font color="#050505">Session 4: Digital Forensics - </font></strong><a href="https://www.youtube.com/watch?v=uqLoMIYHIiw&list=PL5mmotniLP88EPfaBpGgRm1bPejZiS-Rv" target="_blank">Videos</a></li>
+            <li><strong><font color="#050505">Session 4: Digital Forensics - </font></strong><a href="https://www.youtube.com/watch?v=uqLoMIYHIiw&list=PL5mmotniLP88EPfaBpGgRm1bPejZiS-Rv" target="_blank"><b><u>Videos</u></b></a></li>
         </ul>
 </p>
 <br/>

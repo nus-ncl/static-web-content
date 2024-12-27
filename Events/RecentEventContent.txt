@@ -17,6 +17,27 @@
                 <div class="col-sm-4">
                     <p></p>
                     <p></p>
+                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('IJCO2024.jpg','IJCO2024','JPG')"/>
+                    <img id="IJCO2024" width="300" height="200" border="0" align="left"/>
+                </div>
+                <div class="col-sm-8">
+                    <h3 class="news-header">International Junior Cybersecurity Olympiad 2024</h3>
+                    <div class="row">
+                        <ul>
+                            <li><p align="justify">National Cybersecurity R&D Laboratory (NCL) is happy to announce the successful conclusion of the 2nd International Junior Cybersecurity Olympiad (IJCO), held on the 7th of December 2024, at the Hilton Bomonti Hotel and Conference Center in Istanbul, Turkey.</p></li>
+
+                            <li><p align="justify">This year’s IJCO witnessed 93 participants (52 onsite and 41 online) from 11 countries, ranging from Grade 7 to Grade 12, competing in a challenging 4-hour Capture the Flag (CTF) contest.</p></li>
+
+<li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2024/12/international-junior-cybersecurity.html">Read More</a>.</p></li>
+                            </ul>
+                    </div>
+                </div>
+            </div> 
+
+<div class="col-sm-12">
+                <div class="col-sm-4">
+                    <p></p>
+                    <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('GOVWARE2024.jpg','GOVWARE2024','JPG')"/>
                     <img id="GOVWARE2024" width="300" height="200" border="0" align="left"/>
                 </div>

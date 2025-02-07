@@ -11,33 +11,34 @@
             
               <div class="row">
 
-                <div class="col-sm-8">
+                <div class="col-sm-7">
+                <p> </p>
                   <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridSystem.jpg','Powergrid2','PNG')"/>
                   <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
                 <p style="display: block; margin: 0 auto; text-align: center;">Figure-1: Power Grid OT Simulation System Overview Diagram</p>
     
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-5">
                   <p><b> 1. Power Generation by</b> </p>
                   <ul> 
-                    <li> Solar Photovoltaic Farm </li>
+                    <li> Solar Photovoltaic Farm</li>
                     <li> Wind Turbine Farm </li>
-                    <li> Natural Gas Power Plant </li>
+                    <li> Natural Gas Power Plant</li>
                   </ul>
-                  <p><b> 2. High Tension transmissions</b> </p>
+                  <p><b> 2. High Tension Transmissions</b> </p>
                   <ul>
-                    <li> Various Substations and Transformers </li>
+                    <li> Various substations and transformers</li>
                   </ul>
                   <p><b> 3. Power Output at</b> </p>
                   <ul>
-                    <li> 26-69KV to simulate supply to large scale user </li>
+                    <li> 26-69KV to simulate supply to large scale user</li>
                     <li> 4-13KV to simulate supply to middle scale user</li>
-                    <li> 120-240V to simulate supply to end consumer </li>
+                    <li> 120-240V to simulate supply to end consumer</li>
                   </ul>
-                  <p><b> 4. OT Field components</b> </p>
+                  <p><b> 4. OT-Field Components</b> </p>
                   <ul>
-                    <li>Various PLC, sensors, remote-control units (RTU), metering units and circuit breakers </li>
-                    <li>SCADA-Human Machine Interface system</li>
+                    <li> Various PLC, sensors, remote-control units (RTU), metering units and circuit breakers</li>
+                    <li> SCADA-Human Machine Interface system</li>
                   </ul>
                 </div>
                 

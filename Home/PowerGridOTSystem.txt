@@ -8,29 +8,37 @@
             <p>The objective of this project is to simulate a Power Grid OT digital system that can be used for cyber-security related 
               activities.   The system is a comprehensive software platform designed to simulate the essential operations of a typical 
               small-scale hybrid power grid.  The simulated Power Grid have the following:</p>
-            <p><b> Power Generation by</b> </p>
-            <ul> 
-              <li> Solar Photovoltaic Farm </li>
-              <li> Wind Turbine Farm </li>
-              <li> Natural Gas Power Plant </li>
-            </ul>
-            <p><b> High Tension transmissions</b> </p>
-            <ul>
-              <li> Various Substations and Transformers </li>
-            </ul>
-            <p><b> Power output at:</b> </p>
-            <ul>
-              <li> 26-69KV to simulate supply to large scale user </li>
-              <li> 4-13KV to simulate supply to middle scale user</li>
-              <li> 120-240V to simulate supply to end consumer </li>
-            </ul>
+            
+              <div class="row">
 
+                <div class="column">
+                  <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridSystem.jpg','Powergrid2','PNG')"/>
+                  <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+                <p style="display: block; margin: 0 auto; text-align: center;">Figure-1: Power Grid OT Simulation System Overview Diagram</p>
+    
+                </div>
+                <div class="column">
+                  <p><b> Power Generation by</b> </p>
+                  <ul> 
+                    <li> Solar Photovoltaic Farm </li>
+                    <li> Wind Turbine Farm </li>
+                    <li> Natural Gas Power Plant </li>
+                  </ul>
+                  <p><b> High Tension transmissions</b> </p>
+                  <ul>
+                    <li> Various Substations and Transformers </li>
+                  </ul>
+                  <p><b> Power Output at</b> </p>
+                  <ul>
+                    <li> 26-69KV to simulate supply to large scale user </li>
+                    <li> 4-13KV to simulate supply to middle scale user</li>
+                    <li> 120-240V to simulate supply to end consumer </li>
+                  </ul>
+      
+                </div>
+                
+              </div>
             <br/>
-
-            </br>
-            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridSystem.jpg','Powergrid2','PNG')"/>
-              <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
-            <p style="display: block; margin: 0 auto; text-align: center;">Figure-2: Power Grid OT Simulation System Overview Diagram</p>
 
             </br>
 <br/>
@@ -46,7 +54,7 @@
 
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','Powergrid1','PNG')"/>
             <img id="Powergrid1" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
-          <p style="display: block; margin: 0 auto; text-align: center;">Figure-1: Power Grid OT Simulation System Environment Diagram</p>
+          <p style="display: block; margin: 0 auto; text-align: center;">Figure-2: Power Grid OT Simulation System Environment Diagram</p>
 
             </br>
 

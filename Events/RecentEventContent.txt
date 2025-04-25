@@ -12,7 +12,7 @@
                 </div>
             </div>
 
-<!----New 1 ------>
+<!----IJCO2024------>
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -34,6 +34,7 @@
                 </div>
             </div> 
 
+<!---GOVWARE2024--->
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -55,6 +56,7 @@
                 </div>
             </div> 
 
+<!---GREYHATSCTF20242024--->
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -74,6 +76,7 @@
                 </div>
             </div> 
 
+<!---LOCKEDSHIELD20242024--->
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>

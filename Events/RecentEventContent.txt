@@ -12,7 +12,7 @@
                 </div>
             </div>
 
-<!----IJCO2024------>
+<!----IJCO 2024------>
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -34,7 +34,7 @@
                 </div>
             </div> 
 
-<!---GOVWARE2024--->
+<!----GOVWARE2024------>
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -56,7 +56,7 @@
                 </div>
             </div> 
 
-<!---GREYHATSCTF2024--->
+<!----GREYHATSCTF2024------>
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -68,8 +68,7 @@
                     <h3 class="news-header">GreyHats CTF 2024</h3>
                     <div class="row">
                         <ul>
-                            <li><p align="justify">GreyHats CTF 2024, a Capture The Flag competition hosted jointly by NUS Greyhats and Division Zero (Div0), supported by the National Cybersecurity R&D Lab, was held on July 27th and 28th, 2024, at the School of Computing, National University of Singapore (NUS).</p></li>
-                            <li><p align="justify">Over 80 participants from the top 20 teams of the GreyHats online qualifier competed in the onsite finals.</p></li>
+                            <li><p align="justify">GreyHats CTF 2024, a Capture The Flag competition hosted jointly by NUS Greyhats and Division Zero (Div0), supported by the National Cybersecurity R&D Lab, was held on July 27th and 28th, 2024, at the School of Computing, National University of Singapore (NUS). Over 80 participants from the top 20 teams of the GreyHats online qualifier competed in the onsite finals.</p></li>
 
 <li><p><a target="_blank" href="https://ncl-sg.blogspot.com/2024/10/greyhats-ctf-and-summit-2024.html">Read More</a>.</p></li>
                             </ul>
@@ -77,26 +76,7 @@
                 </div>
             </div> 
 
-<!---AI&CS Immersion Program 2024--->
-<div class="col-sm-12">
-                <div class="col-sm-4">
-                    <p></p>
-                    <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('AI-CSImmersionPrg.png','AI-CSImmersion2024','PNG')"/>
-                    <img id="AI&CSImmersion2024" width="300" height="200" border="0" align="left"/>
-                </div>
-                <div class="col-sm-8">
-                    <h3 class="news-header"AI-CyberSecurity Immersion Program 2024/h3>
-                    <div class="row">
-                        <ul>
-                            <li><p align="justify">The AI-CyberSecurity Immersion Programme 2024, held from August 14 to 19, welcomed 15 students from Jilin University, China, for sessions on cryptography, CTFs, networking, and digital forensics.</p></li> 
-                            <li><p align="justify">Participants also visited the NUS Museum and ArtScience Museum, enjoying cultural and leisure activities in Singapore. The National Cybersecurity R&D Laboratory (NCL) would like to thank the NExT Research Centre for involving us in this program.</p></li>
-                            </ul>
-                    </div>
-                </div>
-            </div> 
-
-<!---LOCKEDSHIELD20242024--->
+<!----LOCKEDSHIELD2024------>
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>

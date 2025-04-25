@@ -77,25 +77,6 @@
                 </div>
             </div> 
 
-<!---AI&CS Immersion Program 2024--->
-<div class="col-sm-12">
-                <div class="col-sm-4">
-                    <p></p>
-                    <p></p>
-                    <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('AI-CSImmersionPrg.png','AI-CSImmersion2024','PNG')"/>
-                    <img id="AI&CSImmersion2024" width="300" height="200" border="0" align="left"/>
-                </div>
-                <div class="col-sm-8">
-                    <h3 class="news-header"AI-CyberSecurity Immersion Program 2024/h3>
-                    <div class="row">
-                        <ul>
-                            <li><p align="justify">The AI-CyberSecurity Immersion Programme 2024, held from August 14 to 19, welcomed 15 students from Jilin University, China, for sessions on cryptography, CTFs, networking, and digital forensics.</p></li> 
-                            <li><p align="justify">Participants also visited the NUS Museum and ArtScience Museum, enjoying cultural and leisure activities in Singapore. The National Cybersecurity R&D Laboratory (NCL) would like to thank the NExT Research Centre for involving us in this program.</p></li>
-                            </ul>
-                    </div>
-                </div>
-            </div> 
-
 <!---LOCKEDSHIELD20242024--->
 <div class="col-sm-12">
                 <div class="col-sm-4">

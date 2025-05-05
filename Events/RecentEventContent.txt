@@ -17,7 +17,7 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCO2025.png','NCO2025','PNG')"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCO2025.jpg','NCO2025','JPG')"/>
         <img id="NCO2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">

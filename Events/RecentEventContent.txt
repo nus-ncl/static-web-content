@@ -12,6 +12,27 @@
                 </div>
             </div>
 
+<!-- NCO2025 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NCO2025.png','NCO2025','PNG')"/>
+        <img id="NCO2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">National Cybersecurity Olympiad (NCO) 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The first inaugural National Cybersecurity Olympiad (NCO) 2025 has successfully concluded, bringing together more than 100 talented students from over 20 schools across Singapore for a challenging 4-hour Capture-The-Flag (CTF) contest.</p></li>
+                <li><p align="justify">The event included networking opportunities and insightful talks, featuring speakers from CSA, DIS Recruitment Centre, CSIT, and NUS Greyhats. </p></li>
+                <li><p align="justify">Thank you to our sponsors and training partners: CSA, CSIT, DIS, SIMCC, NUS Greyhats, and NUS Computing, for making this event possible.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of New Event -->
+
 <div class="col-sm-12">
                 <div class="col-sm-4">
                     <p></p>
@@ -32,6 +53,107 @@
                     </div>
                 </div>
             </div> 
+<!-- ChiangMaiUniVisit -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ChiangMaiUniVisit.jpg','ChiangMaiUniVisit','JPG')"/>
+        <img id="ChiangMaiUniVisit" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Chiang Mai University Visit</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">Brief description of the new event, including key details such as date, location, and participants.</p></li>
+                <li><p align="justify">Additional information about the event, such as highlights or outcomes.</p></li>
+                <li><p><a target="_blank" href="https://example.com">Read More</a>.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of ChiangMaiUniVisit -->
+
+
+<!-- CrossedSwords2024 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CrossedSwords2024.jpg','CrossedSwords2024','JPG')"/>
+        <img id="CrossedSwords2024" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Crossed Swords 2024</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">Organised by NATO CCDCOE, the National Cybersecurity R&D Laboratory (NCL) attended Crossed Swords 2024 where we contributed our rail system testbed.</p></li>
+                <li><p align="justify">The cutting-edge cyber exercise kicked off in Tallinn from 11 to 15 December and saw 200 participants from 40 nations.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of CrossedSwords2024 -->
+
+<!-- CIDeX2024 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CIDeX2024.jpg','CIDeX2024','JPG')"/>
+        <img id="CIDeX2024" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Critical Infrastructure Defence Exercise 2024</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The National Cybersecurity R&D Lab attended the Critical Infrastructure Defence Exercise (CIDeX) 2024, held from 12 to 15 November 2024, and supported the event with our rail system testbed.</p></li>
+                <li><p align="justify">Co-organised by the Cyber Security Agency of Singapore (CSA) and The Digital and Intelligence Service (DIS). The event brought together over 200 participants from 28 organisations to enhance our nation’s cyber defense capabilities.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of CIDeX2024 -->
+
+<!-- CID2024 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CID2024.jpg','CID2024','JPG')"/>
+        <img id="CID2024" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Cybersecurity Innovation Day 2024</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">Held on 11 November 2024, the National Cybersecurity R&D Lab (NCL) attended Cybersecurity Innovation Day 2024, to showcase our lab and connect with others in the field.</p></li>
+                <li><p align="justify">Organized by the Cyber Security Agency of Singapore and supported by the CyberSG TIG Collaboration Centre, this year’s CyberCall challenge focuses on the growing need for Operational Technology and Internet of Things (IoT) security.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of CID2024 -->
+
+<!-- UTAR Visit -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('UTARVisit2024.jpg','UTARVisit2024','JPG')"/>
+        <img id="UTARVisit2024" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Visit from Universiti Tunku Abdul Rahman (UTAR)</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">NCL hosted a delegation of students and professors from Universiti Tunku Abdul Rahman (UTAR), Kampar, Malaysia, at the National Cybersecurity R&D Lab.</p></li>
+                <li><p align="justify">The visit provided an excellent opportunity for sharing insights and exploring potential collaborations in cybersecurity research and education.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of UTAR Visit -->
 
 <!-- CISS2024 -->
 <div class="col-sm-12">
@@ -39,7 +161,7 @@
         <p></p>
         <p></p>
         <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CISS2024logo.jpg','CISS2024logo','JPG')"/>
-        <img id="CISS2024logo" width="300" height="200" border="0" align="left"/>
+        <img id="CISS2024logo" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Critical Infrastructure Security Showdown (CISS) 2024</h3>

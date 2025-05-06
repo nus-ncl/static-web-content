@@ -31,7 +31,7 @@
         </div>
     </div>
 </div>
-<!-- End of New Event -->
+<!-- End of NCO2025 -->
 
 <div class="col-sm-12">
                 <div class="col-sm-4">
@@ -59,8 +59,8 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ChiangMaiUniVisit.jpg','ChiangMaiUniVisit','JPG')"/>
-        <img id="ChiangMaiUniVisit" width="300" height="200" border="0" align="left"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('chiangmaiuni.jpg','chiangmaiuni','JPG')"/>
+        <img id="chiangmaiuni" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Chiang Mai University Visit</h3>
@@ -120,8 +120,8 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CID2024.jpg','CID2024','JPG')"/>
-        <img id="CID2024" width="300" height="200" border="0" align="left"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('cyberinnoday2024.jpg','cyberinnoday2024','JPG')"/>
+        <img id="cyberinnoday2024" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Cybersecurity Innovation Day 2024</h3>
@@ -140,8 +140,8 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('UTARVisit2024.jpg','UTARVisit2024','JPG')"/>
-        <img id="UTARVisit2024" width="300" height="200" border="0" align="left"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('utarvisit2024.jpg','utarvisit2024','JPG')"/>
+        <img id="utarvisit2024" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Visit from Universiti Tunku Abdul Rahman (UTAR)</h3>

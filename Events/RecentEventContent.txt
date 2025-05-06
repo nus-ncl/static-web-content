@@ -53,6 +53,7 @@
                     </div>
                 </div>
             </div> 
+
 <!-- ChiangMaiUniVisit -->
 <div class="col-sm-12">
     <div class="col-sm-4">
@@ -65,9 +66,8 @@
         <h3 class="news-header">Chiang Mai University Visit</h3>
         <div class="row">
             <ul>
-                <li><p align="justify">Brief description of the new event, including key details such as date, location, and participants.</p></li>
-                <li><p align="justify">Additional information about the event, such as highlights or outcomes.</p></li>
-                <li><p><a target="_blank" href="https://example.com">Read More</a>.</p></li>
+                <li><p align="justify">NCL welcomed a delegation of 4 esteemed members of academia from the Department of Computer Engineering, Faculty of Engineering, Chiang Mai University.</p></li>
+                <li><p align="justify">Our discussion consisted of the development of Cyber Security in academia, as well as possible collaborations in the field or events in the field.</p></li>
             </ul>
         </div>
     </div>

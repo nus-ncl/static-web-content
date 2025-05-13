@@ -150,56 +150,7 @@
       </div>    
 
     </div><!-- CUE Container Ends here-->
-<!--
-    <br></br>
-    <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
 
-      <div class="col-sm-8 col-sm-offset-3"> hidden
-      <div class="row">
-        <!-- <h2><b><font color="#0d6dba">Pentest &amp; Red Team Environment</font></b></h2>-->
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Pentest &amp; Red Team Environment</font></b></h2>
-      </div>
-
-
-      <div class="col-sm-12">
-        <div class="col-sm-6">
-          <img src="images/redteamdetails3.PNG" alt="" width="550"  height="350" border="0" align="right" />
-        </div>
-
-        <div class="col-sm-6">
-          <div class="row">
-            <ul>
-              <p><font color="#050505"></font> </p>
-              <p><font color="#050505"></font> </p><br></br>
-              <li><p><font color="#050505">For educational &amp; professional training</font> </p></li>
-              <li><p><font color="#050505">Useful for hands-on practice and skills assessment</font></p></li>
-              <li><p><font color="#050505">Comes with modular environment setup</font></p></li>
-              <li><p><font color="#050505">Various features like Web, Email, Databases, etc. and phases in Pentesting (Enumeration, Vulnerability Analysis, Exploitation) are covered in the environments</font></p></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="col-sm-12">
-        <div class="col-sm-6">
-          <img src="images/redteamdetails1.PNG" alt="" width="450"  height="300" border="0" align="center" />
-        </div>
-
-        <div class="col-sm-6">
-          <img src="images/redteamdetails2.PNG" alt="" width="450"  height="300" border="0" align="center" />
-        </div>
-      </div>
-
-      <div class="col-sm-12">
-        <div class="row">
-          <p><font color="#050505"></font> </p>
-          <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to us at support@ncl.sg for more information!</font></p>
-        </div>
-      </div>
-    </div>
-    -->
 <!-- container 1 ends-->
     <br></br>
 
@@ -282,39 +233,7 @@
       </div>
 
     </div> <!-- container 3 ends -->
-<!--
-    <br></br>
 
-    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;"> hidden
-    <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
-      <div class="row">
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Log4Shell Environment</font></b></h2>
-      </div>
-
-      <div class="col-sm-12">
-        <div class="col-sm-5">
-          <iframe width="450" height="250" src="https://www.youtube.com/embed/0B0YreuzESk"> </iframe>
-        </div>
-        <div class="col-sm-7" align="left">
-          <div class="row">
-            <ul>
-              <p><font color="#050505"></font> </p>
-              <p><font color="#050505"></font> </p>
-              <li><p><font color="#050505">Replay Log4Shell attack on NCL testbed</font></p></li>
-              <li><p><font color="#050505">Explore and learn about Log4Shell (CVE-2021-44228) vulnerability </font></p></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-12">
-        <div class="row">
-          <p><font color="#050505"></font> </p>
-          <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
-        </div>
-      </div>
-    </div> 
-    -->
 <!-- container 4 ends -->
     <br></br>
 
@@ -352,55 +271,9 @@
         </div>
       </div>
     </div> <!-- container 5 ends -->
-<!--
-    <br></br>
 
-    <div class="container">
-      <div class="row">
-        <h2 align="center"><b><font color="#0d6dba" size="7px">Services &amp; Tools</font></b></h2>
-      </div>
-    </div>
-  <br/>
-    <div class="container" style="background-image: url('images/white_back2.jpg'); object-fit: fill;object-position: 50% 50%;"> hidden
-    <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
-
-      <div class="row">
-        <div class="col-sm-8 col-sm-offset-3"> hidden
-        <h2><b><font color="#0d6dba">Activity Traffic Generator - OctoBot</font></b></h2> hidden
-        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Activity Traffic Generator - OctoBot</font></b></h2>
-      </div>
-
-      <div class="col-sm-12">
-        <div class="col-sm-6">
-          <img src="images/OctoBot.PNG" alt="" width="500"  height="250" border="0" align="right" />
-        </div>
-
-        <div class="col-sm-6">
-          <div class="row">
-            <ul>
-              <p><font color="#050505"></font> </p>
-              <p><font color="#050505"></font> </p><br></br>
-
-              <li><p><font color="#050505">Useful for cyber exercise or security product testing that require realistic white traffic to camouflage the attack traffic from the attackers</font> </p></li>
-              <li><p><font color="#050505">Generates realistic "white" traffic by generating human-behave activity with a system</font></p></li>
-              <li><p><font color="#050505">OctoBot can generate several activities (e.g., web browsing, upload data) for web server and IT healthcare system</font></p></li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
-      <div class="col-sm-12">
-        <div class="row">
-          <p><font color="#050505"></font> </p>
-          <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
-        </div>
-      </div>
-    </div>
-    -->
 <!--container -->
     <br></br>
-
 
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
       <div class="col-sm-12">

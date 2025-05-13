@@ -25,7 +25,7 @@
           <div class="row">
             <ul>
               <li><p>NCL facilitates in faster research by providing necessary infrastructure,environments and resources to conduct the experiments in the cloud.</p></li>
-              <li><p>We provide compute cluster of 300+ nodes,GPU's and High end servers on demand.</p></li>
+              <li><p>We provide a compute cluster with 300+ nodes, GPUs, and high-end servers, available either on-demand or through long-term commitments.</p></li>
               <li><p>For nodes reservation/booking please write to us at support@ncl.sg</p></li>
               <li><p><a href="../testbedInformation.html" th:href="@{~/testbedInformation}">Click here for more information on nodes</a></p></li>
               <li><p><a href="../pricing.html" th:href="@{~/pricing}">Click here for information on nodes pricing and reservation</a></p></li>
@@ -45,18 +45,36 @@
           <h3 class="news-header">Power Grid OT Simulation System</h3>
           <div class="row">
             <ul>
-              <li><p>Dynamic environment for simulating small-scale hybrid power grid operations.</p></li>
-              <li><p>Enable hands-on cybersecurity exercises, training, and research to test resilience against cyber-attacks.</p></li>
-              <li><p>Research and development platform for exploring and testing of new OT security tools and protocols.</p></li>
-<li><p>Ideal for researchers, cybersecurity professionals, and ICS experts.</p></li>
+              <li><p>Visualise Power Grid Operational Technology (OT) System.</p></li>
+              <li><p>3 sources of power generation (natural gas, solar, wind), high-voltage transmission, and 3-level step-down distribution. Integrated SCADA for real-time monitoring and control of generation, transmission, and distribution.</p></li>
+              <li><p>Supports hands-on cybersecurity training, research, and testing of OT security tools.</p></li>
+              <li><p>Ideal for researchers, cybersecurity professionals, and ICS experts.</p></li>
               <li><p><a target="_blank" href="https://ncl.sg/PowerGridOTSystem.html">Learn More</a></p></li>
           </ul>
           </div>
         </div>
-      </div> 
+      </div>  <!-- part 2 ends-->
 
-
-       <!-- part 2 ends-->
+<div class="col-sm-12">
+        <div class="col-sm-4">
+          <p></p>
+          <p></p>
+          <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('railwaysystem_img.png','railwaysystem_img.png','PNG')"/>
+          <img id="railwaysystem_img.png" width="300" height="250" border="0" align="left"/>
+        </div>
+      <div class="col-sm-8">
+          <h3 class="news-header">Land based Railway System</h3>
+          <div class="row">
+            <ul>
+              <li><p>Visualise Railway Operational Technology (OT) System.</p></li>
+              <li><p>4 distinct tracks, 22 stations, 10 trains, 48 junctions, 39 sensors, and up to 17 signals.</p></li>
+              <li><p>Enable real-time monitoring and control of trains, sensor-signal, and the station system.</p></li>
+              <li><p>Scenario Loading feature, allowing users to load pre-saved real-world scenarios, such as train collision at junctions or stations.</p></li>
+              <li><p><a target="_blank" href="https://ncl.sg/RailwayMetroSystem.html">Learn More</a></p></li>
+          </ul>
+          </div>
+        </div>
+      </div>  <!-- railway system ends-->
 
       <div class="col-sm-12">
         <div class="col-sm-4">
@@ -78,29 +96,6 @@
         </div>
       </div>  <!-- part 3 ends-->
 
-
-      <div class="col-sm-12">
-        <div class="col-sm-4">
-          <p></p><p></p>
-          <img src="images/cloud_computing3.jpg" style="display: none" onload="loadImage('cloud_computing3.jpg', 'features4', 'JPG')">
-          <img id="features4" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
-        </div>
-       <!-- <h3 class="news-header">Data and Data Repository</h3>-->
-        <div class="col-sm-8">
-          <h3 class="news-header">Data and Data Repository</h3>
-          <div class="row">
-            <ul>
-              <li><p>Browse,search and contribute to our collection of datasets contributed by other researchers like you.</p></li>
-              <li><p>With datasets ranging from internet traffic data to mobile app data,find and use the one most suitable for you and validate your research.</p></li>
-            </ul>
-           
-<!--            <p>-Browse,search and contribute to our collection of datasets contributed by other researchers like you.</p>
-            <p>-With datasets ranging from internet traffic data to mobile app data,find and use the one most suitable for you and validate your research.</p>
-
-         --> </div>
-        </div>
-      </div>  <!-- part 4 ends-->
-
 <div class="col-sm-12">
         <div class="col-sm-4">
           <p></p>
@@ -115,7 +110,6 @@
           <div class="row">
             <ul>
               <li><p>Expedite R&amp;D,translation &amp; delivery of new solutions by saving time on tedious experiment setups.</p></li>
-              <li><p>We provide a set of virtual networks,vulnerability environments(50+ CVE’s).</p></li>
               <li><p>Hard to simulate and controlled environments with common components supporting wide range of activities.</p></li>
               <li><p>From replicating an experiment to reusing a particular network topology,it can be easily done on NCL testbed.</p></li>
             </ul>

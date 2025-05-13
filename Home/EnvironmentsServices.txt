@@ -25,7 +25,7 @@
         <!-- <h3 class="news-header"><b><font color="#0d6dba">1. &nbsp;Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</font></b></h3>-->
         <h2 class="team-heading team-heading-current-team3"><b>Virtual networks &amp; vulnerable environments in different domains for cybersecurity experimentation &amp; testing</b></h2>
         <ul>
-          <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Consists of virtual networks, vulnerability environments, attacking scripts, 50+ CVE’s etc</font></p></li>
+          <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Consists of virtual networks, vulnerability environments and attacking scripts etc.</font></p></li>
           <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Hard to simulate and controlled environments</font></p></li>
           <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Ready-to-use experimental setups and private/isolated environments </font></p></li>
           <li><p><font color="#050505">&nbsp;&nbsp;&nbsp;Common components supporting wide range of activities</font></p></li>
@@ -56,7 +56,7 @@
               <p><font color="#050505"></font> </p>
               <p><font color="#050505"></font> </p><br></br>
               <li><p><font color="#050505">Visualise Railway Operational Technology (OT) System.</font> </p></li>
-              <li><p><font color="#050505">4 distinct tracks, 48 junctions, 39 sensors, and up to 17 signals.</font></p></li>
+              <li><p><font color="#050505">4 distinct tracks, 22 stations, 10 trains, 48 junctions, 39 sensors, and up to 17 signals.</font></p></li>
               <li><p><font color="#050505">Enable real-time monitoring and control of trains, sensor-signal, and the station system.</font></p></li>
               <li><p><font color="#050505">Scenario Loading feature, allowing users to load pre-saved real-world scenarios, such as train collision at junctions or stations.</font></p></li>
               <li><a target="_blank" href="RailwayMetroSystem.html">Learn More</a></li>
@@ -94,9 +94,10 @@
             <ul>
               <p><font color="#050505"></font> </p>
               <p><font color="#050505"></font> </p><br></br>
-              <li><p><font color="#050505">Dynamic environment for simulating small-scale hybrid power grid operations.</font> </p></li>
-              <li><p><font color="#050505">Enable hands-on cybersecurity exercises, training, and research to test resilience against cyber-attacks.</font></p></li>
-              <li><p><font color="#050505">Research and development platform for exploring and testing of new OT security tools and protocols.</font></p></li>
+              <li><p><font color="#050505">Visualise Power Grid Operational Technology (OT) System.</font> </p></li>
+              <li><p><font color="#050505">3 sources of power generation (natural gas, solar, wind), high-voltage transmission, and 3-level step-down distribution.</font></p></li>
+              <li><p><font color="#050505">Integrated SCADA for real-time monitoring and control of generation, transmission, and distribution.</font></p></li>
+              <li><p><font color="#050505">Supports hands-on cybersecurity training, research, and testing of OT security tools.</font></p></li>
               <li><p><font color="#050505">Ideal for researchers, cybersecurity professionals, and ICS experts.</font></p></li>
               <li><a target="_blank" href="PowerGridOTSystem.html">Learn More</a></li>
             </ul>
@@ -149,7 +150,7 @@
       </div>    
 
     </div><!-- CUE Container Ends here-->
-
+<!--
     <br></br>
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
 
@@ -197,7 +198,7 @@
           <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to us at support@ncl.sg for more information!</font></p>
         </div>
       </div>
-
+-->
     </div><!-- container 1 ends-->
     <br></br>
 
@@ -223,7 +224,6 @@
               <p><font color="#050505"></font> </p><br></br>
               <li><p><font color="#050505">OT (Operational Technology) Testbed in cloud</font> </p></li>
               <li><p><font color="#050505">Can be used to emulate Cyberattacks in SCADA systems (eg. 2015 Ukraine attack on Smart Grid)</font></p></li>
-              <li><p><font color="#050505">In collaboration with ADSC</font></p></li>
               <li><p><font color="#050505">Leverage Open-Source Software to facilitate development/usage</font> </p></li>
               <li><p><font color="#050505">Emulate all OT physical/embedded devices (e.g. sensor, PLC) into VM instances for safer and faster testing/development</font></p></li>
               <li><p><font color="#050505">In collaboration with ADSC</font></p></li>
@@ -236,7 +236,7 @@
         <div class="row">
           <p><font color="#050505"></font> </p>
           <p><font color="#050505"></font> </p>
-          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
+          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research, please reach out to <a target="_blank" href="https://iarcs.illinois.edu/">ADSC</a> for more information!</font></p>
         </div>
       </div>
 
@@ -281,6 +281,7 @@
       </div>
 
     </div> <!-- container 3 ends -->
+<!--
     <br></br>
 
     <!--<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">-->
@@ -311,6 +312,7 @@
           <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
         </div>
       </div>
+-->
     </div> <!-- container 4 ends -->
     <br></br>
 
@@ -348,6 +350,7 @@
         </div>
       </div>
     </div> <!-- container 5 ends -->
+<!--
     <br></br>
 
     <div class="container">
@@ -392,7 +395,7 @@
           <p><font color="#0d6dba">&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
         </div>
       </div>
-
+-->
     </div> <!--container -->
     <br></br>
 

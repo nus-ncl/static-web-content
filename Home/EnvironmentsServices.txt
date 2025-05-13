@@ -154,7 +154,7 @@
     <br></br>
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
 
-      <!-- <div class="col-sm-8 col-sm-offset-3">-->
+      <div class="col-sm-8 col-sm-offset-3"> hidden
       <div class="row">
         <!-- <h2><b><font color="#0d6dba">Pentest &amp; Red Team Environment</font></b></h2>-->
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Pentest &amp; Red Team Environment</font></b></h2>
@@ -198,8 +198,9 @@
           <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to us at support@ncl.sg for more information!</font></p>
         </div>
       </div>
--->
-    </div><!-- container 1 ends-->
+    </div>
+    -->
+<!-- container 1 ends-->
     <br></br>
 
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
@@ -284,7 +285,7 @@
 <!--
     <br></br>
 
-    <!--<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">-->
+    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;"> hidden
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
       <div class="row">
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Log4Shell Environment</font></b></h2>
@@ -312,8 +313,9 @@
           <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
         </div>
       </div>
--->
-    </div> <!-- container 4 ends -->
+    </div> 
+    -->
+<!-- container 4 ends -->
     <br></br>
 
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
@@ -359,12 +361,12 @@
       </div>
     </div>
   <br/>
-    <!--<div class="container" style="background-image: url('images/white_back2.jpg'); object-fit: fill;object-position: 50% 50%;">-->
+    <div class="container" style="background-image: url('images/white_back2.jpg'); object-fit: fill;object-position: 50% 50%;"> hidden
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
 
       <div class="row">
-        <!--<div class="col-sm-8 col-sm-offset-3">-->
-        <!-- <h2><b><font color="#0d6dba">Activity Traffic Generator - OctoBot</font></b></h2>-->
+        <div class="col-sm-8 col-sm-offset-3"> hidden
+        <h2><b><font color="#0d6dba">Activity Traffic Generator - OctoBot</font></b></h2> hidden
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Activity Traffic Generator - OctoBot</font></b></h2>
       </div>
 
@@ -378,7 +380,6 @@
             <ul>
               <p><font color="#050505"></font> </p>
               <p><font color="#050505"></font> </p><br></br>
-              <!-- <p><font color="#050505"></font> </p><br></br>-->
 
               <li><p><font color="#050505">Useful for cyber exercise or security product testing that require realistic white traffic to camouflage the attack traffic from the attackers</font> </p></li>
               <li><p><font color="#050505">Generates realistic "white" traffic by generating human-behave activity with a system</font></p></li>
@@ -395,8 +396,9 @@
           <p><font color="#0d6dba">&nbsp;If you would like to explore the environment on NCL testbed for your projects/research,please reach out to support@ncl.sg for more information!</font></p>
         </div>
       </div>
--->
-    </div> <!--container -->
+    </div>
+    -->
+<!--container -->
     <br></br>
 
 

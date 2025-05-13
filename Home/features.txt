@@ -21,7 +21,7 @@
           <img id="features1" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
         </div>
       <div class="col-sm-8">
-          <h3 class="news-header">Infrastructure with 300+ nodes,GPU's and High end servers</h3>
+          <h3 class="news-header">Infrastructure with 300+ nodes, GPU's and High end servers</h3>
           <div class="row">
             <ul>
               <li><p>NCL facilitates in faster research by providing necessary infrastructure,environments and resources to conduct the experiments in the cloud.</p></li>
@@ -46,7 +46,8 @@
           <div class="row">
             <ul>
               <li><p>Visualise Power Grid Operational Technology (OT) System.</p></li>
-              <li><p>3 sources of power generation (natural gas, solar, wind), high-voltage transmission, and 3-level step-down distribution. Integrated SCADA for real-time monitoring and control of generation, transmission, and distribution.</p></li>
+              <li><p>3 sources of power generation (natural gas, solar, wind), high-voltage transmission, and 3-level step-down distribution.</p></li>
+              <li><p>Integrated SCADA for real-time monitoring and control of generation, transmission, and distribution.</p></li>
               <li><p>Supports hands-on cybersecurity training, research, and testing of OT security tools.</p></li>
               <li><p>Ideal for researchers, cybersecurity professionals, and ICS experts.</p></li>
               <li><p><a target="_blank" href="https://ncl.sg/PowerGridOTSystem.html">Learn More</a></p></li>

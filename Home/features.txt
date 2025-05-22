@@ -35,11 +35,11 @@
       </div>  <!-- part 1 ends-->
 
 <div class="col-sm-12">
-        <div class="col-sm-4" style="display: flex; flex-direction: column; justify-content: center; height: 100%;">
+        <div class="col-sm-4">
           <p></p>
           <p></p>
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
-          <img id="PowerGridEnvironment.jpg" width="300" border="0" style="margin: auto;"/>
+          <img id="PowerGridEnvironment.jpg" width="300" border="0" style="padding: auto;"/>
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Power Grid OT Simulation System</h3>

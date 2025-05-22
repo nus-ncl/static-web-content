@@ -38,7 +38,7 @@
         <div class="col-sm-4">
           <p></p>
           <p></p>
-          <a href="PowerGridEnvironment.jpg" target="_blank">
+          <a href="images/MOU_UTB_NCL.jpg" target="_blank">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
           <img id="PowerGridEnvironment.jpg" width="300" border="0" align="left" style="display: block; padding-top: 50px; padding-bottom: 50px;"/>
           </a>

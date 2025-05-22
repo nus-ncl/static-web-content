@@ -39,7 +39,7 @@
           <p></p>
           <p></p>
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
-          <img id="PowerGridEnvironment.jpg" width="300" height="250" border="0" align="left"/>
+          <img id="PowerGridEnvironment.jpg" width="300" border="0" align="left"/>
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Power Grid OT Simulation System</h3>
@@ -61,7 +61,7 @@
           <p></p>
           <p></p>
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('railwaysystem_img.png','railwaysystem_img.png','PNG')"/>
-          <img id="railwaysystem_img.png" width="300" height="250" border="0" align="left"/>
+          <img id="railwaysystem_img.png" width="300" border="0" align="left"/>
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Land based Railway System</h3>
@@ -81,7 +81,7 @@
         <div class="col-sm-4">
           <p></p>
           <img src="images/cybersecurity1.png" style="display: none" onload="loadImage('cybersecurity1.png', 'features3', 'PNG')">
-          <img id="features3" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+          <img id="features3" alt="" style="display: block; width: 300px; height: 250px; object-fit: cover; border: 0; float: left;">
         </div>
        <!-- <h3 class="news-header">Security</h3>-->
         <div class="col-sm-8">
@@ -103,7 +103,7 @@
           <p></p>
           <p></p>
           <img src="images/cloud-computing9.jpg" style="display: none" onload="loadImage('cloud-computing9.jpg', 'features2', 'JPG')">
-          <img id="features2" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+          <img id="features2" alt="" style="display: block; width: 300px; height: 250px; object-fit: cover; border: 0; float: left;">
         </div>
        <!-- <h3 class="news-header">Virtual networks and vulnerable environments in different domains for cybersecurity experimentation and testing</h3>-->
         <div class="col-sm-8">

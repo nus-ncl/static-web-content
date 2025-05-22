@@ -18,7 +18,7 @@
           <p></p>
           <p></p>
           <img src="images/data-center4.jpg" style="display: none" onload="loadImage('data-center4.jpg', 'features1', 'JPG')">
-          <img id="features1" alt="" style="display: block; width: 300px; height: 250px; border: 0; float: left;">
+          <img id="features1" alt="" style="display: block; width: 300px; height: 250px; object-fit: cover; border: 0; float: left;">
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Infrastructure with 300+ nodes, GPU's and High end servers</h3>

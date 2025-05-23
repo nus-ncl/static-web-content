@@ -13,7 +13,7 @@
                     <br></br>
                     <!--<h2>Publications by Projects that used NCL testbed</h2>-->
                     <h7><b>Publications by Projects that used NCL testbed</b></h7>
-                    <br>
+                    <p></p>
                 </div>
             </div>
             <div class="col-sm-12">

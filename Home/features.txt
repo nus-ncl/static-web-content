@@ -122,9 +122,3 @@
     </div>
 </section>
 </div>
-<script>
-           document.getElementByID('PowerGridEnvironment').onclick = function() {
-            window.open(this.src, '_blank');
-           };
-          <script>
-

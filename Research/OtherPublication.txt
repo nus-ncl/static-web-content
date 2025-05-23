@@ -13,10 +13,11 @@
                     <br></br>
                     <!--<h2>Publications by Projects that used NCL testbed</h2>-->
                     <h7><b>Publications by Projects that used NCL testbed</b></h7>
+                    <br>
                 </div>
             </div>
             <div class="col-sm-12">
-                <img src="images/publication.jpeg" alt="" width="530"  height="150" border="0" align="left" /><img src="images/publication3.jpeg" alt="" width="530"  height="150" border="0" align="left" />
+                <img src="images/publication.jpeg" alt="" width="530"  height="200" border="0" align="left" style="object-fit:cover;"/><img src="images/publication3.jpeg" alt="" width="530"  height="200" border="0" align="left" style="object-fit:cover;"/>
             </div>
 
             <div class="col-sm-12">

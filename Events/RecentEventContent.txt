@@ -707,7 +707,7 @@
                     <p></p>
                     <p></p>
                     <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ITE_CTF_2021.jpg','img2','jpg')"/>
-                    <img id="img2" width="300" border="0" align="left" style="padding-left: 30px;"/>
+                    <img id="img2" width="300" border="0" align="left" style="padding-top: 20px;"/>
                 </div>
                 <div class="col-sm-8">
                     <h3 class="news-header">ITE CTF 2021</h3>

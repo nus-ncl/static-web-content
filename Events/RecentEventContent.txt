@@ -161,7 +161,7 @@
         <p></p>
         <p></p>
         <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CISS2024logo.jpg','CISS2024logo','JPG')"/>
-        <img id="CISS2024logo" height="200" border="0" align="center" style="margin: auto; object-fit: contain; padding-left:60px;"/>
+        <img id="CISS2024logo" height="200" border="0" align="center" style="margin: auto; object-fit: contain; padding-left:50px;"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Critical Infrastructure Security Showdown (CISS) 2024</h3>

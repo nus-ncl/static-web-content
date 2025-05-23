@@ -14,7 +14,7 @@
                 <div class="col-sm-7">
                 <p> </p>
                   <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridSystem.jpg','Powergrid2','PNG')"/>
-                  <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+                  <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0; object-fit: contain">
                 <p style="display: block; margin: 0 auto; text-align: center;">Figure-1: Power Grid OT Simulation System Overview Diagram</p>
     
                 </div>
@@ -58,13 +58,13 @@
             <br/>
 
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','Powergrid1','PNG')"/>
-            <img id="Powergrid1" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+            <img id="Powergrid1" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
           <p style="display: block; margin: 0 auto; text-align: center;">Figure-2: Power Grid OT Simulation System Environment Diagram</p>
 
             </br>
 
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridNetwork.jpg','Powergrid3','PNG')"/>
-              <img id="Powergrid3" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; height: 400px; border: 0;">
+              <img id="Powergrid3" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center;">Figure-3: Power Grid Simulation System network diagram and components View</p>
 
             </br>

@@ -14,7 +14,7 @@
                 <div class="col-sm-7">
                 <p> </p>
                   <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridSystem.jpg','Powergrid2','PNG')"/>
-                  <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0; padding-top: 100px; padding-bottom: 100px;">
+                  <img id="Powergrid2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0; padding-top: 40px;">
                 <p style="display: block; margin: 0 auto; text-align: center;">Figure-1: Power Grid OT Simulation System Overview Diagram</p>
     
                 </div>

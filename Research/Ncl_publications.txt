@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="col-sm-6">
-                   <img src="images/research12.jpg" alt="" width="550"  height="200" border="0" align="left" />
+                   <img src="images/research12.jpg" alt="" width="550"  height="200" border="0" align="left" style="object-fit:cover;"/>
                 </div>
             </div>  <!-- part 1 ends-->
 

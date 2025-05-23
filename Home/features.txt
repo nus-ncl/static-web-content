@@ -39,12 +39,7 @@
           <p></p>
           <p></p>
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
-          <img id="PowerGridEnvironment.jpg" width="300" border="0" align="left" style="display: block; padding-top: 50px; padding-bottom: 50px; cursor: pointer;"/>
-          <script>
-           document.getElementByID('PowerGridEnvironment.jpg').onclick = function() {
-            window.open(this.src, '_blank');
-           };
-          <script>
+          <img id="PowerGridEnvironment" width="300" border="0" align="left" style="display: block; padding-top: 50px; padding-bottom: 50px; cursor: pointer;"/>
         </div>
       <div class="col-sm-8">
           <h3 class="news-header">Power Grid OT Simulation System</h3>
@@ -127,5 +122,9 @@
     </div>
 </section>
 </div>
-
+<script>
+           document.getElementByID('PowerGridEnvironment').onclick = function() {
+            window.open(this.src, '_blank');
+           };
+          <script>
 

@@ -47,7 +47,7 @@
       <div class="col-sm-12">
         <div class="col-sm-6">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Brochure_Railway.png','BrochureRailway.png','PNG')"/>
-          <img id="BrochureRailway.png" width="550" height="350" border="0" align="left"/>
+          <img id="BrochureRailway.png" width="550" height="350" border="0" align="left" style="object-fit:contain;"/>
         </div>
 
         <div class="col-sm-6">
@@ -86,7 +86,7 @@
       <div class="col-sm-12">
         <div class="col-sm-6">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
-          <img id="PowerGridEnvironment.jpg" width="550" height="300" border="0" align="left"/>
+          <img id="PowerGridEnvironment.jpg" width="550" height="300" border="0" align="left" style="object-fit:contain;"/>
         </div>
 
         <div class="col-sm-6">
@@ -123,7 +123,7 @@
       <div class="col-sm-12">
         <div class="col-sm-6">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CUE.png','CUE','PNG')"/>
-          <img id="CUE" width="550" height="350" border="0" align="left"/>
+          <img id="CUE" width="550" height="350" border="0" align="left" style="object-fit:contain;"/>
         </div>
  
         <div class="col-sm-6">
@@ -165,7 +165,7 @@
 
       <div class="col-sm-12">
         <div class="col-sm-6">
-          <img src="images/smartGridOT.PNG" alt="" width="500"  height="350" border="0" align="left" />
+          <img src="images/smartGridOT.PNG" alt="" width="500"  height="350" border="0" align="left" style="object-fit:contain;" />
         </div>
 
         <div class="col-sm-6">
@@ -204,7 +204,7 @@
 
       <div class="col-sm-12">
         <div class="col-sm-5">
-          <img src="images/healthcare_env.PNG" alt="" width="450"  height="350" border="0" align="left" />
+          <img src="images/healthcare_env.PNG" alt="" width="450"  height="350" border="0" align="left" style="object-fit:contain;"/>
         </div>
 
         <div class="col-sm-7">
@@ -247,7 +247,7 @@
 
       <div class="col-sm-12">
         <div class="col-sm-5">
-          <img src="images/fintech_env4.jpg" alt="" width="450"  height="250" border="0" align="right" />
+          <img src="images/fintech_env4.jpg" alt="" width="450"  height="250" border="0" align="left" style="object-fit:contain;"/>
         </div>
 
         <div class="col-sm-7" align="left">
@@ -282,7 +282,7 @@
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Support for Capture-The-Flag events</font></b></h2>
         <div class="row">
           <div class="col-sm-4">
-            <img src="images/ITE_CTF.jpg" alt="" width="400"  height="200" border="0" align="left" />
+            <img src="images/ITE_CTF.jpg" alt="" width="400"  height="200" border="0" align="left" style="object-fit:contain;"/>
           </div>
           <div class="col-sm-8">
             <ul>

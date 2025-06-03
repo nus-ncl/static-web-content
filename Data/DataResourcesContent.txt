@@ -27,10 +27,8 @@
 
 			</div>  <!-- part 1 ends-->
 
-            				<div class="col-sm-3">
-            				</div>
-					<h3 class="news-header"><u style="text-decoration: underline;text-decoration-thickness: 2px;">NCL LS25 OT Dataset - <font color="#ff0000">Coming Soon!</font></u></a></h3><br/>
             				<div class="col-sm-9">
+					<h3 class="news-header"><u style="text-decoration: underline;text-decoration-thickness: 2px;">NCL LS25 OT Dataset - <font color="#ff0000">Coming Soon!</font></u></a></h3><br/>
             					<div class="row">
             						<p>Our recent research presents a simulated cyberattack on a railway cyber range, developed to reflect contemporary Industrial Control Systems (ICS) threats. As Operational Technology (OT) continues to converge with Information Technology (IT), there is a growing need for realistic datasets that capture evolving cyber threat patterns. By integrating both historical and emerging attack scenarios, we have generated a comprehensive ICS dataset that reflects the current threat landscape. This publicly available dataset is intended to support the research community, security analysts, and practitioners in advancing the analysis, detection, and mitigation of ICS-related cyberattacks. </p>
 

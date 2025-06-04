@@ -49,6 +49,24 @@
       </p>
     </div>
 
+<p>&nbsp;</p>
+  <h2 class="news-header"><font color="#0d6dba">Evidence file details:</font></h2>
+        
+<ul>
+        <li> <b>20250421_RailwayWeb_logs.zip : </b> Railway company web host program's log file used for Log analysis.(353KB)</li>
+        <li> <b>20250421_tcpdump.zip :</b> Network packet data capture from the ISP router VM(967MB)</li>
+        <li> <b>LS25_NCL_PowerGridHMI.mp4 :</b> Power Grid HMI video record during the attack.</li>
+        <li> <b>Powergrid_attack-video.mov :</b> Power Grid Physical world simulator video record during the attack. </li>
+        <li> <b>Railway_attack-video.mov :</b> Railway system physical world simulator video record during the attack.</li>
+        <li> <b>ssl_keylog_2025_04_21_07_27_41 :</b> Malware C2 ssl key log file. (5.1MB)</li>
+        <li> <b>staff01dmp.zip :</b> Victim 01 (staff01) 's memory dump file.(3.28GB)</li>
+        <li> <b>staff03dmp.zip :</b> Victim 02 (staff03) 's memory dump file.(1.35GB)</li>
+
+</ul>
+
+<p>&nbsp;</p>
+<p>Kindly fill in the Dataset Request form if you would like to explore or download the dataset. Please contact support@ncl.sg for further inquiries.</p>
+
 <!-- part 2 ends-->
 
 	</section>

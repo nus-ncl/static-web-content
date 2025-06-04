@@ -32,7 +32,8 @@
 <div class="col-sm-12">
 	<div class="col-sm-3">
 	<br/><br/>
-		<img src="images/dfir.png"></a>
+		<img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('dfir.png','DFIR','PNG')"/>
+                <img id="DFIR" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0; padding-top: 40px;">
 
 	</div>
 	<div class="col-sm-9">

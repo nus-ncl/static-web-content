@@ -26,6 +26,8 @@
             				</div>
 
 			</div>  <!-- part 1 ends-->
+<br/><br/>
+<br/><br/>
 
 <div class="col-sm-12">
 	<div class="col-sm-3">

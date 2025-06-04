@@ -32,7 +32,8 @@
   <div class="row align-items-center" style="padding-top: 40px;">
     <!-- Image Column -->
     <div class="col-md-6 text-center">
-      <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('dfir.png','DFIR','PNG')" style="width: 100%; max-width: 650px; border: 0;">
+      <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('dfir.png','DFIR','PNG')">
+      <img id = "DFIR", style="display: block; margin: 0 auto; width: 100%; max-width: 650px; border: 0;">
     </div>
 
     <!-- Description Column -->

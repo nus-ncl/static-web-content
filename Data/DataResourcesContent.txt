@@ -26,8 +26,9 @@
             				</div>
 
 			</div>  <!-- part 1 ends-->
-<br/><br/>
-<br/><br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
   <div class="row align-items-center" style="padding-top: 40px;">
     <!-- Image Column -->

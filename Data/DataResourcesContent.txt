@@ -29,7 +29,7 @@
 <br/><br/>
 <br/><br/>
 
-<div class="col-sm-12">
+<div class="col-sm-7">
 	<div class="col-sm-3">
 	<br/><br/>
 		<img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('dfir.png','DFIR','PNG')"/>

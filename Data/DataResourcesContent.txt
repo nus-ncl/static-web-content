@@ -54,13 +54,10 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 
 <p>Collected over a continuous 9-hour period, the dataset reflects a successful multi-stage cyberattack involving various attack scenarios across interconnected IT and OT systems. From initial compromise to lateral movement and impact on operational processes, the data provides a rare opportunity to study how complex attacks evolve in real time.This dataset is ideal for those looking to explore attack detection, response workflows, or forensic analysis in environments that combine traditional networks with industrial infrastructure. Whether you're designing training programs, building labs, or testing tools, this data offers a rich, realistic foundation.
 <p>&nbsp;</p>
-We’re sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact support@ncl.sg for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p>
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
       <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('AttackPath.png','AttackPath','PNG')">
-      <img id = "AttackPath", style="display: block; margin: 0 auto; width: 100%; max-width: 650px; border: 0;">
+      <img id = "AttackPath", style="display: block; margin: 0 auto; width: 100%; max-width: 800px; border: 0;">
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -68,19 +65,19 @@ We’re sharing it to support the broader cybersecurity community and promote ha
   <h2 class="news-header"><font color="#0d6dba">Evidence file details:</font></h2>
         
 <ul>
-        <li> <b>20250421_RailwayWeb_logs.zip : </b> Railway company web host program's log file used for Log analysis.(353KB)</li>
-        <li> <b>20250421_tcpdump.zip :</b> Network packet data capture from the ISP router VM(967MB)</li>
+        <li> <b>20250421_RailwayWeb_logs.zip (353KB) : </b> Railway company web host program's log file used for Log analysis.</li>
+        <li> <b>20250421_tcpdump.zip (967MB) :</b> Network packet data capture from the ISP router VM. </li>
         <li> <b>LS25_NCL_PowerGridHMI.mp4 :</b> Power Grid HMI video record during the attack.</li>
         <li> <b>Powergrid_attack-video.mov :</b> Power Grid Physical world simulator video record during the attack. </li>
         <li> <b>Railway_attack-video.mov :</b> Railway system physical world simulator video record during the attack.</li>
-        <li> <b>ssl_keylog_2025_04_21_07_27_41 :</b> Malware C2 ssl key log file. (5.1MB)</li>
-        <li> <b>staff01dmp.zip :</b> Victim 01 (staff01) 's memory dump file.(3.28GB)</li>
-        <li> <b>staff03dmp.zip :</b> Victim 02 (staff03) 's memory dump file.(1.35GB)</li>
+        <li> <b>ssl_keylog_2025_04_21_07_27_41 (5.1MB) :</b> Malware C2 ssl key log file. </li>
+        <li> <b>staff01dmp.zip (3.28GB) :</b> Victim 01 (staff01) 's memory dump file.</li>
+        <li> <b>staff03dmp.zip (1.35GB) :</b> Victim 02 (staff03) 's memory dump file.</li>
 
 </ul>
 
 <p>&nbsp;</p>
-<p>Kindly fill in the Dataset Request form if you would like to explore or download the dataset. Please contact support@ncl.sg for further inquiries.</p>
+<p>We’re sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact support@ncl.sg for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p></p>
 
 <!-- part 2 ends-->
 

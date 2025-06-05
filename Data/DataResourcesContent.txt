@@ -53,8 +53,8 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 <p>&nbsp;</p>
 
 <p>Collected over a continuous 9-hour period, the dataset reflects a successful multi-stage cyberattack involving various attack scenarios across interconnected IT and OT systems. From initial compromise to lateral movement and impact on operational processes, the data provides a rare opportunity to study how complex attacks evolve in real time.This dataset is ideal for those looking to explore attack detection, response workflows, or forensic analysis in environments that combine traditional networks with industrial infrastructure. Whether you're designing training programs, building labs, or testing tools, this data offers a rich, realistic foundation.
-
-We’re sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form here. You may also contact support@ncl.sg for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p>
+<p>&nbsp;</p>
+We’re sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact support@ncl.sg for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

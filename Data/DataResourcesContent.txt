@@ -59,7 +59,7 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 
   <h2 class="news-header" style="margin-left: 20px;"><font color="#0d6dba">Evidence file details:</font></h2>
         
-<ul style="margin-left: 40px; margin-right: 40px;" >
+<ul>
         <li> <b>20250421_RailwayWeb_logs.zip (353KB) : </b> Railway company web host program's log file used for Log analysis.</li>
         <li> <b>20250421_tcpdump.zip (967MB) :</b> Network packet data capture from the ISP router VM. </li>
         <li> <b>LS25_NCL_PowerGridHMI.mp4 :</b> Power Grid HMI video record during the attack.</li>
@@ -70,7 +70,7 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
         <li> <b>staff03dmp.zip (1.35GB) :</b> Victim 02 (staff03) 's memory dump file.</li>
 
 </ul>
-
+<p>&nbsp;</p>
 <p style="margin-left: 40px; margin-right: 40px;">We are sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact <b>support@ncl.sg</b> for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p></p>
 
 <!-- part 2 ends-->

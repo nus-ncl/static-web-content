@@ -71,7 +71,7 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 
 </ul>
 <p>&nbsp;</p>
-<p style="margin-left: 40px; margin-right: 40px;">We are sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact <b>support@ncl.sg</b> for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p></p>
+<p style="margin-left: 40px; margin-right: 40px;">We are sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete the <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">NCL Dataset Request Form</a>. You may also contact <b>support@ncl.sg</b> for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p></p>
 
 <!-- part 2 ends-->
 

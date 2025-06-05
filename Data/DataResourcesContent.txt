@@ -23,7 +23,7 @@
             					</div>
             				</div>
 
-			</div>  <!-- part 1 ends--> 
+			</div>  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p> -->

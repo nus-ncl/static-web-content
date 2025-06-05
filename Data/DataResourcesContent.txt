@@ -33,7 +33,7 @@
   <div class="row align-items-center" style="padding-top: 40px;">
     <!-- Image Column -->
     <div class="col-md-6 text-center">
-      <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('dfir.png','DFIR','PNG')">
+      <img src="images/dfir.png" style="display: none" onload="loadImage('dfir.png','DFIR','PNG')">
       <img id = "DFIR", style="display: block; margin: 0 auto; width: 100%; max-width: 650px; border: 0;">
     </div>
 
@@ -45,19 +45,17 @@
         </u>
       </h2>
       <p>
-This Digital Forensics dataset was developed as part of DFIR data resource for the largest and most advanced international cyber Defense exercise -- <a href="https://www.ccdcoe.org/news/2025/nations-unite-under-pressure-as-locked-shields-2025-kicks-off-in-tallinn">Locked Shields 2025</a> which is organized by the <a href="https://ccdcoe.org/"> NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)</a>.  It captures realistic, full-area forensic data from both IT and OT environments, making it a valuable resource for cybersecurity training, incident reconstruction, CTF development, and academic research
+This Digital Forensics dataset was developed as part of DFIR data resource for the largest and most advanced International Cyber Defense exercise -- <a href="https://www.ccdcoe.org/news/2025/nations-unite-under-pressure-as-locked-shields-2025-kicks-off-in-tallinn">Locked Shields 2025</a> which is organized by the <a href="https://ccdcoe.org/"> NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)</a>.  It captures realistic, full-area forensic data from both IT and OT environments, making it a valuable resource for cybersecurity training, incident reconstruction, CTF development, and academic research.
       </p>
     </div>
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p>Collected over a continuous 9-hour period, the dataset reflects a successful multi-stage cyberattack involving various attack scenarios across interconnected IT and OT systems. From initial compromise to lateral movement and impact on operational processes, the data provides a rare opportunity to study how complex attacks evolve in real time.This dataset is ideal for those looking to explore attack detection, response workflows, or forensic analysis in environments that combine traditional networks with industrial infrastructure. Whether you're designing training programs, building labs, or testing tools, this data offers a rich, realistic foundation.
+<p>Collected over a continuous 9-hour period, the dataset reflects a successful multi-stage cyberattack involving various attack scenarios across interconnected IT and OT systems. From initial compromise to lateral movement and impact on operational processes, the data provides a rare opportunity to study how complex attacks evolve in real time.This dataset is ideal for those looking to explore attack detection, response workflows, or forensic analysis in environments that combine traditional networks with industrial infrastructure. Whether you are designing training programs, building labs, or testing tools, this data offers a rich, realistic foundation.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
       <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('AttackPath.png','AttackPath','PNG')">
-      <img id = "AttackPath", style="display: block; margin: 0 auto; width: 100%; max-width: 800px; border: 0;">
+      <img id = "AttackPath", style="display: block; margin: 0 auto; width: 100%; max-width: 1000px; border: 0;">
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -77,7 +75,7 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 </ul>
 
 <p>&nbsp;</p>
-<p>We’re sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact support@ncl.sg for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p></p>
+<p>We are sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete a short request form <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">here</a>. You may also contact <b>support@ncl.sg</b> for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p></p>
 
 <!-- part 2 ends-->
 

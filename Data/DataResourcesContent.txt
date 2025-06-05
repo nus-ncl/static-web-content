@@ -59,7 +59,7 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 
 <p>&nbsp;</p>
 
-  <h2 class="news-header"><font color="#0d6dba">Evidence file details:</font></h2>
+  <h2 class="news-header" style="margin-left: 20px;"><font color="#0d6dba">Evidence file details:</font></h2>
         
 <ul>
         <li> <b>20250421_RailwayWeb_logs.zip (353KB) : </b> Railway company web host program's log file used for Log analysis.</li>

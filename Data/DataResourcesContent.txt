@@ -69,7 +69,7 @@ This Digital Forensics dataset was developed as part of DFIR data resource for t
 
 </ul>
 <p>&nbsp;</p>
-<p style="margin-left: 40px; margin-right: 40px;">We are sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete the <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">NCL Dataset Request Form</a>. You may also contact <b>support@ncl.sg</b> for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases.</p>
+<p style="margin-left: 40px; margin-right: 40px;">We are sharing it to support the broader cybersecurity community and promote hands-on learning and collaboration. To request access, please complete the <a href="https://forms.gle/rdBPon3Jzp1ToSgk9">NCL Dataset Request Form</a>. You may also contact <b>support@ncl.sg</b> for further inquiries. By sharing how and where you use the dataset, you help us track its global impact and improve future releases. Kindly provide clear and explicit credit to National Cybersecurity R&D Lab (NCL) in any published work—regardless of the medium—that results from the use of this dataset.</p>
 <p>&nbsp;</p>
 <p style="margin-left: 40px; margin-right: 40px;"> If you are subscribed to Zenodo, you can download the dataset using the provided link <a href="https://doi.org/10.5281/zenodo.15536351"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15536351.svg" alt="DOI"></a>. We kindly request that you include your university or organization information, rather than downloading anonymously. </p>
 

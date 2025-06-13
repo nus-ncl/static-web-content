@@ -43,7 +43,7 @@
         </u>
       </h2>
       <p>
-This Digital Forensics dataset was developed as part of DFIR data resource for the largest and most advanced International Cyber Defense exercise -- <a href="https://www.ccdcoe.org/news/2025/nations-unite-under-pressure-as-locked-shields-2025-kicks-off-in-tallinn">Locked Shields 2025</a> which is organized by the <a href="https://ccdcoe.org/"> NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)</a>.  It captures realistic, full-area forensic data from both IT and OT environments, making it a valuable resource for cybersecurity training, incident reconstruction, CTF development, and academic research.
+This Digital Forensics dataset was developed as part of DFIR data resource for the largest and most advanced International Cyber Defense exercise -- <a href="https://www.ccdcoe.org/news/2025/nations-unite-under-pressure-as-locked-shields-2025-kicks-off-in-tallinn" style="color: #0d6dba;">Locked Shields 2025</a> which is organized by the <a href="https://ccdcoe.org/" style="color: #0d6dba;"> NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)</a>.  It captures realistic, full-area forensic data from both IT and OT environments, making it a valuable resource for cybersecurity training, incident reconstruction, CTF development, and academic research.
       </p>
     </div>
 <p>&nbsp;</p>

@@ -402,6 +402,7 @@
               </table>
                <h5 align="left" ><a target="_blank" href="testbedInformation.html"><b><u>Learn More >>></b></u></a></h5>
 
+	<p>&nbsp;</p>
 	
 	<div id="manDay" style="position: relative; top: -100px;"></div>
  	<h3 align="left"><strong>Man-day rate:</strong></h3>

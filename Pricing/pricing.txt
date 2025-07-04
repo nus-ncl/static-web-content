@@ -205,6 +205,8 @@
 
           </div>
 	 <a id="GPUofferings"></a>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
           <h3 align="left"><strong>GPU Offerings:</strong></h3>
           <div class="row">
             <div class="table-responsive">

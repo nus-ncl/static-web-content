@@ -398,6 +398,46 @@
                
               </table>
                <h5 align="left" ><a target="_blank" href="testbedInformation.html"><b><u>Learn More >>></b></u></a></h5>
+
+	    <p>&nbsp;</p>
+            <p>&nbsp;</p>         
+
+ 	<h3 align="left"><strong>Man-day rate:</strong></h3>
+          <div class="row">
+            <div class="table-responsive">
+              <table class="table1" style="width:100%">
+                <thead BGCOLOR="#E0E0E0">
+                  <th> </th>
+                  <th width=“30%”>
+                    <p>
+                      <h5><strong>Price* (S$/Man-Day)</strong></h5>
+                    </p>
+                  </th>
+		</thead>
+
+                <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5 ><strong>Network Engineer</strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">2,000</div>
+                  </td>
+		</tr>
+
+                <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5 ><strong>Software Developer</strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">2,500</div>
+                  </td>
+		</tr>
+
+             </table>
+	    <p>&nbsp;</p>
+            <p>&nbsp;</p>    
+
+
               <h5 align="left"  ><b>Please contact us at <a target="_blank" href="mailto:support@ncl.sg"><u>support@ncl.sg</u></a> for special pricing on a long-term contract basis.</b></h5>
 		<br/>
 		<h3 align="left"><strong><u>Terms and Conditions:</u></strong></h3>

@@ -406,7 +406,7 @@
               <table class="table1" style="width:100%">
                 <thead BGCOLOR="#E0E0E0">
                   <th> </th>
-                  <th width=“30%”>
+                  <th width=“15”>
                     <p>
                       <h5><strong>Price* (S$/Man-Day)</strong></h5>
                     </p>

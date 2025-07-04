@@ -145,7 +145,7 @@
             <p>&nbsp;</p>
             <p>&nbsp;</p>
 
-	<h3 align="left"><strong>SGX Offerings:</strong></h3>
+	<h3 id="SGX_Offerings" align="left"><strong>SGX Offerings:</strong></h3>
           <div class="row">
             <div class="table-responsive">
               <table class="table1" style="width:100%">
@@ -204,7 +204,7 @@
             <p>&nbsp;</p>
 
           </div>
-          <h3 align="left"><strong>GPU Offerings:</strong></h3>
+          <h3 id="GPU_Offerings" align="left"><strong>GPU Offerings:</strong></h3>
           <div class="row">
             <div class="table-responsive">
               <table class="table1" style="width:100%">

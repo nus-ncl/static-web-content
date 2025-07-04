@@ -403,10 +403,10 @@
  	<h3 align="left"><strong>Man-day rate:</strong></h3>
           <div class="row">
             <div class="table-responsive">
-              <table class="table1" style="width:100%">
+              <table class="table1" style="width:75%">
                 <thead BGCOLOR="#E0E0E0">
                   <th> </th>
-                  <th width=“15”>
+                  <th width=“15%”>
                     <p>
                       <h5><strong>Price* (S$/Man-Day)</strong></h5>
                     </p>

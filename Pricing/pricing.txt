@@ -432,6 +432,8 @@
 		</tr>
 
              </table>
+           </div>
+          </div>
 
             
 	<p>&nbsp;</p>    

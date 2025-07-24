@@ -11,6 +11,89 @@
                     <p></p>
                 </div>
             </div>
+<!-- AICSImmersion25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Jilin_AI_CS_2025.jpeg','Jilin_AI_CS_2025','JPEG')"/>
+        <img id="Jilin_AI_CS_2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">AI & Cybersecurity Immersion Programme 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The AI & Cybersecurity Immersion Programme 2025, held from 6 to 12 July 2025, welcomed 17 students from Jilin University, China, for sessions on cryptography, red-teaming & CTFs, networking, and digital forensics.</p></li>
+                <li><p align="justify">Participants also visited the NUS Museum, ArtScience Museum and the National Museum of Singapore, enjoying cultural and leisure activities in Singapore. The National Cybersecurity R&D Laboratory (NCL) would like to thank the NExT Research Centre for involving us in this program.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of AICSImmersion25 -->
+
+<!-- GreyCTF25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('GreyCTF_25.png','GreyCTF_25','PNG')"/>
+        <img id="GreyCTF_25" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">GreyCTF 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">GreyCTF 2025, an annual Capture The Flag competition, was held on July 28-29 at NUS School of Computing.</p></li>
+                <li><p align="justify">Jointly hosted by NUS Greyhats and Division Zero (Div0), and supported by the National Cybersecurity R&D Lab, the onsite finals brought together 80 participants from the top 20 qualifying teams.</p></li>
+                <li><p align="justify"><a target="_blank" href="https://ncl-sg.blogspot.com/2025/07/greyhats-ctf-summit-2025.html">Read More</a></p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of GreyCTF25 -->
+
+<!-- ICO25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ICO25.png','ICO25','PNG')"/>
+        <img id="ICO25" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">International Cybersecurity Olympiad (ICO) 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The inaugural International Cybersecurity Olympiad (ICO) 2025 has concluded successfully, bringing together over 200 participants from 28 countries for two 5-hour Capture-The-Flag (CTF) contests.</p></li>
+                <li><p align="justify">Participants also enjoyed two days of excursions, exploring Marina Barrage, Gardens by the Bay, Marina Bay Sands, Sentosa and Universal Studios Singapore.</p></li>
+                <li><p align="justify">We extend our gratitude to our sponsors and partners: CSA, CSIT, DIS, SECB, Dianmao Technology, Jane Street, CRPO, SIMCC, CeNCE, NUS Greyhats, and NUS Computing, for making this event possible.</p></li>
+                <li><p align="justify"><a target="_blank" href="https://ncl-sg.blogspot.com/2025/07/1st-international-cybersecurity.html">Read More</a></p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of ICO25 -->
+
+<!-- LS25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('LS25_small.jpg','LS25_small','JPG')"/>
+        <img id="LS25_small" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Locked Shields 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The National Cybersecurity R&D Laboratory (NCL) participated in Locked Shields 2025, the world’s largest and most complex cyber defense exercise organised by the NATO Cooperative Cyber Defense Center of Excellence (CCDCOE).</p></li>
+                <li><p align="justify">Nearly 4000 experts from 41 nations trained to protect the infrastructure of a fictional nation in a simulated environment.</p></li>
+                <li><p align="justify">As part of the DFIR development team, NCL developed a set of evidence and CTF questions featuring NCL’s Railway-Powergrid system.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of LS25 -->
 
 <!-- NCO2025 -->
 <div class="col-sm-12">

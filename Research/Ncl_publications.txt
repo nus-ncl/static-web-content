@@ -47,11 +47,34 @@
                         <p></p>
                         <h7><b>NCL Publications</b></h7>
                         
-                         <!-- 2022 publication -->                       
+                         <!-- 2025 publication -->     
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://www.ndss-symposium.org/ndss-paper/auto-draft-549/"><font color="#216694">From Observations to Insights: Constructing Effective Cyberattack Provenance with PROVCON</font></a></h3>
+ <p><font size="2px" color="#000000">• Anis Yusof, Shaofei Li, Kawatra Arshdeep Singh, Ding Li, Ee-Chien Chang, Zhenkai Liang&nbsp;&nbsp;&nbsp;• Workshop on SOC Operations and Construction (WOSOC) 2025.</font></p>
+
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://ieeexplore.ieee.org/abstract/document/11080009"><font color="#216694">FOADA: Towards Robust Open-World Mobile App Fingerprinting</font></a></h3>
+ <p><font size="2px" color="#000000">• Jiajun Gong, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• IEEE Transactions on Information Forensics and Security 2025.</font></p>
+
+                         <!-- 2024 publication -->     
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://dl.acm.org/doi/10.1145/3691620.3695345"><font color="#216694">VulZoo: A Comprehensive Vulnerability Intelligence Dataset</font></a></h3>
+ <p><font size="2px" color="#000000">• Bonan Ruan, Jiahao Liu, Weibo Zhao, Zhenkai Liang&nbsp;&nbsp;&nbsp;• ASE 2024 (39th IEEE/ACM International Conference on Automated Software Engineering).</font></p>
+
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://dl.acm.org/doi/10.1145/3678890.3678891"><font color="#216694">KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities</font></a></h3>
+ <p><font size="2px" color="#000000">• Bonan Ruan, Jiahao Liu, Chuqi Zhang, Zhenkai Liang&nbsp;&nbsp;&nbsp;• RAID 2024 (27th International Symposium on Research in Attacks, Intrusions and Defenses, won Best Practical Paper Award).</font></p>
+
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://dl.acm.org/doi/10.1145/3711650.3711651"><font color="#216694">Demystifying AMD SEV Performance Penalty for NFV Deployment</font></a></h3>
+ <p><font size="2px" color="#000000">• Syafiq Al Atiiq, Aris Cahyadi Risdianto&nbsp;&nbsp;&nbsp;• ACM conferences, 2024.</font></p>
+
+                         <!-- 2023 publication --> 
 			<h3 class="news-header1" >
                             <a target=_blank href="https://ieeexplore.ieee.org/document/10066414/"><font color="#216694">End-to-End Performance Evaluation of R-SV / R-GOOSE Messages for Wide Area Protection and Control Applications</font></a></h3>
  <p><font size="2px" color="#000000">• S.M. Suhail Hussain, Muhammad M. Roomi, Daisuke Mashima, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• 2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT).</font></p>
 
+                         <!-- 2022 publication -->  
 			<h3 class="news-header1" >
                             <a target=_blank href="https://dl.acm.org/doi/abs/10.1145/3488932.3524127"><font color="#216694">RecIPE: Revisiting the Evaluation of Memory Error Defenses</font></a></h3>
  <p><font size="2px" color="#000000">• Yuancheng Jiang, Roland H.C. Yap, Zhenkai Liang & Hubert Rosier&nbsp;&nbsp;&nbsp;• ASIA CCS '22: Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security, May 2022.</font></p>

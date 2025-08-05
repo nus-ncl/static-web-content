@@ -1,0 +1,52 @@
+
+<div layout:fragment="content" id="AviationRunwaySystem">
+ <p></p><br></br>
+    <p></p>
+
+    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
+        <div class="row">
+            <h2 class="news-header"><font color="#0d6dba">Introduction</font></h2>
+            <p>The Aviation Runway Lights Management Simulation System, developed by NCL, is a a compact cyber twin platform dthat simulates PLC based opertations of a Category II airport precision instrument runway lighting control system. It provide a platform to faciliate ICS security training and education in airport runway control system managed by an Air Traffic Control (ATC) tower, a subset of aviation critical infrastructure.</p>
+            <br/>
+
+            <img src="images/aviation-simulation-animated.gif" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">2D Physical World Visualization Program User Interface</p>
+            </br>
+
+            <h2 class="news-header"><font color="#0d6dba">System Overview:</font></h2>
+            </br>
+            <ul>
+                <li><strong>2D Physical World Visualization Module:</strong> Provides a top-down, real-time view of the CAT II runway environment, simulating aircraft movements (15 patterns across 4 altitude levels), 11 types of runway lights, and radar surveillance zones, enabling observation of operational and cyber induced effects.</li>
+                <li><strong>PLC Controller Simulation Module:</strong> Emulates six ABB AC500 PLCs to manage runway subsystems such as lighting, radar, VHF communication, using IEC 60870-5-104, facilitating accurate control signal exchange and cybersecurity vulnerability testing.</li>
+                <li><strong>Tower SCADA HMI System Module:</strong> Offers interactive interfaces for runway light control, radar monitoring, and VHF communication, allowing real-time operator commands and system state monitoring for cybersecurity training and exercises.</li>
+                <li><strong>Operations Management Zone Module:</strong> Simulates backend data management with servers for live OT monitoring, historical data archiving, and structured access to operational records, supporting incident analysis and training scenarios.</li>
+            </ul>
+
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('aviation-simulation-structure.png','aviation-simulation-structure.png','PNG')"/>
+            <img id="aviation-simulation-structure.png" style="display: block; margin: 0 auto; width: 650px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">System Structure Diagram</p>
+            <br />
+
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('aviation-simulation-workflow.png','aviation-simulation-workflow.png','PNG')"/>
+            <img id="aviation-simulation-workflow.png" style="display: block; margin: 0 auto; width: 650px; border: 0;">
+            <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">
+            Control Workflow between PLCs and other OT System Components</p>
+            </br>
+
+            <h2 class="news-header"><font color="#0d6dba">What might this system be useful for:</font></h2>
+            </br>
+            <ul>
+                <li><strong>Cybersecurity Training and Exercises:</strong> Provides a realistic OT environment to train aviation infrastructure operators, cybersecurity professionals, and students in identifying, mitigating, and responding to cyberattacks targeting critical information infrastructure (CII), such as runway lighting, radar, and VHF communication systems, by simulating cascading failure scenarios.</li>
+                <li><strong>Vulnerability Testing and Research:</strong> Serves as a testbed for security researchers to analyze OT-specific vulnerabilities (e.g. protocol exploits in IEC 60870-5-104 or PLC manipulation), enabling the study of cyber threats to airport SCADA systems in a controlled, standards compliant setting.</li>
+                <li><strong>Technical Demonstrations and Awareness:</strong> Utilizes 2D visualization and interactive SCADA HMI interfaces to demonstrate cyber risks to stakeholders, raising awareness about the impact of attacks on airport operations and showcasing mitigation strategies.</li>
+                <li><strong>Educational and Professional Development:</strong> Supports OT-ICS curriculum in academic institutions and professional training programs, offering a cost effective, scalable tool aligned with FAA and ICAO standards for teaching industrial control system operations and cybersecurity principles.</li>
+            </ul>
+            <br/>
+            <h2 class="news-header"><font color="#0d6dba">Collaboration:</font></h2>
+            <p>If anyone interested to learn more about the simulation system or collaboration, please reach out to us at <a href="mailto:support@ncl.sg">support@ncl.sg</a> for more information!</p>
+            </br>
+ 
+            </div>
+        </div>
+    </div>
+</div>

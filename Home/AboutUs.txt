@@ -27,6 +27,19 @@
             </ul>
         </div>
 <br/>
+        <div class="row"><!--/#coming-soon-->
+            <h2 class="news-header">
+                <font color="#0d6dba">Coming soon</font>
+            </h2>
+            <h3 class="news-header2">
+                The Mini OT Aviation CAT-II Airport Runway Lights Management Simulation System represents a sophisticated cyber twin digital simulator meticulously engineered by our team for advanced cybersecurity training and exercises. This innovative platform replicates the operational dynamics of a Category II airport runway, integrating three critical SCADA systems runway lighting, radar, and VHF radio communication to provide a robust environment for analyzing cyber threats. Designed for rigorous cybersecurity training, technical demonstrations, and academic instruction, it authentically models a multi-layered airport operational technology (OT) architecture spanning Level 0 - 3. The system also features a comprehensive 2D visualization module, six emulated programmable logic controllers (PLCs), and interactive tower SCADA-HMI interfaces, which enables detailed exploration of cyber induced cascading failures in critical information infrastructure (CII). The design aligns with FAA and ICAO standards, and offers a scalable, cost effective cybersecurity training solution for research institutions and organizations. Do look forward to forthcoming enhancements, including advanced radar echo simulation, in upcoming releases, further strengthening its capabilities for transformative cybersecurity training. Stay tuned!
+            </h3>
+            <p>&nbsp;</p>
+            <div class="col-sm-12">
+                <img src="images/aviation-simulation-animated.gif" class="img-responsive" />
+            </div>
+        </div>
+<br/>
 <div class="row"> <!--/#about-us-->
                
                         <h2 class="news-header"><font color="#0d6dba">About us</font></h2>
@@ -41,8 +54,6 @@
                                 sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
                     </div>
                     </div>
- 
- 
     <p>&nbsp;</p>
 
 </div>

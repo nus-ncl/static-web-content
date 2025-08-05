@@ -36,8 +36,8 @@
             </h3>
             <p>&nbsp;</p>
             <div class="col-sm-12">
-                <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('aviation-simulation-animated.gif','aviation-simulation-animated','gif')">
-                <img id="aviation-simulation-animated"  class="img-responsive" />
+                <!-- Large GIF cannot use loadImage -->
+                <img src="images/aviation-simulation-animated.gif" class="img-responsive" />
             </div>
         </div>
 <br/>

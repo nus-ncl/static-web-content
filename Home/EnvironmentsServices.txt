@@ -34,6 +34,43 @@
       </div>
     </div> <!-- container 1st ends here-->
 
+    <br></br> <!-- Aviation Container Starts here-->
+    <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
+
+      <!-- <div class="col-sm-8 col-sm-offset-3">-->
+      <div class="row">
+        <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Aviation Runway Lights Management Simulation System - </font><font color="#ff0000">Coming Soon!</font></b></h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6 col-md-8 col-sm-12">
+          <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('aviation-simulation-structure.png','aviation-simulation-structure.png','PNG')"/>
+          <img id="aviation-simulation-structure.png" class="img-responsive" border="0" align="left" style="object-fit:contain;"/>
+        </div>
+
+        <div class="col-lg-6">
+          <div class="row">
+            <ul>
+              <p><font color="#050505"></font> </p>
+              <p><font color="#050505"></font> </p><br></br>
+              <li><p><font color="#050505">Layered OT Structure: Simulates CAT-II runway across OT Levels 0–3, with field devices, six virtual PLCs, SCADA-HMI interfaces, and data servers, aligned with FAA/ICAO standards.</font></p></li>
+              <li><p><font color="#050505">2D Visualization: Displays real-time runway, aircraft (15 patterns, 4 altitudes), 11 CAT-II lights, and radar zones for operational and cyber impact analysis.</font></p></li>
+              <li><p><font color="#050505">PLC and HMI Integration: Six PLCs manage runway subsystems via IEC 60870-5-104; HMI panels enable real-time control, monitoring, and diagnostics for training.</font></p></li>
+              <li><p><font color="#050505">Cyber Threat Simulation: Models cyberattacks on critical information infrastructure (CII), like lighting and radar, for scalable cybersecurity exercises and research.</font></p></li>
+              <li><a target="_blank" href="AviationRunwaySystem.html">Learn More</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <p><font color="#050505"></font> </p>
+          <p><font color="#050505"></font> </p>
+          <p><font color="#0d6dba">&nbsp;&nbsp;&nbsp;For more information about the system or collaboration, please reach out to us at support@ncl.sg</font></p>
+        </div>
+      </div>    
+    </div><!-- Aviation Container Ends here-->
+
     <br></br> <!-- Railway Container Starts here-->
     <div class="container" style="background-image: url('images/white_back5.jpg'); object-fit: fill;object-position: 50% 50%;">
 
@@ -43,14 +80,13 @@
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Land based Railway System</font></b></h2>
       </div>
 
-
-      <div class="col-sm-12">
-        <div class="col-sm-6">
+      <div class="row">
+        <div class="col-lg-6 col-md-8 col-sm-12">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Brochure_Railway.png','BrochureRailway.png','PNG')"/>
-          <img id="BrochureRailway.png" width="550" height="350" border="0" align="left" style="object-fit:contain;"/>
+          <img id="BrochureRailway.png" class="img-responsive" border="0" align="left" style="object-fit:contain;"/>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-lg-6">
           <div class="row">
             <ul>
               <p><font color="#050505"></font> </p>
@@ -78,18 +114,17 @@
 
       <!-- <div class="col-sm-8 col-sm-offset-3">-->
       <div class="row">
-        <!-- <h2><b><font color="#0d6dba">Power Grid OT Simulation System</font></b></h2>-->
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Power Grid OT Simulation System</font></b></h2>
       </div>
 
 
-      <div class="col-sm-12">
-        <div class="col-sm-6">
+      <div class="row">
+        <div class="col-lg-6 col-md-8 col-sm-12">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('PowerGridEnvironment.jpg','PowerGridEnvironment.jpg','jpG')"/>
-          <img id="PowerGridEnvironment.jpg" width="550" height="300" border="0" align="left" style="object-fit:contain;"/>
+          <img id="PowerGridEnvironment.jpg" class="img-responsive" border="0" align="left" style="object-fit:contain;"/>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-lg-6">
           <div class="row">
             <ul>
               <p><font color="#050505"></font> </p>
@@ -120,13 +155,13 @@
         <h2 class="team-heading team-heading-current-team1"><b><font color="#080A0A">Cluster User Emulator [CUE] System</font></b></h2>
       </div>
  
-      <div class="col-sm-12">
-        <div class="col-sm-6">
+      <div class="row">
+        <div class="col-lg-6 col-md-8 col-sm-12">
           <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CUE.png','CUE','PNG')"/>
-          <img id="CUE" width="550" height="350" border="0" align="left" style="object-fit:contain;"/>
+          <img id="CUE" class="img-responsive" border="0" align="left" style="object-fit:contain;"/>
         </div>
  
-        <div class="col-sm-6">
+        <div class="col-lg-6">
           <div class="row">
             <ul>
               <p><font color="#050505"></font> </p>

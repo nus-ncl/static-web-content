@@ -6,7 +6,7 @@
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="row">
             <h2 class="news-header"><font color="#0d6dba">Introduction</font></h2>
-            <p>The Aviation Runway Lights Management Simulation System, developed by NCL, is a a compact cyber twin platform dthat simulates PLC based opertations of a Category II airport precision instrument runway lighting control system. It provide a platform to faciliate ICS security training and education in airport runway control system managed by an Air Traffic Control (ATC) tower, a subset of aviation critical infrastructure.</p>
+            <p>The Aviation Runway Lights Management Simulation System, developed by NCL, is a compact cyber twin platform that simulates PLC based opertations of a Category II airport precision instrument runway lighting control system. It provide a platform to faciliate ICS security training and education in airport runway control system managed by an Air Traffic Control (ATC) tower, a subset of aviation critical infrastructure.</p>
             <br/>
 
             <img src="images/aviation-simulation-animated.gif" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
@@ -36,7 +36,7 @@
             <h2 class="news-header"><font color="#0d6dba">What might this system be useful for:</font></h2>
             </br>
             <ul>
-                <li><strong>Cybersecurity Training and Exercises:</strong> Provides a realistic OT environment to train aviation infrastructure operators, cybersecurity professionals, and students in identifying, mitigating, and responding to cyberattacks targeting critical information infrastructure (CII), such as runway lighting, radar, and VHF communication systems, by simulating cascading failure scenarios.</li>
+                <li><strong>Cybersecurity Training and Exercises:</strong> Provides a realistic OT environment to train aviation infrastructure operators, cybersecurity professionals, and students in identifying, mitigating, and responding to cyberattacks targeting critical infrastructure, such as runway lighting, radar, and VHF communication systems, by simulating cascading failure scenarios.</li>
                 <li><strong>Vulnerability Testing and Research:</strong> Serves as a testbed for security researchers to analyze OT-specific vulnerabilities (e.g. protocol exploits in IEC 60870-5-104 or PLC manipulation), enabling the study of cyber threats to airport SCADA systems in a controlled, standards compliant setting.</li>
                 <li><strong>Technical Demonstrations and Awareness:</strong> Utilizes 2D visualization and interactive SCADA HMI interfaces to demonstrate cyber risks to stakeholders, raising awareness about the impact of attacks on airport operations and showcasing mitigation strategies.</li>
                 <li><strong>Educational and Professional Development:</strong> Supports OT-ICS curriculum in academic institutions and professional training programs, offering a cost effective, scalable tool aligned with FAA and ICAO standards for teaching industrial control system operations and cybersecurity principles.</li>

@@ -2,59 +2,63 @@
  <p></p><br></br>
     <p></p>
 
-    <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
-        <div class="row">
-            <h2 class="news-header"><font color="#0d6dba">Overview</font></h2>
-            <!--<p><font color="#313030" size="4px">The National Cybersecurity R&amp;D Lab (NCL) is funded under National Cybersecurity R&amp;D (NCR) Programme since 2015. NCL aims to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing needs.</font></p>-->
-            <h3 class="news-header2">We are a National Cybersecurity R&amp;D Lab (NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</h3>
-            <h3 class="news-header2">Our aim is to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing requirements.</h3>
-        </div>
-<br/>
-        <div class="row">
-            <h2 class="news-header"><font color="#0d6dba">Mission</font></h2>
-            <!--<p><font color="#313030" size="4px">Develop NCL into a hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</font></p>-->
-            <h3 class="news-header2">To develop NCL into a R&amp;D hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</h3>
-        </div>
-
-<br/>
-        <div class="row">
-          <h2 class="news-header"><font color="#0d6dba">Key Areas of Support</font></h2>
-            <ul>
-
-                <li><h3 class="news-header2">R&amp;D and it’s translation</h3></li>
-                <li><h3 class="news-header2">Development, Testing and Evaluation of security solutions</h3></li>
-                <li><h3 class="news-header2">Training and Skills Assessment</h3></li>
-            </ul>
-        </div>
-<br/>
-        <div class="row"><!--/#coming-soon-->
-            <h2 class="news-header">
-                <font color="#0d6dba">Coming soon</font>
-            </h2>
-            <h3 class="news-header2">
-                The Mini OT Aviation CAT-II Airport Runway Lights Management Simulation System represents a sophisticated cyber twin digital simulator meticulously engineered by our team for advanced cybersecurity training and exercises. This innovative platform replicates the operational dynamics of a Category II airport runway, integrating three critical SCADA systems runway lighting, radar, and VHF radio communication to provide a robust environment for analyzing cyber threats. Designed for rigorous cybersecurity training, technical demonstrations, and academic instruction, it authentically models a multi-layered airport operational technology (OT) architecture spanning Level 0 - 3. The system also features a comprehensive 2D visualization module, six emulated programmable logic controllers (PLCs), and interactive tower SCADA-HMI interfaces, which enables detailed exploration of cyber induced cascading failures in critical information infrastructure (CII). The design aligns with FAA and ICAO standards, and offers a scalable, cost effective cybersecurity training solution for research institutions and organizations. Do look forward to forthcoming enhancements, including advanced radar echo simulation, in upcoming releases, further strengthening its capabilities for transformative cybersecurity training. Stay tuned!
-            </h3>
-            <p>&nbsp;</p>
-            <div class="col-sm-12">
-                <!-- Large GIF cannot use loadImage -->
-                <img src="images/aviation-simulation-animated.gif" class="img-responsive" />
-            </div>
-        </div>
-<br/>
-<div class="row"> <!--/#about-us-->
-               
-                        <h2 class="news-header"><font color="#0d6dba">About us</font></h2>
-                        <h3 class="news-header2"><a href="#"><b>NCL</b></a> offers computing resources and controlled experimentation environments to facilitate collaborative research among academia, government bodies, and industry. The infrastructure comprises a cluster of 300+ nodes with diverse provisioning mechanisms, security data, and security services.</h3>
-                        <p>&nbsp;</p>
-                        <h3 class="news-header2"><a href="https://www.openstack.org/" target="_blank"><b>OpenStack</b></a>, an open-source cloud computing infrastructure software project, serves as the foundation for managing the NCL infrastructure. In addition to Compute and Baremetal, NCL also supplies a range of GPU servers to accommodate the growing requirements of AI research.</h3>
-                       <p>&nbsp;</p>
- <div class="col-sm-12 embed-responsive embed-responsive-16by9" >
-                        <iframe src="https://player.vimeo.com/video/206349173?title=0&amp;byline=0&amp;portrait=0"
-                                frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
-                                allowfullscreen="true" 
-                                sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
-                    </div>
-                    </div>
+<div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
     <p>&nbsp;</p>
+    <div class="row"><!--/#coming-soon-->
+        <h2 class="news-header">
+            <font color="#0d6dba">Our Latest Cyber Twin - Aviation CAT-II Airport Simulator</font>
+        </h2>
+        <p>
+            The Mini OT Aviation CAT-II Airport Runway Lights Management Simulation System represents a sophisticated cyber twin digital simulator meticulously engineered by our team for advanced cybersecurity training and exercises. 
+        </p>
+        <div class="col-sm-12">
+            <!-- Large GIF cannot use loadImage -->
+            <img src="images/aviation-simulation-animated.gif" class="img-responsive" />
+        </div>
+        <p>&nbsp;</p>
+        <p>
+            This innovative platform replicates the operational dynamics of a Category II airport runway, integrating three critical SCADA systems runway lighting, radar, and VHF radio communication to provide a robust environment for analyzing cyber threats.
+        </p>
+        <p>
+            The design aligns with FAA and ICAO standards, and offers a scalable, cost effective cybersecurity training solution for research institutions and organizations. Do look forward to forthcoming enhancements, including advanced radar echo simulation, in upcoming releases, further strengthening its capabilities for transformative cybersecurity training. Stay tuned!
+        </p>
+    </div>
+    <br />
+    <div class="row">
+        <h2 class="news-header"><font color="#0d6dba">Our Overview</font></h2>
+        <!--<p><font color="#313030" size="4px">The National Cybersecurity R&amp;D Lab (NCL) is funded under National Cybersecurity R&amp;D (NCR) Programme since 2015. NCL aims to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing needs.</font></p>-->
+        <p>We are a National Cybersecurity R&amp;D Lab (NCL), established in 2015 and funded under the National Cybersecurity R&amp;D (NCR) Programme.</p>
+        <p >Our aim is to provide support to the Singapore cybersecurity R&amp;D community in terms of their research experimentation and testing requirements.</p>
+    </div>
+    <br />
+    <div class="row">
+        <h2 class="news-header"><font color="#0d6dba">Our Mission</font></h2>
+        <!--<p><font color="#313030" size="4px">Develop NCL into a hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</font></p>-->
+        <p>To develop NCL into a R&amp;D hub that facilitates the growth of a vibrant Singapore cybersecurity ecosystem.</p>
+    </div>
 
+    <br />
+    <div class="row">
+    <h2 class="news-header"><font color="#0d6dba">Key Areas of Support</font></h2>
+        <ul>
+            <li><p>R&amp;D and it’s translation</p></li>
+            <li><p>Development, Testing and Evaluation of security solutions</p></li>
+            <li><p>Training and Skills Assessment</p></li>
+        </ul>
+    </div>
+    <br/>
+    <div class="row"> <!--/#about-us-->
+        <h2 class="news-header"><font color="#0d6dba">About us</font></h2>
+        <p><a href="#"><b>NCL</b></a> offers computing resources and controlled experimentation environments to facilitate collaborative research among academia, government bodies, and industry. The infrastructure comprises a cluster of 300+ nodes with diverse provisioning mechanisms, security data, and security services.</p>
+        <p>&nbsp;</p>
+        <p><a href="https://www.openstack.org/" target="_blank"><b>OpenStack</b></a>, an open-source cloud computing infrastructure software project, serves as the foundation for managing the NCL infrastructure. In addition to Compute and Baremetal, NCL also supplies a range of GPU servers to accommodate the growing requirements of AI research.</p>
+        <p>&nbsp;</p>
+        <div class="col-sm-12 embed-responsive embed-responsive-16by9" >
+            <iframe src="https://player.vimeo.com/video/206349173?title=0&amp;byline=0&amp;portrait=0"
+                    frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"
+                    allowfullscreen="true" 
+                    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"></iframe>
+        </div>
+    </div>
+    <p>&nbsp;</p>
 </div>

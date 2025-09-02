@@ -24,7 +24,7 @@
         <div class="row">
             <ul>
                 <li><p align="justify">On 29 August 2025, Professor Kazutaka Matsuzaki from Chuo University and the Industrial Cybersecurity Center of Excellence (ICSCoE), IPA, Japan, visited the National Cybersecurity R&D Lab (NCL) for a discussion on railway cybersecurity.</p></li>
-                <li><p align="justify"The visit facilitated international knowledge exchange and explored future collaboration to enhance cyber resilience in transportation systems.</p></li>
+                <li><p align="justify">The visit facilitated international knowledge exchange and explored future collaboration to enhance cyber resilience in transportation systems.</p></li>
             </ul>
         </div>
     </div>

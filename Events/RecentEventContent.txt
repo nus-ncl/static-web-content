@@ -11,6 +11,25 @@
                     <p></p>
                 </div>
             </div>
+<!-- ProfKazutakavisit25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Professor_Kazutaka_Matsuzaki_visit.jpeg','Professor_Kazutaka_Matsuzaki_visit','JPEG')"/>
+        <img id="Professor_Kazutaka_Matsuzaki_visit" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Visit from Professor Kazutaka Matsuzaki</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">On 29 August 2025, Professor Kazutaka Matsuzaki from Chuo University and the Industrial Cybersecurity Center of Excellence (ICSCoE), IPA, Japan, visited the National Cybersecurity R&D Lab (NCL) for a discussion on railway cybersecurity.</p></li>
+                <li><p align="justify"The visit facilitated international knowledge exchange and explored future collaboration to enhance cyber resilience in transportation systems.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of ProfKazutakavisit25 -->
 <!-- AICSImmersion25 -->
 <div class="col-sm-12">
     <div class="col-sm-4">

@@ -73,13 +73,6 @@
 
 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Yaw Jason</b></h8>
-                        <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
-                    </div>
-                </div>
-
-<div class="col-sm-6">
-                    <div class="row">
                         <h8><b>Jasmine Chai Chia En</b></h8>
                         <p><b><font color="585656">Infrastructure Engineer</font></b> </p>
                     </div>
@@ -87,7 +80,21 @@
 
 <div class="col-sm-6">
                     <div class="row">
+                        <h8><b>Lam YongXian</b></h8>
+                        <p><b><font color="585656">Senior Software Engineer</font></b> </p>
+                    </div>
+                </div>
+
+<div class="col-sm-6">
+                    <div class="row">
                         <h8><b>Wei Wei</b></h8>
+                        <p><b><font color="585656">Software Engineer</font></b> </p>
+                    </div>
+                </div>
+
+<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Foo Shi Wan</b></h8>
                         <p><b><font color="585656">Software Engineer</font></b> </p>
                     </div>
                 </div>

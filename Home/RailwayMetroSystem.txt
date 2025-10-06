@@ -5,10 +5,14 @@
 
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="row">
-            <h2 class="news-header"><font color="#0d6dba">Introduction</font></h2>
+            <h2 class="news-header"><font color="#0d6dba">Introduction——testing</font></h2>
             <p>Land based Railway System was built in 2023 by NCL development team, for research in cyber security. Its purpose is to help ICS researchers and instructors test IT/OT attack and defense solutions and provide a platform for ICS security training and education.</p>
             <br/>
+            <div style="display: flex; justify-content: center; margin: 20px 0;">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/Qr9SKYPN8l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
             <p>Our idea on creating a digital version of the railway system simulation platform, designed to replicate the operation of multiple trains traversing distinct tracks, each equipped with unique sensor-signal controls. This platform is intended to serve as a valuable resource for cybersecurity researchers, enabling them to demonstrate and assess the impact of various types of IT attacks on operational technology (OT) systems. The platform comprises six primary components (programs):</p>
+            
             <br/>
             <ul>
                 <li> Land based Railway System </font></li>
@@ -20,7 +24,7 @@
             </ul>
             <br/>
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (20).png','Railway1','PNG')"/>
-              <img id="Railway1" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
+              <img id="Railway1" alt="Centered Image" s tyle="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Real-world Railway System Simulator</p>
 
             </br>

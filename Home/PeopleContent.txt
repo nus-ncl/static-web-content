@@ -94,6 +94,13 @@
 
 <div class="col-sm-6">
                     <div class="row">
+                        <h8><b>Charlene Tan</b></h8>
+                        <p><b><font color="585656">Software Engineer</font></b> </p>
+                    </div>
+                </div>
+
+<div class="col-sm-6">
+                    <div class="row">
                         <h8><b>Foo Shi Wan</b></h8>
                         <p><b><font color="585656">Software Engineer</font></b> </p>
                     </div>

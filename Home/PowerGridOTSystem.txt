@@ -5,11 +5,12 @@
     <div class="container" style="background-image: url('images/publication_back7.jpg'); object-fit: fill;object-position: 50% 50%;">
         <div class="row">
             <h2 class="news-header"><font color="#0d6dba">Introduction:</font></h2>
+            <p>The objective of this project is to simulate a Power Grid OT digital system that can be used for cyber-security related 
+              activities. </p>
             <div style="display: flex; justify-content: center; margin: 20px 0;">
                               <iframe width="800" height="450" src="https://www.youtube.com/embed/Xz3-Y4EPpTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               </div> 
-            <p>The objective of this project is to simulate a Power Grid OT digital system that can be used for cyber-security related 
-              activities.   The system is a comprehensive software platform designed to simulate the essential operations of a typical 
+            <p>The system is a comprehensive software platform designed to simulate the essential operations of a typical 
               small-scale hybrid power grid.  The simulated Power Grid have the following:</p>           
               <div class="row">
 

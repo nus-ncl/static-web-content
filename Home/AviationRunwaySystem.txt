@@ -8,7 +8,10 @@
             <h2 class="news-header"><font color="#0d6dba">Introduction</font></h2>
             <p>The Aviation Runway Lights Management Simulation System, developed by NCL, is a compact cyber twin platform that simulates PLC based operations of a Category II airport precision instrument runway lighting control system. It provide a platform to faciliate ICS security training and education in airport runway control system managed by an Air Traffic Control (ATC) tower, a subset of aviation critical infrastructure.</p>
             <br/>
-
+            <div style="display: flex; justify-content: center; margin: 20px 0;">
+                              <iframe width="800" height="450" src="https://www.youtube.com/embed/3_Wb0U41LS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div> 
+  
             <img src="images/aviation-simulation-animated.gif" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">2D Physical World Visualization Program User Interface</p>
             </br>

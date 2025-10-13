@@ -27,7 +27,7 @@
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Real-world Railway System Simulator</p>
 
             </br>
-
+<!--
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')"/>
               <img id="Railway2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">Railway System Train Controller HMI</p>
@@ -39,6 +39,29 @@
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">Railway System SCADA HMI</p>
 
             </br>
+-->
+            <div class="grid">
+              <div class="cell">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')"/>
+              </div>
+              <div class="cell">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')">
+              </div>
+              <div class="cell">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')">
+              </div>
+              <div class="cell">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')">
+              </div>
+            </div>
+
+           <div id="modal" class="modal">
+             <span class="close-btn">&times;</span>
+             <div class="modal-content">
+               <img id="modalImg" src="" alt="">
+               <div class="caption" id="caption"></div>
+             </div>
+           </div>
 
             <h3>What might this system be useful for: </h3>
             </br>

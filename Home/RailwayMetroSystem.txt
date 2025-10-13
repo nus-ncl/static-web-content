@@ -23,7 +23,7 @@
             </ul>
             <br/>
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Railway-physicalWorld.png','RailwayNew','png')"/>
-              <img id="RailwayNew" alt="RailwayNew" style="display: block; margin: 0 auto; width: 650px; border:0;">
+              <img id="RailwayNew" alt="RailwayNew" style="display: block; margin: 0 auto; max-width:80%; width: 650px; height:auto; border:0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Real-world Railway System Simulator</p>
 
             </br>

@@ -22,8 +22,8 @@
                 <li> Railway Trains Sensor - Power System Control PLC Simulator</li>
             </ul>
             <br/>
-            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Railway_physicalWorld.png','Railway1','PNG')"/>
-              <img id="Railway1" alt="Centered Image" s tyle="display: block; margin: 0 auto; width: 650px; border: 0;">
+            <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Railway_physicalWorld.png','RailwayNew','PNG')"/>
+              <img id="RailwayNew" alt="Centered Image" s tyle="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Real-world Railway System Simulator</p>
 
             </br>

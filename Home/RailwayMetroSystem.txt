@@ -43,6 +43,7 @@
             <div class="grid">
               <div class="cell">
                 <img class="thumb" onload="loadImage('Scada-HMI.png','Image 1','PNG')"/>
+                <img id="Image 1" alt="Centered Image" style="display: block;">
               </div>
               <div class="cell">
                 <img class="thumb" src="images/Sensor-Signal.png" onload="loadImage('Sensor-Signal.png','Image 2','PNG')">

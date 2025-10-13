@@ -45,13 +45,13 @@
                 <img class="thumb" src="images/Scada-HMI.png" onload="loadImage('Scada-HMI.png','Image 1','PNG')"/>
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('Sensor-Signal.png','Image 2','PNG')">
+                <img class="thumb" src="images/Sensor-Signal.png" onload="loadImage('Sensor-Signal.png','Image 2','PNG')">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('Track-block.png','Image 3','PNG')">
+                <img class="thumb" src="images/Track-block.png" onload="loadImage('Track-block.png','Image 3','PNG')">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" onload="loadImage('Train-Controller.png','Image 4','PNG')">
+                <img class="thumb" src="images/Train-Controller.png" onload="loadImage('Train-Controller.png','Image 4','PNG')">
               </div>
             </div>
 

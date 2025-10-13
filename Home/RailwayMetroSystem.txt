@@ -42,7 +42,7 @@
 -->
             <div class="grid">
               <div class="cell">
-                <img class="thumb" src="images/Scada-HMI.png" onload="loadImage('Scada-HMI.png','Image 1','PNG')"/>
+                <img class="thumb" onload="loadImage('Scada-HMI.png','Image 1','PNG')"/>
               </div>
               <div class="cell">
                 <img class="thumb" src="images/Sensor-Signal.png" onload="loadImage('Sensor-Signal.png','Image 2','PNG')">

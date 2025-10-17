@@ -27,7 +27,7 @@
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Real-world Railway System Simulator</p>
 
             </br>
-<!--  
+
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')"/>
               <img id="Railway2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">Railway System Train Controller HMI</p>
@@ -37,9 +37,9 @@
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (18).png','Railway3','PNG')"/>
               <img id="Railway3" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">Railway System SCADA HMI</p>
--->
-            </br>
 
+            </br>
+<!--  
           <div class="grid">
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" data-large="images/Scada-HMI.png" style="display: none" onload="loadImage('Scada-HMI.png','Image 1','PNG')"/>
@@ -66,7 +66,7 @@
                <div class="caption" id="caption"></div>
              </div>
            </div>
-<!--  
+ 
          <script>
          const modal = document.getElementById("modal");
          const modalImg = document.getElementById("modalImg");
@@ -84,7 +84,7 @@
          closeBtn.onclick = () => { modal.style.display = "none"; };
          modal.onclick = e => { if(e.target===modal) modal.style.display="none"; };
          </script>
-   -->      
+    
          
          
          <style>
@@ -158,7 +158,7 @@
            cursor: pointer;
          }
          </style>
-
+ -->    
 
             <h3>What might this system be useful for: </h3>
             </br>

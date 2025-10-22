@@ -43,19 +43,19 @@
           <div class="grid">
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Scada-HMI.png','Image1','PNG')" data-large="images/Scada-HMI.png"/>
-                <img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <p><img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">HQ Management HMI</p>
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Sensor-Signal.png','Image2','PNG')" data-large="images/Sensor-Signal.png"/>
-                <img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Track-block.png','Image3','PNG')" data-large="images/Track-block.png"/>
-                <img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller(3).png','Image4','PNG')" data-large="images/Train-Controller(3).png"/>
-                <img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">
               </div>
             </div>
 

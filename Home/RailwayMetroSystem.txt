@@ -27,7 +27,7 @@
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Real-world Railway System Simulator</p>
 
             </br>
-
+ <!-- 
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (19).png','Railway2','PNG')"/>
               <img id="Railway2" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">Railway System Train Controller HMI</p>
@@ -37,24 +37,24 @@
             <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('MicrosoftTeams-image (18).png','Railway3','PNG')"/>
               <img id="Railway3" alt="Centered Image" style="display: block; margin: 0 auto; width: 650px; border: 0;">
             <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain">Railway System SCADA HMI</p>
-
+ -->   
             </br>
- <!-- 
+
           <div class="grid">
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" data-large="images/Scada-HMI.png" style="display: none" onload="loadImage('Scada-HMI.png','Image1','PNG')"/>
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Scada-HMI.png','Image1','PNG')" data-large="images/Scada-HMI.png"/>
                 <img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Sensor-Signal.png" onload="loadImage('Sensor-Signal.png','Image2','PNG')">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Sensor-Signal.png','Image2','PNG')" data-large="images/Sensor-Signal.png"/>
                 <img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Track-block.png" onload="loadImage('Track-block.png','Image3','PNG')">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Track-block.png','Image3','PNG')" data-large="images/Track-block.png"/>
                 <img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Train-Controller.png" onload="loadImage('Train-Controller.png','Image4','PNG')">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller.png','Image4','PNG')" data-large="images/Train-Controller.png"/>
                 <img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
             </div>
@@ -66,7 +66,79 @@
                <div class="caption" id="caption"></div>
              </div>
            </div>
- -->    
+
+         <style>
+           .grid {
+             display: grid;
+             grid-template-columns: repeat(2, 1fr); /* 2 columns */
+             grid-auto-rows: 200px; /* fixed row height to form visible grid */
+             gap: 7px;
+             max-width: 800px; /* optional, adjust to fit your page */
+             margin: 0 auto;
+           }
+           
+           .cell {
+             display: flex;
+             justify-content: center;
+             align-items: center;
+             background:#ffffff;
+             border-radius: 2px;
+             overflow: hidden;
+             object-fit: cover; 
+           }
+           
+           .thumb {
+             max-width: 100%;
+             max-height: 100%;
+             cursor: pointer;
+             border-radius: 4px;
+           }
+           
+           .modal {
+             display: none; /* Hidden by default */
+             position: fixed; /* Stay in place */
+             z-index: 1; /* Sit on top */
+             padding-top: 100px; /* Location of the box */
+             left: 0;
+             top: 0;
+             width: 100%; /* Full width */
+             height: 100%; /* Full height */
+             overflow: auto; /* Enable scroll if needed */
+             background-color: rgb(0,0,0); /* Fallback color */
+             background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+           }
+           
+           
+           .modal-content img {
+             margin: auto;
+             display: block;
+             width: 50%;
+             max-width: 700px;           /* horizontal center */
+           }
+           
+           .caption {
+             color: #fff;
+             margin-top: 10px;
+             font-size: 16px;
+           }
+           
+           
+           .caption {
+             margin-top: 10px;
+             color: #fff;
+             text-align: center;
+           }
+           
+           .close-btn {
+             position: fixed;
+             top: 18px;
+             right: 22px;
+             color: #fff;
+             font-size: 28px;
+             cursor: pointer;
+           }
+
+            </style>
 
             <h3>What might this system be useful for: </h3>
             </br>

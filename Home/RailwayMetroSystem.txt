@@ -54,7 +54,7 @@
                 <img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller.png','Image4','PNG')" data-large="images/Train-Controller.png"/>
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller(2).png','Image4','PNG')" data-large="images/Train-Controller.png"/>
                 <img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
             </div>

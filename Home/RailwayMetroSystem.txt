@@ -111,6 +111,7 @@
            
            .modal-content img {
              margin: auto;
+             object-fit: contain;
              display: block;
              width: 50%;
              max-width: 700px;           /* horizontal center */

@@ -43,19 +43,19 @@
           <div class="grid">
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Scada-HMI.png','Image1','PNG')" data-large="images/Scada-HMI.png"/>
-                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;" ><img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">HQ Management HMI</p>
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;" ><img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">HQ Management HMI</p>
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Sensor-Signal.png','Image2','PNG')" data-large="images/Sensor-Signal.png"/>
-                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">Signal System Monitor HMI</p>                
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Signal System Monitor HMI</p>                
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Track-block.png','Image3','PNG')" data-large="images/Track-block.png"/>
-                <img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Railway Track Block Control HMI</p>
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller(3).png','Image4','PNG')" data-large="images/Train-Controller(3).png"/>
-                <img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Railway Train Control HMI</p>
               </div>
             </div>
 
@@ -72,7 +72,7 @@
              display: grid;
              grid-template-columns: repeat(2, 1fr); /* 2 columns */
              grid-auto-rows: 300px; /* fixed row height to form visible grid */
-             gap: 7px;
+             gap: 10px;
              max-width: 800px; /* optional, adjust to fit your page */
              margin: 0 auto;
            }

@@ -48,6 +48,7 @@
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Sensor-Signal.png','Image2','PNG')" data-large="images/Sensor-Signal.png"/>
                 <img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 400px; border: 0;">
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;">Signal System Monitor HMI</p>
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Track-block.png','Image3','PNG')" data-large="images/Track-block.png"/>
@@ -71,7 +72,7 @@
            .grid {
              display: grid;
              grid-template-columns: repeat(2, 1fr); /* 2 columns */
-             grid-auto-rows: 200px; /* fixed row height to form visible grid */
+             grid-auto-rows: 300px; /* fixed row height to form visible grid */
              gap: 7px;
              max-width: 800px; /* optional, adjust to fit your page */
              margin: 0 auto;

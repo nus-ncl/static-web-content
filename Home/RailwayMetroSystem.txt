@@ -42,20 +42,20 @@
  
           <div class="grid">
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" data-large="images/Scada-HMI.png" style="display: none" onload="loadImage('Scada-HMI.png','Image 1','PNG')"/>
-                <img id="Image 1" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" data-large="images/Scada-HMI.png" style="display: none" onload="loadImage('Scada-HMI.png','Image1','PNG')"/>
+                <img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Sensor-Signal.png" onload="loadImage('Sensor-Signal.png','Image 2','PNG')">
-                <img id="Image 2" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Sensor-Signal.png" onload="loadImage('Sensor-Signal.png','Image2','PNG')">
+                <img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Track-block.png" onload="loadImage('Track-block.png','Image 3','PNG')">
-                <img id="Image 3" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Track-block.png" onload="loadImage('Track-block.png','Image3','PNG')">
+                <img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Train-Controller.png" onload="loadImage('Train-Controller.png','Image 4','PNG')">
-                <img id="Image 4" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" data-large="images/Train-Controller.png" onload="loadImage('Train-Controller.png','Image4','PNG')">
+                <img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 325px; border: 0;">
               </div>
             </div>
 

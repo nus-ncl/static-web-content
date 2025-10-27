@@ -59,13 +59,12 @@
               </div>
             </div>
 
-           <div id="modal" class="modal">
-             <span class="close-btn">&times;</span>
-             <div class="modal-content">
-               <img id="modalImg" src="" alt="">
-               <div class="caption" id="caption"></div>
-             </div>
-           </div>
+        <!-- The Modal -->
+        <div id="myModal" class="modal">
+          <span class="close">&times;</span>
+          <img class="modal-content" id="img01">
+          <div id="caption"></div>
+        </div>
 
          <style>
            .grid {

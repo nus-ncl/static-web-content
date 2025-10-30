@@ -76,7 +76,7 @@
              grid-template-columns: repeat(2, 1fr); /* 2 columns */
              grid-auto-rows: 300px; /* fixed row height to form visible grid */
              gap: 10px;
-             max-width: 800px; /* optional, adjust to fit your page */
+             max-width: 1000px; /* optional, adjust to fit your page */
              margin: 0 auto;
            }
            

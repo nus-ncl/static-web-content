@@ -46,16 +46,16 @@
                 <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;" ><img id="Image1" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">HQ Management HMI</p>
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Sensor-Signal.png','Image2','PNG')" data-large="images/Sensor-Signal.png"/>
-                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Signal System Monitor HMI</p>                
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller(3).png','Image2','PNG')" data-large="images/Train-Controller(3).png"/>
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image2" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Railway Train Control HMI</p>                
               </div>
               <div class="cell">
                 <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Track-block.png','Image3','PNG')" data-large="images/Track-block.png"/>
                 <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image3" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Railway Track Block Control HMI</p>
               </div>
               <div class="cell">
-                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Train-Controller(3).png','Image4','PNG')" data-large="images/Train-Controller(3).png"/>
-                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Railway Train Control HMI</p>
+                <img class="thumb" src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Sensor-Signal.png','Image4','PNG')" data-large="images/Sensor-Signal.png"
+                <p style="display: block; margin: 0 auto; text-align: center; object-fit: contain;"><img id="Image4" alt="Centered Image" style="display: block; margin: 0 auto; width: 500px; border: 0;">Signal System Monitor HMI</p>
               </div>
             </div>
 
@@ -87,7 +87,6 @@
              background-color: transparent;
              border-radius: 2px;
              overflow: hidden;
-             object-fit: cover; 
            }
            
            .thumb {

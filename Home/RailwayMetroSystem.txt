@@ -70,6 +70,7 @@
 
 
          <style>
+ 
            .grid {
              display: grid;
              grid-template-columns: repeat(2, 1fr); /* 2 columns */
@@ -83,7 +84,7 @@
              display: flex;
              justify-content: center;
              align-items: center;
-             background:#ffffff;
+             background-color: transparent;
              border-radius: 2px;
              overflow: hidden;
              object-fit: cover; 
@@ -94,31 +95,43 @@
              max-height: 100%;
              cursor: pointer;
              border-radius: 4px;
-           }
+             background-color: transparent;   
+             object-fit: contain;        
+            }
            
            .modal {
              display: none; /* Hidden by default */
              align-items: center;
              position: fixed; /* Stay in place */
              z-index: 1; /* Sit on top */
-             padding-top: 100px; /* Location of the box */
+             padding-top: 200px; /* Location of the box */
              left: 0;
              top: 0;
              width: 100%; /* Full width */
              height: 100%; /* Full height */
-             overflow: auto; /* Enable scroll if needed */
+             overflow: none; /* Enable scroll if needed */
              background-color: rgb(0,0,0); /* Fallback color */
              background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
-           }
+             justify-content: center;                                       
+            }
            
-           
+           .modal-content {
+             background: none;
+             border: none;
+             box-shadow: none;
+             display: flex;
+             flex-directions: column;
+             align-items: center;
+            }
+
            .modal-content img {
              margin: auto;
-             object-fit: contain;
+             object-fit: scale-down;
              display: block;
              width: 50%;
              max-width: 700px;           /* horizontal center */
-           }
+             background-color: transparent;    
+            }
           
           .caption {
             color: #fff;
@@ -143,8 +156,7 @@
             color: #ccc;
           }
 
-
-            </style>
+          </style>
 
             <h3>What might this system be useful for: </h3>
             </br>

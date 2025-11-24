@@ -49,6 +49,11 @@
                         
                          <!-- 2025 publication -->     
 			<h3 class="news-header1" >
+                            <a target=_blank href="https://arxiv.org/abs/2506.01342"><font color="#216694">Propagation-Based Vulnerability Impact Assessment for Software Supply Chains</font></a></h3>
+ <p><font size="2px" color="#000000">• Bonan Ruan, Zhiwei Lin, Jiahao Liu, Chuqi Zhang, Kaihang Ji, and Zhenkai Liang&nbsp;&nbsp;&nbsp;• 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.</font></p>
+			<h3 class="news-header1" >
+
+			<h3 class="news-header1" >
                             <a target=_blank href="https://ieeexplore.ieee.org/abstract/document/11146805"><font color="#216694">WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features</font></a></h3>
  <p><font size="2px" color="#000000">• Jiajun Gong, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing, 2025.</font></p>
 			<h3 class="news-header1" >

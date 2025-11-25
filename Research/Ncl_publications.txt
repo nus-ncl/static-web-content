@@ -147,7 +147,7 @@
                         <h3 class="news-header1"><a href="https://dl.acm.org/doi/pdf/10.5555/3242181.3242564"><font color="#216694">Modeling the Effects of Insider Threats on Cybersecurity of Complex Systems</font></a></h3>
                         <p><font size="2px" color="#000000">• T. Baluta, L. Ramapantulu, Y.M. Teo and E.C. Chang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Winter Simulation Conference 2017</font></p>
 
-                        <h3 class="news-header1"><a href=""><font color="#216694">Enabling Practical Experimentation in Cyber-Security Training</font></a></h3>
+                        <h3 class="news-header1"><a href="https://ieeexplore.ieee.org/document/8073870"><font color="#216694">Enabling Practical Experimentation in Cyber-Security Training</font></a></h3>
                         <p><font size="2px" color="#000000">• J. Mao, Z.L. Chua, Z. Liang&nbsp;&nbsp;&nbsp;&nbsp;• (DSC’17, IEEE Conference, presented)</font></p>
 
                         <h3 class="news-header1"><a href="https://www.comp.nus.edu.sg/~hungdang/papers/STC.pdf"><font color="#216694">Privacy-preserving computation with trusted computing via Scramble-then-Compute</font></a></h3>

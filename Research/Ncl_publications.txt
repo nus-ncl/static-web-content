@@ -80,8 +80,7 @@
 
                          <!-- 2023 publication --> 
 			<h3 class="news-header1" >
-                            <a target=_blank href="https://ieeexplore.ieee.org/document/10333911/authors#authors
-"><font color="#216694">Representation Learning based Time Synchronization Attack Detection for Synchrophasors</font></a></h3>
+                            <a target=_blank href="https://ieeexplore.ieee.org/document/10333911/"><font color="#216694">Representation Learning based Time Synchronization Attack Detection for Synchrophasors</font></a></h3>
  <p><font size="2px" color="#000000">• Asif Iqbal, Muhammad Naveed Aman, and Biplab Sikdar&nbsp;&nbsp;&nbsp;• 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm).</font></p>
 
 			<h3 class="news-header1" >

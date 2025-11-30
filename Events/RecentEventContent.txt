@@ -11,6 +11,140 @@
                     <p></p>
                 </div>
             </div>
+
+<!-- CISS25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ciss 2025.png','ciss 2025','PNG')"/>
+        <img id="ciss 2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Critical Infrastructure Security Showdown 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The Critical Infrastructure Security Showdown (CISS) 2025 is a premier cyber exercise in Operational Technology (OT), held fully remotely.</p></li>
+                <li><p align="justify">Sponsored by the Cyber Security Agency of Singapore (CSA) and co-organised with the Digital and Intelligence Service (DIS), the 9th edition features a two-stage format—48-hour Qualifying CTF followed by a 4-hour Finals with live testbed access—hybrid OT platforms (physical testbeds and cyber twins), a mystery platform, live scoreboard, and no cap on teams per organisation (up to 8 participants per team). Cash prizes for the top three finalists are S$5,000, S$3,000, and S$2,000.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of CISS25 -->
+<!-- NJCO25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('NJCO 2025.png','NJCO 2025','PNG')"/>
+        <img id="NJCO 2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">National Junior Cybersecurity Olympiad 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The National Junior Cybersecurity Olympiad (NJCO) 2025 was held on 28 September 2025, bringing together around 600 participants from 21 countries for a 2-hour online contest across two sessions. Featuring 50 questions—a mix of Capture-The-Flag (CTF) challenges and multiple-choice questions (MCQs)—the Olympiad tested cybersecurity knowledge and practical skills.</p></li>
+                <li><p align="justify">Participants trained with pre-recorded videos from the National Cybersecurity R&D Lab (NCL) covering Cryptography, Networking, Red Teaming, and Forensics, collaborating with NUS Computing, the Singapore International Mastery Contests Centre (SIMCC), and the Centre for Nurturing Computing Excellence (NUS) for their collaboration and support.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of NJCO25 -->
+<!-- Govware25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Govware2025.png','Govware2025','PNG')"/>
+        <img id="Govware2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Govware 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">National Cybersecurity R&D Lab (NCL), NUS was at the Institute of Higher Learning booth to showcase our cloud services, cyber ranges, training programs, cyber exercises, CTFs, and ongoing projects.at GovWare 2025.</p></li>
+                <li><p align="justify">Held from 21–23 October at the Sands Expo and Convention Centre, GovWare is the region’s premier cybersecurity event, bringing together thought leaders, innovators, and practitioners.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of Govware25 -->
+<!-- CIDeX25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CIDex2025.png','CIDex2025','PNG')"/>
+        <img id="CIDex2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">CIDeX 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">CIDeX 2025, co-organised by the Cyber Security Agency of Singapore (CSA) and the Digital and Intelligence Service (DIS), brought together over 250 participants from 35 organisations—the largest exercise to date.</p></li>
+                <li><p align="justify">Featuring advanced, live IT–OT simulations across power, rail operations, and 5G networks, this year introduced AI-generated attack pathways to elevate realism and defensive challenge. The National Cybersecurity R&D Lab (NCL) supported the exercise with our Railway System testbed, enabling authentic rail-focused OT defence training and coordinated Blue Team response.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of CIDeX25 -->
+<!-- XS25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('xs2025.png','xs2025','PNG')"/>
+        <img id="xs2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Crossed Swords 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">This year’s Crossed Swords 2025 challenged teams with complex, real-world scenarios. The National Cybersecurity R&D Lab (NCL) contributed an airport runway light cyber twin, adding a safety-critical dimension to practice coordinated response and resilience under pressure.</p></li>
+                <li><p align="justify">Thank you to the community for the shared learning and professionalism that strengthen cyber defense year after year.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of XS25 -->
+<!-- CID25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('CID2025.png','CID2025','PNG')"/>
+        <img id="CID2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">CyberSG Innovation Day</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">The National Cybersecurity R&D Lab (NCL) was honoured to exhibit at CyberSG Innovation Day 2025.</p></li>
+                <li><p align="justify">We showcased our lab’s activities, services, and ongoing cybersecurity projects, and connected with partners and delegates from government, industry, and academia to exchange insights that drive future innovation.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of CID25 -->
+<!-- IES25 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('IES2025.png','IES2025','PNG')"/>
+        <img id="IES2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">IES Talk 2025</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">We recently hosted the “Engineering Resilience in OT Cybersecurity” seminar, underscoring the vital integration of engineering and cybersecurity in OT environments through strong collaboration with IES and OT-ISAC.</p></li>
+                <li><p align="justify">The National Cybersecurity R&D Lab (NCL) contributed expertise on cyber twins and joined discussions on advanced concepts like the Critical Control Execution Chain (CCEC).</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of IES25 -->
 <!-- ProfKazutakavisit25 -->
 <div class="col-sm-12">
     <div class="col-sm-4">

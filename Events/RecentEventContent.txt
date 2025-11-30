@@ -55,8 +55,8 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Govware2025.png','Govware2025','PNG')"/>
-        <img id="Govware2025" width="300" height="200" border="0" align="left"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Govware 2025.png','Govware 2025','PNG')"/>
+        <img id="Govware 2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Govware 2025</h3>

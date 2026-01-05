@@ -56,13 +56,6 @@
                         <p><b><font color="585656">Deputy Head of Technology</font></b> </p>
 	            </div>
                 </div>
-		
-        	<div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Arun Dasse</b></h8>
-                        <p><b><font color="585656">Assistant Manager</font></b> </p>
-                    </div>
-		  </div>
 
 	<div class="col-sm-6">
                     <div class="row">
@@ -88,13 +81,6 @@
 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Wei Wei</b></h8>
-                        <p><b><font color="585656">Software Engineer</font></b> </p>
-                    </div>
-                </div>
-
-<div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Charlene Tan</b></h8>
                         <p><b><font color="585656">Software Engineer</font></b> </p>
                     </div>
                 </div>

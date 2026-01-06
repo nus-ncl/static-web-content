@@ -10,6 +10,55 @@
             <div style="display: flex; justify-content: center; margin: 20px 0;">
                             <iframe width="800" height="450" src="https://www.youtube.com/embed/Qr9SKYPN8l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
+            <!-- Technical Walkthrough & Demonstrations -->
+            <br/>
+            <h3 style="text-align:center; color:#0d6dba;">Technical Walkthrough & Demonstrations</h3>
+            
+            <p style="text-align:center; max-width:900px; margin: 0 auto 20px auto;">
+            The following videos provide an in-depth walkthrough of the NCL Land-based Railway Cyber Twin, 
+            covering system architecture, operational logic, and simulated cyber attack scenarios. 
+            These materials are intended to support deeper technical understanding of the railway testbed.
+            </p>
+            
+            <div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-bottom:40px;">
+            
+              <!-- Part 1 -->
+              <div style="text-align:center;">
+                <iframe width="360" height="202"
+                  src="https://www.youtube.com/embed/6Wkpz0yOotc"
+                  title="Railway Cyber Twin Training Part I"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen>
+                </iframe>
+                <p><strong>Training Part I</strong><br/>System Architecture & Foundations</p>
+              </div>
+            
+              <!-- Part 2 -->
+              <div style="text-align:center;">
+                <iframe width="360" height="202"
+                  src="https://www.youtube.com/embed/EUmxzmd_WF8"
+                  title="Railway Cyber Twin Training Part II"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen>
+                </iframe>
+                <p><strong>Training Part II</strong><br/>Control Logic & System Interaction</p>
+              </div>
+            
+              <!-- Attack Workshop -->
+              <div style="text-align:center;">
+                <iframe width="360" height="202"
+                  src="https://www.youtube.com/embed/Schwcr8NVrI"
+                  title="Railway Cyber Twin Attack Workshop"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen>
+                </iframe>
+                <p><strong>Attack Workshop</strong><br/>MITM & Modbus Attack Demonstration</p>
+              </div>
+            
+            </div>
             <p>Our idea on creating a digital version of the railway system simulation platform, designed to replicate the operation of multiple trains traversing distinct tracks, each equipped with unique sensor-signal controls. This platform is intended to serve as a valuable resource for cybersecurity researchers, enabling them to demonstrate and assess the impact of various types of IT attacks on operational technology (OT) systems. The platform comprises six primary components (programs):</p>
             
             <br/>

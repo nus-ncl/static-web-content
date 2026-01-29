@@ -416,6 +416,11 @@
                       <h5><strong>Price* (S$/Man-Day)</strong></h5>
                     </p>
                   </th>
+                  <th width=“15%”>
+                    <p>
+                      <h5><strong>Price* (S$/Man-Hour)</strong></h5>
+                    </p>
+                  </th>
 		</thead>
 
                 <tr BGCOLOR="#fff">
@@ -425,6 +430,9 @@
                   <td>
                     <div align="center">2,000</div>
                   </td>
+                  <td>
+                    <div align="center">350</div>
+                  </td>
 		</tr>
 
                 <tr BGCOLOR="#fff">
@@ -433,6 +441,9 @@
                   </th>
                   <td>
                     <div align="center">2,500</div>
+                  </td>
+                  <td>
+                    <div align="center">400</div>
                   </td>
 		</tr>
 

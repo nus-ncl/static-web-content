@@ -87,7 +87,7 @@
 
 <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Foo Shi Wan</b></h8>
+                        <h8><b>Chin Jia Yi</b></h8>
                         <p><b><font color="585656">Software Engineer</font></b> </p>
                     </div>
                 </div>

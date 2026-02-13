@@ -282,6 +282,48 @@
                   </td>
                 </tr>
 
+              <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5><strong><a href="testbedInformation.html#H100">H100</a></strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">4</div>
+                  </td>
+                  <td>
+                    <div align="center">80/96</div>
+                  </td>
+                  <td>
+                    <div align="center">3840</div>
+                  </td>
+                  <td>
+                    <div align="center">16</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>1180</strong></div>
+                  </td>
+                </tr>
+
+              <tr BGCOLOR="#fff">
+                  <th BGCOLOR="#E0E0E0">
+                    <h5><strong><a href="testbedInformation.html#H200">H200</a></strong></h5>
+                  </th>
+                  <td>
+                    <div align="center">4</div>
+                  </td>
+                  <td>
+                    <div align="center">141</div>
+                  </td>
+                  <td>
+                    <div align="center">3840 + 15360</div>
+                  </td>
+                  <td>
+                    <div align="center">16</div>
+                  </td>
+                  <td>
+                    <div align="center"><strong>2400</strong></div>
+                  </td>
+                </tr>
+
                 <tr BGCOLOR="#fff">
                   <th BGCOLOR="#E0E0E0">
                     <h5 onclick="myFunction('mrt')"><strong>A40</strong></h5>
@@ -351,7 +393,7 @@
                     <div align="center">8</div>
                   </td>
                   <td>
-                    <div align="center"><strong>250</strong></div>
+                    <div align="center"><strong>175</strong></div>
                   </td>
                 </tr>
 

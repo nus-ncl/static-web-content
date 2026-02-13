@@ -94,6 +94,13 @@
 
 <div class="col-sm-6">
                     <div class="row">
+                        <h8><b>Jonathan Yeo</b></h8>
+                        <p><b><font color="585656">Assistant Manager</font></b> </p>
+                    </div>
+                </div>
+
+<div class="col-sm-6">
+                    <div class="row">
                         <h8><b>Gonzales Raizel</b></h8>
                         <p><b><font color="585656">Senior Executive</font></b> </p>
 	            </div>

@@ -48,6 +48,10 @@
                         <h7><b>NCL Publications</b></h7>
                         
                          <!-- 2026 publication -->  
+			<h3 class="news-header1" >
+                            <a target=_blank href="https://arxiv.org/abs/2412.11471"><font color="#216694"> TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning</font></a></h3>
+ <p><font size="2px" color="#000000">• Siyuan Liang, Jiajun Gong, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, Ee-Chien Chang&nbsp;&nbsp;&nbsp;• IEEE Transactions on Information Forensics & Security (IEEE TIFS), 2026.</font></p>
+			<h3 class="news-header1" >
 
                          <!-- 2025 publication -->   
 			<h3 class="news-header1" >

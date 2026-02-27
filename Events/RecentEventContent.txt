@@ -20,9 +20,7 @@
         <img id="Visit_NCSC_NSRI" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Visit from NCSC & NSRI of South Korea.
-
-</h3>
+        <h3 class="news-header">Visit from NCSC & NSRI of South Korea</h3>
         <div class="row">
             <ul>
                 <li><p align="justify">On 14 February 2026, the National Cybersecurity R&D Lab (NCL) had the honour of hosting Officer Linda Park from the National Cyber Security Center (NCSC) and Researcher June Jee Woo from the National Security Research Institute (NSRI) of South Korea for an official visit. NCL presented various testbeds to the visitors and discussed potential future collaboration.</p></li>

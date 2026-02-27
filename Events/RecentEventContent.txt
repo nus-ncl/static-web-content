@@ -11,6 +11,27 @@
                     <p></p>
                 </div>
             </div>
+<!-- Visit from NCSC & NSRI of South Korea -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('IES2025.png','IES2025','PNG')"/>
+        <img id="IES2025" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Visit from NCSC (National Cyber Security Center) & NSRI (National Security Research Institute) of South Korea.
+
+</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">On 14 February 2026, the National Cybersecurity R&D Lab (NCL) had the honour of hosting Officer Linda Park from the National Cyber Security Center (NCSC) and Researcher June Jee Woo from the National Security Research Institute (NSRI) of South Korea for an official visit. NCL presented various testbeds to the visitors and discussed potential future collaboration.</p></li>
+                <li><p align="justify">A key highlight was the demonstration of the latest Aviation Runway Lights Management Simulation System — a compact cyber twin platform that simulates programmable logic controller (PLC)-based operations of a Category II airport precision instrument runway lighting control system. The simulation system provided valuable technical insights into how NCL’s cyber twin technologies can mimic critical infrastructure operational environments for research, cyber training and validation.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of Visit from NCSC & NSRI of South Korea -->
 <!-- IES25 -->
 <div class="col-sm-12">
     <div class="col-sm-4">

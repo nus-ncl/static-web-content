@@ -30,6 +30,25 @@
     </div>
 </div>
 <!-- End of Visit from NCSC & NSRI of South Korea -->
+<!-- Greyacademy 2026 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('Greycademy2026.png','Greycademy2026','PNG')"/>
+        <img id="Greycademy2026" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Greycademy 2026</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">NUS Greyhats hosted Greycademy 2026 at NUS School of Computing in collaboration with the Cyber Security Agency of Singapore (CSA)’s Advanced Youth Cyber Exploration Programme (A.YCEP), with support from partners including the CyberSG TIG Collaboration Centre and NCL.</p></li>
+                <li><p align="justify">The bootcamp featured intensive workshops, hands-on training, and online practice sessions to help tertiary students strengthen their cybersecurity skills across web exploitation, reverse engineering, operating systems/pwn, and digital forensics. Participants completed 78 Capture-The-Flag challenges, capturing 3,526 flags, with 60 advancing to the finals.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of Greyacademy 2026 -->
 <!-- IES25 -->
 <div class="col-sm-12">
     <div class="col-sm-4">

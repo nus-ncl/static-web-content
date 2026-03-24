@@ -11,6 +11,25 @@
                     <p></p>
                 </div>
             </div>
+<!-- Visit from CyberSG Talent, Innovation and Growth (TIG) -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('TIG visit.jpg','TIG visit','JPG')"/>
+        <img id="TIG Visit" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Visit from CyberSG Talent, Innovation and Growth (TIG)</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">We were pleased to welcome CyberSG Talent, Innovation and Growth (TIG) to the National Cybersecurity R&D Lab (NCL) on 19 March. The visit included an introduction to NCL’s cyber range capabilities and cybersecurity compute infrastructure, followed by a valuable exchange on how the ecosystem can further raise awareness of OT/ICS cybersecurity.</p></li>
+                <li><p align="justify">It was an encouraging discussion on the role of shared national platforms in advancing cybersecurity research, innovation, and capability development in Singapore.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of Visit from CyberSG Talent, Innovation and Growth (TIG) -->
 <!-- Visit from NCSC & NSRI of South Korea -->
 <div class="col-sm-12">
     <div class="col-sm-4">

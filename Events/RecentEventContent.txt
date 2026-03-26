@@ -16,8 +16,8 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('tig_visit.png','TIG visit','PNG')"/>
-        <img id="TIG Visit" width="300" height="200" border="0" align="left"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('tig_visit.png','tig_visit','PNG')"/>
+        <img id="TIG_Visit" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Visit from CyberSG Talent, Innovation and Growth (TIG)</h3>

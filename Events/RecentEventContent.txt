@@ -23,7 +23,7 @@
         <h3 class="news-header">Visit from CyberSG Talent, Innovation and Growth (TIG)</h3>
         <div class="row">
             <ul>
-                <li><p align="justify">We were pleased to welcome CyberSG Talent, Innovation and Growth (TIG) to the National Cybersecurity R&D Lab (NCL) on 19 March. The visit included an introduction to NCL’s cyber range capabilities and cybersecurity compute infrastructure, followed by a valuable exchange on how the ecosystem can further raise awareness of OT/ICS cybersecurity.</p></li>
+                <li><p align="justify">We were please to welcome CyberSG Talent, Innovation and Growth (TIG) to the National Cybersecurity R&D Lab (NCL) on 19 March. The visit included an introduction to NCL’s cyber range capabilities and cybersecurity compute infrastructure, followed by a valuable exchange on how the ecosystem can further raise awareness of OT/ICS cybersecurity.</p></li>
                 <li><p align="justify">It was an encouraging discussion on the role of shared national platforms in advancing cybersecurity research, innovation, and capability development in Singapore.</p></li>
             </ul>
         </div>

@@ -11,6 +11,26 @@
                     <p></p>
                 </div>
             </div>
+<!-- LS26 -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('LS26.jpeg','LS26','jpeg')"/>
+        <img id="LS26" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">Locked Shields 2026</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">This year’s Locked Shields 2026 brought together over 4,000 participants from 41 nations, challenging multinational teams with real-time cyberattacks and complex scenarios spanning digital forensics, national-level decision-making, international law, and strategic communications.</p></li>
+                <li><p align="justify">As part of the DFIR development team, NCL developed a set of evidence and CTF questions featuring NCL’s Airport Runway Lights Management System.</p></li>
+                <li><p align="justify">We thank the global community of participants, organisers, and partners for the shared effort and collaboration that continue to strengthen trust and resilience in cyberspace.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of LS26 -->
 <!-- Visit from CyberSG Talent, Innovation and Growth (TIG) -->
 <div class="col-sm-12">
     <div class="col-sm-4">

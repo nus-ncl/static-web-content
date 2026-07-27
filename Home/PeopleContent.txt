@@ -87,6 +87,13 @@
 
 <div class="col-sm-6">
                     <div class="row">
+                        <h8><b>Luo Jia Le</b></h8>
+                        <p><b><font color="585656">Software Engineer</font></b> </p>
+                    </div>
+                </div>
+
+<div class="col-sm-6">
+                    <div class="row">
                         <h8><b>Jonathan Yeo</b></h8>
                         <p><b><font color="585656">Assistant Manager</font></b> </p>
                     </div>

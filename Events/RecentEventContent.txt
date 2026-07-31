@@ -11,6 +11,26 @@
                     <p></p>
                 </div>
             </div>
+<!-- 7th Siebersec CTF -->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('7thSieberrsec.jpg','7thSieberrsec','jpg')"/>
+        <img id="7thSieberrsec" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">7th Sieberrsec CTF 2026</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">On the 24th of June 2026, NCL supported the 7th Sieberrsec CTF finale at NUS COM3 MPH, bringing together top youth talent to solve 39 hands-on challenges.</p></li>
+                <li><p align="justify">The competition drew 709 total participants (362 teams), including local secondary (98 students; 39 teams) and pre-university (245 students; 90 teams) alongside a strong 366-person open division.</p></li>
+                <li><p align="justify">The competition concluded with 80 students across 20 teams present at the NUS COM3 MPH finale supported by NCL.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of 7th Siebersec CTF -->
 <!-- LS26 -->
 <div class="col-sm-12">
     <div class="col-sm-4">

@@ -36,8 +36,8 @@
     <div class="col-sm-4">
         <p></p>
         <p></p>
-        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ICS/OT2026.jpg','ICS/OT2026','jpg')"/>
-        <img id="ICS/OT2026" width="300" height="200" border="0" align="left"/>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('ICSOT2026.jpg','ICSOT2026','jpg')"/>
+        <img id="ICSOT2026" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Introduction to ICS/OT Security session</h3>

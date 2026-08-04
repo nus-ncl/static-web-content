@@ -11,6 +11,26 @@
                     <p></p>
                 </div>
             </div>
+<!-- GreyCTF 2026-->
+<div class="col-sm-12">
+    <div class="col-sm-4">
+        <p></p>
+        <p></p>
+        <img src="images/MOU_UTB_NCL.jpg" style="display: none" onload="loadImage('GreyCTF 2026.jpg','GreyCTF 2026','jpg')"/>
+        <img id="GreyCTF 2026" width="300" height="200" border="0" align="left"/>
+    </div>
+    <div class="col-sm-8">
+        <h3 class="news-header">GreyCTF 2026</h3>
+        <div class="row">
+            <ul>
+                <li><p align="justify">GreyCTF 2026, an annual Capture The Flag competition, was held on June 27–28 2026.</p></li>
+                <li><p align="justify">Organised by NUS Greyhats and supported by the National Cybersecurity R&D Laboratory (NCL), GreyCTF 2026 featured two categories: Local and International.</p></li>
+                <li><p align="justify">The onsite finals brought together 77 participants from the top 20 qualifying teams, comprising of 10 Local teams and 10 International teams.</p></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End of GreyCTF 2026 -->
 <!-- 7th Siebersec CTF -->
 <div class="col-sm-12">
     <div class="col-sm-4">

@@ -60,9 +60,7 @@
         <img id="ICSOT2026" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Introduction to ICS/OT Security session</h3>
-
-        <h3 class="news-header1"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7449629074895052800/"><font color="#216694">Introduction to ICS/OT Security session</font> </a></h3>
+        <h3 class="news-header"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7449629074895052800/"><font color="#216694">Introduction to ICS/OT Security session</font> </a></h3>
 
         <div class="row">
             <ul>

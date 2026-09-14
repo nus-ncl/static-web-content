@@ -81,7 +81,7 @@
         <img id="LS26" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Locked Shields 2026</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7452520577304535041/><font color="#216694">Locked Shields 2026</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">This year’s Locked Shields 2026 brought together over 4,000 participants from 41 nations, challenging multinational teams with real-time cyberattacks and complex scenarios spanning digital forensics, national-level decision-making, international law, and strategic communications.</p></li>
@@ -101,7 +101,7 @@
         <img id="tig_visit" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Visit from CyberSG Talent, Innovation and Growth (TIG)</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7442130367899222017><font color="#216694">Visit from CyberSG Talent, Innovation and Growth (TIG)</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">We were please to welcome CyberSG Talent, Innovation and Growth (TIG) to the National Cybersecurity R&D Lab (NCL) on 19 March. The visit included an introduction to NCL’s cyber range capabilities and cybersecurity compute infrastructure, followed by a valuable exchange on how the ecosystem can further raise awareness of OT/ICS cybersecurity.</p></li>
@@ -120,7 +120,7 @@
         <img id="Visit_NCSC_NSRI" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Visit from NCSC & NSRI of South Korea</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7434143662462287872/><font color="#216694">Visit from NCSC & NSRI of South Korea</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">On 14 February 2026, the National Cybersecurity R&D Lab (NCL) had the honour of hosting Officer Linda Park from the National Cyber Security Center (NCSC) and Researcher June Jee Woo from the National Security Research Institute (NSRI) of South Korea for an official visit. NCL presented various testbeds to the visitors and discussed potential future collaboration.</p></li>
@@ -139,7 +139,7 @@
         <img id="Greycademy2026" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Greycademy 2026</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7430167349217017856><font color="#216694">Greycademy 2026</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">NUS Greyhats hosted Greycademy 2026 at NUS School of Computing in collaboration with the Cyber Security Agency of Singapore (CSA)’s Advanced Youth Cyber Exploration Programme (A.YCEP), with support from partners including the CyberSG TIG Collaboration Centre and NCL.</p></li>
@@ -158,7 +158,7 @@
         <img id="IES2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">IES Talk 2025</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7396747313483870208<font color="#216694">IES Talk 2025</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">We recently hosted the “Engineering Resilience in OT Cybersecurity” seminar, underscoring the vital integration of engineering and cybersecurity in OT environments through strong collaboration with IES and OT-ISAC.</p></li>
@@ -177,7 +177,7 @@
         <img id="Cyberinnoday2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">CyberSG Innovation Day</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7396745448570515456<font color="#216694">CyberSG Innovation Day</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">The National Cybersecurity R&D Lab (NCL) was honoured to exhibit at CyberSG Innovation Day 2025.</p></li>
@@ -196,7 +196,7 @@
         <img id="xs2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Crossed Swords 2025</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7394642154599424000<font color="#216694">Crossed Swords 2025</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">This year’s Crossed Swords 2025 challenged teams with complex, real-world scenarios. The National Cybersecurity R&D Lab (NCL) contributed an airport runway light cyber twin, adding a safety-critical dimension to practice coordinated response and resilience under pressure.</p></li>
@@ -215,7 +215,7 @@
         <img id="CIDex2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">CIDeX 2025</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7396116616633147392<font color="#216694">CIDeX 2025</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">CIDeX 2025, co-organised by the Cyber Security Agency of Singapore (CSA) and the Digital and Intelligence Service (DIS), brought together over 250 participants from 35 organisations—the largest exercise to date.</p></li>
@@ -234,7 +234,7 @@
         <img id="Govware 2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Govware 2025</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7386951418345185280<font color="#216694">Govware 2025</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">National Cybersecurity R&D Lab (NCL), NUS was at the Institute of Higher Learning booth to showcase our cloud services, cyber ranges, training programs, cyber exercises, CTFs, and ongoing projects.at GovWare 2025.</p></li>
@@ -253,7 +253,7 @@
         <img id="NJCO 2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">National Junior Cybersecurity Olympiad 2025</h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7381978326149681152<font color="#216694">National Junior Cybersecurity Olympiad 2025</font> </a></h3>
         <div class="row">
             <ul>
                 <li><p align="justify">The National Junior Cybersecurity Olympiad (NJCO) 2025 was held on 28 September 2025, bringing together around 600 participants from 21 countries for a 2-hour online contest across two sessions. Featuring 50 questions—a mix of Capture-The-Flag (CTF) challenges and multiple-choice questions (MCQs)—the Olympiad tested cybersecurity knowledge and practical skills.</p></li>
@@ -272,7 +272,9 @@
         <img id="ciss 2025" width="300" height="200" border="0" align="left"/>
     </div>
     <div class="col-sm-8">
-        <h3 class="news-header">Critical Infrastructure Security Showdown 2025</h3>
+        <h3 class="news-header"></h3>
+        <h3 class="news-header"><a href=https://www.linkedin.com/feed/update/urn:li:activity:7379046906372612096<font color="#216694">Critical Infrastructure Security Showdown 2025</font> </a></h3>
+
         <div class="row">
             <ul>
                 <li><p align="justify">The Critical Infrastructure Security Showdown (CISS) 2025 is a premier cyber exercise in Operational Technology (OT), held fully remotely.</p></li>

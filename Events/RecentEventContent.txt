@@ -61,6 +61,9 @@
     </div>
     <div class="col-sm-8">
         <h3 class="news-header">Introduction to ICS/OT Security session</h3>
+
+        <h3 class="news-header1"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7449629074895052800/"><font color="#216694">Introduction to ICS/OT Security session</font> </a></h3>
+
         <div class="row">
             <ul>
                 <li><p align="justify">NCL was pleased to deliver an Introduction to ICS/OT Security session for the NUS CS4238 class workshop on 13 April 2026, presented by Lam YongXian.</p></li>

@@ -14,26 +14,7 @@
 	
                     <!-- Section for mention in news articles,media and other publication -->
                     <div class="row" >
-                        <h7><b>NCL in News</b></h7>
 
-                        <h3 class="news-header1"><a href="https://easishare.com/blogs/securing-easishare-with-national-cybersecurity-rd-laboratories-ncl-singapore/"><font color="#216694">Securing EasiShare with NCL Singapore</font> </a></h3>
-                        
-                        <h3 class="news-header1"><a href="https://www.comp.nus.edu.sg/news-media/2021-new-partnership-cybersecurity-utb-ncl/"><font color="#216694">New partnership boosts cybersecurity expertise</font> </a></h3>
-
-                        <h3 class="news-header1"><a href="https://2020.apricot.net/program/schedule/#/day/9/first-tc-1"><font color="#216694">Building Environment for Cybersecurity Awareness: CDX Use Case</font></a></h3>
-
-                        <h3 class="news-header1"><a href="https://adsc.illinois.edu/news/smart-grid-honeypots-offer-effective-way-study-attacks-industrial-control-systems"><font color="#216694">Smart grid honeypots offer effective way to study attacks on industrial control systems</font></a></h3>
-
-<h3 class="news-header1"><a href="https://adsc.illinois.edu/news/smart-grid-honeypots-offer-effective-way-study-attacks-industrial-control-systems"><font color="#216694">Smart grid honeypots offer effective way to study attacks on industrial control systems</font></a></h3>
-
-                        <h3 class="news-header1"><a href="https://ncl.sg/recent_events"><font color="#216694">More...</font></a></h3>
-
-                    </div>
-                </div>
-
-                <div class="col-sm-6">
-                   <img src="images/research12.jpg" alt="" width="550"  height="200" border="0" align="left" style="object-fit:cover;"/>
-                </div>
             </div>  <!-- part 1 ends-->
 
             <br></br>

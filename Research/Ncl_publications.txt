@@ -177,15 +177,15 @@
 </div>
 
 <style>
-#NclPublications .news-header1,
-#NclPublications .news-header1 a {
-    text-align: left !important;
-    word-spacing: normal !important;
-    letter-spacing: normal !important;
+#NclPublications .col-sm-11 {
+    width: 100% !important;
 }
 
+#NclPublications .news-header1,
+#NclPublications .news-header1 a,
 #NclPublications p {
     text-align: left !important;
     word-spacing: normal !important;
+    letter-spacing: normal !important;
 }
 </style>

@@ -175,3 +175,28 @@
         </div>
     </section>
 </div>
+
+<style>
+#NclPublications .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#NclPublications .col-sm-11 {
+    width: 100%;
+}
+
+#NclPublications .news-header1 {
+    text-align: left;
+}
+
+#NclPublications .news-header1 a {
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+#NclPublications p {
+    text-align: left;
+}
+</style>

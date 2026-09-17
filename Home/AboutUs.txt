@@ -13,7 +13,7 @@
         </p>
         <div class="col-sm-12">
             <!-- Large GIF cannot use loadImage -->
-            <img src="images/aviation-simulation-animated.gif" class="img-responsive" />
+            <img src="images/aviation-simulation.jpg" class="img-responsive" />
         </div>
         <p>&nbsp;</p>
         <p>

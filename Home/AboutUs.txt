@@ -12,7 +12,8 @@
 NCL provides comprehensive security and performance testing for local AI agents and AI/LLM-based services, with isolated testing of individual components and their interactions, the main 5 types of services include:  
         </p>
         <div class="col-sm-12">
-            <img src="images/aiagent.png" class="img-responsive" />
+          <img src="images/aiagent.png" style="display: none" onload="loadImage('aiagent.png', 'aiagent1', 'PNG')">
+          <img id="aiagent1" alt="" style="display: block; object-fit: cover; border: 0; float: left;">
         </div>
     </div>
     <br />

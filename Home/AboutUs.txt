@@ -6,6 +6,18 @@
     <p>&nbsp;</p>
     <div class="row"><!--/#coming-soon-->
         <h2 class="news-header">
+            <font color="#0d6dba">AI Agents and AI/LLM-based Services</font>
+        </h2>
+        <p>
+NCL provides comprehensive security and performance testing for local AI agents and AI/LLM-based services, with isolated testing of individual components and their interactions, the main 5 types of services include:  
+        </p>
+        <div class="col-sm-12">
+            <img src="images/aiagent.png" class="img-responsive" />
+        </div>
+    </div>
+    <br />
+    <div class="row"><!--/#coming-soon-->
+        <h2 class="news-header">
             <font color="#0d6dba">Our Latest Cyber Twin - Aviation CAT-II Airport Simulator</font>
         </h2>
         <p>

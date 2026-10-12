@@ -30,10 +30,10 @@ NCL provides comprehensive security and performance testing for local AI agents 
         </div>
         <p>&nbsp;</p>
         <p>
-            This innovative platform replicates the operational dynamics of a Category II airport runway, integrating three critical SCADA systems runway lighting, radar, and VHF radio communication to provide a robust environment for analyzing cyber threats.
-        </p>
-        <p>
-            The design aligns with FAA and ICAO standards, and offers a scalable, cost effective cybersecurity training solution for research institutions and organizations. Do look forward to forthcoming enhancements, including advanced radar echo simulation, in upcoming releases, further strengthening its capabilities for transformative cybersecurity training. Stay tuned!
+ #            This innovative platform replicates the operational dynamics of a Category II airport runway, integrating three critical SCADA systems runway lighting, radar, and VHF radio communication to provide a robust environment for analyzing cyber threats.
+ #        </p>
+ #        <p>
+ #           The design aligns with FAA and ICAO standards, and offers a scalable, cost effective cybersecurity training solution for research institutions and organizations. Do look forward to forthcoming enhancements, including advanced radar echo simulation, in upcoming releases, further strengthening its capabilities for transformative cybersecurity training. Stay tuned!
         </p>
     </div>
     <br />

@@ -128,9 +128,12 @@
 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Mr OH YICONG</b></h8>
-                        <p><b><font color="585656"> MINDEF </font></b> </p>
+                        <p><b><font color="585656">Researcher</font></b> </p>
+                        <p>OT Networks | ICS | Pen Test</p>
                     </div>
                 </div>
+
+            </div>
 
                 <div class="col-sm-6">
                     <div class="row">

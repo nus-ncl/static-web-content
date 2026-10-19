@@ -125,6 +125,16 @@
                 </div>
             </div>
 
+<div class="row">
+                <h2 class="team-heading team-heading-current-team1"><b>Visiting Researchers and Scientists</b></h2>
+                <div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Mr OH YICONG</b></h8>
+                        <p><b><font color="585656">Visiting Scientist</font></b> </p>
+                    </div>
+                </div>
+            </div>
+
             <div class="row">
                 <h2 class="team-heading team-heading-current-team1"><b>Past Researchers &amp; PhD Students</b></h2>
                 <div class="col-sm-6">

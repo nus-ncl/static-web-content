@@ -135,14 +135,10 @@
                 </div>
             </div>
 
-            <div class="row">
-                <h2 class="team-heading team-heading-current-team1"><b>Past Researchers &amp; PhD Students</b></h2>
-                <div class="col-sm-6">
+            <div class="col-sm-6">
                     <div class="row">
-                        <h8><b>Chua Zheng Leong</b></h8>
-                        <p><b><font color="585656">Research Assistant</font></b> </p>
-                        <p>Systems Security | Software Testing | Binary Analysis</p>
-
+                        <h8><b>Mr OH YICONG</b></h8>
+                        <p><b><font color="585656"> MINDEF </font></b> </p>
                     </div>
                 </div>
 

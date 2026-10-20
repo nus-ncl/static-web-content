@@ -125,7 +125,7 @@
                     <div class="row">
                         <h8><b>Mr OH YICONG</b></h8>
                         <p><b><font color="585656">Researcher</font></b></p>
-                        <p>OT Networks | ICS | Pen Test</p>
+                        <p>Enterprise Security | Cyber Threat Investigator</p>
                     </div>
                 </div>
             </div>
